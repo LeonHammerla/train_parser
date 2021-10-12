@@ -7,7 +7,7 @@ text = [['Zuletzt', 'war', 'er', 'Präsident', 'des', 'Reichshofrates', '.'],
         ['Im', 'Jahr', '1941', 'starb', 'seine', 'Frau', 'Kathleen', '.']]
 
 directory = "/home/stud_homes/s5935481/work3/models/"
-models_names = ['biaffine_dep_de', 'biaffine_dep_gbert_de', 'biaffine_dep_roberta_de', 'crf_dep_de']
+models_names = ['biaffine_dep_de', 'biaffine_dep_gbert_de', 'biaffine_dep_roberta_de', 'crf_dep_de', 'crf2o_dep_de']
 
 results = dict()
 for name in tqdm(models_names):
