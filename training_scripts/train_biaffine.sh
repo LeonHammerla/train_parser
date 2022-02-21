@@ -1,2 +1,8 @@
-/home/stud_homes/s5935481/work3/venv/bin/python3.8 -m supar.cmds.biaffine_dep train --train /home/stud_homes/s5935481/work3/data/de_hdt-ud-train-ful.conllu --dev /home/stud_homes/s5935481/work3/data/de_hdt-ud-dev.conllu --test /home/stud_homes/s5935481/work3/data/de_hdt-ud-test.conllu --embed /home/stud_homes/s5935481/work3/data/embeddings/lemma_kom_clean.txt --n-embed 100 -b -d 0 -p /home/stud_homes/s5935481/work3/models/biaffine_dep_de -f char -c /home/stud_homes/s5935481/work3/data/configs/ptb.biaffine.dep.lstm.char.ini
+
+
+# hdt
+#/home/stud_homes/s5935481/work3/venv/bin/python3.8 -m supar.cmds.biaffine_dep train --train /home/stud_homes/s5935481/work3/data/de_hdt-ud-train-ful.conllu --dev /home/stud_homes/s5935481/work3/data/de_hdt-ud-dev.conllu --test /home/stud_homes/s5935481/work3/data/de_hdt-ud-test.conllu --embed /home/stud_homes/s5935481/work3/data/embeddings/lemma_kom_clean.txt --n-embed 100 -b -d 0 -p /home/stud_homes/s5935481/work3/models/biaffine_dep_de -f char -c /home/stud_homes/s5935481/work3/data/configs/ptb.biaffine.dep.lstm.char.ini
+
+# gsd
+/home/stud_homes/s5935481/work3/venv/bin/python3.8 -m supar.cmds.biaffine_dep train --train /home/stud_homes/s5935481/work3/data/de_gsd-ud-train.conllu --dev /home/stud_homes/s5935481/work3/data/de_gsd-ud-dev.conllu --test /home/stud_homes/s5935481/work3/data/de_gsd-ud-test.conllu --embed /home/stud_homes/s5935481/work3/data/embeddings/lemma_kom_clean.txt --n-embed 100 -b -d 0 -p /home/stud_homes/s5935481/work3/models/biaffine_dep_de_gsd -f char -c /home/stud_homes/s5935481/work3/data/configs/ptb.biaffine.dep.lstm.char.ini
 
