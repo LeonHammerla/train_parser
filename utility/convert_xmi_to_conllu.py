@@ -32,14 +32,17 @@ def create_conllu_files_for_data():
     typesystem = load_typesystem_from_path(os.path.join(ROOT_DIR, "data/TypeSystem.xml"))
     # --> Different directories:
     dirs = ["27294", "27329", "27624", "28451"]
+    ids = ["tiger", "ud", "ud", "tiger"]
     # --> Finding all Paths:
     paths_for_corpora = find_all_caspaths_per_corpus(dirs)
     # --> Main-Loop for all corpora extracting and saving:
     for corpus_idx in range(0, len(paths_for_corpora)):
+        sent_id = 0
         tokenlists = []
         # --> Collecting all Lists of Tokenlists for each xmi-path:
         for file_path in paths_for_corpora[corpus_idx]:
-            tokenlists.extend(extract_cas_information(file_path, typesystem))
+            res, sent_id = extract_cas_information(ids[corpus_idx], file_path, typesystem, sent_id)
+            tokenlists.extend(res)
         # --> Saving as whole conllu file:
         with open(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}.conllu"), "w") as f:
             for compiled_sentence in tokenlists:
@@ -64,12 +67,15 @@ def find_all_caspaths_per_corpus(dirs: List[str]) -> Tuple[List[str], ...]:
     return tuple(path_list)
 
 
-def extract_cas_information(caspath: str,
-                            typesystem: cassis.TypeSystem) -> Optional[List[TokenList]]:
+def extract_cas_information(corpus_id: str,
+                            caspath: str,
+                            typesystem: cassis.TypeSystem,
+                            sent_id: int = 0) -> Tuple[Optional[List[TokenList]], int]:
     """
     Function returns a list of TokenLists. Every TokenList is one sentence from the cas
     object.
 
+    :param sent_id:
     :param caspath:
     :param typesystem:
     :return:
@@ -88,7 +94,7 @@ def extract_cas_information(caspath: str,
         # --> Selecting sentences:
         sentences = select_sentences_from_cas(view)
         # --> Collecting all Information needed for each Sentence:
-        c = 0
+        c = sent_id
         for sentence in sentences:
             try:
                 # --> Tokens:
@@ -106,27 +112,37 @@ def extract_cas_information(caspath: str,
                             dependencies.append(dep)
                             break
                 # --> Part of Speech:
-                pos = select_pos_from_tokenlist(cas=view,
-                                                tokens=token)
+                try:
+                    pos = select_pos_from_tokenlist(cas=view,
+                                                    tokens=token)
+                    # --> Morphological Annotation:
+                    upos = [p["coarseValue"] for p in pos]
+                    xpos = [p["PosValue"] for p in pos]
+                except:
+                    pos = ["_" for pp in token]
+                    # --> Morphological Annotation:
+                    upos = ["_" for p in pos]
+                    xpos = ["_" for p in pos]
                 # --> Metadata:
                 text = sentence.get_covered_text().strip()
                 sent_id = c
-                # --> Morphological Annotation:
-                upos = [p["coarseValue"] for p in pos]
-                xpos = [p["PosValue"].strip("$") for p in pos]
                 # --> Syntactic Annotation:
                 heads = []
                 deprels = []
                 for dep in dependencies:
                     deprel = dep["DependencyType"]
                     if deprel == "--":
-                        deprels.append("root")
+                        if corpus_id == "tiger":
+                            deprels.append("--")
+                        else:
+                            deprels.append("root")
                         heads.append(0)
                     else:
-                        deprels.append(deprel.lower())
+                        #if corpus_id != "tiger":
+                        deprels.append(deprel)
                         heads.append(token_index_identifier.index((dep["Governor"]["begin"], dep["Governor"]["end"])) + 1)
                 # --> Checking if everything makes sense, else sent gets discarded:
-                if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token):
+                if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) and text != "":
                     c += 1
                     keep = True
                 else:
@@ -154,7 +170,7 @@ def extract_cas_information(caspath: str,
             except Exception as e:
                 print(e, caspath)
 
-        return cas_tokenlist_list
+        return cas_tokenlist_list, c
 
 
 
