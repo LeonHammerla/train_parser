@@ -1,0 +1,18 @@
+2022-02-22 13:16:34 INFO Loading the data
+2022-02-22 13:16:34 INFO 
+Dataset(n_sentences=163, n_batches=8, n_buckets=8)
+2022-02-22 13:16:34 INFO Evaluating the dataset
+2022-02-22 13:16:36 INFO loss: 0.8509 - UCM: 31.90% LCM: 12.88% UAS: 90.58% LAS: 82.87%
+2022-02-22 13:16:36 INFO 0:00:02.497816s elapsed, 65.26 Sents/s
+2022-02-22 13:18:34 INFO Loading the data
+2022-02-22 13:18:35 INFO 
+Dataset(n_sentences=163, n_batches=8, n_buckets=8)
+2022-02-22 13:18:35 INFO Evaluating the dataset
+2022-02-22 13:18:37 INFO loss: 0.8631 - UCM: 32.52% LCM: 10.43% UAS: 90.53% LAS: 83.39%
+2022-02-22 13:18:37 INFO 0:00:02.320945s elapsed, 70.23 Sents/s
+2022-02-22 13:19:10 INFO Loading the data
+2022-02-22 13:19:10 INFO 
+Dataset(n_sentences=163, n_batches=8, n_buckets=8)
+2022-02-22 13:19:10 INFO Evaluating the dataset
+2022-02-22 13:19:15 INFO loss: 0.8433 - UCM: 30.67% LCM: 10.43% UAS: 90.86% LAS: 83.69%
+2022-02-22 13:19:15 INFO 0:00:05.553708s elapsed, 29.35 Sents/s
