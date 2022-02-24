@@ -41,7 +41,7 @@ def main():
                                    "models": [os.path.join(directory, model) for model in ['biaffine_dep_de_tiger', 'crf_dep_de_tiger', 'crf2o_dep_de_tiger']]},
                          }
 
-    print(model_conllu_dict["27624"]["models"])
+    # print(model_conllu_dict["27624"]["models"])
     eval_model(conllu_file=model_conllu_dict["27624"]["conllu"],
                model_names=model_conllu_dict["27624"]["models"],
                save_path=os.path.join(ROOT_DIR, "data", "eval_results", "27624_results.txt"))

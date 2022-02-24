@@ -147,6 +147,13 @@ def extract_cas_information(corpus_id: str,
                     keep = True
                 else:
                     keep = False
+                    if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) == 0:
+                        pass
+                    else:
+                        print(f"============{caspath}=================")
+                        print(f"Length: upos:{len(upos)}, xpos:{len(xpos)},heads:{len(heads)},deprels:{len(deprels)},token:{len(token)}")
+                        print(text)
+                        print("========================================================================================================")
 
                 if keep:
                     # --> Creating TokenList for conllu:
