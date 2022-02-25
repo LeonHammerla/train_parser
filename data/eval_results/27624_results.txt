@@ -1,18 +1,21 @@
-2022-02-22 13:16:34 INFO Loading the data
-2022-02-22 13:16:34 INFO 
+/home/stud_homes/s5935481/work3/models/biaffine_dep_de_gsd
+2022-02-25 12:43:27 INFO Loading the data
+2022-02-25 12:43:27 INFO 
 Dataset(n_sentences=163, n_batches=8, n_buckets=8)
-2022-02-22 13:16:34 INFO Evaluating the dataset
-2022-02-22 13:16:36 INFO loss: 0.8509 - UCM: 31.90% LCM: 12.88% UAS: 90.58% LAS: 82.87%
-2022-02-22 13:16:36 INFO 0:00:02.497816s elapsed, 65.26 Sents/s
-2022-02-22 13:18:34 INFO Loading the data
-2022-02-22 13:18:35 INFO 
+2022-02-25 12:43:27 INFO Evaluating the dataset
+2022-02-25 12:43:27 INFO loss: 0.8699 - UCM: 31.90% LCM: 12.88% UAS: 90.58% LAS: 82.87%
+2022-02-25 12:43:27 INFO 0:00:00.423585s elapsed, 384.81 Sents/s
+/home/stud_homes/s5935481/work3/models/crf_dep_de_gsd
+2022-02-25 12:43:31 INFO Loading the data
+2022-02-25 12:43:31 INFO 
 Dataset(n_sentences=163, n_batches=8, n_buckets=8)
-2022-02-22 13:18:35 INFO Evaluating the dataset
-2022-02-22 13:18:37 INFO loss: 0.8631 - UCM: 32.52% LCM: 10.43% UAS: 90.53% LAS: 83.39%
-2022-02-22 13:18:37 INFO 0:00:02.320945s elapsed, 70.23 Sents/s
-2022-02-22 13:19:10 INFO Loading the data
-2022-02-22 13:19:10 INFO 
+2022-02-25 12:43:31 INFO Evaluating the dataset
+2022-02-25 12:43:32 INFO loss: 0.8711 - UCM: 32.52% LCM: 10.43% UAS: 90.53% LAS: 83.39%
+2022-02-25 12:43:32 INFO 0:00:00.616485s elapsed, 264.40 Sents/s
+/home/stud_homes/s5935481/work3/models/crf2o_dep_de_gsd
+2022-02-25 12:43:35 INFO Loading the data
+2022-02-25 12:43:35 INFO 
 Dataset(n_sentences=163, n_batches=8, n_buckets=8)
-2022-02-22 13:19:10 INFO Evaluating the dataset
-2022-02-22 13:19:15 INFO loss: 0.8433 - UCM: 30.67% LCM: 10.43% UAS: 90.86% LAS: 83.69%
-2022-02-22 13:19:15 INFO 0:00:05.553708s elapsed, 29.35 Sents/s
+2022-02-25 12:43:35 INFO Evaluating the dataset
+2022-02-25 12:43:36 INFO loss: 0.8361 - UCM: 30.67% LCM: 10.43% UAS: 90.86% LAS: 83.69%
+2022-02-25 12:43:36 INFO 0:00:01.034272s elapsed, 157.60 Sents/s

@@ -34,7 +34,7 @@ def eval_conllu(conllu_id:str):
                                               ['biaffine_dep_de_tiger', 'crf_dep_de_tiger', 'crf2o_dep_de_tiger']]},
                          "27329": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "27329.conllu"),
                                    "models": [os.path.join(directory, model) for model in
-                                              ['biaffine_dep_de_tiger', 'crf_dep_de_tiger', 'crf2o_dep_de_tiger']]},
+                                              ['biaffine_dep_de_gum', 'crf_dep_de_gum', 'crf2o_dep_de_gum']]},
                          "27624": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "27624.conllu"),
                                    "models": [os.path.join(directory, model) for model in
                                               ['biaffine_dep_de_gsd', 'crf_dep_de_gsd', 'crf2o_dep_de_gsd']]},
@@ -59,7 +59,7 @@ def main():
     model_conllu_dict = {"27294": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "27294.conllu"),
                                    "models": [os.path.join(directory, model) for model in ['biaffine_dep_de_tiger', 'crf_dep_de_tiger', 'crf2o_dep_de_tiger']]},
                          "27329": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "27329.conllu"),
-                                   "models": [os.path.join(directory, model) for model in ['biaffine_dep_de_tiger', 'crf_dep_de_tiger', 'crf2o_dep_de_tiger']]},
+                                   "models": [os.path.join(directory, model) for model in ['biaffine_dep_de_gum', 'crf_dep_de_gum', 'crf2o_dep_de_gum']]},
                          "27624": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "27624.conllu"),
                                    "models": [os.path.join(directory, model) for model in ['biaffine_dep_de_gsd', 'crf_dep_de_gsd', 'crf2o_dep_de_gsd']]},
                          "28451": {"conllu": os.path.join(ROOT_DIR, "data", "conllu_files", "28451.conllu"),
@@ -76,4 +76,5 @@ def main():
 if __name__ == "__main__":
     dirs = ["27294", "27329", "27624", "28451"]
     ids = ["tiger", "ud", "ud", "tiger"]
-    eval_conllu("27294")
+    for dir in dirs:
+        eval_conllu(dir)

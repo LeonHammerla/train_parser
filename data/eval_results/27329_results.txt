@@ -1,0 +1,21 @@
+/home/stud_homes/s5935481/work3/models/biaffine_dep_de_gum
+2022-02-25 12:43:19 INFO Loading the data
+2022-02-25 12:43:19 INFO 
+Dataset(n_sentences=111, n_batches=8, n_buckets=8)
+2022-02-25 12:43:19 INFO Evaluating the dataset
+2022-02-25 12:43:20 INFO loss: 1.7416 - UCM: 26.13% LCM: 19.82% UAS: 88.68% LAS: 84.81%
+2022-02-25 12:43:20 INFO 0:00:00.519316s elapsed, 213.74 Sents/s
+/home/stud_homes/s5935481/work3/models/crf_dep_de_gum
+2022-02-25 12:43:20 INFO Loading the data
+2022-02-25 12:43:20 INFO 
+Dataset(n_sentences=111, n_batches=8, n_buckets=8)
+2022-02-25 12:43:20 INFO Evaluating the dataset
+2022-02-25 12:43:21 INFO loss: 1.1811 - UCM: 19.82% LCM: 17.12% UAS: 88.09% LAS: 84.43%
+2022-02-25 12:43:21 INFO 0:00:00.831041s elapsed, 133.57 Sents/s
+/home/stud_homes/s5935481/work3/models/crf2o_dep_de_gum
+2022-02-25 12:43:22 INFO Loading the data
+2022-02-25 12:43:22 INFO 
+Dataset(n_sentences=111, n_batches=8, n_buckets=8)
+2022-02-25 12:43:22 INFO Evaluating the dataset
+2022-02-25 12:43:23 INFO loss: 1.6780 - UCM: 27.03% LCM: 19.82% UAS: 88.06% LAS: 84.25%
+2022-02-25 12:43:23 INFO 0:00:01.224056s elapsed, 90.68 Sents/s
