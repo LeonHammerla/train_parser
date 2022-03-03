@@ -1,0 +1,31 @@
+# sent_id = 53
+# text = Aber ich betone schon heute, daß es nicht angeht, daß wieder in der Hauptsache durch die Gewerkschaften die Verteilung und Durchführung dieser Fonds vorgenommen wird.
+1	Aber	_	CONJ	KON	_	3	JU	_	_
+2	ich	_	PRON	PPER	_	3	SB	_	_
+3	betone	_	VERB	VVFIN	_	0	--	_	_
+4	schon	_	ADV	ADV	_	5	MO	_	_
+5	heute	_	ADV	ADV	_	3	MO	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	daß	_	CONJ	KOUS	_	10	CP	_	_
+8	es	_	PRON	PPER	_	10	EP	_	_
+9	nicht	_	X	PTKNEG	_	10	NG	_	_
+10	angeht	_	VERB	VVFIN	_	3	OC	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	daß	_	CONJ	KOUS	_	27	CP	_	_
+13	wieder	_	ADV	ADV	_	27	MO	_	_
+14	in	_	ADP	APPR	_	27	MO	_	_
+15	der	_	DET	ART	_	16	NK	_	_
+16	Hauptsache	_	NOUN	NN	_	14	NK	_	_
+17	durch	_	ADP	APPR	_	26	SBP	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Gewerkschaften	_	NOUN	NN	_	17	NK	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Verteilung	_	NOUN	NN	_	26	OA	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	Durchführung	_	NOUN	NN	_	22	CJ	_	_
+24	dieser	_	PRON	PDAT	_	25	NK	_	_
+25	Fonds	_	NOUN	NN	_	21	AG	_	_
+26	vorgenommen	_	VERB	VVPP	_	27	OC	_	_
+27	wird	_	VERB	VAFIN	_	10	OC	_	_
+28	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

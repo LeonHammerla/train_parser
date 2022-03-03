@@ -1,0 +1,26 @@
+# sent_id = 0
+# text = Bei dem letztgenannten Orte fand ich am 23. Februar 1895 unter dem Eise eine Kolonie ohne Statoblasten, welche sicher überwintert hatte.
+1	Bei	_	ADP	APPR	_	5	MO	_	_
+2	dem	_	DET	ART	_	4	NK	_	_
+3	letztgenannten	_	ADJ	ADJA	_	4	NK	_	_
+4	Orte	_	NOUN	NN	_	1	NK	_	_
+5	fand	_	VERB	VVFIN	_	0	--	_	_
+6	ich	_	PRON	PPER	_	5	SB	_	_
+7	am	_	ADP	APPRART	_	5	MO	_	_
+8	23.	_	ADJ	ADJA	_	9	NK	_	_
+9	Februar	_	NOUN	NN	_	7	NK	_	_
+10	1895	_	NUM	CARD	_	9	NK	_	_
+11	unter	_	ADP	APPR	_	5	MO	_	_
+12	dem	_	DET	ART	_	13	NK	_	_
+13	Eise	_	NOUN	NN	_	11	NK	_	_
+14	eine	_	DET	ART	_	15	NK	_	_
+15	Kolonie	_	NOUN	NN	_	5	OA	_	_
+16	ohne	_	ADP	APPR	_	15	MNR	_	_
+17	Statoblasten	_	NOUN	NN	_	16	NK	_	_
+18	,	_	PUNCT	$,	_	15	PUNCT	_	_
+19	welche	_	PRON	PRELS	_	22	SB	_	_
+20	sicher	_	ADJ	ADJD	_	21	MO	_	_
+21	überwintert	_	VERB	VVPP	_	22	OC	_	_
+22	hatte	_	VERB	VAFIN	_	15	RC	_	_
+23	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

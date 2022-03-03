@@ -1,0 +1,15 @@
+# sent_id = 315
+# text = Börner 2001) schaffte infolge der Sukzession nur kurzzeitig günstige Lebensbedingungen.
+1	Börner	_	NOUN	NN	_	4	SB	_	_
+2	2001	_	NUM	CARD	_	1	NK	_	_
+3	)	_	PUNCT	$(	_	1	PUNCT	_	_
+4	schaffte	_	VERB	VVFIN	_	0	--	_	_
+5	infolge	_	ADP	APPR	_	4	MO	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Sukzession	_	NOUN	NN	_	5	NK	_	_
+8	nur	_	ADV	ADV	_	9	MO	_	_
+9	kurzzeitig	_	ADJ	ADJD	_	10	MO	_	_
+10	günstige	_	ADJ	ADJA	_	11	NK	_	_
+11	Lebensbedingungen	_	NOUN	NN	_	4	OA	_	_
+12	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

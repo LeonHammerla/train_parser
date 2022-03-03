@@ -1,0 +1,14 @@
+# sent_id = 296
+# text = Von ähnlicher Verbreitung wie Cristatella, doch nicht so häufig.
+1	Von	_	ADP	APPR	_	0	--	_	_
+2	ähnlicher	_	ADJ	ADJA	_	3	NK	_	_
+3	Verbreitung	_	NOUN	NN	_	1	NK	_	_
+4	wie	_	CONJ	KOKOM	_	5	CM	_	_
+5	Cristatella	_	PROPN	NE	_	3	CC	_	_
+6	,	_	PUNCT	$,	_	1	PUNCT	_	_
+7	doch	_	CONJ	KON	_	1	CD	_	_
+8	nicht	_	X	PTKNEG	_	10	NG	_	_
+9	so	_	ADV	ADV	_	10	MO	_	_
+10	häufig	_	ADJ	ADJD	_	7	CJ	_	_
+11	.	_	PUNCT	$.	_	1	PUNCT	_	_
+

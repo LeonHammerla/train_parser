@@ -1,0 +1,23 @@
+# sent_id = 160
+# text = Wie er dorthin kam, kann nicht mehr festgestellt werden, da ihm die früheren Floristen keine Aufmerksamkeit schenkten.
+1	Wie	_	PRON	PWAV	_	4	MO	_	_
+2	er	_	PRON	PPER	_	4	SB	_	_
+3	dorthin	_	ADV	ADV	_	4	MO	_	_
+4	kam	_	VERB	VVFIN	_	6	SB	_	_
+5	,	_	PUNCT	$,	_	6	PUNCT	_	_
+6	kann	_	VERB	VMFIN	_	0	--	_	_
+7	nicht	_	X	PTKNEG	_	6	NG	_	_
+8	mehr	_	ADV	ADV	_	7	MO	_	_
+9	festgestellt	_	VERB	VVPP	_	10	OC	_	_
+10	werden	_	VERB	VAINF	_	6	OC	_	_
+11	,	_	PUNCT	$,	_	6	PUNCT	_	_
+12	da	_	CONJ	KOUS	_	19	CP	_	_
+13	ihm	_	PRON	PPER	_	19	DA	_	_
+14	die	_	DET	ART	_	16	NK	_	_
+15	früheren	_	ADJ	ADJA	_	16	NK	_	_
+16	Floristen	_	NOUN	NN	_	19	SB	_	_
+17	keine	_	PRON	PIAT	_	18	NK	_	_
+18	Aufmerksamkeit	_	NOUN	NN	_	19	OA	_	_
+19	schenkten	_	VERB	VVFIN	_	6	MO	_	_
+20	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

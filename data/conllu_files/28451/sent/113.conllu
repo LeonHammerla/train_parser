@@ -1,0 +1,17 @@
+# sent_id = 113
+# text = Werveke, L. van: Erläuterungen zu dem Blatte Saarbrücken der geol.- tekton.
+1	Werveke	_	NOUN	NN	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	L.	_	PROPN	NE	_	4	PNC	_	_
+4	van	_	PROPN	NE	_	1	APP	_	_
+5	:	_	PUNCT	$.	_	1	PUNCT	_	_
+6	Erläuterungen	_	NOUN	NN	_	1	APP	_	_
+7	zu	_	ADP	APPR	_	6	MNR	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Blatte	_	NOUN	NN	_	7	NK	_	_
+10	Saarbrücken	_	PROPN	NE	_	1	APP	_	_
+11	der	_	DET	ART	_	13	NK	_	_
+12	geol.-	_	NOUN	NN	_	13	PNC	_	_
+13	tekton	_	PROPN	NE	_	10	AG	_	_
+14	.	_	PUNCT	$.	_	1	PUNCT	_	_
+

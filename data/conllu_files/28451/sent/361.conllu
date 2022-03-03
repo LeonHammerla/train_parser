@@ -1,0 +1,13 @@
+# sent_id = 361
+# text = Verbreitxmgsgrad besetzte Raster 1997-2000 350-520 BR
+1	Verbreitxmgsgrad	_	PROPN	NE	_	2	SB	_	_
+2	besetzte	_	ADJ	ADJA	_	0	--	_	_
+3	Raster	_	NOUN	NN	_	2	OA	_	_
+4	1997	_	NUM	CARD	_	2	MO	_	_
+5	-	_	NUM	CARD	_	4	PUNCT	_	_
+6	2000	_	NUM	CARD	_	10	NK	_	_
+7	350	_	NUM	CARD	_	10	NK	_	_
+8	-	_	NUM	CARD	_	9	PUNCT	_	_
+9	520	_	NUM	CARD	_	10	NK	_	_
+10	BR	_	NOUN	NN	_	2	OA	_	_
+

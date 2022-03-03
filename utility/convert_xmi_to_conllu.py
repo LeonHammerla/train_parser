@@ -1,10 +1,11 @@
+import pathlib
 import sys
 import os
 from typing import Tuple, List, Optional
 from conllu import TokenList
 from conllu.serializer import serialize_field
 import cassis
-
+from tqdm import tqdm
 sys.path.append("/home/stud_homes/s5935481/uima_cassis/src")
 sys.path.append(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from cassis_utility.loading_utility import load_cas_from_xmi_dir, \
@@ -22,7 +23,9 @@ from cassis_utility.selecting_utility import select_sentences_from_cas, \
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 
-def create_conllu_files_for_data():
+def create_conllu_files_for_data(save_corpus: bool = True,
+                                 save_document: bool = False,
+                                 save_sent: bool = False):
     """
     Main Function for creating a conllu files for every subfolder in data that is listed
     in dirs-variable.
@@ -35,6 +38,11 @@ def create_conllu_files_for_data():
     ids = ["tiger", "ud", "ud", "tiger"]
     # --> Finding all Paths:
     paths_for_corpora = find_all_caspaths_per_corpus(dirs)
+    # --> pbars:
+    main_bar = tqdm(total=4, desc="Converting Corpora", leave=True, position=0)
+    side_bar1 = tqdm(total=0, desc="saving corpus-wise", leave=True, position=1)
+    side_bar2 = tqdm(total=0, desc="saving doc-wise", leave=True, position=2)
+    side_bar3 = tqdm(total=0, desc="saving sent-wise", leave=True, position=3)
     # --> Main-Loop for all corpora extracting and saving:
     for corpus_idx in range(0, len(paths_for_corpora)):
         sent_id = 0
@@ -42,11 +50,47 @@ def create_conllu_files_for_data():
         # --> Collecting all Lists of Tokenlists for each xmi-path:
         for file_path in paths_for_corpora[corpus_idx]:
             res, sent_id = extract_cas_information(ids[corpus_idx], file_path, typesystem, sent_id)
-            tokenlists.extend(res)
-        # --> Saving as whole conllu file:
-        with open(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}.conllu"), "w") as f:
-            for compiled_sentence in tokenlists:
-                f.write(compiled_sentence.serialize())
+            tokenlists.append(res)
+
+        if save_corpus:
+            side_bar1.total = sum([len(sub) for sub in tokenlists])
+            pathlib.Path(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/corpus")).mkdir(parents=True, exist_ok=True)
+            # --> Saving as whole conllu file:
+            with open(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/corpus/{dirs[corpus_idx]}.conllu"), "w") as f:
+                for compiled_document in tokenlists:
+                    for compiled_sentence in compiled_document:
+                        f.write(compiled_sentence.serialize())
+                        side_bar1.update(1)
+
+        if save_document:
+            side_bar2.total = sum([len(sub) for sub in tokenlists])
+            pathlib.Path(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/document")).mkdir(parents=True, exist_ok=True)
+            # --> Saving document-wise:
+            for c, compiled_document in enumerate(tokenlists):
+                with open(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/document/{c}.conllu"), "w") as f:
+                    for compiled_sentence in compiled_document:
+                        f.write(compiled_sentence.serialize())
+                        side_bar2.update(1)
+
+        if save_sent:
+            side_bar3.total = sum([len(sub) for sub in tokenlists])
+            pathlib.Path(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/sent")).mkdir(parents=True, exist_ok=True)
+            # --> Saving sent-wise:
+            c = 0
+            for compiled_document in tokenlists:
+                for compiled_sentence in compiled_document:
+                    with open(os.path.join(ROOT_DIR, f"data/conllu_files/{dirs[corpus_idx]}/sent/{c}.conllu"), "w") as f:
+                        f.write(compiled_sentence.serialize())
+                        side_bar3.update(1)
+                    c += 1
+        # --> Handling bars:
+        main_bar.update(1)
+        side_bar1.n = 0
+        side_bar2.n = 0
+        side_bar3.n = 0
+        side_bar1.total = 0
+        side_bar2.total = 0
+        side_bar3.total = 0
 
 
 def find_all_caspaths_per_corpus(dirs: List[str]) -> Tuple[List[str], ...]:
@@ -182,4 +226,6 @@ def extract_cas_information(corpus_id: str,
 
 
 if __name__ == '__main__':
-    create_conllu_files_for_data()
+    create_conllu_files_for_data(save_corpus=True,
+                                 save_sent=True,
+                                 save_document=True)

@@ -1,0 +1,23 @@
+# sent_id = 155
+# text = Zum Schluß der Cyperaceen müssen wir noch auf einen Irrtum hinweisen, welcher in manchen Exkursionsfloren immer wieder auftritt.
+1	Zum	_	ADP	APPRART	_	5	MO	_	_
+2	Schluß	_	NOUN	NN	_	1	NK	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Cyperaceen	_	PROPN	NE	_	2	AG	_	_
+5	müssen	_	VERB	VMFIN	_	0	--	_	_
+6	wir	_	PRON	PPER	_	5	SB	_	_
+7	noch	_	ADV	ADV	_	5	MO	_	_
+8	auf	_	ADP	APPR	_	11	OP	_	_
+9	einen	_	DET	ART	_	10	NK	_	_
+10	Irrtum	_	NOUN	NN	_	8	NK	_	_
+11	hinweisen	_	VERB	VVINF	_	5	OC	_	_
+12	,	_	PUNCT	$,	_	11	PUNCT	_	_
+13	welcher	_	PRON	PRELS	_	19	SB	_	_
+14	in	_	ADP	APPR	_	19	MO	_	_
+15	manchen	_	PRON	PIAT	_	16	NK	_	_
+16	Exkursionsfloren	_	NOUN	NN	_	14	NK	_	_
+17	immer	_	ADV	ADV	_	18	MO	_	_
+18	wieder	_	ADV	ADV	_	19	MO	_	_
+19	auftritt	_	VERB	VVFIN	_	10	RC	_	_
+20	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

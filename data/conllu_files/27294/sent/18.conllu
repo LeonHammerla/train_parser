@@ -1,0 +1,35 @@
+# sent_id = 18
+# text = Die Bundesregierung hat die Absicht, zu dieser ersten Konferenz nicht nur die Vertreter der EWG-Staaten, sondern auch die Vertreter anderer Mitgliedstaaten des Europarates einzuladen, soweit sie interessiert sind.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Bundesregierung	_	NOUN	NN	_	3	SB	_	_
+3	hat	_	VERB	VAFIN	_	0	--	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Absicht	_	NOUN	NN	_	3	OA	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	zu	_	ADP	APPR	_	26	MO	_	_
+8	dieser	_	PRON	PDAT	_	10	NK	_	_
+9	ersten	_	ADJ	ADJA	_	10	NK	_	_
+10	Konferenz	_	NOUN	NN	_	7	NK	_	_
+11	nicht	_	X	PTKNEG	_	12	NG	_	_
+12	nur	_	ADV	ADV	_	14	MO	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Vertreter	_	NOUN	NN	_	26	OA	_	_
+15	der	_	DET	ART	_	16	NK	_	_
+16	EWG-Staaten	_	NOUN	NN	_	14	AG	_	_
+17	,	_	PUNCT	$,	_	14	PUNCT	_	_
+18	sondern	_	CONJ	KON	_	14	CD	_	_
+19	auch	_	ADV	ADV	_	21	MO	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Vertreter	_	NOUN	NN	_	18	CJ	_	_
+22	anderer	_	ADJ	ADJA	_	23	NK	_	_
+23	Mitgliedstaaten	_	NOUN	NN	_	21	AG	_	_
+24	des	_	DET	ART	_	25	NK	_	_
+25	Europarates	_	NOUN	NN	_	23	AG	_	_
+26	einzuladen	_	VERB	VVIZU	_	5	OC	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	soweit	_	CONJ	KOUS	_	31	CP	_	_
+29	sie	_	PRON	PPER	_	31	SB	_	_
+30	interessiert	_	ADJ	ADJD	_	31	PD	_	_
+31	sind	_	VERB	VAFIN	_	26	MO	_	_
+32	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,16 @@
+# sent_id = 240
+# text = Der Kuckuck besiedelt in Chemnitz vor allem reich strukturiertes, halboffenes Gelände.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
+3	besiedelt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
+6	vor	_	ADP	APPR	_	9	MO	_	_
+7	allem	_	PRON	PIS	_	6	NK	_	_
+8	reich	_	ADJ	ADJD	_	9	MO	_	_
+9	strukturiertes	_	ADJ	ADJA	_	12	NK	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	halboffenes	_	ADJ	ADJA	_	9	CJ	_	_
+12	Gelände	_	NOUN	NN	_	3	OA	_	_
+13	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

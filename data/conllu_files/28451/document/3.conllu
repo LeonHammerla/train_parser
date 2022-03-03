@@ -1,0 +1,1384 @@
+# sent_id = 85
+# text = Der obere Buntsandstein gliedert sich von unten nach oben in: Zwischenschichten, Voltziensandstein oder Rhöt mit Voltzia heterophylla und die Lettenregion.
+1	Der	_	DET	ART	_	3	NK	_	_
+2	obere	_	ADJ	ADJA	_	3	NK	_	_
+3	Buntsandstein	_	NOUN	NN	_	4	SB	_	_
+4	gliedert	_	VERB	VVFIN	_	0	--	_	_
+5	sich	_	PRON	PRF	_	4	OA	_	_
+6	von	_	ADP	APPR	_	4	MO	_	_
+7	unten	_	ADV	ADV	_	6	NK	_	_
+8	nach	_	ADP	APPR	_	4	MO	_	_
+9	oben	_	ADV	ADV	_	8	NK	_	_
+10	in	_	VERB	PTKVZ	_	4	OP	_	_
+11	:	_	PUNCT	$.	_	4	PUNCT	_	_
+12	Zwischenschichten	_	NOUN	NN	_	10	NK	_	_
+13	,	_	PUNCT	$,	_	12	PUNCT	_	_
+14	Voltziensandstein	_	NOUN	NN	_	12	CJ	_	_
+15	oder	_	CONJ	KON	_	14	CD	_	_
+16	Rhöt	_	PROPN	NE	_	15	CJ	_	_
+17	mit	_	ADP	APPR	_	16	MNR	_	_
+18	Voltzia	_	PROPN	NE	_	19	PNC	_	_
+19	heterophylla	_	PROPN	NE	_	17	NK	_	_
+20	und	_	CONJ	KON	_	14	CD	_	_
+21	die	_	DET	ART	_	22	NK	_	_
+22	Lettenregion	_	NOUN	NN	_	20	CJ	_	_
+23	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 86
+# text = Die oberste Stufe der Trias, der Keuper, gliedert sich in: Oberer Keuper (Rhät), 35 m: Sandsteine, schwarze u. rote Tone Mittlerer Keuper ,150m: Steinmergelkeuper, rote Mergel und Plattendolomite Schilfsandstein Salz- und Gipskeuper, 70—80 m Unterer Keuper , 20-
+1	Die	_	DET	ART	_	3	NK	_	_
+2	oberste	_	ADJ	ADJA	_	3	NK	_	_
+3	Stufe	_	NOUN	NN	_	10	SB	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Trias	_	PROPN	NE	_	3	AG	_	_
+6	,	_	PUNCT	$,	_	3	PUNCT	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Keuper	_	NOUN	NN	_	3	APP	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	gliedert	_	VERB	VVFIN	_	0	--	_	_
+11	sich	_	PRON	PRF	_	10	OA	_	_
+12	in	_	VERB	PTKVZ	_	10	SVP	_	_
+13	:	_	PUNCT	$.	_	10	PUNCT	_	_
+14	Oberer	_	ADJ	ADJA	_	15	NK	_	_
+15	Keuper	_	NOUN	NN	_	10	SB	_	_
+16	(	_	PUNCT	$(	_	17	PUNCT	_	_
+17	Rhät	_	PROPN	NE	_	15	PAR	_	_
+18	)	_	PUNCT	$(	_	17	PUNCT	_	_
+19	,	_	PUNCT	$,	_	15	PUNCT	_	_
+20	35	_	NUM	CARD	_	21	NK	_	_
+21	m	_	NOUN	NN	_	15	PAR	_	_
+22	:	_	PUNCT	$.	_	23	PUNCT	_	_
+23	Sandsteine	_	NOUN	NN	_	21	NK	_	_
+24	,	_	PUNCT	$,	_	23	PUNCT	_	_
+25	schwarze	_	ADJ	ADJA	_	29	MO	_	_
+26	u.	_	ADP	APPR	_	29	MO	_	_
+27	rote	_	ADJ	ADJA	_	28	NK	_	_
+28	Tone	_	NOUN	NN	_	26	NK	_	_
+29	Mittlerer	_	ADJ	ADJA	_	23	SB	_	_
+30	Keuper	_	NOUN	NN	_	29	NK	_	_
+31	,	_	PUNCT	$,	_	29	PUNCT	_	_
+32	150	_	NUM	CARD	_	33	NK	_	_
+33	m	_	NOUN	NN	_	15	PAR	_	_
+34	:	_	PUNCT	$.	_	15	PUNCT	_	_
+35	Steinmergelkeuper	_	NOUN	NN	_	15	PAR	_	_
+36	,	_	PUNCT	$,	_	35	PUNCT	_	_
+37	rote	_	ADJ	ADJA	_	38	NK	_	_
+38	Mergel	_	NOUN	NN	_	35	CJ	_	_
+39	und	_	CONJ	KON	_	38	CD	_	_
+40	Plattendolomite	_	NOUN	NN	_	39	CJ	_	_
+41	Schilfsandstein	_	PROPN	NE	_	38	CJ	_	_
+42	Salz-	_	X	TRUNC	_	43	CJ	_	_
+43	und	_	CONJ	KON	_	44	CD	_	_
+44	Gipskeuper	_	NOUN	NN	_	35	CJ	_	_
+45	,	_	PUNCT	$,	_	35	PUNCT	_	_
+46	70—80	_	PROPN	NE	_	35	CJ	_	_
+47	m	_	PROPN	NE	_	35	UC	_	_
+48	Unterer	_	ADJ	ADJA	_	35	CJ	_	_
+49	Keuper	_	PROPN	NE	_	15	PAR	_	_
+50	,	_	PUNCT	$,	_	49	PUNCT	_	_
+51	20	_	NUM	CARD	_	49	CJ	_	_
+52	-	_	PUNCT	$(	_	49	PUNCT	_	_
+
+# sent_id = 87
+# text = 30 m
+1	30	_	NUM	CARD	_	2	NK	_	_
+2	m	_	NOUN	NN	_	0	--	_	_
+
+# sent_id = 88
+# text = :
+1	:	_	PUNCT	$.	_	0	--	_	_
+
+# sent_id = 89
+# text = Die Gesamtmächtigkeit der Trias ergibt sich in den Bohrungen bei Solgen zu 630 bis 750 m. B. Lagerungsverhältnisse in der Trias.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Gesamtmächtigkeit	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Trias	_	PROPN	NE	_	2	AG	_	_
+5	ergibt	_	VERB	VVFIN	_	0	--	_	_
+6	sich	_	PRON	PRF	_	5	OA	_	_
+7	in	_	ADP	APPR	_	5	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Bohrungen	_	NOUN	NN	_	7	NK	_	_
+10	bei	_	ADP	APPR	_	9	MNR	_	_
+11	Solgen	_	NOUN	NN	_	10	NK	_	_
+12	zu	_	ADP	APPR	_	11	MNR	_	_
+13	630	_	NUM	CARD	_	16	NK	_	_
+14	bis	_	CONJ	KON	_	13	CD	_	_
+15	750	_	NUM	CARD	_	14	CJ	_	_
+16	m.	_	X	XY	_	18	NK	_	_
+17	B.	_	NOUN	NN	_	16	NK	_	_
+18	Lagerungsverhältnisse	_	NOUN	NN	_	12	NK	_	_
+19	in	_	ADP	APPR	_	5	MO	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Trias	_	PROPN	NE	_	19	NK	_	_
+22	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 90
+# text = Außerdem nehmen Buche und Kiefer stellenweise geräumige Flächen ein.
+1	Außerdem	_	ADV	PROAV	_	2	MO	_	_
+2	nehmen	_	VERB	VVFIN	_	0	--	_	_
+3	Buche	_	NOUN	NN	_	2	SB	_	_
+4	und	_	CONJ	KON	_	3	CD	_	_
+5	Kiefer	_	NOUN	NN	_	4	CJ	_	_
+6	stellenweise	_	ADV	ADV	_	2	MO	_	_
+7	geräumige	_	ADJ	ADJA	_	8	NK	_	_
+8	Flächen	_	NOUN	NN	_	2	OA	_	_
+9	ein	_	VERB	PTKVZ	_	2	SVP	_	_
+10	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 91
+# text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Fichte	_	NOUN	NN	_	5	SB	_	_
+3	oder	_	CONJ	KON	_	2	CD	_	_
+4	Rottanne	_	NOUN	NN	_	3	CJ	_	_
+5	bildet	_	VERB	VVFIN	_	0	--	_	_
+6	etwa	_	ADV	ADV	_	7	MO	_	_
+7	15	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	5	OA	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Bestände	_	NOUN	NN	_	8	AG	_	_
+11	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 92
+# text = Hier befinden wir uns im Bereich der Weißtanne.
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	befinden	_	VERB	VVFIN	_	0	--	_	_
+3	wir	_	PRON	PPER	_	2	SB	_	_
+4	uns	_	PRON	PRF	_	2	OA	_	_
+5	im	_	ADP	APPRART	_	2	MO	_	_
+6	Bereich	_	NOUN	NN	_	5	NK	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Weißtanne	_	NOUN	NN	_	6	AG	_	_
+9	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 93
+# text = Das Dagsburgerland, als die Heimat des Vogesen- oder Buntsandsteins, ist eine ausgesprochene Waldgegend.
+1	Das	_	DET	ART	_	2	NK	_	_
+2	Dagsburgerland	_	NOUN	NN	_	12	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	als	_	CONJ	KOUS	_	6	CM	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Heimat	_	NOUN	NN	_	2	CC	_	_
+7	des	_	DET	ART	_	10	NK	_	_
+8	Vogesen-	_	X	TRUNC	_	9	CJ	_	_
+9	oder	_	CONJ	KON	_	10	CD	_	_
+10	Buntsandsteins	_	NOUN	NN	_	6	AG	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	ist	_	VERB	VAFIN	_	0	--	_	_
+13	eine	_	DET	ART	_	15	NK	_	_
+14	ausgesprochene	_	ADJ	ADJA	_	15	NK	_	_
+15	Waldgegend	_	NOUN	NN	_	12	PD	_	_
+16	.	_	PUNCT	$.	_	12	PUNCT	_	_
+
+# sent_id = 94
+# text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Fichte	_	NOUN	NN	_	5	SB	_	_
+3	oder	_	CONJ	KON	_	2	CD	_	_
+4	Rottanne	_	NOUN	NN	_	3	CJ	_	_
+5	bildet	_	VERB	VVFIN	_	0	--	_	_
+6	etwa	_	ADV	ADV	_	7	MO	_	_
+7	15	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	5	OA	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Bestände	_	NOUN	NN	_	8	AG	_	_
+11	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 95
+# text = Hier befinden wir uns im Bereich der Weißtanne.
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	befinden	_	VERB	VVFIN	_	0	--	_	_
+3	wir	_	PRON	PPER	_	2	SB	_	_
+4	uns	_	PRON	PRF	_	2	OA	_	_
+5	im	_	ADP	APPRART	_	2	MO	_	_
+6	Bereich	_	NOUN	NN	_	5	NK	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Weißtanne	_	NOUN	NN	_	6	AG	_	_
+9	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 96
+# text = Hafer 25% des landwirtschaftlich genutzten Bodens, Weizen 22% , Kleearten 15% , Kartoffeln 5% , Roggen 5% .
+1	Hafer	_	NOUN	NN	_	3	SB	_	_
+2	25	_	NUM	CARD	_	3	NK	_	_
+3	%	_	NOUN	NN	_	0	--	_	_
+4	des	_	DET	ART	_	7	NK	_	_
+5	landwirtschaftlich	_	ADJ	ADJD	_	6	MO	_	_
+6	genutzten	_	ADJ	ADJA	_	7	NK	_	_
+7	Bodens	_	NOUN	NN	_	3	AG	_	_
+8	,	_	PUNCT	$,	_	3	PUNCT	_	_
+9	Weizen	_	NOUN	NN	_	3	CJ	_	_
+10	22	_	NUM	CARD	_	11	NK	_	_
+11	%	_	NOUN	NN	_	9	CJ	_	_
+12	,	_	PUNCT	$,	_	3	PUNCT	_	_
+13	Kleearten	_	NOUN	NN	_	3	CJ	_	_
+14	15	_	NUM	CARD	_	15	NK	_	_
+15	%	_	NOUN	NN	_	13	NK	_	_
+16	,	_	PUNCT	$,	_	3	PUNCT	_	_
+17	Kartoffeln	_	NOUN	NN	_	3	CJ	_	_
+18	5	_	NUM	CARD	_	19	NK	_	_
+19	%	_	NOUN	NN	_	17	NK	_	_
+20	,	_	PUNCT	$,	_	3	PUNCT	_	_
+21	Roggen	_	NOUN	NN	_	3	PAR	_	_
+22	5	_	NUM	CARD	_	23	NK	_	_
+23	%	_	NOUN	NN	_	21	NK	_	_
+24	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 97
+# text = Das Verhältnis des Grünlands zum Ackerland beträgt etwa 1:
+1	Das	_	DET	ART	_	2	NK	_	_
+2	Verhältnis	_	NOUN	NN	_	7	SB	_	_
+3	des	_	DET	ART	_	4	NK	_	_
+4	Grünlands	_	NOUN	NN	_	2	AG	_	_
+5	zum	_	ADP	APPRART	_	2	MNR	_	_
+6	Ackerland	_	NOUN	NN	_	5	NK	_	_
+7	beträgt	_	VERB	VVFIN	_	0	--	_	_
+8	etwa	_	ADV	ADV	_	9	MO	_	_
+9	1	_	NUM	CARD	_	10	DEP	_	_
+10	:	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 98
+# text = Kiefer und Eiche bilden die übrigen bestandsbildenden Hauptholzarten.
+1	Kiefer	_	PROPN	NE	_	4	SB	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Eiche	_	NOUN	NN	_	2	CJ	_	_
+4	bilden	_	VERB	VVFIN	_	0	--	_	_
+5	die	_	DET	ART	_	8	NK	_	_
+6	übrigen	_	ADJ	ADJA	_	8	NK	_	_
+7	bestandsbildenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Hauptholzarten	_	NOUN	NN	_	4	OA	_	_
+9	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 99
+# text = Hier übernimmt die Buche die Hälfte der Waldung, während die Weißtanne fast ganz verschwindet.
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	übernimmt	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Buche	_	NOUN	NN	_	2	SB	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hälfte	_	NOUN	NN	_	2	OA	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Waldung	_	NOUN	NN	_	6	AG	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	während	_	CONJ	KOUS	_	15	CP	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Weißtanne	_	NOUN	NN	_	15	SB	_	_
+13	fast	_	ADV	ADV	_	14	MO	_	_
+14	ganz	_	ADV	ADV	_	15	MO	_	_
+15	verschwindet	_	VERB	VVFIN	_	2	MO	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 100
+# text = Sandstein bedeckt von dem sich weit und breit hinziehenden Forst Waldeck.
+1	Sandstein	_	NOUN	NN	_	1	ROOT	_	_
+2	bedeckt	_	ADJ	ADJD	_	1	PAR	_	_
+3	von	_	ADP	APPR	_	2	SBP	_	_
+4	dem	_	DET	ART	_	10	NK	_	_
+5	sich	_	PRON	PRF	_	9	OA	_	_
+6	weit	_	ADJ	ADJD	_	9	MO	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	breit	_	ADJ	ADJD	_	7	CJ	_	_
+9	hinziehenden	_	ADJ	ADJA	_	10	NK	_	_
+10	Forst	_	NOUN	NN	_	3	NK	_	_
+11	Waldeck	_	PROPN	NE	_	10	NK	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 101
+# text = Auf dem rechten und teilweise linken Moselufer herrschen die Mergel- und Sandsteinbildungen des Lias vor, der sich an die Sandsteine der Trias anschließt.
+1	Auf	_	ADP	APPR	_	8	MO	_	_
+2	dem	_	DET	ART	_	7	NK	_	_
+3	rechten	_	ADJ	ADJA	_	7	NK	_	_
+4	und	_	CONJ	KON	_	3	CD	_	_
+5	teilweise	_	ADV	ADV	_	6	MO	_	_
+6	linken	_	ADJ	ADJA	_	4	CJ	_	_
+7	Moselufer	_	NOUN	NN	_	1	NK	_	_
+8	herrschen	_	VERB	VVFIN	_	0	--	_	_
+9	die	_	DET	ART	_	12	NK	_	_
+10	Mergel-	_	X	TRUNC	_	11	CJ	_	_
+11	und	_	CONJ	KON	_	12	CD	_	_
+12	Sandsteinbildungen	_	NOUN	NN	_	8	SB	_	_
+13	des	_	DET	ART	_	14	NK	_	_
+14	Lias	_	PROPN	NE	_	12	AG	_	_
+15	vor	_	VERB	PTKVZ	_	8	SVP	_	_
+16	,	_	PUNCT	$,	_	8	PUNCT	_	_
+17	der	_	PRON	PRELS	_	24	SB	_	_
+18	sich	_	PRON	PRF	_	24	OA	_	_
+19	an	_	ADP	APPR	_	24	OP	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Sandsteine	_	NOUN	NN	_	19	NK	_	_
+22	der	_	DET	ART	_	23	NK	_	_
+23	Trias	_	PROPN	NE	_	21	AG	_	_
+24	anschließt	_	VERB	VVFIN	_	14	RC	_	_
+25	.	_	PUNCT	$.	_	8	PUNCT	_	_
+
+# sent_id = 102
+# text = Payot, Paris Les Marches de Lest.
+1	Payot	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Paris	_	PROPN	NE	_	7	PNC	_	_
+4	Les	_	PROPN	NE	_	7	PNC	_	_
+5	Marches	_	PROPN	NE	_	7	PNC	_	_
+6	de	_	PROPN	NE	_	7	PNC	_	_
+7	Lest	_	PROPN	NE	_	1	APP	_	_
+8	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 103
+# text = 1941. Martonne, E. de: Les Grandes Regions de la France.
+1	1941.	_	NUM	CARD	_	2	PNC	_	_
+2	Martonne	_	NOUN	NN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	E.	_	PROPN	NE	_	5	PNC	_	_
+5	de	_	PROPN	NE	_	2	APP	_	_
+6	:	_	PUNCT	$.	_	2	PUNCT	_	_
+7	Les	_	PROPN	NE	_	12	PNC	_	_
+8	Grandes	_	PROPN	NE	_	12	PNC	_	_
+9	Regions	_	PROPN	NE	_	12	PNC	_	_
+10	de	_	PROPN	NE	_	12	PNC	_	_
+11	la	_	PROPN	NE	_	12	PNC	_	_
+12	France	_	PROPN	NE	_	2	APP	_	_
+13	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 104
+# text = 13.3.
+1	13.3.	_	PROPN	NE	_	0	--	_	_
+
+# sent_id = 105
+# text = Ich selbst sah am 4. April erstmalig vier Wiedehopfe und zur gleichen Zeit den Kuckuck im Ludwigshain.
+1	Ich	_	PRON	PPER	_	3	SB	_	_
+2	selbst	_	ADV	ADV	_	1	MNR	_	_
+3	sah	_	VERB	VVFIN	_	0	--	_	_
+4	am	_	ADP	APPRART	_	3	MO	_	_
+5	4.	_	ADJ	ADJA	_	6	NK	_	_
+6	April	_	NOUN	NN	_	4	NK	_	_
+7	erstmalig	_	ADJ	ADJD	_	8	MO	_	_
+8	vier	_	NUM	CARD	_	9	NK	_	_
+9	Wiedehopfe	_	NOUN	NN	_	3	OA	_	_
+10	und	_	CONJ	KON	_	3	CD	_	_
+11	zur	_	ADP	APPRART	_	10	CJ	_	_
+12	gleichen	_	ADJ	ADJA	_	13	NK	_	_
+13	Zeit	_	NOUN	NN	_	11	NK	_	_
+14	den	_	DET	ART	_	15	NK	_	_
+15	Kuckuck	_	NOUN	NN	_	3	OA	_	_
+16	im	_	ADP	APPRART	_	15	MNR	_	_
+17	Ludwigshain	_	NOUN	NN	_	16	NK	_	_
+18	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 106
+# text = Vom Wiedehopf konnte ich 1942 zehn Brutpaare feststellen, doch waren es deren sicher mehr.
+1	Vom	_	ADP	APPRART	_	3	MO	_	_
+2	Wiedehopf	_	NOUN	NN	_	1	NK	_	_
+3	konnte	_	VERB	VMFIN	_	0	--	_	_
+4	ich	_	PRON	PPER	_	3	SB	_	_
+5	1942	_	NUM	CARD	_	3	MO	_	_
+6	zehn	_	NUM	CARD	_	7	NK	_	_
+7	Brutpaare	_	NOUN	NN	_	8	OA	_	_
+8	feststellen	_	VERB	VVINF	_	3	OC	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	doch	_	CONJ	KON	_	3	CD	_	_
+11	waren	_	VERB	VAFIN	_	10	CJ	_	_
+12	es	_	PRON	PPER	_	11	SB	_	_
+13	deren	_	PRON	PDS	_	11	OG	_	_
+14	sicher	_	ADV	ADV	_	15	MO	_	_
+15	mehr	_	PRON	PIS	_	11	PD	_	_
+16	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 107
+# text = Beide Vogelarten scheinen also tatsächlich gleichzeitig zu kommen.
+1	Beide	_	PRON	PIAT	_	2	NK	_	_
+2	Vogelarten	_	NOUN	NN	_	3	SB	_	_
+3	scheinen	_	VERB	VVFIN	_	0	--	_	_
+4	also	_	ADV	ADV	_	8	MO	_	_
+5	tatsächlich	_	ADJ	ADJD	_	8	MO	_	_
+6	gleichzeitig	_	ADJ	ADJD	_	8	MO	_	_
+7	zu	_	X	PTKZU	_	8	PM	_	_
+8	kommen	_	VERB	VVINF	_	3	OC	_	_
+9	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 108
+# text = In den Gemarkungen Lambsheim, Freinsheim, Großkarlbach konnte ich den Wiedehopf ebenfalls feststellen.
+1	In	_	ADP	APPR	_	9	MO	_	_
+2	den	_	DET	ART	_	4	NK	_	_
+3	Gemarkungen	_	ADJ	ADJA	_	4	NK	_	_
+4	Lambsheim	_	NOUN	NN	_	1	NK	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	Freinsheim	_	PROPN	NE	_	4	CJ	_	_
+7	,	_	PUNCT	$,	_	4	PUNCT	_	_
+8	Großkarlbach	_	NOUN	NN	_	6	CJ	_	_
+9	konnte	_	VERB	VMFIN	_	0	--	_	_
+10	ich	_	PRON	PPER	_	9	SB	_	_
+11	den	_	DET	ART	_	12	NK	_	_
+12	Wiedehopf	_	NOUN	NN	_	14	OA	_	_
+13	ebenfalls	_	ADV	ADV	_	14	MO	_	_
+14	feststellen	_	VERB	VVINF	_	9	OC	_	_
+15	.	_	PUNCT	$.	_	9	PUNCT	_	_
+
+# sent_id = 109
+# text = Beringte Wiedehopfe konnte ich keine bemerken.
+1	Beringte	_	ADJ	ADJA	_	2	NK	_	_
+2	Wiedehopfe	_	NOUN	NN	_	6	OA	_	_
+3	konnte	_	VERB	VMFIN	_	0	--	_	_
+4	ich	_	PRON	PPER	_	3	SB	_	_
+5	keine	_	PRON	PIAT	_	6	NK	_	_
+6	bemerken	_	NOUN	NN	_	3	OC	_	_
+7	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 110
+# text = Der Wiedehopf wurde 1942 am 1. April festgestellt.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Wiedehopf	_	NOUN	NN	_	3	SB	_	_
+3	wurde	_	VERB	VAFIN	_	0	--	_	_
+4	1942	_	NUM	CARD	_	8	MO	_	_
+5	am	_	ADP	APPRART	_	8	MO	_	_
+6	1.	_	ADJ	ADJA	_	7	NK	_	_
+7	April	_	NOUN	NN	_	5	NK	_	_
+8	festgestellt	_	VERB	VVPP	_	3	OC	_	_
+9	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 111
+# text = Sie hatten auch 1942 drei Junge.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	hatten	_	VERB	VAFIN	_	0	--	_	_
+3	auch	_	ADV	ADV	_	4	MO	_	_
+4	1942	_	NUM	CARD	_	2	MO	_	_
+5	drei	_	NUM	CARD	_	6	NK	_	_
+6	Junge	_	NOUN	NN	_	2	OA	_	_
+7	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 112
+# text = 1942 kam der erste Storch am 15. März, der zweite einige Tage später.
+1	1942	_	NUM	CARD	_	2	MO	_	_
+2	kam	_	VERB	VVFIN	_	0	--	_	_
+3	der	_	DET	ART	_	5	NK	_	_
+4	erste	_	ADJ	ADJA	_	5	NK	_	_
+5	Storch	_	NOUN	NN	_	2	SB	_	_
+6	am	_	ADP	APPRART	_	5	MNR	_	_
+7	15.	_	ADJ	ADJA	_	8	NK	_	_
+8	März	_	NOUN	NN	_	6	NK	_	_
+9	,	_	PUNCT	$,	_	5	PUNCT	_	_
+10	der	_	DET	ART	_	13	NK	_	_
+11	zweite	_	ADJ	ADJA	_	13	NK	_	_
+12	einige	_	PRON	PIAT	_	13	NK	_	_
+13	Tage	_	NOUN	NN	_	14	AMS	_	_
+14	später	_	ADJ	ADJD	_	2	MO	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 113
+# text = Werveke, L. van: Erläuterungen zu dem Blatte Saarbrücken der geol.- tekton.
+1	Werveke	_	NOUN	NN	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	L.	_	PROPN	NE	_	4	PNC	_	_
+4	van	_	PROPN	NE	_	1	APP	_	_
+5	:	_	PUNCT	$.	_	1	PUNCT	_	_
+6	Erläuterungen	_	NOUN	NN	_	1	APP	_	_
+7	zu	_	ADP	APPR	_	6	MNR	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Blatte	_	NOUN	NN	_	7	NK	_	_
+10	Saarbrücken	_	PROPN	NE	_	1	APP	_	_
+11	der	_	DET	ART	_	13	NK	_	_
+12	geol.-	_	NOUN	NN	_	13	PNC	_	_
+13	tekton	_	PROPN	NE	_	10	AG	_	_
+14	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 114
+# text = Maschinenschrift.
+1	Maschinenschrift	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 115
+# text = Bohrverzeichnis.
+1	Bohrverzeichnis	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 116
+# text = (Siviard)
+1	(	_	PUNCT	$(	_	2	PUNCT	_	_
+2	Siviard	_	PROPN	NE	_	0	--	_	_
+3	)	_	PUNCT	$(	_	2	PUNCT	_	_
+
+# sent_id = 117
+# text = Über das unter der Trias anstehende, ältere Gebirge wird ebenfalls berichtet.
+1	Über	_	ADP	APPR	_	12	OP	_	_
+2	das	_	DET	ART	_	9	NK	_	_
+3	unter	_	ADP	APPR	_	6	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Trias	_	PROPN	NE	_	3	NK	_	_
+6	anstehende	_	ADJ	ADJA	_	9	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	ältere	_	ADJ	ADJA	_	6	CJ	_	_
+9	Gebirge	_	NOUN	NN	_	1	NK	_	_
+10	wird	_	VERB	VAFIN	_	0	--	_	_
+11	ebenfalls	_	ADV	ADV	_	12	MO	_	_
+12	berichtet	_	VERB	VVPP	_	10	OC	_	_
+13	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 118
+# text = In dem zu betrachtenden Raum kommen von den Schichtenstufen der Trias nur der Buntsandstein und der Muschelkalk, ferner als jüngere Bildung das Alluvium vor.
+1	In	_	ADP	APPR	_	6	MO	_	_
+2	dem	_	DET	ART	_	5	NK	_	_
+3	zu	_	X	PTKZU	_	4	PM	_	_
+4	betrachtenden	_	ADJ	ADJA	_	5	NK	_	_
+5	Raum	_	NOUN	NN	_	1	NK	_	_
+6	kommen	_	VERB	VVFIN	_	0	--	_	_
+7	von	_	ADP	APPR	_	6	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Schichtenstufen	_	NOUN	NN	_	7	NK	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Trias	_	PROPN	NE	_	9	AG	_	_
+12	nur	_	ADV	ADV	_	14	MO	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Buntsandstein	_	NOUN	NN	_	6	SB	_	_
+15	und	_	CONJ	KON	_	14	CD	_	_
+16	der	_	DET	ART	_	17	NK	_	_
+17	Muschelkalk	_	NOUN	NN	_	15	CJ	_	_
+18	,	_	PUNCT	$,	_	6	PUNCT	_	_
+19	ferner	_	ADV	ADV	_	17	CD	_	_
+20	als	_	ADP	APPR	_	6	MO	_	_
+21	jüngere	_	ADJ	ADJA	_	22	NK	_	_
+22	Bildung	_	NOUN	NN	_	20	NK	_	_
+23	das	_	DET	ART	_	24	NK	_	_
+24	Alluvium	_	NOUN	NN	_	19	CJ	_	_
+25	vor	_	VERB	PTKVZ	_	6	SVP	_	_
+26	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 119
+# text = Später wurde die Trias in der Pfälzer Mulde durch posthume Wiederholungen in der Tertiärzeit schwach gefaltet (STILLE, 1925, S. 389).
+1	Später	_	NOUN	NN	_	16	MO	_	_
+2	wurde	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Trias	_	PROPN	NE	_	2	SB	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Pfälzer	_	NOUN	NN	_	5	NK	_	_
+8	Mulde	_	NOUN	NN	_	7	NK	_	_
+9	durch	_	ADP	APPR	_	16	MO	_	_
+10	posthume	_	ADJ	ADJA	_	11	NK	_	_
+11	Wiederholungen	_	NOUN	NN	_	9	NK	_	_
+12	in	_	ADP	APPR	_	16	MO	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Tertiärzeit	_	NOUN	NN	_	12	NK	_	_
+15	schwach	_	ADJ	ADJD	_	16	MO	_	_
+16	gefaltet	_	VERB	VVPP	_	2	OC	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	STILLE	_	PROPN	NE	_	16	PAR	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	1925	_	NUM	CARD	_	18	NK	_	_
+21	,	_	PUNCT	$,	_	18	PUNCT	_	_
+22	S.	_	NOUN	NN	_	20	NK	_	_
+23	389	_	NUM	CARD	_	22	NK	_	_
+24	)	_	PUNCT	$(	_	18	PUNCT	_	_
+25	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 120
+# text = Der Muschelkalk, der als nächstjüngeres Schichtenglied der Trias auf den Buntsandstein folgt, gliedert sich unter Beifügung der hauptsächlichsten petrographischen Merkmale von oben nach unten:
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Muschelkalk	_	NOUN	NN	_	15	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	der	_	PRON	PRELS	_	13	SB	_	_
+5	als	_	ADP	APPR	_	13	MO	_	_
+6	nächstjüngeres	_	ADJ	ADJA	_	7	NK	_	_
+7	Schichtenglied	_	NOUN	NN	_	5	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Trias	_	PROPN	NE	_	7	AG	_	_
+10	auf	_	ADP	APPR	_	13	OP	_	_
+11	den	_	DET	ART	_	12	NK	_	_
+12	Buntsandstein	_	NOUN	NN	_	10	NK	_	_
+13	folgt	_	VERB	VVFIN	_	2	RC	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	gliedert	_	VERB	VVFIN	_	0	--	_	_
+16	sich	_	PRON	PRF	_	15	OA	_	_
+17	unter	_	ADP	APPR	_	15	MO	_	_
+18	Beifügung	_	NOUN	NN	_	17	NK	_	_
+19	der	_	DET	ART	_	22	NK	_	_
+20	hauptsächlichsten	_	ADJ	ADJA	_	22	NK	_	_
+21	petrographischen	_	ADJ	ADJA	_	22	NK	_	_
+22	Merkmale	_	NOUN	NN	_	18	AG	_	_
+23	von	_	ADP	APPR	_	15	MO	_	_
+24	oben	_	ADV	ADV	_	23	NK	_	_
+25	nach	_	ADP	APPR	_	15	MO	_	_
+26	unten	_	ADV	ADV	_	25	NK	_	_
+27	:	_	PUNCT	$.	_	15	PUNCT	_	_
+
+# sent_id = 121
+# text = Vorkommen von Ammonshörnern (Ceratites nodosus) Trochitenkalk, 20 m; Nodosuskalk, 40 bis 60 m.
+1	Vorkommen	_	NOUN	NN	_	0	--	_	_
+2	von	_	ADP	APPR	_	1	PG	_	_
+3	Ammonshörnern	_	NOUN	NN	_	2	NK	_	_
+4	(	_	PUNCT	$(	_	5	PUNCT	_	_
+5	Ceratites	_	X	FM	_	3	PAR	_	_
+6	nodosus	_	X	FM	_	5	NK	_	_
+7	)	_	PUNCT	$(	_	5	PUNCT	_	_
+8	Trochitenkalk	_	PROPN	NE	_	1	NK	_	_
+9	,	_	PUNCT	$,	_	1	PUNCT	_	_
+10	20	_	NUM	CARD	_	11	NK	_	_
+11	m	_	NOUN	NN	_	12	DEP	_	_
+12	;	_	X	XY	_	1	PUNCT	_	_
+13	Nodosuskalk	_	PROPN	NE	_	1	CJ	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	40	_	NUM	CARD	_	18	NK	_	_
+16	bis	_	CONJ	KON	_	15	CD	_	_
+17	60	_	NUM	CARD	_	16	CJ	_	_
+18	m.	_	PROPN	NE	_	13	PAR	_	_
+
+# sent_id = 122
+# text = Kalkbänke und Mergelschichten.
+1	Kalkbänke	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Mergelschichten	_	NOUN	NN	_	2	CJ	_	_
+4	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 123
+# text = 1.
+1	1.	_	ADV	ADV	_	0	--	_	_
+
+# sent_id = 124
+# text = Oberer Muschelkalk:
+1	Oberer	_	ADJ	ADJA	_	2	NK	_	_
+2	Muschelkalk	_	NOUN	NN	_	0	--	_	_
+3	:	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 125
+# text = Die Trias (Buntsandstein, Muschelkalk und Keuper) bildet in unserer Gegend eine sehr flache Mulde, Pfälzer Mulde genannt, deren Muldenlinie etwa in der Richtung Kaiserslautern—Zweibrücken—Saargemünd verläuft und auch in dieser Richtung schwach einfällt.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Trias	_	PROPN	NE	_	10	SB	_	_
+3	(	_	PUNCT	$(	_	4	PUNCT	_	_
+4	Buntsandstein	_	NOUN	NN	_	2	APP	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	Muschelkalk	_	NOUN	NN	_	4	CJ	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Keuper	_	NOUN	NN	_	7	CJ	_	_
+9	)	_	PUNCT	$(	_	4	PUNCT	_	_
+10	bildet	_	VERB	VVFIN	_	0	--	_	_
+11	in	_	ADP	APPR	_	10	MO	_	_
+12	unserer	_	PRON	PPOSAT	_	13	NK	_	_
+13	Gegend	_	NOUN	NN	_	11	NK	_	_
+14	eine	_	DET	ART	_	17	NK	_	_
+15	sehr	_	ADV	ADV	_	16	MO	_	_
+16	flache	_	ADJ	ADJA	_	17	NK	_	_
+17	Mulde	_	NOUN	NN	_	10	OA	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	Pfälzer	_	PROPN	NE	_	20	PNC	_	_
+20	Mulde	_	NOUN	NN	_	21	MO	_	_
+21	genannt	_	VERB	VVPP	_	17	PAR	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	deren	_	PRON	PRELAT	_	24	AG	_	_
+24	Muldenlinie	_	NOUN	NN	_	30	SB	_	_
+25	etwa	_	ADV	ADV	_	26	MO	_	_
+26	in	_	ADP	APPR	_	30	MO	_	_
+27	der	_	DET	ART	_	28	NK	_	_
+28	Richtung	_	NOUN	NN	_	26	NK	_	_
+29	Kaiserslautern—Zweibrücken—Saargemünd	_	PROPN	NE	_	28	NK	_	_
+30	verläuft	_	VERB	VVFIN	_	17	RC	_	_
+31	und	_	CONJ	KON	_	30	CD	_	_
+32	auch	_	ADV	ADV	_	33	MO	_	_
+33	in	_	ADP	APPR	_	37	MO	_	_
+34	dieser	_	PRON	PDAT	_	35	NK	_	_
+35	Richtung	_	NOUN	NN	_	33	NK	_	_
+36	schwach	_	ADJ	ADJD	_	37	MO	_	_
+37	einfällt	_	VERB	VVFIN	_	31	CJ	_	_
+38	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 126
+# text = Die jetzige Nordwestgrenze gegen das Steinkohlengebirge und Rotliegende zwischen Saarbrücken und Kaiserslautern ist durch Erosion bedingt (STAESCHE, 1927, S. 54).
+1	Die	_	DET	ART	_	3	NK	_	_
+2	jetzige	_	ADJ	ADJA	_	3	NK	_	_
+3	Nordwestgrenze	_	NOUN	NN	_	13	SB	_	_
+4	gegen	_	ADP	APPR	_	3	MNR	_	_
+5	das	_	DET	ART	_	6	NK	_	_
+6	Steinkohlengebirge	_	NOUN	NN	_	4	NK	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Rotliegende	_	NOUN	NN	_	7	CJ	_	_
+9	zwischen	_	ADP	APPR	_	6	MNR	_	_
+10	Saarbrücken	_	PROPN	NE	_	9	NK	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	Kaiserslautern	_	NOUN	NN	_	11	CJ	_	_
+13	ist	_	VERB	VAFIN	_	0	--	_	_
+14	durch	_	ADP	APPR	_	16	MO	_	_
+15	Erosion	_	NOUN	NN	_	14	NK	_	_
+16	bedingt	_	ADJ	ADJD	_	13	PD	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	STAESCHE	_	PROPN	NE	_	16	PAR	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	1927	_	NUM	CARD	_	18	CJ	_	_
+21	,	_	PUNCT	$,	_	18	PUNCT	_	_
+22	S.	_	NOUN	NN	_	20	CJ	_	_
+23	54	_	NUM	CARD	_	22	NK	_	_
+24	)	_	PUNCT	$(	_	18	PUNCT	_	_
+25	.	_	PUNCT	$.	_	13	PUNCT	_	_
+
+# sent_id = 127
+# text = Nach SCHUMACHER (1909) fast ganz unverfestigte, sandige Schichten („Streusande"), in den Bohrverzeichnissen „Schwemmsande" genannt, nach SEMMLER (1940)
+1	Nach	_	ADP	APPR	_	24	MO	_	_
+2	SCHUMACHER	_	PROPN	NE	_	1	NK	_	_
+3	(	_	PUNCT	$(	_	4	PUNCT	_	_
+4	1909	_	NUM	CARD	_	2	PAR	_	_
+5	)	_	PUNCT	$(	_	4	PUNCT	_	_
+6	fast	_	ADV	ADV	_	8	MO	_	_
+7	ganz	_	ADV	ADV	_	8	MO	_	_
+8	unverfestigte	_	ADJ	ADJA	_	11	NK	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	sandige	_	ADJ	ADJA	_	11	NK	_	_
+11	Schichten	_	NOUN	NN	_	1	NK	_	_
+12	(	_	PUNCT	$(	_	14	PUNCT	_	_
+13	„	_	PUNCT	$(	_	14	PUNCT	_	_
+14	Streusande	_	NOUN	NN	_	11	PAR	_	_
+15	"	_	PUNCT	$(	_	14	PUNCT	_	_
+16	)	_	PUNCT	$(	_	14	PUNCT	_	_
+17	,	_	PUNCT	$,	_	11	PUNCT	_	_
+18	in	_	ADP	APPR	_	24	MO	_	_
+19	den	_	DET	ART	_	20	NK	_	_
+20	Bohrverzeichnissen	_	NOUN	NN	_	18	NK	_	_
+21	„	_	PUNCT	$(	_	22	PUNCT	_	_
+22	Schwemmsande	_	NOUN	NN	_	20	NK	_	_
+23	"	_	PUNCT	$(	_	22	PUNCT	_	_
+24	genannt	_	VERB	VVPP	_	0	--	_	_
+25	,	_	PUNCT	$,	_	24	PUNCT	_	_
+26	nach	_	ADP	APPR	_	24	MO	_	_
+27	SEMMLER	_	PROPN	NE	_	26	NK	_	_
+28	(	_	PUNCT	$(	_	29	PUNCT	_	_
+29	1940	_	NUM	CARD	_	24	PAR	_	_
+30	)	_	PUNCT	$(	_	29	PUNCT	_	_
+
+# sent_id = 128
+# text = „Schwimmsande", nach LÖFFLER (1929) mangelnder Tongehalt des Bindemittels, was einer hochgradigen Porosität gleichbedeutend ist;
+1	„	_	PUNCT	$(	_	2	PUNCT	_	_
+2	Schwimmsande	_	NOUN	NN	_	0	--	_	_
+3	"	_	PUNCT	$(	_	2	PUNCT	_	_
+4	,	_	PUNCT	$,	_	2	PUNCT	_	_
+5	nach	_	ADP	APPR	_	2	PAR	_	_
+6	LÖFFLER	_	PROPN	NE	_	5	NK	_	_
+7	(	_	PUNCT	$(	_	8	PUNCT	_	_
+8	1929	_	NUM	CARD	_	10	MO	_	_
+9	)	_	PUNCT	$(	_	8	PUNCT	_	_
+10	mangelnder	_	ADJ	ADJA	_	11	NK	_	_
+11	Tongehalt	_	NOUN	NN	_	2	APP	_	_
+12	des	_	DET	ART	_	13	NK	_	_
+13	Bindemittels	_	NOUN	NN	_	11	AG	_	_
+14	,	_	PUNCT	$,	_	2	PUNCT	_	_
+15	was	_	PRON	PRELS	_	20	SB	_	_
+16	einer	_	DET	ART	_	18	NK	_	_
+17	hochgradigen	_	ADJ	ADJA	_	18	NK	_	_
+18	Porosität	_	NOUN	NN	_	19	DA	_	_
+19	gleichbedeutend	_	ADJ	ADJD	_	20	PD	_	_
+20	ist	_	VERB	VAFIN	_	2	RC	_	_
+21	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 129
+# text = 19. bis 24. Bohrloch S. Zahlentafel 2, S.24
+1	19.	_	ADJ	ADJA	_	4	NK	_	_
+2	bis	_	ADP	APPR	_	1	CD	_	_
+3	24.	_	ADJ	ADJA	_	2	CJ	_	_
+4	Bohrloch	_	NOUN	NN	_	0	--	_	_
+5	S.	_	NOUN	NN	_	4	NK	_	_
+6	Zahlentafel	_	NOUN	NN	_	4	NK	_	_
+7	2	_	NUM	CARD	_	6	NK	_	_
+8	,	_	PUNCT	$,	_	4	PUNCT	_	_
+9	S.24	_	PROPN	NE	_	4	CJ	_	_
+
+# sent_id = 130
+# text = u.25. Bohrloch Tabak
+1	u.25.	_	NOUN	NN	_	2	NK	_	_
+2	Bohrloch	_	PROPN	NE	_	0	--	_	_
+3	Tabak	_	PROPN	NE	_	2	NK	_	_
+
+# sent_id = 131
+# text = Die für vorliegende Betrachtung in Frage kommenden Bohrungen sind in der Zahlentafel 2, Seite 24 wiedergegeben.
+1	Die	_	DET	ART	_	8	NK	_	_
+2	für	_	ADP	APPR	_	7	MO	_	_
+3	vorliegende	_	ADJ	ADJA	_	4	NK	_	_
+4	Betrachtung	_	NOUN	NN	_	2	NK	_	_
+5	in	_	ADP	APPR	_	7	CVC	_	_
+6	Frage	_	NOUN	NN	_	5	NK	_	_
+7	kommenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Bohrungen	_	NOUN	NN	_	9	SB	_	_
+9	sind	_	VERB	VAFIN	_	0	--	_	_
+10	in	_	ADP	APPR	_	17	MO	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Zahlentafel	_	NOUN	NN	_	10	NK	_	_
+13	2	_	NUM	CARD	_	12	NK	_	_
+14	,	_	PUNCT	$,	_	12	PUNCT	_	_
+15	Seite	_	NOUN	NN	_	12	NK	_	_
+16	24	_	NUM	CARD	_	15	NK	_	_
+17	wiedergegeben	_	VERB	VVPP	_	9	OC	_	_
+18	.	_	PUNCT	$.	_	9	PUNCT	_	_
+
+# sent_id = 132
+# text = Der Hauptbuntsandstein fällt, wie die gesamte Trias, nach zwei Richtungen hin ein, nämlich von Nordwesten nach Südosten zur Muldenachse hin (s. S. 14) und von Nordosten nach Südwesten in Richtung der Muldenachse (s. S. 14).
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Hauptbuntsandstein	_	NOUN	NN	_	3	SB	_	_
+3	fällt	_	VERB	VVFIN	_	0	--	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	wie	_	PRON	PWAV	_	8	CM	_	_
+6	die	_	DET	ART	_	8	NK	_	_
+7	gesamte	_	ADJ	ADJA	_	8	NK	_	_
+8	Trias	_	NOUN	NN	_	3	MO	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	nach	_	ADP	APPR	_	3	MO	_	_
+11	zwei	_	NUM	CARD	_	12	NK	_	_
+12	Richtungen	_	NOUN	NN	_	10	NK	_	_
+13	hin	_	ADV	ADV	_	10	AVC	_	_
+14	ein	_	VERB	PTKVZ	_	3	SVP	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	nämlich	_	ADV	ADV	_	17	MO	_	_
+17	von	_	ADP	APPR	_	10	APP	_	_
+18	Nordwesten	_	NOUN	NN	_	17	NK	_	_
+19	nach	_	ADP	APPR	_	17	AC	_	_
+20	Südosten	_	NOUN	NN	_	19	NK	_	_
+21	zur	_	ADP	APPRART	_	20	MNR	_	_
+22	Muldenachse	_	NOUN	NN	_	21	NK	_	_
+23	hin	_	VERB	PTKVZ	_	19	AVC	_	_
+24	(	_	PUNCT	$(	_	25	PUNCT	_	_
+25	s.	_	X	FM	_	17	PAR	_	_
+26	S.	_	NOUN	NN	_	25	OA	_	_
+27	14	_	NUM	CARD	_	26	NK	_	_
+28	)	_	PUNCT	$(	_	26	PUNCT	_	_
+29	und	_	CONJ	KON	_	17	CD	_	_
+30	von	_	ADP	APPR	_	29	CJ	_	_
+31	Nordosten	_	NOUN	NN	_	30	NK	_	_
+32	nach	_	ADP	APPR	_	31	MNR	_	_
+33	Südwesten	_	NOUN	NN	_	32	NK	_	_
+34	in	_	ADP	APPR	_	33	MNR	_	_
+35	Richtung	_	NOUN	NN	_	34	NK	_	_
+36	der	_	DET	ART	_	37	NK	_	_
+37	Muldenachse	_	NOUN	NN	_	35	AG	_	_
+38	(	_	PUNCT	$(	_	39	PUNCT	_	_
+39	s.	_	X	FM	_	37	PAR	_	_
+40	S.	_	NOUN	NN	_	39	OA	_	_
+41	14	_	NUM	CARD	_	40	NK	_	_
+42	)	_	PUNCT	$(	_	39	PUNCT	_	_
+43	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 133
+# text = ferner die zahlreichen Bruchnamen: Einsiedlerbruch, Pottelbruch, Spesbacher Bruch, Ramsteiner Bruch, Reichswaldgebrüch (nach LÖFFLER, 1938, S. 1, älterer Sammelname für Landstuhler Bruch), Wolfshecker Bruch (LÖFFLER, 1938, S. 1), Spickelbruch und Lindenschachenbruch bei Eichelscheid, Königsbruch bei Bruchhof, „Torfstich" zwischen Jägersburg und Eichelscheid, „Torf löcher" bei Unterschernau (Ramstein).
+1	ferner	_	ADV	ADV	_	4	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	zahlreichen	_	ADJ	ADJA	_	4	NK	_	_
+4	Bruchnamen	_	NOUN	NN	_	0	--	_	_
+5	:	_	PUNCT	$.	_	4	PUNCT	_	_
+6	Einsiedlerbruch	_	NOUN	NN	_	4	APP	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	Pottelbruch	_	NOUN	NN	_	6	CJ	_	_
+9	,	_	PUNCT	$,	_	6	PUNCT	_	_
+10	Spesbacher	_	PROPN	NE	_	11	NK	_	_
+11	Bruch	_	PROPN	NE	_	8	CJ	_	_
+12	,	_	PUNCT	$,	_	6	PUNCT	_	_
+13	Ramsteiner	_	PROPN	NE	_	14	NK	_	_
+14	Bruch	_	NOUN	NN	_	11	CJ	_	_
+15	,	_	PUNCT	$,	_	6	PUNCT	_	_
+16	Reichswaldgebrüch	_	NOUN	NN	_	14	CJ	_	_
+17	(	_	PUNCT	$(	_	19	PUNCT	_	_
+18	nach	_	ADP	APPR	_	16	PAR	_	_
+19	LÖFFLER	_	PROPN	NE	_	18	NK	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	1938	_	NUM	CARD	_	19	CJ	_	_
+22	,	_	PUNCT	$,	_	19	PUNCT	_	_
+23	S.	_	NOUN	NN	_	21	CJ	_	_
+24	1	_	NUM	CARD	_	23	NK	_	_
+25	,	_	PUNCT	$,	_	19	PUNCT	_	_
+26	älterer	_	ADJ	ADJA	_	27	NK	_	_
+27	Sammelname	_	NOUN	NN	_	19	CJ	_	_
+28	für	_	ADP	APPR	_	27	MNR	_	_
+29	Landstuhler	_	PROPN	NE	_	30	NK	_	_
+30	Bruch	_	NOUN	NN	_	28	NK	_	_
+31	)	_	PUNCT	$(	_	19	PUNCT	_	_
+32	,	_	PUNCT	$,	_	6	PUNCT	_	_
+33	Wolfshecker	_	ADJ	ADJA	_	34	NK	_	_
+34	Bruch	_	NOUN	NN	_	16	CJ	_	_
+35	(	_	PUNCT	$(	_	36	PUNCT	_	_
+36	LÖFFLER	_	PROPN	NE	_	34	PAR	_	_
+37	,	_	PUNCT	$,	_	36	PUNCT	_	_
+38	1938	_	NUM	CARD	_	36	CJ	_	_
+39	,	_	PUNCT	$,	_	36	PUNCT	_	_
+40	S.	_	NOUN	NN	_	38	CJ	_	_
+41	1	_	NUM	CARD	_	40	NK	_	_
+42	)	_	PUNCT	$(	_	36	PUNCT	_	_
+43	,	_	PUNCT	$,	_	6	PUNCT	_	_
+44	Spickelbruch	_	NOUN	NN	_	34	CJ	_	_
+45	und	_	CONJ	KON	_	44	CD	_	_
+46	Lindenschachenbruch	_	NOUN	NN	_	45	CJ	_	_
+47	bei	_	ADP	APPR	_	46	MNR	_	_
+48	Eichelscheid	_	NOUN	NN	_	47	NK	_	_
+49	,	_	PUNCT	$,	_	6	PUNCT	_	_
+50	Königsbruch	_	NOUN	NN	_	46	CJ	_	_
+51	bei	_	ADP	APPR	_	50	MNR	_	_
+52	Bruchhof	_	PROPN	NE	_	51	NK	_	_
+53	,	_	PUNCT	$,	_	6	PUNCT	_	_
+54	„	_	PUNCT	$(	_	55	PUNCT	_	_
+55	Torfstich	_	NOUN	NN	_	50	CJ	_	_
+56	"	_	PUNCT	$(	_	55	PUNCT	_	_
+57	zwischen	_	ADP	APPR	_	55	MNR	_	_
+58	Jägersburg	_	PROPN	NE	_	57	NK	_	_
+59	und	_	CONJ	KON	_	58	CD	_	_
+60	Eichelscheid	_	NOUN	NN	_	59	CJ	_	_
+61	,	_	PUNCT	$,	_	6	PUNCT	_	_
+62	„	_	PUNCT	$(	_	63	PUNCT	_	_
+63	Torf	_	PROPN	NE	_	55	CJ	_	_
+64	löcher	_	PROPN	NE	_	63	NK	_	_
+65	"	_	PUNCT	$(	_	63	PUNCT	_	_
+66	bei	_	ADP	APPR	_	63	MNR	_	_
+67	Unterschernau	_	PROPN	NE	_	66	NK	_	_
+68	(	_	PUNCT	$(	_	69	PUNCT	_	_
+69	Ramstein	_	PROPN	NE	_	67	PAR	_	_
+70	)	_	PUNCT	$(	_	69	PUNCT	_	_
+71	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 134
+# text = Die Aufschlüsse der Flachbohrungen unterstützen auch, wie wir sehen werden, das geologische Studium des Alluviums und Diluviums, sowie der Trias unseres Gebietes (Buntsandstein und Muschelkalk).
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Aufschlüsse	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Flachbohrungen	_	NOUN	NN	_	2	AG	_	_
+5	unterstützen	_	VERB	VVFIN	_	0	--	_	_
+6	auch	_	ADV	ADV	_	5	MO	_	_
+7	,	_	PUNCT	$,	_	5	PUNCT	_	_
+8	wie	_	PRON	PWAV	_	10	MO	_	_
+9	wir	_	PRON	PPER	_	11	SB	_	_
+10	sehen	_	VERB	VVINF	_	11	OC	_	_
+11	werden	_	VERB	VAFIN	_	5	MO	_	_
+12	,	_	PUNCT	$,	_	5	PUNCT	_	_
+13	das	_	DET	ART	_	15	NK	_	_
+14	geologische	_	ADJ	ADJA	_	15	NK	_	_
+15	Studium	_	NOUN	NN	_	5	OA	_	_
+16	des	_	DET	ART	_	17	NK	_	_
+17	Alluviums	_	NOUN	NN	_	15	AG	_	_
+18	und	_	CONJ	KON	_	17	CD	_	_
+19	Diluviums	_	NOUN	NN	_	18	CJ	_	_
+20	,	_	PUNCT	$,	_	15	PUNCT	_	_
+21	sowie	_	CONJ	KON	_	15	CD	_	_
+22	der	_	DET	ART	_	23	NK	_	_
+23	Trias	_	PROPN	NE	_	21	CJ	_	_
+24	unseres	_	PRON	PPOSAT	_	25	NK	_	_
+25	Gebietes	_	NOUN	NN	_	23	AG	_	_
+26	(	_	PUNCT	$(	_	27	PUNCT	_	_
+27	Buntsandstein	_	NOUN	NN	_	23	PAR	_	_
+28	und	_	CONJ	KON	_	27	CD	_	_
+29	Muschelkalk	_	NOUN	NN	_	28	CJ	_	_
+30	)	_	PUNCT	$(	_	27	PUNCT	_	_
+31	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 135
+# text = 1892, S. 23 bis 90, Löffler, E.: Die Oberflächengestaltung des Pfälzer Stufenlandes.
+1	1892	_	NUM	CARD	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	S.	_	NOUN	NN	_	1	CJ	_	_
+4	23	_	NUM	CARD	_	3	NK	_	_
+5	bis	_	CONJ	KON	_	4	CD	_	_
+6	90	_	NUM	CARD	_	5	CJ	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	Löffler	_	NOUN	NN	_	3	CJ	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	E.	_	PROPN	NE	_	8	CJ	_	_
+11	:	_	PUNCT	$.	_	13	PUNCT	_	_
+12	Die	_	DET	ART	_	13	NK	_	_
+13	Oberflächengestaltung	_	NOUN	NN	_	3	CJ	_	_
+14	des	_	DET	ART	_	16	NK	_	_
+15	Pfälzer	_	NOUN	NN	_	16	NK	_	_
+16	Stufenlandes	_	NOUN	NN	_	13	AG	_	_
+17	.	_	PUNCT	$.	_	13	PUNCT	_	_
+
+# sent_id = 136
+# text = Landesanst.geol.d.
+1	Landesanst.geol.d	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 137
+# text = Pollichia.
+1	Pollichia	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 138
+# text = Mitt.
+1	Mitt	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 139
+# text = Beobachtungen im Buntsandstein in der Umgebung von Landstuhl.
+1	Beobachtungen	_	NOUN	NN	_	0	--	_	_
+2	im	_	ADP	APPRART	_	1	MNR	_	_
+3	Buntsandstein	_	NOUN	NN	_	2	NK	_	_
+4	in	_	ADP	APPR	_	3	MNR	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Umgebung	_	NOUN	NN	_	4	NK	_	_
+7	von	_	ADP	APPR	_	6	PG	_	_
+8	Landstuhl	_	PROPN	NE	_	7	NK	_	_
+9	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 140
+# text = Während im Ostflügel der Senke, die stark unterm Einfluß des Trockenklimas des Mainzer Beckens steht, kontinentale, trockenheitliebende Pflanzen von der Rheinebene und den Tertiärkalkhügeln der Vorderpfalz westwärts gegen die Barbarossastadt wandern, geht der Wanderstrom im Westflügel der Senke in umgekehrter Richtung.
+1	Während	_	CONJ	KOUS	_	34	CP	_	_
+2	im	_	ADP	APPRART	_	1	MO	_	_
+3	Ostflügel	_	NOUN	NN	_	2	NK	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Senke	_	NOUN	NN	_	3	AG	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	die	_	PRON	PRELS	_	16	SB	_	_
+8	stark	_	ADJ	ADJD	_	16	MO	_	_
+9	unterm	_	ADP	APPRART	_	16	MO	_	_
+10	Einfluß	_	NOUN	NN	_	9	NK	_	_
+11	des	_	DET	ART	_	12	NK	_	_
+12	Trockenklimas	_	NOUN	NN	_	10	AG	_	_
+13	des	_	DET	ART	_	15	NK	_	_
+14	Mainzer	_	ADJ	ADJA	_	15	NK	_	_
+15	Beckens	_	NOUN	NN	_	12	AG	_	_
+16	steht	_	VERB	VVFIN	_	5	RC	_	_
+17	,	_	PUNCT	$,	_	21	PUNCT	_	_
+18	kontinentale	_	ADJ	ADJA	_	21	NK	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	trockenheitliebende	_	ADJ	ADJA	_	18	CJ	_	_
+21	Pflanzen	_	NOUN	NN	_	34	SB	_	_
+22	von	_	ADP	APPR	_	21	MNR	_	_
+23	der	_	DET	ART	_	24	NK	_	_
+24	Rheinebene	_	PROPN	NE	_	22	NK	_	_
+25	und	_	CONJ	KON	_	24	CD	_	_
+26	den	_	DET	ART	_	27	NK	_	_
+27	Tertiärkalkhügeln	_	NOUN	NN	_	25	CJ	_	_
+28	der	_	DET	ART	_	29	NK	_	_
+29	Vorderpfalz	_	NOUN	NN	_	27	AG	_	_
+30	westwärts	_	ADV	ADV	_	34	MO	_	_
+31	gegen	_	ADP	APPR	_	34	MO	_	_
+32	die	_	DET	ART	_	33	NK	_	_
+33	Barbarossastadt	_	NOUN	NN	_	31	NK	_	_
+34	wandern	_	VERB	VVFIN	_	36	MO	_	_
+35	,	_	PUNCT	$,	_	36	PUNCT	_	_
+36	geht	_	VERB	VVFIN	_	0	--	_	_
+37	der	_	DET	ART	_	38	NK	_	_
+38	Wanderstrom	_	NOUN	NN	_	36	SB	_	_
+39	im	_	ADP	APPRART	_	36	MO	_	_
+40	Westflügel	_	NOUN	NN	_	39	NK	_	_
+41	der	_	DET	ART	_	42	NK	_	_
+42	Senke	_	NOUN	NN	_	40	AG	_	_
+43	in	_	ADP	APPR	_	36	MO	_	_
+44	umgekehrter	_	ADJ	ADJA	_	45	NK	_	_
+45	Richtung	_	NOUN	NN	_	43	NK	_	_
+46	.	_	PUNCT	$.	_	36	PUNCT	_	_
+
+# sent_id = 141
+# text = (d. Pollichia 1937) bezeichnete ich Kaiserslautern in pflanzengeographischer Hinsicht als den zentripetalen Mittelpunkt dieses Zentralnervenstrangs der Pfälzer Landschaft und brachte dies durch eine Skizze (S. 97 obiger Arbeit) klar zum Ausdruck.
+1	(	_	PUNCT	$(	_	3	PUNCT	_	_
+2	d.	_	DET	ART	_	3	NK	_	_
+3	Pollichia	_	NOUN	NN	_	6	MO	_	_
+4	1937	_	NUM	CARD	_	3	MO	_	_
+5	)	_	PUNCT	$(	_	3	PUNCT	_	_
+6	bezeichnete	_	VERB	VVFIN	_	0	--	_	_
+7	ich	_	PRON	PPER	_	6	SB	_	_
+8	Kaiserslautern	_	NOUN	NN	_	6	OA	_	_
+9	in	_	ADP	APPR	_	6	MO	_	_
+10	pflanzengeographischer	_	ADJ	ADJA	_	11	NK	_	_
+11	Hinsicht	_	NOUN	NN	_	9	NK	_	_
+12	als	_	CONJ	KOKOM	_	6	MO	_	_
+13	den	_	DET	ART	_	15	NK	_	_
+14	zentripetalen	_	ADJ	ADJA	_	15	NK	_	_
+15	Mittelpunkt	_	NOUN	NN	_	12	NK	_	_
+16	dieses	_	PRON	PDAT	_	17	NK	_	_
+17	Zentralnervenstrangs	_	NOUN	NN	_	15	AG	_	_
+18	der	_	DET	ART	_	20	NK	_	_
+19	Pfälzer	_	NOUN	NN	_	20	NK	_	_
+20	Landschaft	_	NOUN	NN	_	17	AG	_	_
+21	und	_	CONJ	KON	_	6	CD	_	_
+22	brachte	_	VERB	VVFIN	_	21	CJ	_	_
+23	dies	_	PRON	PDS	_	22	OA	_	_
+24	durch	_	ADP	APPR	_	22	MO	_	_
+25	eine	_	DET	ART	_	26	NK	_	_
+26	Skizze	_	NOUN	NN	_	24	NK	_	_
+27	(	_	PUNCT	$(	_	28	PUNCT	_	_
+28	S.	_	NOUN	NN	_	26	PAR	_	_
+29	97	_	NUM	CARD	_	31	NK	_	_
+30	obiger	_	ADJ	ADJA	_	31	NK	_	_
+31	Arbeit	_	NOUN	NN	_	28	NK	_	_
+32	)	_	PUNCT	$(	_	28	PUNCT	_	_
+33	klar	_	ADJ	ADJD	_	22	MO	_	_
+34	zum	_	ADP	APPRART	_	22	MO	_	_
+35	Ausdruck	_	NOUN	NN	_	34	NK	_	_
+36	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 142
+# text = Bei der Pollichia-Wanderung um die Barbarossastadt im Juli 1941 wies ich darauf hin, wie an den Bäumen im Burggraben hinter der Kammgarnspinnerei der Efeu emporkletterte, die Stämme mit üppigem Grün überzog und sich selbst in den Baumkronen breitmachte.
+1	Bei	_	ADP	APPR	_	10	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Pollichia-Wanderung	_	NOUN	NN	_	1	NK	_	_
+4	um	_	ADP	APPR	_	3	OP	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Barbarossastadt	_	NOUN	NN	_	4	NK	_	_
+7	im	_	ADP	APPRART	_	3	MNR	_	_
+8	Juli	_	NOUN	NN	_	7	NK	_	_
+9	1941	_	NUM	CARD	_	8	NK	_	_
+10	wies	_	VERB	VVFIN	_	0	--	_	_
+11	ich	_	PRON	PPER	_	10	SB	_	_
+12	darauf	_	ADV	PROAV	_	10	OP	_	_
+13	hin	_	VERB	PTKVZ	_	10	SVP	_	_
+14	,	_	PUNCT	$,	_	10	PUNCT	_	_
+15	wie	_	PRON	PWAV	_	26	MO	_	_
+16	an	_	ADP	APPR	_	26	MO	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Bäumen	_	NOUN	NN	_	16	NK	_	_
+19	im	_	ADP	APPRART	_	18	MNR	_	_
+20	Burggraben	_	NOUN	NN	_	19	NK	_	_
+21	hinter	_	ADP	APPR	_	26	MO	_	_
+22	der	_	DET	ART	_	23	NK	_	_
+23	Kammgarnspinnerei	_	NOUN	NN	_	21	NK	_	_
+24	der	_	DET	ART	_	25	NK	_	_
+25	Efeu	_	NOUN	NN	_	26	SB	_	_
+26	emporkletterte	_	VERB	VVFIN	_	12	RE	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	die	_	DET	ART	_	29	NK	_	_
+29	Stämme	_	NOUN	NN	_	33	OA	_	_
+30	mit	_	ADP	APPR	_	33	MO	_	_
+31	üppigem	_	ADJ	ADJA	_	32	NK	_	_
+32	Grün	_	NOUN	NN	_	30	NK	_	_
+33	überzog	_	VERB	VVFIN	_	26	CJ	_	_
+34	und	_	CONJ	KON	_	33	CD	_	_
+35	sich	_	PRON	PRF	_	40	OA	_	_
+36	selbst	_	ADV	ADV	_	35	MNR	_	_
+37	in	_	ADP	APPR	_	40	MO	_	_
+38	den	_	DET	ART	_	39	NK	_	_
+39	Baumkronen	_	NOUN	NN	_	37	NK	_	_
+40	breitmachte	_	VERB	VVFIN	_	34	CJ	_	_
+41	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 143
+# text = Wenn bei Kaiserslautern der Efeu an freistehenden Bäumen bis in die Kronen klettert, an einer Kanadischen Pappel im Stadtpark mehr als 20 m hoch, so ist dies ein deutlicher Beweis für ozeanische Beeinflussung des Klimas des Kaiserslauterer Beckens.
+1	Wenn	_	CONJ	KOUS	_	13	CP	_	_
+2	bei	_	ADP	APPR	_	13	MO	_	_
+3	Kaiserslautern	_	NOUN	NN	_	2	NK	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Efeu	_	NOUN	NN	_	13	SB	_	_
+6	an	_	ADP	APPR	_	13	MO	_	_
+7	freistehenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Bäumen	_	NOUN	NN	_	6	NK	_	_
+9	bis	_	ADP	APPR	_	10	AC	_	_
+10	in	_	ADP	APPR	_	13	MO	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Kronen	_	NOUN	NN	_	10	NK	_	_
+13	klettert	_	VERB	VVPP	_	27	RE	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	an	_	ADP	APPR	_	25	MO	_	_
+16	einer	_	DET	ART	_	18	NK	_	_
+17	Kanadischen	_	ADJ	ADJA	_	18	NK	_	_
+18	Pappel	_	NOUN	NN	_	15	NK	_	_
+19	im	_	ADP	APPRART	_	18	MNR	_	_
+20	Stadtpark	_	NOUN	NN	_	19	NK	_	_
+21	mehr	_	PRON	PIAT	_	24	NK	_	_
+22	als	_	CONJ	KOKOM	_	23	CM	_	_
+23	20	_	NUM	CARD	_	21	CC	_	_
+24	m	_	NOUN	NN	_	25	AMS	_	_
+25	hoch	_	ADJ	ADJD	_	13	MO	_	_
+26	,	_	PUNCT	$,	_	27	PUNCT	_	_
+27	so	_	ADV	ADV	_	28	MO	_	_
+28	ist	_	VERB	VAFIN	_	0	--	_	_
+29	dies	_	PRON	PDS	_	28	SB	_	_
+30	ein	_	DET	ART	_	32	NK	_	_
+31	deutlicher	_	ADJ	ADJA	_	32	NK	_	_
+32	Beweis	_	NOUN	NN	_	28	PD	_	_
+33	für	_	ADP	APPR	_	32	MNR	_	_
+34	ozeanische	_	ADJ	ADJA	_	35	NK	_	_
+35	Beeinflussung	_	NOUN	NN	_	33	NK	_	_
+36	des	_	DET	ART	_	37	NK	_	_
+37	Klimas	_	NOUN	NN	_	35	AG	_	_
+38	des	_	DET	ART	_	40	NK	_	_
+39	Kaiserslauterer	_	NOUN	NN	_	40	NK	_	_
+40	Beckens	_	NOUN	NN	_	37	AG	_	_
+41	.	_	PUNCT	$.	_	28	PUNCT	_	_
+
+# sent_id = 144
+# text = (Ilex), die nicht etwa dort angepflanzt, sondern ursprünglich ist.
+1	(	_	PUNCT	$(	_	2	PUNCT	_	_
+2	Ilex	_	PROPN	NE	_	0	--	_	_
+3	)	_	PUNCT	$(	_	2	PUNCT	_	_
+4	,	_	PUNCT	$,	_	2	PUNCT	_	_
+5	die	_	PRON	PRELS	_	9	SB	_	_
+6	nicht	_	X	PTKNEG	_	9	NG	_	_
+7	etwa	_	ADV	ADV	_	8	MO	_	_
+8	dort	_	ADV	ADV	_	9	MO	_	_
+9	angepflanzt	_	VERB	VVPP	_	2	RC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	sondern	_	CONJ	KON	_	9	CD	_	_
+12	ursprünglich	_	ADJ	ADJD	_	13	MO	_	_
+13	ist	_	VERB	VAFIN	_	11	CJ	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 145
+# text = Die Hauptverbreitung von Efeu und Stechpalme liegt nahe der atlantischen Küste mit ihren reichen Niederschlägen, wo die Warmwasserheizung des Golfstroms für milde Winter sorgt, welche beide Pflanzen mit ihren immergrünen Blättern zur Assimilation ausnützen.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Hauptverbreitung	_	NOUN	NN	_	7	SB	_	_
+3	von	_	ADP	APPR	_	2	PG	_	_
+4	Efeu	_	NOUN	NN	_	3	NK	_	_
+5	und	_	CONJ	KON	_	4	CD	_	_
+6	Stechpalme	_	NOUN	NN	_	5	CJ	_	_
+7	liegt	_	VERB	VVFIN	_	0	--	_	_
+8	nahe	_	ADP	APPR	_	7	MO	_	_
+9	der	_	DET	ART	_	11	NK	_	_
+10	atlantischen	_	ADJ	ADJA	_	11	NK	_	_
+11	Küste	_	NOUN	NN	_	8	NK	_	_
+12	mit	_	ADP	APPR	_	11	MNR	_	_
+13	ihren	_	PRON	PPOSAT	_	15	NK	_	_
+14	reichen	_	ADJ	ADJA	_	15	NK	_	_
+15	Niederschlägen	_	NOUN	NN	_	12	NK	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	wo	_	PRON	PWAV	_	25	MO	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Warmwasserheizung	_	NOUN	NN	_	25	SB	_	_
+20	des	_	DET	ART	_	21	NK	_	_
+21	Golfstroms	_	NOUN	NN	_	19	AG	_	_
+22	für	_	ADP	APPR	_	25	OP	_	_
+23	milde	_	ADJ	ADJA	_	24	NK	_	_
+24	Winter	_	NOUN	NN	_	22	NK	_	_
+25	sorgt	_	VERB	VVFIN	_	11	RC	_	_
+26	,	_	PUNCT	$,	_	25	PUNCT	_	_
+27	welche	_	PRON	PRELS	_	36	OA	_	_
+28	beide	_	PRON	PIAT	_	29	NK	_	_
+29	Pflanzen	_	NOUN	NN	_	36	SB	_	_
+30	mit	_	ADP	APPR	_	36	MO	_	_
+31	ihren	_	PRON	PPOSAT	_	33	NK	_	_
+32	immergrünen	_	ADJ	ADJA	_	33	NK	_	_
+33	Blättern	_	NOUN	NN	_	30	NK	_	_
+34	zur	_	ADP	APPRART	_	36	MO	_	_
+35	Assimilation	_	NOUN	NN	_	34	NK	_	_
+36	ausnützen	_	VERB	VVINF	_	24	RC	_	_
+37	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 146
+# text = Ihm fehlt daher eine so vornehme Erscheinung unserer Pflanzenwelt wie das liebliche Moosglöckchen, Wahlenbergia hederacea, das bei Kaiserslautern vorgeschobene Posten seines Areals besitzt, und der westeuropäische Rote Fingerhut wandert wohl vom St. Instberter Waldeebiet über die Berge des Pfälzer Hauptsattels zum Königsberg bei Wolfstein, wagt sich aber nicht einmal in seine Randgebiete.
+1	Ihm	_	PRON	PPER	_	2	DA	_	_
+2	fehlt	_	VERB	VVFIN	_	0	--	_	_
+3	daher	_	ADV	PROAV	_	2	MO	_	_
+4	eine	_	DET	ART	_	7	NK	_	_
+5	so	_	ADV	ADV	_	6	MO	_	_
+6	vornehme	_	ADJ	ADJA	_	7	NK	_	_
+7	Erscheinung	_	NOUN	NN	_	2	OA	_	_
+8	unserer	_	PRON	PPOSAT	_	9	NK	_	_
+9	Pflanzenwelt	_	NOUN	NN	_	7	AG	_	_
+10	wie	_	CONJ	KOKOM	_	13	CM	_	_
+11	das	_	DET	ART	_	13	NK	_	_
+12	liebliche	_	ADJ	ADJA	_	13	NK	_	_
+13	Moosglöckchen	_	NOUN	NN	_	9	CC	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	Wahlenbergia	_	PROPN	NE	_	16	PNC	_	_
+16	hederacea	_	PROPN	NE	_	13	APP	_	_
+17	,	_	PUNCT	$,	_	7	PUNCT	_	_
+18	das	_	PRON	PRELS	_	25	SB	_	_
+19	bei	_	ADP	APPR	_	25	MO	_	_
+20	Kaiserslautern	_	NOUN	NN	_	19	NK	_	_
+21	vorgeschobene	_	ADJ	ADJA	_	22	NK	_	_
+22	Posten	_	NOUN	NN	_	25	OA	_	_
+23	seines	_	PRON	PPOSAT	_	24	NK	_	_
+24	Areals	_	NOUN	NN	_	22	AG	_	_
+25	besitzt	_	VERB	VVFIN	_	13	RC	_	_
+26	,	_	PUNCT	$,	_	2	PUNCT	_	_
+27	und	_	CONJ	KON	_	2	CD	_	_
+28	der	_	DET	ART	_	31	NK	_	_
+29	westeuropäische	_	ADJ	ADJA	_	31	NK	_	_
+30	Rote	_	ADJ	ADJA	_	31	NK	_	_
+31	Fingerhut	_	NOUN	NN	_	32	SB	_	_
+32	wandert	_	VERB	VVFIN	_	27	CJ	_	_
+33	wohl	_	ADV	ADV	_	32	MO	_	_
+34	vom	_	ADP	APPRART	_	32	MO	_	_
+35	St.	_	PROPN	NE	_	37	PNC	_	_
+36	Instberter	_	PROPN	NE	_	37	NK	_	_
+37	Waldeebiet	_	PROPN	NE	_	34	NK	_	_
+38	über	_	ADP	APPR	_	32	MO	_	_
+39	die	_	DET	ART	_	40	NK	_	_
+40	Berge	_	NOUN	NN	_	38	NK	_	_
+41	des	_	DET	ART	_	42	NK	_	_
+42	Pfälzer	_	NOUN	NN	_	40	AG	_	_
+43	Hauptsattels	_	NOUN	NN	_	42	NK	_	_
+44	zum	_	ADP	APPRART	_	32	MO	_	_
+45	Königsberg	_	PROPN	NE	_	44	NK	_	_
+46	bei	_	ADP	APPR	_	45	MNR	_	_
+47	Wolfstein	_	PROPN	NE	_	46	NK	_	_
+48	,	_	PUNCT	$,	_	49	PUNCT	_	_
+49	wagt	_	VERB	VVFIN	_	51	CJ	_	_
+50	sich	_	PRON	PRF	_	49	OA	_	_
+51	aber	_	ADV	ADV	_	32	CD	_	_
+52	nicht	_	X	PTKNEG	_	49	NG	_	_
+53	einmal	_	ADV	ADV	_	52	MO	_	_
+54	in	_	ADP	APPR	_	49	OP	_	_
+55	seine	_	PRON	PPOSAT	_	56	NK	_	_
+56	Randgebiete	_	NOUN	NN	_	54	NK	_	_
+57	.	_	PUNCT	$.	_	49	PUNCT	_	_
+
+# sent_id = 147
+# text = Den Haarigen Ginster, Genista pilosa, der ebenfalls gleich dem Färberginster ein halbimmerg.rüner Strauch ist, sah ich dort hinten überhaupt nicht, auch nicht das im Schmuck seiner blauen Blüten am Boden kriechende Singrün oder Immergrün, Vinca minor, das schon im mittleren Deutschland die Ostgrenze seines Vorkommens findet.
+1	Den	_	DET	ART	_	2	NK	_	_
+2	Haarigen	_	ADJ	ADJA	_	18	OA	_	_
+3	Ginster	_	NOUN	NN	_	2	NK	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	Genista	_	PROPN	NE	_	6	PNC	_	_
+6	pilosa	_	PROPN	NE	_	3	APP	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	der	_	PRON	PRELS	_	16	SB	_	_
+9	ebenfalls	_	ADV	ADV	_	16	MO	_	_
+10	gleich	_	ADV	ADV	_	12	CM	_	_
+11	dem	_	DET	ART	_	12	NK	_	_
+12	Färberginster	_	NOUN	NN	_	15	CC	_	_
+13	ein	_	DET	ART	_	15	NK	_	_
+14	halbimmerg.rüner	_	ADJ	ADJA	_	15	NK	_	_
+15	Strauch	_	NOUN	NN	_	16	PD	_	_
+16	ist	_	VERB	VAFIN	_	3	RC	_	_
+17	,	_	PUNCT	$,	_	18	PUNCT	_	_
+18	sah	_	VERB	VVFIN	_	0	--	_	_
+19	ich	_	PRON	PPER	_	18	SB	_	_
+20	dort	_	ADV	ADV	_	18	MO	_	_
+21	hinten	_	ADV	ADV	_	20	MO	_	_
+22	überhaupt	_	ADV	ADV	_	23	MO	_	_
+23	nicht	_	X	PTKNEG	_	18	NG	_	_
+24	,	_	PUNCT	$,	_	18	PUNCT	_	_
+25	auch	_	ADV	ADV	_	3	CD	_	_
+26	nicht	_	X	PTKNEG	_	18	NG	_	_
+27	das	_	DET	ART	_	36	NK	_	_
+28	im	_	ADP	APPRART	_	35	MO	_	_
+29	Schmuck	_	NOUN	NN	_	28	NK	_	_
+30	seiner	_	PRON	PPOSAT	_	32	NK	_	_
+31	blauen	_	ADJ	ADJA	_	32	NK	_	_
+32	Blüten	_	NOUN	NN	_	29	AG	_	_
+33	am	_	ADP	APPRART	_	35	MO	_	_
+34	Boden	_	NOUN	NN	_	33	NK	_	_
+35	kriechende	_	ADJ	ADJA	_	36	NK	_	_
+36	Singrün	_	NOUN	NN	_	25	CJ	_	_
+37	oder	_	CONJ	KON	_	36	CD	_	_
+38	Immergrün	_	NOUN	NN	_	37	CJ	_	_
+39	,	_	PUNCT	$,	_	36	PUNCT	_	_
+40	Vinca	_	PROPN	NE	_	41	PNC	_	_
+41	minor	_	PROPN	NE	_	36	APP	_	_
+42	,	_	PUNCT	$,	_	36	PUNCT	_	_
+43	das	_	PRON	PRELS	_	52	SB	_	_
+44	schon	_	ADV	ADV	_	45	MO	_	_
+45	im	_	ADP	APPRART	_	52	MO	_	_
+46	mittleren	_	ADJ	ADJA	_	47	NK	_	_
+47	Deutschland	_	PROPN	NE	_	45	NK	_	_
+48	die	_	DET	ART	_	49	NK	_	_
+49	Ostgrenze	_	NOUN	NN	_	52	OA	_	_
+50	seines	_	PRON	PPOSAT	_	51	NK	_	_
+51	Vorkommens	_	NOUN	NN	_	49	AG	_	_
+52	findet	_	VERB	VVFIN	_	36	RC	_	_
+53	.	_	PUNCT	$.	_	18	PUNCT	_	_
+
+# sent_id = 148
+# text = Das ist schon daraus zu ersehen, daß der Adlerfarn, Pteridium aquilinum, in geradezu tropisch anmutender Entwicklung dicht geschlossene Bestände von oft über Mannshöhe bildet.
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	schon	_	ADV	ADV	_	6	MO	_	_
+4	daraus	_	ADV	PROAV	_	6	MO	_	_
+5	zu	_	X	PTKZU	_	6	PM	_	_
+6	ersehen	_	VERB	VVINF	_	2	OC	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	27	CP	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Adlerfarn	_	NOUN	NN	_	27	SB	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	Pteridium	_	NOUN	NN	_	13	PNC	_	_
+13	aquilinum	_	VERB	VVINF	_	10	APP	_	_
+14	,	_	PUNCT	$,	_	27	PUNCT	_	_
+15	in	_	ADP	APPR	_	27	MO	_	_
+16	geradezu	_	ADV	ADV	_	18	MO	_	_
+17	tropisch	_	ADJ	ADJD	_	18	MO	_	_
+18	anmutender	_	ADJ	ADJA	_	19	NK	_	_
+19	Entwicklung	_	NOUN	NN	_	15	NK	_	_
+20	dicht	_	ADJ	ADJD	_	21	MO	_	_
+21	geschlossene	_	ADJ	ADJA	_	22	NK	_	_
+22	Bestände	_	NOUN	NN	_	27	OA	_	_
+23	von	_	ADP	APPR	_	22	MNR	_	_
+24	oft	_	ADV	ADV	_	25	MO	_	_
+25	über	_	ADP	APPR	_	26	NK	_	_
+26	Mannshöhe	_	NOUN	NN	_	23	NK	_	_
+27	bildet	_	VERB	VVFIN	_	4	RE	_	_
+28	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

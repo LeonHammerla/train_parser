@@ -1,0 +1,9 @@
+# sent_id = 192
+# text = Scopoli, Syn.369—378. Poa durapp.
+1	Scopoli	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Syn.369—378.	_	PROPN	NE	_	4	PNC	_	_
+4	Poa	_	PROPN	NE	_	1	APP	_	_
+5	durapp	_	VERB	PTKVZ	_	1	SVP	_	_
+6	.	_	PUNCT	$.	_	1	PUNCT	_	_
+

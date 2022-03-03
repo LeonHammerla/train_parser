@@ -1,0 +1,25 @@
+# sent_id = 47
+# text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bitte	_	_	_	_	0	root	_	_
+3	diejenigen	_	_	_	_	4	det	_	_
+4	Abgeordneten	_	_	_	_	2	obj	_	_
+5	,	_	_	_	_	13	punct	_	_
+6	die	_	_	_	_	13	nsubj	_	_
+7	den	_	_	_	_	8	det	_	_
+8	Antrag	_	_	_	_	13	obj	_	_
+9	morgen	_	_	_	_	13	advmod	_	_
+10	auf	_	_	_	_	12	case	_	_
+11	die	_	_	_	_	12	det	_	_
+12	Tagesordnung	_	_	_	_	13	obl	_	_
+13	setzen	_	_	_	_	4	acl	_	_
+14	wollen	_	_	_	_	13	aux	_	_
+15	,	_	_	_	_	13	punct	_	_
+16	sich	_	_	_	_	21	obj	_	_
+17	von	_	_	_	_	19	case	_	_
+18	den	_	_	_	_	19	det	_	_
+19	Plätzen	_	_	_	_	21	obl	_	_
+20	zu	_	_	_	_	21	mark	_	_
+21	erheben	_	_	_	_	2	xcomp	_	_
+22	.	_	_	_	_	2	punct	_	_
+

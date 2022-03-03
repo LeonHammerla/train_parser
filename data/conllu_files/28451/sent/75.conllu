@@ -1,0 +1,39 @@
+# sent_id = 75
+# text = Eine zur Pfingstzeit in Kaiserslautern zu Besuch weilende Münchnerin fand an der Schönheit unserer blühenden Besenginsterbestände, Sarothamnus, solches Wohlgefallen, daß sie Pflanzen ausgrub, um die Pracht ihres heimischen Gartens zu erhöhen.
+1	Eine	_	DET	ART	_	9	NK	_	_
+2	zur	_	ADP	APPRART	_	8	MO	_	_
+3	Pfingstzeit	_	NOUN	NN	_	2	NK	_	_
+4	in	_	ADP	APPR	_	8	MO	_	_
+5	Kaiserslautern	_	NOUN	NN	_	4	NK	_	_
+6	zu	_	ADP	APPR	_	8	OP	_	_
+7	Besuch	_	NOUN	NN	_	6	NK	_	_
+8	weilende	_	ADJ	ADJA	_	9	NK	_	_
+9	Münchnerin	_	NOUN	NN	_	10	SB	_	_
+10	fand	_	VERB	VVFIN	_	0	--	_	_
+11	an	_	ADP	APPR	_	21	OP	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Schönheit	_	NOUN	NN	_	11	NK	_	_
+14	unserer	_	PRON	PPOSAT	_	16	NK	_	_
+15	blühenden	_	ADJ	ADJA	_	16	NK	_	_
+16	Besenginsterbestände	_	NOUN	NN	_	13	AG	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	Sarothamnus	_	NOUN	NN	_	16	APP	_	_
+19	,	_	PUNCT	$,	_	16	PUNCT	_	_
+20	solches	_	PRON	PIAT	_	21	NK	_	_
+21	Wohlgefallen	_	NOUN	NN	_	10	OA	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	daß	_	CONJ	KOUS	_	26	CP	_	_
+24	sie	_	PRON	PPER	_	26	SB	_	_
+25	Pflanzen	_	NOUN	NN	_	26	OA	_	_
+26	ausgrub	_	VERB	VVFIN	_	10	MO	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	um	_	CONJ	KOUI	_	35	CP	_	_
+29	die	_	DET	ART	_	30	NK	_	_
+30	Pracht	_	NOUN	NN	_	35	OA	_	_
+31	ihres	_	PRON	PPOSAT	_	33	NK	_	_
+32	heimischen	_	ADJ	ADJA	_	33	NK	_	_
+33	Gartens	_	NOUN	NN	_	30	AG	_	_
+34	zu	_	X	PTKZU	_	35	PM	_	_
+35	erhöhen	_	VERB	VVINF	_	26	MO	_	_
+36	.	_	PUNCT	$.	_	10	PUNCT	_	_
+

@@ -1,0 +1,28 @@
+# sent_id = 161
+# text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung; das Gesetz hat, glaube ich, 170 Paragraphen.
+1	Die	_	_	_	_	2	det	_	_
+2	Hauptaufgabe	_	_	_	_	14	nsubj	_	_
+3	,	_	_	_	_	9	punct	_	_
+4	für	_	_	_	_	5	case	_	_
+5	welche	_	_	_	_	9	obl	_	_
+6	wir	_	_	_	_	9	nsubj	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Zeit	_	_	_	_	9	obj	_	_
+9	freigehalten	_	_	_	_	2	acl	_	_
+10	haben	_	_	_	_	9	aux	_	_
+11	,	_	_	_	_	2	punct	_	_
+12	ist	_	_	_	_	14	cop	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Unfallversicherungsgesetzgebung	_	_	_	_	0	root	_	_
+15	;	_	_	_	_	18	punct	_	_
+16	das	_	_	_	_	17	det	_	_
+17	Gesetz	_	_	_	_	18	nsubj	_	_
+18	hat	_	_	_	_	14	parataxis	_	_
+19	,	_	_	_	_	20	punct	_	_
+20	glaube	_	_	_	_	18	parataxis	_	_
+21	ich	_	_	_	_	20	nsubj	_	_
+22	,	_	_	_	_	20	punct	_	_
+23	170	_	_	_	_	24	nummod	_	_
+24	Paragraphen	_	_	_	_	18	obj	_	_
+25	.	_	_	_	_	14	punct	_	_
+

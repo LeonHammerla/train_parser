@@ -1,0 +1,11 @@
+# sent_id = 63
+# text = Colins leucocephalusHab: Kipini (Ostafrica).ala 50;
+1	Colins	_	PROPN	NE	_	2	AG	_	_
+2	leucocephalusHab	_	PROPN	NE	_	0	--	_	_
+3	:	_	PUNCT	$.	_	2	PUNCT	_	_
+4	Kipini	_	PROPN	NE	_	2	APP	_	_
+5	(	_	PUNCT	$(	_	6	PUNCT	_	_
+6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
+7	50	_	NUM	CARD	_	6	NK	_	_
+8	;	_	PUNCT	$.	_	6	PUNCT	_	_
+

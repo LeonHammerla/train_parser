@@ -1,0 +1,25 @@
+# sent_id = 69
+# text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Staat	_	NOUN	NN	_	6	SB	_	_
+3	und	_	CONJ	KON	_	2	CD	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Politik	_	NOUN	NN	_	3	CJ	_	_
+6	setzen	_	VERB	VVFIN	_	0	--	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Rahmenbedingungen	_	NOUN	NN	_	6	OA	_	_
+9	dafür	_	ADV	PROAV	_	6	MO	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	dass	_	CONJ	KOUS	_	21	CP	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Gewerkschaften	_	NOUN	NN	_	21	SB	_	_
+14	und	_	CONJ	KON	_	13	CD	_	_
+15	die	_	DET	ART	_	16	NK	_	_
+16	Arbeitgeberverbände	_	NOUN	NN	_	14	CJ	_	_
+17	diese	_	PRON	PDAT	_	18	NK	_	_
+18	Aufgabe	_	NOUN	NN	_	20	OA	_	_
+19	auch	_	ADV	ADV	_	20	MO	_	_
+20	umsetzen	_	VERB	VVINF	_	21	OC	_	_
+21	können	_	VERB	VMINF	_	9	RE	_	_
+22	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

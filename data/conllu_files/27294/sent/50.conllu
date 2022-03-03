@@ -1,0 +1,25 @@
+# sent_id = 50
+# text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	bitte	_	VERB	VVFIN	_	0	--	_	_
+3	diejenigen	_	PRON	PDAT	_	4	NK	_	_
+4	Abgeordneten	_	NOUN	NN	_	2	OA	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	die	_	PRON	PRELS	_	14	SB	_	_
+7	den	_	DET	ART	_	8	NK	_	_
+8	Antrag	_	NOUN	NN	_	13	OA	_	_
+9	morgen	_	ADV	ADV	_	13	MO	_	_
+10	auf	_	ADP	APPR	_	13	OP	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Tagesordnung	_	NOUN	NN	_	10	NK	_	_
+13	setzen	_	VERB	VVINF	_	14	OC	_	_
+14	wollen	_	VERB	VMFIN	_	4	RC	_	_
+15	,	_	PUNCT	$,	_	2	PUNCT	_	_
+16	sich	_	PRON	PRF	_	21	OA	_	_
+17	von	_	ADP	APPR	_	21	MO	_	_
+18	den	_	DET	ART	_	19	NK	_	_
+19	Plätzen	_	NOUN	NN	_	17	NK	_	_
+20	zu	_	X	PTKZU	_	21	PM	_	_
+21	erheben	_	VERB	VVINF	_	2	OC	_	_
+22	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

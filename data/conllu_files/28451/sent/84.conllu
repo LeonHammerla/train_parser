@@ -1,0 +1,26 @@
+# sent_id = 84
+# text = Der Gelbweiße Hohlzahn, Galeopsis ochroleuca, überzieht auf Sand - 74en zeigt die Schwarze Flockenblume, Centaurea nigra, dasselbe Verhalten.
+1	Der	_	DET	ART	_	3	NK	_	_
+2	Gelbweiße	_	ADJ	ADJA	_	3	NK	_	_
+3	Hohlzahn	_	NOUN	NN	_	8	SB	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	Galeopsis	_	NOUN	NN	_	6	PNC	_	_
+6	ochroleuca	_	PROPN	NE	_	3	APP	_	_
+7	,	_	PUNCT	$,	_	8	PUNCT	_	_
+8	überzieht	_	VERB	VVFIN	_	0	--	_	_
+9	auf	_	ADP	APPR	_	8	OP	_	_
+10	Sand	_	NOUN	NN	_	9	NK	_	_
+11	-	_	PUNCT	$(	_	12	DEP	_	_
+12	74en	_	ADV	ADV	_	13	SB	_	_
+13	zeigt	_	VERB	VVFIN	_	8	CJ	_	_
+14	die	_	DET	ART	_	16	NK	_	_
+15	Schwarze	_	ADJ	ADJA	_	16	NK	_	_
+16	Flockenblume	_	NOUN	NN	_	13	OA	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	Centaurea	_	PROPN	NE	_	19	PNC	_	_
+19	nigra	_	PROPN	NE	_	16	APP	_	_
+20	,	_	PUNCT	$,	_	16	PUNCT	_	_
+21	dasselbe	_	PRON	PDAT	_	22	NK	_	_
+22	Verhalten	_	NOUN	NN	_	13	OA	_	_
+23	.	_	PUNCT	$.	_	8	PUNCT	_	_
+

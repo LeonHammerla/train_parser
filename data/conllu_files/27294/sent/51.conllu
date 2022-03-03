@@ -1,0 +1,30 @@
+# sent_id = 51
+# text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Kampf	_	NOUN	NN	_	6	SB	_	_
+3	an	_	ADP	APPR	_	2	MNR	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Ruhr	_	NOUN	NN	_	3	NK	_	_
+6	zeigt	_	VERB	VVFIN	_	0	--	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	18	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Masse	_	NOUN	NN	_	18	SB	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Arbeiter	_	NOUN	NN	_	10	AG	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	Beamten	_	NOUN	NN	_	13	CJ	_	_
+15	die	_	DET	ART	_	17	NK	_	_
+16	breite	_	ADJ	ADJA	_	17	NK	_	_
+17	Grundlage	_	NOUN	NN	_	18	PD	_	_
+18	ist	_	VERB	VAFIN	_	6	OC	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	auf	_	ADP	APPR	_	26	OP	_	_
+21	der	_	DET	ART	_	20	NK	_	_
+22	Wirtschaft	_	NOUN	NN	_	26	SB	_	_
+23	und	_	CONJ	KON	_	22	CD	_	_
+24	Staat	_	NOUN	NN	_	23	CJ	_	_
+25	sich	_	PRON	PRF	_	26	OA	_	_
+26	aufbauen	_	VERB	VVINF	_	17	RC	_	_
+27	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

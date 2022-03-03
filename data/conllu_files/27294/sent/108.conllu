@@ -1,0 +1,27 @@
+# sent_id = 108
+# text = Zur Transparenz in der Ausbildung gehört aber auch - und dies ist mir besonders wichtig -, dass die Berufsschulleistungen angemessen berücksichtigt werden.
+1	Zur	_	ADP	APPRART	_	6	OP	_	_
+2	Transparenz	_	NOUN	NN	_	1	NK	_	_
+3	in	_	ADP	APPR	_	2	MNR	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Ausbildung	_	NOUN	NN	_	3	NK	_	_
+6	gehört	_	VERB	VVFIN	_	0	--	_	_
+7	aber	_	ADV	ADV	_	6	MO	_	_
+8	auch	_	ADV	ADV	_	6	MO	_	_
+9	-	_	PUNCT	$(	_	6	PUNCT	_	_
+10	und	_	CONJ	KON	_	12	JU	_	_
+11	dies	_	PRON	PDS	_	12	SB	_	_
+12	ist	_	VERB	VAFIN	_	6	PAR	_	_
+13	mir	_	PRON	PPER	_	12	DA	_	_
+14	besonders	_	ADV	ADV	_	15	MO	_	_
+15	wichtig	_	ADJ	ADJD	_	12	PD	_	_
+16	-	_	PUNCT	$(	_	6	PUNCT	_	_
+17	,	_	PUNCT	$,	_	6	PUNCT	_	_
+18	dass	_	CONJ	KOUS	_	23	CP	_	_
+19	die	_	DET	ART	_	20	NK	_	_
+20	Berufsschulleistungen	_	NOUN	NN	_	23	SB	_	_
+21	angemessen	_	ADJ	ADJD	_	22	MO	_	_
+22	berücksichtigt	_	VERB	VVPP	_	23	OC	_	_
+23	werden	_	VERB	VAINF	_	6	SB	_	_
+24	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

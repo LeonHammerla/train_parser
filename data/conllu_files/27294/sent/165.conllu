@@ -1,0 +1,27 @@
+# sent_id = 165
+# text = Es kommen mitunter sehr wichtige Petitionen vor, die auf die Verhandlungen und Beschlüsse des Hauses in der Sache von Einfluß sein können.
+1	Es	_	PRON	PPER	_	2	PH	_	_
+2	kommen	_	VERB	VVFIN	_	0	--	_	_
+3	mitunter	_	ADV	ADV	_	2	MO	_	_
+4	sehr	_	ADV	ADV	_	5	MO	_	_
+5	wichtige	_	ADJ	ADJA	_	6	NK	_	_
+6	Petitionen	_	NOUN	NN	_	2	SB	_	_
+7	vor	_	VERB	PTKVZ	_	2	SVP	_	_
+8	,	_	PUNCT	$,	_	2	PUNCT	_	_
+9	die	_	PRON	PRELS	_	23	SB	_	_
+10	auf	_	ADP	APPR	_	21	MO	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Verhandlungen	_	NOUN	NN	_	10	NK	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	Beschlüsse	_	NOUN	NN	_	13	CJ	_	_
+15	des	_	DET	ART	_	16	NK	_	_
+16	Hauses	_	NOUN	NN	_	14	AG	_	_
+17	in	_	ADP	APPR	_	12	MNR	_	_
+18	der	_	DET	ART	_	19	NK	_	_
+19	Sache	_	NOUN	NN	_	17	NK	_	_
+20	von	_	ADP	APPR	_	22	CVC	_	_
+21	Einfluß	_	NOUN	NN	_	20	NK	_	_
+22	sein	_	VERB	VAINF	_	23	OC	_	_
+23	können	_	VERB	VMFIN	_	6	RC	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

@@ -1,0 +1,11 @@
+# sent_id = 355
+# text = RLS V, RLD V. Verbreitung und Lebensraum
+1	RLS	_	PROPN	NE	_	2	PNC	_	_
+2	V	_	PROPN	NE	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	RLD	_	PROPN	NE	_	6	PNC	_	_
+5	V.	_	PROPN	NE	_	4	UC	_	_
+6	Verbreitung	_	NOUN	NN	_	2	CJ	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Lebensraum	_	NOUN	NN	_	7	CJ	_	_
+

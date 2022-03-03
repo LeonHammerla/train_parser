@@ -1,0 +1,27 @@
+# sent_id = 30
+# text = Man wird weit laufen müssen, um den Versammlungsleiter zu finden, der mit den Problemen dieses Gesetzentwurfs in souveräner Sicherheit fertigzuwerden vermag.
+1	Man	_	_	_	_	4	nsubj	_	_
+2	wird	_	_	_	_	4	aux	_	_
+3	weit	_	_	_	_	4	advmod	_	_
+4	laufen	_	_	_	_	0	root	_	_
+5	müssen	_	_	_	_	4	aux	_	_
+6	,	_	_	_	_	11	punct	_	_
+7	um	_	_	_	_	11	mark	_	_
+8	den	_	_	_	_	9	det	_	_
+9	Versammlungsleiter	_	_	_	_	11	obj	_	_
+10	zu	_	_	_	_	11	mark	_	_
+11	finden	_	_	_	_	4	advcl	_	_
+12	,	_	_	_	_	23	punct	_	_
+13	der	_	_	_	_	23	nsubj	_	_
+14	mit	_	_	_	_	16	case	_	_
+15	den	_	_	_	_	16	det	_	_
+16	Problemen	_	_	_	_	22	obl	_	_
+17	dieses	_	_	_	_	18	det	_	_
+18	Gesetzentwurfs	_	_	_	_	16	nmod	_	_
+19	in	_	_	_	_	21	case	_	_
+20	souveräner	_	_	_	_	21	amod	_	_
+21	Sicherheit	_	_	_	_	22	obl	_	_
+22	fertigzuwerden	_	_	_	_	23	xcomp	_	_
+23	vermag	_	_	_	_	9	acl	_	_
+24	.	_	_	_	_	4	punct	_	_
+

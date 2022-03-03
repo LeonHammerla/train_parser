@@ -1,0 +1,47 @@
+# sent_id = 253
+# text = Mit dem Wegbrechen dieser Felsen würden die letzten Standorte von Hutchinsia petraea, Arabis auriculata, Alsine Jacquini, Potentilla opaca, Trinia glauca, Globularia vulgaris, Sedum dasyphyllum, Stipa pennata etc. wohl für immer aus dem Gebiete unserer Flora verschwinden!
+1	Mit	_	ADP	APPR	_	6	MO	_	_
+2	dem	_	DET	ART	_	3	NK	_	_
+3	Wegbrechen	_	NOUN	NN	_	1	NK	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Felsen	_	NOUN	NN	_	3	AG	_	_
+6	würden	_	VERB	VAFIN	_	0	--	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	letzten	_	ADJ	ADJA	_	9	NK	_	_
+9	Standorte	_	NOUN	NN	_	6	SB	_	_
+10	von	_	ADP	APPR	_	9	PG	_	_
+11	Hutchinsia	_	PROPN	NE	_	12	PNC	_	_
+12	petraea	_	NOUN	NN	_	10	NK	_	_
+13	,	_	PUNCT	$,	_	9	PUNCT	_	_
+14	Arabis	_	PROPN	NE	_	15	PNC	_	_
+15	auriculata	_	PROPN	NE	_	12	CJ	_	_
+16	,	_	PUNCT	$,	_	9	PUNCT	_	_
+17	Alsine	_	PROPN	NE	_	18	PNC	_	_
+18	Jacquini	_	PROPN	NE	_	15	CJ	_	_
+19	,	_	PUNCT	$,	_	9	PUNCT	_	_
+20	Potentilla	_	PROPN	NE	_	21	PNC	_	_
+21	opaca	_	VERB	VVPP	_	18	CJ	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	Trinia	_	PROPN	NE	_	24	PNC	_	_
+24	glauca	_	PROPN	NE	_	21	CJ	_	_
+25	,	_	PUNCT	$,	_	21	PUNCT	_	_
+26	Globularia	_	PROPN	NE	_	27	PNC	_	_
+27	vulgaris	_	PROPN	NE	_	24	CJ	_	_
+28	,	_	PUNCT	$,	_	21	PUNCT	_	_
+29	Sedum	_	PROPN	NE	_	30	PNC	_	_
+30	dasyphyllum	_	PROPN	NE	_	27	CJ	_	_
+31	,	_	PUNCT	$,	_	6	PUNCT	_	_
+32	Stipa	_	PROPN	NE	_	33	PNC	_	_
+33	pennata	_	VERB	VVFIN	_	30	CJ	_	_
+34	etc.	_	ADV	ADV	_	33	CJ	_	_
+35	wohl	_	ADV	ADV	_	43	MO	_	_
+36	für	_	ADP	APPR	_	43	MO	_	_
+37	immer	_	ADV	ADV	_	36	NK	_	_
+38	aus	_	ADP	APPR	_	43	MO	_	_
+39	dem	_	DET	ART	_	40	NK	_	_
+40	Gebiete	_	NOUN	NN	_	38	NK	_	_
+41	unserer	_	PRON	PPOSAT	_	42	NK	_	_
+42	Flora	_	NOUN	NN	_	40	AG	_	_
+43	verschwinden	_	VERB	VVINF	_	6	OC	_	_
+44	!	_	PUNCT	$.	_	6	PUNCT	_	_
+

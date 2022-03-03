@@ -1,0 +1,6 @@
+# sent_id = 116
+# text = (Siviard)
+1	(	_	PUNCT	$(	_	2	PUNCT	_	_
+2	Siviard	_	PROPN	NE	_	0	--	_	_
+3	)	_	PUNCT	$(	_	2	PUNCT	_	_
+

@@ -1,0 +1,26 @@
+# sent_id = 10
+# text = Denn schließlich geht es auch um die Erhaltung des Finanzierungsspielraumes für die privaten Investitionen, und hier besteht ein enger innerer Zusammenhang.
+1	Denn	_	_	_	_	3	advmod	_	_
+2	schließlich	_	_	_	_	3	advmod	_	_
+3	geht	_	_	_	_	0	root	_	_
+4	es	_	_	_	_	3	expl	_	_
+5	auch	_	_	_	_	3	advmod	_	_
+6	um	_	_	_	_	8	case	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Erhaltung	_	_	_	_	3	obl	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Finanzierungsspielraumes	_	_	_	_	8	nmod	_	_
+11	für	_	_	_	_	14	case	_	_
+12	die	_	_	_	_	14	det	_	_
+13	privaten	_	_	_	_	14	amod	_	_
+14	Investitionen	_	_	_	_	10	nmod	_	_
+15	,	_	_	_	_	18	punct	_	_
+16	und	_	_	_	_	18	cc	_	_
+17	hier	_	_	_	_	18	advmod	_	_
+18	besteht	_	_	_	_	3	conj	_	_
+19	ein	_	_	_	_	22	det	_	_
+20	enger	_	_	_	_	22	amod	_	_
+21	innerer	_	_	_	_	22	amod	_	_
+22	Zusammenhang	_	_	_	_	18	nsubj	_	_
+23	.	_	_	_	_	3	punct	_	_
+

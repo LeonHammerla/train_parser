@@ -1,0 +1,11 @@
+# sent_id = 312
+# text = : Brutvogelatlas der Stadt Chemnitz 85 Flussregenpfeifer p858
+1	:	_	PUNCT	$.	_	2	PUNCT	_	_
+2	Brutvogelatlas	_	NOUN	NN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Stadt	_	NOUN	NN	_	2	AG	_	_
+5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
+6	85	_	NUM	CARD	_	7	NK	_	_
+7	Flussregenpfeifer	_	NOUN	NN	_	2	OA	_	_
+8	p858	_	NOUN	NN	_	7	NK	_	_
+

@@ -1,0 +1,512 @@
+# sent_id = 0
+# text = Haben wir in der Bundesrepublik Deutschland diese neuen Dimensionen der menschlichen Gesellschaft schon erkannt?
+1	Haben	_	_	_	_	14	aux	_	_
+2	wir	_	_	_	_	14	nsubj	_	_
+3	in	_	_	_	_	5	case	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Bundesrepublik	_	_	_	_	14	obl	_	_
+6	Deutschland	_	_	_	_	5	flat	_	_
+7	diese	_	_	_	_	9	det	_	_
+8	neuen	_	_	_	_	9	amod	_	_
+9	Dimensionen	_	_	_	_	14	obj	_	_
+10	der	_	_	_	_	12	det	_	_
+11	menschlichen	_	_	_	_	12	amod	_	_
+12	Gesellschaft	_	_	_	_	9	nmod	_	_
+13	schon	_	_	_	_	14	advmod	_	_
+14	erkannt	_	_	_	_	0	root	_	_
+15	?	_	_	_	_	14	punct	_	_
+
+# sent_id = 1
+# text = Zu den Äußerungen zur Kriegsfolgengesetzgebung wird mein Kollege Schmidt noch Stellung nehmen.
+1	Zu	_	_	_	_	3	case	_	_
+2	den	_	_	_	_	3	det	_	_
+3	Äußerungen	_	_	_	_	12	obl	_	_
+4	zur	_	_	_	_	5	case	_	_
+5	Kriegsfolgengesetzgebung	_	_	_	_	3	nmod	_	_
+6	wird	_	_	_	_	12	aux	_	_
+7	mein	_	_	_	_	8	det:poss	_	_
+8	Kollege	_	_	_	_	12	nsubj	_	_
+9	Schmidt	_	_	_	_	8	flat	_	_
+10	noch	_	_	_	_	12	advmod	_	_
+11	Stellung	_	_	_	_	12	obj	_	_
+12	nehmen	_	_	_	_	0	root	_	_
+13	.	_	_	_	_	12	punct	_	_
+
+# sent_id = 2
+# text = Es geht hier um den Bau von Kindergärten im Zonenrandgebiet.
+1	Es	_	_	_	_	2	expl	_	_
+2	geht	_	_	_	_	0	root	_	_
+3	hier	_	_	_	_	2	advmod	_	_
+4	um	_	_	_	_	6	case	_	_
+5	den	_	_	_	_	6	det	_	_
+6	Bau	_	_	_	_	2	obl	_	_
+7	von	_	_	_	_	8	case	_	_
+8	Kindergärten	_	_	_	_	6	nmod	_	_
+9	im	_	_	_	_	10	case	_	_
+10	Zonenrandgebiet	_	_	_	_	8	nmod	_	_
+11	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 3
+# text = In der Finanzpolitik aber konkretisieren sich die gesellschaftlichen Verhältnisse.
+1	In	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Finanzpolitik	_	_	_	_	5	obl	_	_
+4	aber	_	_	_	_	3	advmod	_	_
+5	konkretisieren	_	_	_	_	0	root	_	_
+6	sich	_	_	_	_	5	obj	_	_
+7	die	_	_	_	_	9	det	_	_
+8	gesellschaftlichen	_	_	_	_	9	amod	_	_
+9	Verhältnisse	_	_	_	_	5	nsubj	_	_
+10	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = Gegen Ende der Regierungserklärung kamen mit einer leicht vorangesetzten Betonung die Worte Nation und Vaterland.
+1	Gegen	_	_	_	_	2	case	_	_
+2	Ende	_	_	_	_	5	obl	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Regierungserklärung	_	_	_	_	2	nmod	_	_
+5	kamen	_	_	_	_	0	root	_	_
+6	mit	_	_	_	_	10	case	_	_
+7	einer	_	_	_	_	10	det	_	_
+8	leicht	_	_	_	_	9	advmod	_	_
+9	vorangesetzten	_	_	_	_	10	amod	_	_
+10	Betonung	_	_	_	_	5	obl	_	_
+11	die	_	_	_	_	12	det	_	_
+12	Worte	_	_	_	_	5	nsubj	_	_
+13	Nation	_	_	_	_	12	flat	_	_
+14	und	_	_	_	_	15	cc	_	_
+15	Vaterland	_	_	_	_	13	conj	_	_
+16	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 5
+# text = Damit sind die Ausbildungsmöglichkeiten des Auswärtigen Amts, insbesondere im europäischen Raum, voll erschöpft.
+1	Damit	_	_	_	_	15	advmod	_	_
+2	sind	_	_	_	_	15	cop	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Ausbildungsmöglichkeiten	_	_	_	_	15	nsubj	_	_
+5	des	_	_	_	_	7	det	_	_
+6	Auswärtigen	_	_	_	_	7	amod	_	_
+7	Amts	_	_	_	_	4	nmod	_	_
+8	,	_	_	_	_	12	punct	_	_
+9	insbesondere	_	_	_	_	12	advmod	_	_
+10	im	_	_	_	_	12	case	_	_
+11	europäischen	_	_	_	_	12	amod	_	_
+12	Raum	_	_	_	_	15	nmod	_	_
+13	,	_	_	_	_	12	punct	_	_
+14	voll	_	_	_	_	15	advmod	_	_
+15	erschöpft	_	_	_	_	0	root	_	_
+16	.	_	_	_	_	15	punct	_	_
+
+# sent_id = 6
+# text = Die Bundesregierung hofft, daß bald nach Eingang der russischen Antwortnote Gespräche zwischen den beiderseitigen Luftfahrtbehörden beginnen können.
+1	Die	_	_	_	_	2	det	_	_
+2	Bundesregierung	_	_	_	_	3	nsubj	_	_
+3	hofft	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	17	punct	_	_
+5	daß	_	_	_	_	17	mark	_	_
+6	bald	_	_	_	_	8	advmod	_	_
+7	nach	_	_	_	_	8	case	_	_
+8	Eingang	_	_	_	_	17	obl	_	_
+9	der	_	_	_	_	11	det	_	_
+10	russischen	_	_	_	_	11	amod	_	_
+11	Antwortnote	_	_	_	_	8	nmod	_	_
+12	Gespräche	_	_	_	_	17	nsubj	_	_
+13	zwischen	_	_	_	_	16	case	_	_
+14	den	_	_	_	_	16	det	_	_
+15	beiderseitigen	_	_	_	_	16	amod	_	_
+16	Luftfahrtbehörden	_	_	_	_	12	nmod	_	_
+17	beginnen	_	_	_	_	3	ccomp	_	_
+18	können	_	_	_	_	17	aux	_	_
+19	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Herr Kollege, wenn Sie der Auffassung sind, daß hier ein Zeitmangel nicht vorgelegen haben können, haben Sie natürlich recht.
+1	Herr	_	_	_	_	19	vocative	_	_
+2	Kollege	_	_	_	_	1	flat	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	wenn	_	_	_	_	7	mark	_	_
+5	Sie	_	_	_	_	7	nsubj	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Auffassung	_	_	_	_	19	advcl	_	_
+8	sind	_	_	_	_	7	cop	_	_
+9	,	_	_	_	_	15	punct	_	_
+10	daß	_	_	_	_	15	mark	_	_
+11	hier	_	_	_	_	15	advmod	_	_
+12	ein	_	_	_	_	13	det	_	_
+13	Zeitmangel	_	_	_	_	15	nsubj	_	_
+14	nicht	_	_	_	_	15	advmod	_	_
+15	vorgelegen	_	_	_	_	7	acl	_	_
+16	haben	_	_	_	_	15	aux	_	_
+17	können	_	_	_	_	15	aux	_	_
+18	,	_	_	_	_	7	punct	_	_
+19	haben	_	_	_	_	0	root	_	_
+20	Sie	_	_	_	_	19	nsubj	_	_
+21	natürlich	_	_	_	_	19	advmod	_	_
+22	recht	_	_	_	_	19	obj	_	_
+23	.	_	_	_	_	19	punct	_	_
+
+# sent_id = 8
+# text = In der Innenpolitik gewinnt die Gesundheitspolitik, insbesondere die gesundheitliche Vorsorge gegen die Gefahren der modernen Umwelt, immer mehr an Gewicht.
+1	In	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Innenpolitik	_	_	_	_	4	obl	_	_
+4	gewinnt	_	_	_	_	0	root	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Gesundheitspolitik	_	_	_	_	4	nsubj	_	_
+7	,	_	_	_	_	11	punct	_	_
+8	insbesondere	_	_	_	_	11	advmod	_	_
+9	die	_	_	_	_	11	det	_	_
+10	gesundheitliche	_	_	_	_	11	amod	_	_
+11	Vorsorge	_	_	_	_	6	nmod	_	_
+12	gegen	_	_	_	_	14	case	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Gefahren	_	_	_	_	11	nmod	_	_
+15	der	_	_	_	_	17	det	_	_
+16	modernen	_	_	_	_	17	amod	_	_
+17	Umwelt	_	_	_	_	14	nmod	_	_
+18	,	_	_	_	_	11	punct	_	_
+19	immer	_	_	_	_	20	advmod	_	_
+20	mehr	_	_	_	_	4	advmod	_	_
+21	an	_	_	_	_	22	case	_	_
+22	Gewicht	_	_	_	_	4	obl	_	_
+23	.	_	_	_	_	4	punct	_	_
+
+# sent_id = 9
+# text = Es waren sehr genaue, sehr sorgfältige Abstimmungen, die wir unter Respektierung der autonomen Stellung der Bundesbank vorgenommen haben.
+1	Es	_	_	_	_	8	nsubj	_	_
+2	waren	_	_	_	_	8	cop	_	_
+3	sehr	_	_	_	_	4	advmod	_	_
+4	genaue	_	_	_	_	8	amod	_	_
+5	,	_	_	_	_	7	punct	_	_
+6	sehr	_	_	_	_	7	advmod	_	_
+7	sorgfältige	_	_	_	_	4	conj	_	_
+8	Abstimmungen	_	_	_	_	0	root	_	_
+9	,	_	_	_	_	19	punct	_	_
+10	die	_	_	_	_	19	obj	_	_
+11	wir	_	_	_	_	19	nsubj	_	_
+12	unter	_	_	_	_	13	case	_	_
+13	Respektierung	_	_	_	_	19	obl	_	_
+14	der	_	_	_	_	16	det	_	_
+15	autonomen	_	_	_	_	16	amod	_	_
+16	Stellung	_	_	_	_	13	nmod	_	_
+17	der	_	_	_	_	18	det	_	_
+18	Bundesbank	_	_	_	_	16	nmod	_	_
+19	vorgenommen	_	_	_	_	8	acl	_	_
+20	haben	_	_	_	_	19	aux	_	_
+21	.	_	_	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = Denn schließlich geht es auch um die Erhaltung des Finanzierungsspielraumes für die privaten Investitionen, und hier besteht ein enger innerer Zusammenhang.
+1	Denn	_	_	_	_	3	advmod	_	_
+2	schließlich	_	_	_	_	3	advmod	_	_
+3	geht	_	_	_	_	0	root	_	_
+4	es	_	_	_	_	3	expl	_	_
+5	auch	_	_	_	_	3	advmod	_	_
+6	um	_	_	_	_	8	case	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Erhaltung	_	_	_	_	3	obl	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Finanzierungsspielraumes	_	_	_	_	8	nmod	_	_
+11	für	_	_	_	_	14	case	_	_
+12	die	_	_	_	_	14	det	_	_
+13	privaten	_	_	_	_	14	amod	_	_
+14	Investitionen	_	_	_	_	10	nmod	_	_
+15	,	_	_	_	_	18	punct	_	_
+16	und	_	_	_	_	18	cc	_	_
+17	hier	_	_	_	_	18	advmod	_	_
+18	besteht	_	_	_	_	3	conj	_	_
+19	ein	_	_	_	_	22	det	_	_
+20	enger	_	_	_	_	22	amod	_	_
+21	innerer	_	_	_	_	22	amod	_	_
+22	Zusammenhang	_	_	_	_	18	nsubj	_	_
+23	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 11
+# text = Er hat zugleich für die Partner seiner Koalition das Versprechen abgegeben, in der Zeit dieses Koalitionsbündnisses "alle wichtigen Aufgaben mit äußerster Entschlossenheit zu bewältigen".
+1	Er	_	_	_	_	11	nsubj	_	_
+2	hat	_	_	_	_	11	aux	_	_
+3	zugleich	_	_	_	_	11	advmod	_	_
+4	für	_	_	_	_	6	case	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Partner	_	_	_	_	11	obl	_	_
+7	seiner	_	_	_	_	8	det:poss	_	_
+8	Koalition	_	_	_	_	6	nmod	_	_
+9	das	_	_	_	_	10	det	_	_
+10	Versprechen	_	_	_	_	11	obj	_	_
+11	abgegeben	_	_	_	_	0	root	_	_
+12	,	_	_	_	_	26	punct	_	_
+13	in	_	_	_	_	15	case	_	_
+14	der	_	_	_	_	15	det	_	_
+15	Zeit	_	_	_	_	26	obl	_	_
+16	dieses	_	_	_	_	17	det	_	_
+17	Koalitionsbündnisses	_	_	_	_	15	nmod	_	_
+18	"	_	_	_	_	26	punct	_	_
+19	alle	_	_	_	_	21	det	_	_
+20	wichtigen	_	_	_	_	21	amod	_	_
+21	Aufgaben	_	_	_	_	26	obj	_	_
+22	mit	_	_	_	_	24	case	_	_
+23	äußerster	_	_	_	_	24	amod	_	_
+24	Entschlossenheit	_	_	_	_	26	obl	_	_
+25	zu	_	_	_	_	26	mark	_	_
+26	bewältigen	_	_	_	_	10	acl	_	_
+27	"	_	_	_	_	26	punct	_	_
+28	.	_	_	_	_	11	punct	_	_
+
+# sent_id = 12
+# text = Es ist unsere Aufgabe, in langen, ruhigen, freundschaftlichen Verhandlungen gewisse Widerstände, gewisse Einwendungen auszuräumen, die gegen den Beitritt Englands bestehen.
+1	Es	_	_	_	_	4	expl	_	_
+2	ist	_	_	_	_	4	cop	_	_
+3	unsere	_	_	_	_	4	det:poss	_	_
+4	Aufgabe	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	18	punct	_	_
+6	in	_	_	_	_	12	case	_	_
+7	langen	_	_	_	_	12	amod	_	_
+8	,	_	_	_	_	9	punct	_	_
+9	ruhigen	_	_	_	_	7	conj	_	_
+10	,	_	_	_	_	11	punct	_	_
+11	freundschaftlichen	_	_	_	_	7	conj	_	_
+12	Verhandlungen	_	_	_	_	18	obl	_	_
+13	gewisse	_	_	_	_	14	amod	_	_
+14	Widerstände	_	_	_	_	18	obj	_	_
+15	,	_	_	_	_	17	punct	_	_
+16	gewisse	_	_	_	_	17	amod	_	_
+17	Einwendungen	_	_	_	_	14	conj	_	_
+18	auszuräumen	_	_	_	_	4	csubj	_	_
+19	,	_	_	_	_	25	punct	_	_
+20	die	_	_	_	_	25	nsubj	_	_
+21	gegen	_	_	_	_	23	case	_	_
+22	den	_	_	_	_	23	det	_	_
+23	Beitritt	_	_	_	_	25	obl	_	_
+24	Englands	_	_	_	_	23	nmod	_	_
+25	bestehen	_	_	_	_	14	acl	_	_
+26	.	_	_	_	_	4	punct	_	_
+
+# sent_id = 13
+# text = Zur Frage der Höhe der Elternrente nach dem Bundesversorgungsgesetz muß allgemein berücksichtigt werden, daß hierfür das Einkommen der Eltern nach Abzug von Freibeträgen der vollen Elternrente gegenüberzustellen ist.
+1	Zur	_	_	_	_	2	case	_	_
+2	Frage	_	_	_	_	12	obl	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Höhe	_	_	_	_	2	nmod	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Elternrente	_	_	_	_	4	nmod	_	_
+7	nach	_	_	_	_	9	case	_	_
+8	dem	_	_	_	_	9	det	_	_
+9	Bundesversorgungsgesetz	_	_	_	_	4	nmod	_	_
+10	muß	_	_	_	_	12	aux	_	_
+11	allgemein	_	_	_	_	12	advmod	_	_
+12	berücksichtigt	_	_	_	_	0	root	_	_
+13	werden	_	_	_	_	12	aux:pass	_	_
+14	,	_	_	_	_	28	punct	_	_
+15	daß	_	_	_	_	28	mark	_	_
+16	hierfür	_	_	_	_	28	advmod	_	_
+17	das	_	_	_	_	18	det	_	_
+18	Einkommen	_	_	_	_	28	nsubj:pass	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Eltern	_	_	_	_	18	nmod	_	_
+21	nach	_	_	_	_	22	case	_	_
+22	Abzug	_	_	_	_	18	nmod	_	_
+23	von	_	_	_	_	24	case	_	_
+24	Freibeträgen	_	_	_	_	22	nmod	_	_
+25	der	_	_	_	_	27	det	_	_
+26	vollen	_	_	_	_	27	amod	_	_
+27	Elternrente	_	_	_	_	28	iobj	_	_
+28	gegenüberzustellen	_	_	_	_	12	csubj:pass	_	_
+29	ist	_	_	_	_	28	aux:pass	_	_
+30	.	_	_	_	_	12	punct	_	_
+
+# sent_id = 14
+# text = Seit zwei Jahren ist der Maßstab, den der Haushaltsausschuß und der Bundestagsvorstand anlegen, das Gutachten, das auf Wunsch des Hauses der Bundesrechnungshof erstellt hat.
+1	Seit	_	_	_	_	3	case	_	_
+2	zwei	_	_	_	_	3	nummod	_	_
+3	Jahren	_	_	_	_	17	nmod	_	_
+4	ist	_	_	_	_	17	cop	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Maßstab	_	_	_	_	17	nsubj	_	_
+7	,	_	_	_	_	14	punct	_	_
+8	den	_	_	_	_	14	obj	_	_
+9	der	_	_	_	_	10	det	_	_
+10	Haushaltsausschuß	_	_	_	_	14	nsubj	_	_
+11	und	_	_	_	_	13	cc	_	_
+12	der	_	_	_	_	13	det	_	_
+13	Bundestagsvorstand	_	_	_	_	10	conj	_	_
+14	anlegen	_	_	_	_	6	acl	_	_
+15	,	_	_	_	_	14	punct	_	_
+16	das	_	_	_	_	17	det	_	_
+17	Gutachten	_	_	_	_	0	root	_	_
+18	,	_	_	_	_	26	punct	_	_
+19	das	_	_	_	_	26	obj	_	_
+20	auf	_	_	_	_	21	case	_	_
+21	Wunsch	_	_	_	_	26	obl	_	_
+22	des	_	_	_	_	23	det	_	_
+23	Hauses	_	_	_	_	21	nmod	_	_
+24	der	_	_	_	_	25	det	_	_
+25	Bundesrechnungshof	_	_	_	_	26	nsubj	_	_
+26	erstellt	_	_	_	_	17	acl	_	_
+27	hat	_	_	_	_	26	aux	_	_
+28	.	_	_	_	_	17	punct	_	_
+
+# sent_id = 15
+# text = Nach übereinstimmender Auskunft des Dekans der medizinischen Fakultät der TH Aachen und des Kultusministeriums in Düsseldorf trifft es zu, daß zur Zeit vier Lehrstühle nicht besetzt sind und deshalb die unbedingt erforderlichen Lehrveranstaltungen in den Fächern Gerichtsmedizin und Zahnmedizin sowie die nur schwer ersetzbaren Lehrveranstaltungen in Hygiene und Medizingeschichte nicht stattfinden können.
+1	Nach	_	_	_	_	3	case	_	_
+2	übereinstimmender	_	_	_	_	3	amod	_	_
+3	Auskunft	_	_	_	_	17	obl	_	_
+4	des	_	_	_	_	5	det	_	_
+5	Dekans	_	_	_	_	3	nmod	_	_
+6	der	_	_	_	_	8	det	_	_
+7	medizinischen	_	_	_	_	8	amod	_	_
+8	Fakultät	_	_	_	_	5	nmod	_	_
+9	der	_	_	_	_	10	det	_	_
+10	TH	_	_	_	_	8	nmod	_	_
+11	Aachen	_	_	_	_	10	flat	_	_
+12	und	_	_	_	_	14	cc	_	_
+13	des	_	_	_	_	14	det	_	_
+14	Kultusministeriums	_	_	_	_	8	conj	_	_
+15	in	_	_	_	_	16	case	_	_
+16	Düsseldorf	_	_	_	_	14	nmod	_	_
+17	trifft	_	_	_	_	0	root	_	_
+18	es	_	_	_	_	17	expl	_	_
+19	zu	_	_	_	_	17	compound:prt	_	_
+20	,	_	_	_	_	27	punct	_	_
+21	daß	_	_	_	_	27	mark	_	_
+22	zur	_	_	_	_	23	case	_	_
+23	Zeit	_	_	_	_	27	obl	_	_
+24	vier	_	_	_	_	25	nummod	_	_
+25	Lehrstühle	_	_	_	_	27	nsubj:pass	_	_
+26	nicht	_	_	_	_	27	advmod	_	_
+27	besetzt	_	_	_	_	17	csubj	_	_
+28	sind	_	_	_	_	27	aux:pass	_	_
+29	und	_	_	_	_	52	cc	_	_
+30	deshalb	_	_	_	_	52	advmod	_	_
+31	die	_	_	_	_	34	det	_	_
+32	unbedingt	_	_	_	_	33	advmod	_	_
+33	erforderlichen	_	_	_	_	34	amod	_	_
+34	Lehrveranstaltungen	_	_	_	_	52	nsubj	_	_
+35	in	_	_	_	_	37	case	_	_
+36	den	_	_	_	_	37	det	_	_
+37	Fächern	_	_	_	_	34	nmod	_	_
+38	Gerichtsmedizin	_	_	_	_	37	flat	_	_
+39	und	_	_	_	_	40	cc	_	_
+40	Zahnmedizin	_	_	_	_	38	conj	_	_
+41	sowie	_	_	_	_	46	cc	_	_
+42	die	_	_	_	_	46	det	_	_
+43	nur	_	_	_	_	44	advmod	_	_
+44	schwer	_	_	_	_	45	advmod	_	_
+45	ersetzbaren	_	_	_	_	46	amod	_	_
+46	Lehrveranstaltungen	_	_	_	_	34	conj	_	_
+47	in	_	_	_	_	48	case	_	_
+48	Hygiene	_	_	_	_	46	nmod	_	_
+49	und	_	_	_	_	50	cc	_	_
+50	Medizingeschichte	_	_	_	_	48	conj	_	_
+51	nicht	_	_	_	_	52	advmod	_	_
+52	stattfinden	_	_	_	_	27	conj	_	_
+53	können	_	_	_	_	52	aux	_	_
+54	.	_	_	_	_	17	punct	_	_
+
+# sent_id = 16
+# text = Ich melde mich nur zu Wort, um einige Mißverständnisse zurückzuweisen und um auch einiges für den Vorsitzenden des Ausschusses zu sagen, der selber heute nicht hier sein kann.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	melde	_	_	_	_	0	root	_	_
+3	mich	_	_	_	_	2	obj	_	_
+4	nur	_	_	_	_	2	advmod	_	_
+5	zu	_	_	_	_	6	case	_	_
+6	Wort	_	_	_	_	2	obl	_	_
+7	,	_	_	_	_	11	punct	_	_
+8	um	_	_	_	_	11	mark	_	_
+9	einige	_	_	_	_	10	det	_	_
+10	Mißverständnisse	_	_	_	_	11	obj	_	_
+11	zurückzuweisen	_	_	_	_	2	advcl	_	_
+12	und	_	_	_	_	22	cc	_	_
+13	um	_	_	_	_	22	mark	_	_
+14	auch	_	_	_	_	22	advmod	_	_
+15	einiges	_	_	_	_	22	obj	_	_
+16	für	_	_	_	_	18	case	_	_
+17	den	_	_	_	_	18	det	_	_
+18	Vorsitzenden	_	_	_	_	15	nmod	_	_
+19	des	_	_	_	_	20	det	_	_
+20	Ausschusses	_	_	_	_	18	nmod	_	_
+21	zu	_	_	_	_	22	mark	_	_
+22	sagen	_	_	_	_	11	conj	_	_
+23	,	_	_	_	_	29	punct	_	_
+24	der	_	_	_	_	29	nsubj	_	_
+25	selber	_	_	_	_	29	advmod	_	_
+26	heute	_	_	_	_	29	advmod	_	_
+27	nicht	_	_	_	_	29	advmod	_	_
+28	hier	_	_	_	_	29	advmod	_	_
+29	sein	_	_	_	_	18	acl	_	_
+30	kann	_	_	_	_	29	aux	_	_
+31	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 17
+# text = Diese gesamtdeutschen technischen Kommissionen sollten nicht losgelöst, sondern als Stufe in einem Wiedervereinigungsvorgang betrachtet werden, sollten Fragen der innerdeutschen Kontakte, des Handels, der Kultur, des Verkehrs und des Sports erörtern.
+1	Diese	_	_	_	_	4	det	_	_
+2	gesamtdeutschen	_	_	_	_	4	amod	_	_
+3	technischen	_	_	_	_	4	amod	_	_
+4	Kommissionen	_	_	_	_	15	nsubj:pass	_	_
+5	sollten	_	_	_	_	15	aux	_	_
+6	nicht	_	_	_	_	7	advmod	_	_
+7	losgelöst	_	_	_	_	15	xcomp	_	_
+8	,	_	_	_	_	15	punct	_	_
+9	sondern	_	_	_	_	11	cc	_	_
+10	als	_	_	_	_	11	case	_	_
+11	Stufe	_	_	_	_	7	conj	_	_
+12	in	_	_	_	_	14	case	_	_
+13	einem	_	_	_	_	14	det	_	_
+14	Wiedervereinigungsvorgang	_	_	_	_	11	nmod	_	_
+15	betrachtet	_	_	_	_	15	root	_	_
+16	werden	_	_	_	_	15	aux:pass	_	_
+17	,	_	_	_	_	35	punct	_	_
+18	sollten	_	_	_	_	35	aux	_	_
+19	Fragen	_	_	_	_	35	obj	_	_
+20	der	_	_	_	_	22	det	_	_
+21	innerdeutschen	_	_	_	_	22	amod	_	_
+22	Kontakte	_	_	_	_	19	nmod	_	_
+23	,	_	_	_	_	25	punct	_	_
+24	des	_	_	_	_	25	det	_	_
+25	Handels	_	_	_	_	22	conj	_	_
+26	,	_	_	_	_	28	punct	_	_
+27	der	_	_	_	_	28	det	_	_
+28	Kultur	_	_	_	_	22	conj	_	_
+29	,	_	_	_	_	31	punct	_	_
+30	des	_	_	_	_	31	det	_	_
+31	Verkehrs	_	_	_	_	22	conj	_	_
+32	und	_	_	_	_	34	cc	_	_
+33	des	_	_	_	_	34	det	_	_
+34	Sports	_	_	_	_	22	conj	_	_
+35	erörtern	_	_	_	_	15	conj	_	_
+36	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 18
+# text = Die Bundesregierung hat die Absicht, zu dieser ersten Konferenz nicht nur die Vertreter der EWG-Staaten, sondern auch die Vertreter anderer Mitgliedstaaten des Europarates einzuladen, soweit sie interessiert sind.
+1	Die	_	_	_	_	2	det	_	_
+2	Bundesregierung	_	_	_	_	3	nsubj	_	_
+3	hat	_	_	_	_	0	root	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Absicht	_	_	_	_	3	obj	_	_
+6	,	_	_	_	_	26	punct	_	_
+7	zu	_	_	_	_	10	case	_	_
+8	dieser	_	_	_	_	10	det	_	_
+9	ersten	_	_	_	_	10	amod	_	_
+10	Konferenz	_	_	_	_	26	obl	_	_
+11	nicht	_	_	_	_	14	cc	_	_
+12	nur	_	_	_	_	14	advmod	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Vertreter	_	_	_	_	26	obj	_	_
+15	der	_	_	_	_	16	det	_	_
+16	EWG-Staaten	_	_	_	_	14	nmod	_	_
+17	,	_	_	_	_	21	punct	_	_
+18	sondern	_	_	_	_	21	cc	_	_
+19	auch	_	_	_	_	21	advmod	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Vertreter	_	_	_	_	14	conj	_	_
+22	anderer	_	_	_	_	23	amod	_	_
+23	Mitgliedstaaten	_	_	_	_	21	nmod	_	_
+24	des	_	_	_	_	25	det	_	_
+25	Europarates	_	_	_	_	23	nmod	_	_
+26	einzuladen	_	_	_	_	5	acl	_	_
+27	,	_	_	_	_	30	punct	_	_
+28	soweit	_	_	_	_	30	mark	_	_
+29	sie	_	_	_	_	30	nsubj	_	_
+30	interessiert	_	_	_	_	26	advcl	_	_
+31	sind	_	_	_	_	30	cop	_	_
+32	.	_	_	_	_	3	punct	_	_
+

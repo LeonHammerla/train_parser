@@ -1,0 +1,18 @@
+# sent_id = 108
+# text = In den Gemarkungen Lambsheim, Freinsheim, Großkarlbach konnte ich den Wiedehopf ebenfalls feststellen.
+1	In	_	ADP	APPR	_	9	MO	_	_
+2	den	_	DET	ART	_	4	NK	_	_
+3	Gemarkungen	_	ADJ	ADJA	_	4	NK	_	_
+4	Lambsheim	_	NOUN	NN	_	1	NK	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	Freinsheim	_	PROPN	NE	_	4	CJ	_	_
+7	,	_	PUNCT	$,	_	4	PUNCT	_	_
+8	Großkarlbach	_	NOUN	NN	_	6	CJ	_	_
+9	konnte	_	VERB	VMFIN	_	0	--	_	_
+10	ich	_	PRON	PPER	_	9	SB	_	_
+11	den	_	DET	ART	_	12	NK	_	_
+12	Wiedehopf	_	NOUN	NN	_	14	OA	_	_
+13	ebenfalls	_	ADV	ADV	_	14	MO	_	_
+14	feststellen	_	VERB	VVINF	_	9	OC	_	_
+15	.	_	PUNCT	$.	_	9	PUNCT	_	_
+

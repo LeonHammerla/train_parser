@@ -1,21 +1,33 @@
+==============================================================================================================
+corpus-based
+==============================================================================================================
 /home/stud_homes/s5935481/work3/models/biaffine_dep_de_tiger
-2022-02-25 12:43:09 INFO Loading the data
-2022-02-25 12:43:09 INFO 
-Dataset(n_sentences=170, n_batches=8, n_buckets=8)
-2022-02-25 12:43:09 INFO Evaluating the dataset
-2022-02-25 12:43:10 INFO loss: 0.6309 - UCM: 23.53% LCM: 15.88% UAS: 91.07% LAS: 88.44%
-2022-02-25 12:43:10 INFO 0:00:00.355221s elapsed, 478.58 Sents/s
+UCM: 23.53% LCM: 15.88% UAS: 91.07% LAS: 88.44%
 /home/stud_homes/s5935481/work3/models/crf_dep_de_tiger
-2022-02-25 12:43:13 INFO Loading the data
-2022-02-25 12:43:13 INFO 
-Dataset(n_sentences=170, n_batches=8, n_buckets=8)
-2022-02-25 12:43:13 INFO Evaluating the dataset
-2022-02-25 12:43:14 INFO loss: 0.6652 - UCM: 25.29% LCM: 19.41% UAS: 90.38% LAS: 87.49%
-2022-02-25 12:43:14 INFO 0:00:00.453585s elapsed, 374.79 Sents/s
+UCM: 25.29% LCM: 19.41% UAS: 90.38% LAS: 87.49%
 /home/stud_homes/s5935481/work3/models/crf2o_dep_de_tiger
-2022-02-25 12:43:18 INFO Loading the data
-2022-02-25 12:43:18 INFO 
-Dataset(n_sentences=170, n_batches=8, n_buckets=8)
-2022-02-25 12:43:18 INFO Evaluating the dataset
-2022-02-25 12:43:18 INFO loss: 0.7695 - UCM: 23.53% LCM: 17.65% UAS: 89.77% LAS: 87.00%
-2022-02-25 12:43:18 INFO 0:00:00.696598s elapsed, 244.04 Sents/s
+UCM: 23.53% LCM: 17.65% UAS: 89.77% LAS: 87.00%
+==============================================================================================================
+
+==============================================================================================================
+document-based
+==============================================================================================================
+/home/stud_homes/s5935481/work3/models/biaffine_dep_de_tiger
+UCM: 23.90% LCM: 16.12% UAS: 90.99% LAS: 88.38%
+/home/stud_homes/s5935481/work3/models/crf_dep_de_tiger
+UCM: 25.46% LCM: 19.42% UAS: 90.23% LAS: 87.32%
+/home/stud_homes/s5935481/work3/models/crf2o_dep_de_tiger
+UCM: 23.61% LCM: 17.69% UAS: 89.66% LAS: 86.89%
+==============================================================================================================
+
+==============================================================================================================
+sent-based
+==============================================================================================================
+/home/stud_homes/s5935481/work3/models/biaffine_dep_de_tiger
+UCM: 23.53% LCM: 15.88% UAS: 91.06% LAS: 88.34%
+/home/stud_homes/s5935481/work3/models/crf_dep_de_tiger
+UCM: 25.29% LCM: 19.41% UAS: 90.66% LAS: 87.52%
+/home/stud_homes/s5935481/work3/models/crf2o_dep_de_tiger
+UCM: 23.53% LCM: 17.65% UAS: 90.15% LAS: 87.22%
+==============================================================================================================
+

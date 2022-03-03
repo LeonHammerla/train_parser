@@ -1,0 +1,22 @@
+# sent_id = 60
+# text = Wir können Ihnen die Projekte gerne auflisten, damit Sie sehen, wie vielfältig dieses Programm ausgestaltet ist.
+1	Wir	_	_	_	_	7	nsubj	_	_
+2	können	_	_	_	_	7	aux	_	_
+3	Ihnen	_	_	_	_	7	iobj	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Projekte	_	_	_	_	7	obj	_	_
+6	gerne	_	_	_	_	7	advmod	_	_
+7	auflisten	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	11	punct	_	_
+9	damit	_	_	_	_	11	mark	_	_
+10	Sie	_	_	_	_	11	nsubj	_	_
+11	sehen	_	_	_	_	7	advcl	_	_
+12	,	_	_	_	_	17	punct	_	_
+13	wie	_	_	_	_	14	advmod	_	_
+14	vielfältig	_	_	_	_	17	advmod	_	_
+15	dieses	_	_	_	_	16	det	_	_
+16	Programm	_	_	_	_	17	nsubj:pass	_	_
+17	ausgestaltet	_	_	_	_	11	ccomp	_	_
+18	ist	_	_	_	_	17	aux:pass	_	_
+19	.	_	_	_	_	7	punct	_	_
+

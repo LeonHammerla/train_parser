@@ -1,0 +1,31 @@
+# sent_id = 236
+# text = Auch das zeitweise Entstehen etlicher Ruderalflächen in den 1990er-Jahren, die den Bestand potenzieller Wirtsvögel begünstigten (z. B. Sumpfrohrsänger), haben wahrscheinlich zur Bestandserholung beigetragen.
+1	Auch	_	ADV	ADV	_	4	MO	_	_
+2	das	_	DET	ART	_	4	NK	_	_
+3	zeitweise	_	ADV	ADV	_	4	NK	_	_
+4	Entstehen	_	NOUN	NN	_	23	SB	_	_
+5	etlicher	_	ADJ	ADJA	_	6	NK	_	_
+6	Ruderalflächen	_	NOUN	NN	_	4	AG	_	_
+7	in	_	ADP	APPR	_	4	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	1990er-Jahren	_	NOUN	NN	_	7	NK	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	die	_	PRON	PRELS	_	16	SB	_	_
+12	den	_	DET	ART	_	13	NK	_	_
+13	Bestand	_	NOUN	NN	_	16	OA	_	_
+14	potenzieller	_	ADJ	ADJA	_	15	NK	_	_
+15	Wirtsvögel	_	NOUN	NN	_	13	AG	_	_
+16	begünstigten	_	VERB	VVFIN	_	6	RC	_	_
+17	(	_	PUNCT	$(	_	20	PUNCT	_	_
+18	z.	_	ADP	APPRART	_	20	MO	_	_
+19	B.	_	NOUN	NN	_	18	NK	_	_
+20	Sumpfrohrsänger	_	NOUN	NN	_	16	PAR	_	_
+21	)	_	PUNCT	$(	_	20	PUNCT	_	_
+22	,	_	PUNCT	$,	_	23	PUNCT	_	_
+23	haben	_	VERB	VAFIN	_	0	--	_	_
+24	wahrscheinlich	_	ADJ	ADJD	_	27	MO	_	_
+25	zur	_	ADP	APPRART	_	27	OP	_	_
+26	Bestandserholung	_	NOUN	NN	_	25	NK	_	_
+27	beigetragen	_	VERB	VVPP	_	23	OC	_	_
+28	.	_	PUNCT	$.	_	23	PUNCT	_	_
+

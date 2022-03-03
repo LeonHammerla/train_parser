@@ -1,0 +1,7 @@
+# sent_id = 169
+# text = Setaria italica Beauv.
+1	Setaria	_	PROPN	NE	_	3	PNC	_	_
+2	italica	_	VERB	VVFIN	_	3	NK	_	_
+3	Beauv	_	NOUN	NN	_	0	--	_	_
+4	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,16 @@
+# sent_id = 123
+# text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen;
+1	Nur	_	ADV	ADV	_	2	MO	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	bei	_	ADP	APPR	_	2	MO	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Anfrage	_	NOUN	NN	_	3	NK	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Schuß	_	NOUN	NN	_	2	SB	_	_
+8	für	_	ADP	APPR	_	12	MO	_	_
+9	Sie	_	PRON	PPER	_	8	NK	_	_
+10	nach	_	ADP	APPR	_	12	MO	_	_
+11	hinten	_	ADV	ADV	_	10	MO	_	_
+12	losgegangen	_	VERB	VVPP	_	2	OC	_	_
+13	;	_	PUNCT	$.	_	2	PUNCT	_	_
+

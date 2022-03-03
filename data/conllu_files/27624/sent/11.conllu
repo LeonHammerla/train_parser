@@ -1,0 +1,31 @@
+# sent_id = 11
+# text = Er hat zugleich für die Partner seiner Koalition das Versprechen abgegeben, in der Zeit dieses Koalitionsbündnisses "alle wichtigen Aufgaben mit äußerster Entschlossenheit zu bewältigen".
+1	Er	_	_	_	_	11	nsubj	_	_
+2	hat	_	_	_	_	11	aux	_	_
+3	zugleich	_	_	_	_	11	advmod	_	_
+4	für	_	_	_	_	6	case	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Partner	_	_	_	_	11	obl	_	_
+7	seiner	_	_	_	_	8	det:poss	_	_
+8	Koalition	_	_	_	_	6	nmod	_	_
+9	das	_	_	_	_	10	det	_	_
+10	Versprechen	_	_	_	_	11	obj	_	_
+11	abgegeben	_	_	_	_	0	root	_	_
+12	,	_	_	_	_	26	punct	_	_
+13	in	_	_	_	_	15	case	_	_
+14	der	_	_	_	_	15	det	_	_
+15	Zeit	_	_	_	_	26	obl	_	_
+16	dieses	_	_	_	_	17	det	_	_
+17	Koalitionsbündnisses	_	_	_	_	15	nmod	_	_
+18	"	_	_	_	_	26	punct	_	_
+19	alle	_	_	_	_	21	det	_	_
+20	wichtigen	_	_	_	_	21	amod	_	_
+21	Aufgaben	_	_	_	_	26	obj	_	_
+22	mit	_	_	_	_	24	case	_	_
+23	äußerster	_	_	_	_	24	amod	_	_
+24	Entschlossenheit	_	_	_	_	26	obl	_	_
+25	zu	_	_	_	_	26	mark	_	_
+26	bewältigen	_	_	_	_	10	acl	_	_
+27	"	_	_	_	_	26	punct	_	_
+28	.	_	_	_	_	11	punct	_	_
+

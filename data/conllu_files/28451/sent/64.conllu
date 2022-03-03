@@ -1,0 +1,6 @@
+# sent_id = 64
+# text = cauda 32;
+1	cauda	_	PROPN	NE	_	2	PNC	_	_
+2	32	_	NUM	CARD	_	0	--	_	_
+3	;	_	PUNCT	$.	_	2	PUNCT	_	_
+

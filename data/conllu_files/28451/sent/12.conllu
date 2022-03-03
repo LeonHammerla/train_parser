@@ -1,0 +1,30 @@
+# sent_id = 12
+# text = Die Agraylea-Larve aus dem Altrhein Neuhofen, deren Nymphe Herr Prof. Klapalek als A. pallidulaerstere gehört der Gattung Agraylea an, letztere ist noch etwas zweifelhaft.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Agraylea-Larve	_	NOUN	NN	_	16	SB	_	_
+3	aus	_	ADP	APPR	_	2	MNR	_	_
+4	dem	_	DET	ART	_	5	NK	_	_
+5	Altrhein	_	NOUN	NN	_	3	NK	_	_
+6	Neuhofen	_	NOUN	NN	_	5	NK	_	_
+7	,	_	PUNCT	$,	_	5	PUNCT	_	_
+8	deren	_	PRON	PRELAT	_	10	AG	_	_
+9	Nymphe	_	PROPN	NE	_	10	NK	_	_
+10	Herr	_	NOUN	NN	_	16	SB	_	_
+11	Prof.	_	NOUN	NN	_	10	PUNCT	_	_
+12	Klapalek	_	PROPN	NE	_	10	NK	_	_
+13	als	_	ADP	APPR	_	15	CM	_	_
+14	A.	_	PROPN	NE	_	15	PNC	_	_
+15	pallidulaerstere	_	NOUN	NN	_	12	CC	_	_
+16	gehört	_	VERB	VVFIN	_	0	--	_	_
+17	der	_	DET	ART	_	18	NK	_	_
+18	Gattung	_	NOUN	NN	_	16	DA	_	_
+19	Agraylea	_	PROPN	NE	_	18	NK	_	_
+20	an	_	VERB	PTKVZ	_	16	SVP	_	_
+21	,	_	PUNCT	$,	_	16	PUNCT	_	_
+22	letztere	_	PRON	PIS	_	23	SB	_	_
+23	ist	_	VERB	VAFIN	_	16	CJ	_	_
+24	noch	_	ADV	ADV	_	25	MO	_	_
+25	etwas	_	ADV	ADV	_	26	MO	_	_
+26	zweifelhaft	_	ADJ	ADJD	_	23	PD	_	_
+27	.	_	PUNCT	$.	_	16	PUNCT	_	_
+

@@ -1,0 +1,29 @@
+# sent_id = 12
+# text = Es ist unsere Aufgabe, in langen, ruhigen, freundschaftlichen Verhandlungen gewisse Widerstände, gewisse Einwendungen auszuräumen, die gegen den Beitritt Englands bestehen.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	unsere	_	PRON	PPOSAT	_	4	NK	_	_
+4	Aufgabe	_	NOUN	NN	_	2	PD	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	in	_	ADP	APPR	_	18	MO	_	_
+7	langen	_	ADJ	ADJA	_	12	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	ruhigen	_	ADJ	ADJA	_	7	CJ	_	_
+10	,	_	PUNCT	$,	_	7	PUNCT	_	_
+11	freundschaftlichen	_	ADJ	ADJA	_	7	CJ	_	_
+12	Verhandlungen	_	NOUN	NN	_	6	NK	_	_
+13	gewisse	_	ADJ	ADJA	_	14	NK	_	_
+14	Widerstände	_	NOUN	NN	_	18	OA	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	gewisse	_	ADJ	ADJA	_	17	NK	_	_
+17	Einwendungen	_	NOUN	NN	_	14	CJ	_	_
+18	auszuräumen	_	VERB	VVIZU	_	1	RE	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	die	_	PRON	PRELS	_	25	SB	_	_
+21	gegen	_	ADP	APPR	_	25	MO	_	_
+22	den	_	DET	ART	_	23	NK	_	_
+23	Beitritt	_	NOUN	NN	_	21	NK	_	_
+24	Englands	_	NOUN	NN	_	23	AG	_	_
+25	bestehen	_	VERB	VVFIN	_	17	RC	_	_
+26	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

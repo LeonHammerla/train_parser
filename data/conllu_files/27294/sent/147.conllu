@@ -1,0 +1,31 @@
+# sent_id = 147
+# text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	wies	_	VERB	VVFIN	_	0	--	_	_
+3	damals	_	ADV	ADV	_	2	MO	_	_
+4	auch	_	ADV	ADV	_	5	MO	_	_
+5	darauf	_	ADV	PROAV	_	2	OP	_	_
+6	hin	_	VERB	PTKVZ	_	2	SVP	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	27	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Aufrechterhaltung	_	NOUN	NN	_	27	SB	_	_
+11	eines	_	DET	ART	_	15	NK	_	_
+12	so	_	ADV	ADV	_	13	MO	_	_
+13	gewaltigen	_	ADJ	ADJA	_	15	NK	_	_
+14	militärischen	_	ADJ	ADJA	_	15	NK	_	_
+15	Arsenals	_	NOUN	NN	_	10	AG	_	_
+16	in	_	ADP	APPR	_	15	MNR	_	_
+17	Mitteleuropa	_	PROPN	NE	_	16	NK	_	_
+18	ohne	_	ADP	APPR	_	10	MNR	_	_
+19	Sinn	_	NOUN	NN	_	18	NK	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	Zweck	_	NOUN	NN	_	20	CJ	_	_
+22	nur	_	ADV	ADV	_	23	MO	_	_
+23	als	_	ADP	APPR	_	25	MO	_	_
+24	Gefahrenherd	_	NOUN	NN	_	23	NK	_	_
+25	angesehen	_	VERB	VVPP	_	26	OC	_	_
+26	werden	_	VERB	VAINF	_	27	OC	_	_
+27	müßte	_	VERB	VMFIN	_	5	RE	_	_
+28	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

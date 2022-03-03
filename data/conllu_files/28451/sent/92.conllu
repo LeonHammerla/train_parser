@@ -1,0 +1,12 @@
+# sent_id = 92
+# text = Hier befinden wir uns im Bereich der Weißtanne.
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	befinden	_	VERB	VVFIN	_	0	--	_	_
+3	wir	_	PRON	PPER	_	2	SB	_	_
+4	uns	_	PRON	PRF	_	2	OA	_	_
+5	im	_	ADP	APPRART	_	2	MO	_	_
+6	Bereich	_	NOUN	NN	_	5	NK	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Weißtanne	_	NOUN	NN	_	6	AG	_	_
+9	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

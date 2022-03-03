@@ -1,0 +1,28 @@
+# sent_id = 29
+# text = Throughout the recommendations one gets the impression that there should be a radical approach to this problem; that something new should be created.
+1	Throughout	_	ADP	IN	_	3	case	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	recommendations	_	NOUN	NNS	_	5	obl	_	_
+4	one	_	NUM	CD	_	5	nsubj	_	_
+5	gets	_	VERB	VBZ	_	0	root	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	impression	_	NOUN	NN	_	5	obj	_	_
+8	that	_	ADP	IN	_	11	mark	_	_
+9	there	_	DET	EX	_	11	expl	_	_
+10	should	_	VERB	MD	_	11	aux	_	_
+11	be	_	VERB	VB	_	7	acl	_	_
+12	a	_	DET	DT	_	14	det	_	_
+13	radical	_	ADJ	JJ	_	14	amod	_	_
+14	approach	_	NOUN	NN	_	11	nsubj	_	_
+15	to	_	ADP	IN	_	17	case	_	_
+16	this	_	DET	DT	_	17	det	_	_
+17	problem	_	NOUN	NN	_	14	nmod	_	_
+18	;	_	PUNCT	:	_	11	punct	_	_
+19	that	_	ADP	IN	_	24	mark	_	_
+20	something	_	NOUN	NN	_	24	nsubj:pass	_	_
+21	new	_	ADJ	JJ	_	20	amod	_	_
+22	should	_	VERB	MD	_	24	aux	_	_
+23	be	_	VERB	VB	_	24	aux:pass	_	_
+24	created	_	VERB	VBN	_	11	parataxis	_	_
+25	.	_	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,37 @@
+# sent_id = 9
+# text = Er findet sich aber noch auf den mit Artemisia campestris, Eryngium campestre, Andropogon Ischaemon etc. bewachsenen trockenen Kieshügeln am Altrhein Neuhofen, sowie auf den prähistorischen Hügelgräbern zwischen Schifferstadt und Dannstadt.
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	findet	_	VERB	VVFIN	_	0	--	_	_
+3	sich	_	PRON	PRF	_	2	OA	_	_
+4	aber	_	ADV	ADV	_	2	MO	_	_
+5	noch	_	ADV	ADV	_	2	MO	_	_
+6	auf	_	ADP	APPR	_	2	MO	_	_
+7	den	_	DET	ART	_	20	NK	_	_
+8	mit	_	ADP	APPR	_	18	OP	_	_
+9	Artemisia	_	PROPN	NE	_	10	PNC	_	_
+10	campestris	_	PROPN	NE	_	8	NK	_	_
+11	,	_	PUNCT	$,	_	9	PUNCT	_	_
+12	Eryngium	_	PROPN	NE	_	13	PNC	_	_
+13	campestre	_	PROPN	NE	_	10	CJ	_	_
+14	,	_	PUNCT	$,	_	9	PUNCT	_	_
+15	Andropogon	_	PROPN	NE	_	16	PNC	_	_
+16	Ischaemon	_	PROPN	NE	_	13	CJ	_	_
+17	etc.	_	ADV	ADV	_	16	CD	_	_
+18	bewachsenen	_	ADJ	ADJA	_	20	NK	_	_
+19	trockenen	_	ADJ	ADJA	_	20	NK	_	_
+20	Kieshügeln	_	NOUN	NN	_	6	NK	_	_
+21	am	_	ADP	APPRART	_	20	MNR	_	_
+22	Altrhein	_	NOUN	NN	_	23	NK	_	_
+23	Neuhofen	_	NOUN	NN	_	21	NK	_	_
+24	,	_	PUNCT	$,	_	2	PUNCT	_	_
+25	sowie	_	CONJ	KON	_	6	CD	_	_
+26	auf	_	ADP	APPR	_	25	CJ	_	_
+27	den	_	DET	ART	_	29	NK	_	_
+28	prähistorischen	_	ADJ	ADJA	_	29	NK	_	_
+29	Hügelgräbern	_	NOUN	NN	_	26	NK	_	_
+30	zwischen	_	ADP	APPR	_	29	MNR	_	_
+31	Schifferstadt	_	PROPN	NE	_	30	NK	_	_
+32	und	_	CONJ	KON	_	31	CD	_	_
+33	Dannstadt	_	PROPN	NE	_	32	CJ	_	_
+34	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

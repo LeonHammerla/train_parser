@@ -1,0 +1,39 @@
+# sent_id = 55
+# text = Der Entwurf geht davon aus, daß diese Höchstgrenze selbst bei ungünstigeren Zeit- und Wirtschaftsverhältnissen ausreichen wird, da ja durch die Beschleunigung der nötigen Gebührenerhöhungen dem ordentlichen Einnahmebedarfe stets rechtzeitig Rechnung getragen werden kann.
+1	Der	_	_	_	_	2	det	_	_
+2	Entwurf	_	_	_	_	3	nsubj	_	_
+3	geht	_	_	_	_	0	root	_	_
+4	davon	_	_	_	_	3	obl	_	_
+5	aus	_	_	_	_	3	compound:prt	_	_
+6	,	_	_	_	_	16	punct	_	_
+7	daß	_	_	_	_	16	mark	_	_
+8	diese	_	_	_	_	9	det	_	_
+9	Höchstgrenze	_	_	_	_	16	nsubj	_	_
+10	selbst	_	_	_	_	13	advmod	_	_
+11	bei	_	_	_	_	13	case	_	_
+12	ungünstigeren	_	_	_	_	13	amod	_	_
+13	Zeit-	_	_	_	_	16	obl	_	_
+14	und	_	_	_	_	15	cc	_	_
+15	Wirtschaftsverhältnissen	_	_	_	_	13	conj	_	_
+16	ausreichen	_	_	_	_	4	advcl	_	_
+17	wird	_	_	_	_	16	aux	_	_
+18	,	_	_	_	_	33	punct	_	_
+19	da	_	_	_	_	33	mark	_	_
+20	ja	_	_	_	_	33	discourse	_	_
+21	durch	_	_	_	_	23	case	_	_
+22	die	_	_	_	_	23	det	_	_
+23	Beschleunigung	_	_	_	_	33	obl	_	_
+24	der	_	_	_	_	26	det	_	_
+25	nötigen	_	_	_	_	26	amod	_	_
+26	Gebührenerhöhungen	_	_	_	_	23	nmod	_	_
+27	dem	_	_	_	_	29	det	_	_
+28	ordentlichen	_	_	_	_	29	amod	_	_
+29	Einnahmebedarfe	_	_	_	_	33	iobj	_	_
+30	stets	_	_	_	_	33	advmod	_	_
+31	rechtzeitig	_	_	_	_	33	advmod	_	_
+32	Rechnung	_	_	_	_	33	nsubj:pass	_	_
+33	getragen	_	_	_	_	16	advcl	_	_
+34	werden	_	_	_	_	33	aux:pass	_	_
+35	kann	_	_	_	_	33	aux	_	_
+36	.	_	_	_	_	3	punct	_	_
+

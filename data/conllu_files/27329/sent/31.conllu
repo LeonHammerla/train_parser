@@ -1,0 +1,32 @@
+# sent_id = 31
+# text = I am not sure that I understand the question myself and partly because I have put it privately in a letter to the Financial Secretary to the Treasury.
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	am	_	VERB	VBP	_	4	cop	_	_
+3	not	_	ADV	RB	_	4	advmod	_	_
+4	sure	_	ADJ	JJ	_	0	root	_	_
+5	that	_	ADP	IN	_	7	mark	_	_
+6	I	_	PRON	PRP	_	7	nsubj	_	_
+7	understand	_	VERB	VBP	_	4	ccomp	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	question	_	NOUN	NN	_	7	obj	_	_
+10	myself	_	PRON	PRP	_	7	obl:npmod	_	_
+11	and	_	CONJ	CC	_	12	cc	_	_
+12	partly	_	ADV	RB	_	16	advmod	_	_
+13	because	_	ADP	IN	_	16	mark	_	_
+14	I	_	PRON	PRP	_	16	nsubj	_	_
+15	have	_	VERB	VBP	_	16	aux	_	_
+16	put	_	VERB	VBN	_	7	conj	_	_
+17	it	_	PRON	PRP	_	16	obj	_	_
+18	privately	_	ADV	RB	_	16	advmod	_	_
+19	in	_	ADP	IN	_	21	case	_	_
+20	a	_	DET	DT	_	21	det	_	_
+21	letter	_	NOUN	NN	_	16	obl	_	_
+22	to	_	ADP	IN	_	25	case	_	_
+23	the	_	DET	DT	_	25	det	_	_
+24	Financial	_	PROPN	NNP	_	25	amod	_	_
+25	Secretary	_	PROPN	NNP	_	21	nmod	_	_
+26	to	_	ADP	IN	_	28	case	_	_
+27	the	_	DET	DT	_	28	det	_	_
+28	Treasury	_	PROPN	NNP	_	25	nmod	_	_
+29	.	_	PUNCT	.	_	4	punct	_	_
+

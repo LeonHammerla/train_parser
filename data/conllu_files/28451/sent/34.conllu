@@ -1,0 +1,16 @@
+# sent_id = 34
+# text = Er sagt in der Naumannia 1852, Heft I, S. 26:
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	sagt	_	VERB	VVFIN	_	0	--	_	_
+3	in	_	ADP	APPR	_	2	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Naumannia	_	NOUN	NN	_	3	NK	_	_
+6	1852	_	NUM	CARD	_	5	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	Heft	_	PROPN	NE	_	6	CJ	_	_
+9	I	_	NUM	CARD	_	8	NK	_	_
+10	,	_	PUNCT	$,	_	5	PUNCT	_	_
+11	S.	_	NOUN	NN	_	2	OA	_	_
+12	26	_	NUM	CARD	_	11	NK	_	_
+13	:	_	PUNCT	$.	_	2	PUNCT	_	_
+

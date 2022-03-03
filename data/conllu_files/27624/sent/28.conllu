@@ -1,0 +1,25 @@
+# sent_id = 28
+# text = Auch da ist vom Ältestenrat die Aussprachezeit wieder in der gleichen Weise geregelt worden, also zehn Minuten für die Begründung.
+1	Auch	_	_	_	_	2	advmod	_	_
+2	da	_	_	_	_	13	advmod	_	_
+3	ist	_	_	_	_	13	aux	_	_
+4	vom	_	_	_	_	5	case	_	_
+5	Ältestenrat	_	_	_	_	13	obl	_	_
+6	die	_	_	_	_	7	det	_	_
+7	Aussprachezeit	_	_	_	_	13	nsubj:pass	_	_
+8	wieder	_	_	_	_	13	advmod	_	_
+9	in	_	_	_	_	12	case	_	_
+10	der	_	_	_	_	12	det	_	_
+11	gleichen	_	_	_	_	12	amod	_	_
+12	Weise	_	_	_	_	13	obl	_	_
+13	geregelt	_	_	_	_	0	root	_	_
+14	worden	_	_	_	_	13	aux:pass	_	_
+15	,	_	_	_	_	18	punct	_	_
+16	also	_	_	_	_	18	advmod	_	_
+17	zehn	_	_	_	_	18	nummod	_	_
+18	Minuten	_	_	_	_	13	appos	_	_
+19	für	_	_	_	_	21	case	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Begründung	_	_	_	_	18	nmod	_	_
+22	.	_	_	_	_	13	punct	_	_
+

@@ -1,0 +1,43 @@
+# sent_id = 2
+# text = Noch vor wenigen Jahren in lichtem Gebüsch oberhalb Ludwigshafen im Juni und Juli so häufig, dass ich einmal, am 28. Juni 1899, 40 Exemplare dieser prächtigen südlichen Chrysomelide auf einer einzigen Pflanze von Cynanchum vincetoxicum fand.
+1	Noch	_	ADV	ADV	_	2	MO	_	_
+2	vor	_	ADP	APPR	_	15	MO	_	_
+3	wenigen	_	PRON	PIAT	_	4	NK	_	_
+4	Jahren	_	NOUN	NN	_	2	NK	_	_
+5	in	_	ADP	APPR	_	15	MO	_	_
+6	lichtem	_	ADJ	ADJA	_	7	NK	_	_
+7	Gebüsch	_	NOUN	NN	_	5	NK	_	_
+8	oberhalb	_	ADP	APPR	_	5	MO	_	_
+9	Ludwigshafen	_	PROPN	NE	_	8	NK	_	_
+10	im	_	ADP	APPRART	_	15	MO	_	_
+11	Juni	_	NOUN	NN	_	10	NK	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Juli	_	NOUN	NN	_	12	CJ	_	_
+14	so	_	ADV	ADV	_	15	MO	_	_
+15	häufig	_	ADJ	ADJD	_	15	ROOT	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	dass	_	CONJ	KOUS	_	39	CP	_	_
+18	ich	_	PRON	PPER	_	39	SB	_	_
+19	einmal	_	ADV	ADV	_	39	MO	_	_
+20	,	_	PUNCT	$,	_	39	PUNCT	_	_
+21	am	_	ADP	APPRART	_	39	MO	_	_
+22	28.	_	ADJ	ADJA	_	23	NK	_	_
+23	Juni	_	NOUN	NN	_	21	NK	_	_
+24	1899	_	NUM	CARD	_	23	NK	_	_
+25	,	_	PUNCT	$,	_	21	PUNCT	_	_
+26	40	_	NUM	CARD	_	27	NK	_	_
+27	Exemplare	_	NOUN	NN	_	39	OA	_	_
+28	dieser	_	PRON	PDAT	_	31	NK	_	_
+29	prächtigen	_	ADJ	ADJA	_	31	NK	_	_
+30	südlichen	_	ADJ	ADJA	_	31	NK	_	_
+31	Chrysomelide	_	NOUN	NN	_	27	AG	_	_
+32	auf	_	ADP	APPR	_	39	MO	_	_
+33	einer	_	DET	ART	_	35	NK	_	_
+34	einzigen	_	ADJ	ADJA	_	35	NK	_	_
+35	Pflanze	_	NOUN	NN	_	32	NK	_	_
+36	von	_	ADP	APPR	_	35	PG	_	_
+37	Cynanchum	_	PROPN	NE	_	38	PNC	_	_
+38	vincetoxicum	_	VERB	VVPP	_	36	NK	_	_
+39	fand	_	VERB	VVFIN	_	14	OC	_	_
+40	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

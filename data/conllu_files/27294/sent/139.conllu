@@ -1,0 +1,22 @@
+# sent_id = 139
+# text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str.
+Petersen,  Arnold;
+1	Hauptschriftleiter	_	NOUN	NN	_	15	APP	_	_
+2	des	_	DET	ART	_	5	NK	_	_
+3	"	_	PUNCT	$(	_	5	PUNCT	_	_
+4	Völkischer	_	ADJ	ADJA	_	5	NK	_	_
+5	Beobachter	_	NOUN	NN	_	1	AG	_	_
+6	"	_	PUNCT	$(	_	5	PUNCT	_	_
+7	,	_	PUNCT	$,	_	1	PUNCT	_	_
+8	Leiter	_	NOUN	NN	_	15	APP	_	_
+9	des	_	DET	ART	_	10	NK	_	_
+10	Reichsverbandes	_	NOUN	NN	_	8	AG	_	_
+11	Berg	_	PROPN	NE	_	10	NK	_	_
+12	,	_	PUNCT	$,	_	8	PUNCT	_	_
+13	Kufsteiner	_	PROPN	NE	_	14	NK	_	_
+14	Str.	_	NOUN	NN	_	10	MO	_	_
+15	Petersen	_	NOUN	NN	_	15	ROOT	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	Arnold	_	PROPN	NE	_	15	PNC	_	_
+18	;	_	PUNCT	$.	_	15	PUNCT	_	_
+

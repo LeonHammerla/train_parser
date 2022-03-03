@@ -1,0 +1,11 @@
+# sent_id = 226
+# text = Bestandsfördernd würde daher eine extensivere Landbewirtschaftung wirken.
+1	Bestandsfördernd	_	ADJ	ADJD	_	7	MO	_	_
+2	würde	_	VERB	VAFIN	_	0	--	_	_
+3	daher	_	ADV	PROAV	_	7	MO	_	_
+4	eine	_	DET	ART	_	6	NK	_	_
+5	extensivere	_	ADJ	ADJA	_	6	NK	_	_
+6	Landbewirtschaftung	_	NOUN	NN	_	2	SB	_	_
+7	wirken	_	VERB	VVINF	_	2	OC	_	_
+8	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

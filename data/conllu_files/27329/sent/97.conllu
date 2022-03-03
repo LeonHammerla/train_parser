@@ -1,0 +1,13 @@
+# sent_id = 97
+# text = Friend is right, he will be doubly fortified.
+1	Friend	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	right	_	ADJ	JJ	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	he	_	PRON	PRP	_	9	nsubj:pass	_	_
+6	will	_	VERB	MD	_	9	aux	_	_
+7	be	_	VERB	VB	_	9	aux:pass	_	_
+8	doubly	_	ADV	RB	_	9	advmod	_	_
+9	fortified	_	ADJ	JJ	_	3	parataxis	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+

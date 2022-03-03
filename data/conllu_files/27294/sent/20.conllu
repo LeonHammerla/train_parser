@@ -1,0 +1,17 @@
+# sent_id = 20
+# text = Das ist nicht eine Angelegenheit der Wohlfahrt, sondern eine Forderung der Gerechtigkeit.
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	nicht	_	X	PTKNEG	_	2	NG	_	_
+4	eine	_	DET	ART	_	5	NK	_	_
+5	Angelegenheit	_	NOUN	NN	_	2	PD	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Wohlfahrt	_	NOUN	NN	_	5	AG	_	_
+8	,	_	PUNCT	$,	_	5	PUNCT	_	_
+9	sondern	_	CONJ	KON	_	5	CD	_	_
+10	eine	_	DET	ART	_	11	NK	_	_
+11	Forderung	_	NOUN	NN	_	9	CJ	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Gerechtigkeit	_	NOUN	NN	_	11	AG	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

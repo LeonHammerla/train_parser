@@ -1,0 +1,35 @@
+# sent_id = 82
+# text = Bei der Pollichia-Wanderung ins Homburger Bruch im Juli 1941 machte eine aus Bayern stammende Teilnehmerin die Bemerkung, der Salbeiblättrige Gamander, Teucrium scorodonia, sei ihr von drüben nicht bekannt.
+1	Bei	_	ADP	APPR	_	10	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Pollichia-Wanderung	_	NOUN	NN	_	1	NK	_	_
+4	ins	_	ADP	APPRART	_	3	MNR	_	_
+5	Homburger	_	ADJ	ADJA	_	6	NK	_	_
+6	Bruch	_	NOUN	NN	_	4	NK	_	_
+7	im	_	ADP	APPRART	_	3	MNR	_	_
+8	Juli	_	NOUN	NN	_	7	NK	_	_
+9	1941	_	NUM	CARD	_	8	NK	_	_
+10	machte	_	VERB	VVFIN	_	0	--	_	_
+11	eine	_	DET	ART	_	15	NK	_	_
+12	aus	_	ADP	APPR	_	14	MO	_	_
+13	Bayern	_	PROPN	NE	_	12	NK	_	_
+14	stammende	_	ADJ	ADJA	_	15	NK	_	_
+15	Teilnehmerin	_	NOUN	NN	_	10	SB	_	_
+16	die	_	DET	ART	_	17	NK	_	_
+17	Bemerkung	_	NOUN	NN	_	10	OA	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	der	_	DET	ART	_	21	NK	_	_
+20	Salbeiblättrige	_	ADJ	ADJA	_	21	NK	_	_
+21	Gamander	_	NOUN	NN	_	26	SB	_	_
+22	,	_	PUNCT	$,	_	17	PUNCT	_	_
+23	Teucrium	_	NOUN	NN	_	24	PNC	_	_
+24	scorodonia	_	VERB	VVFIN	_	21	APP	_	_
+25	,	_	PUNCT	$,	_	10	PUNCT	_	_
+26	sei	_	VERB	VAFIN	_	17	OC	_	_
+27	ihr	_	PRON	PPER	_	31	DA	_	_
+28	von	_	ADP	APPR	_	26	MO	_	_
+29	drüben	_	ADV	ADV	_	28	NK	_	_
+30	nicht	_	X	PTKNEG	_	31	NG	_	_
+31	bekannt	_	ADJ	ADJD	_	26	PD	_	_
+32	.	_	PUNCT	$.	_	10	PUNCT	_	_
+

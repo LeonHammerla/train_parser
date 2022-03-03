@@ -1,0 +1,582 @@
+# sent_id = 19
+# text = Es ist, weiß Gott, zur Beantwortung dieser Interpellation nicht zuständig.
+1	Es	_	_	_	_	12	nsubj	_	_
+2	ist	_	_	_	_	12	cop	_	_
+3	,	_	_	_	_	4	punct	_	_
+4	weiß	_	_	_	_	12	parataxis	_	_
+5	Gott	_	_	_	_	4	nsubj	_	_
+6	,	_	_	_	_	4	punct	_	_
+7	zur	_	_	_	_	8	case	_	_
+8	Beantwortung	_	_	_	_	12	obl	_	_
+9	dieser	_	_	_	_	10	det	_	_
+10	Interpellation	_	_	_	_	8	nmod	_	_
+11	nicht	_	_	_	_	12	advmod	_	_
+12	zuständig	_	_	_	_	0	root	_	_
+13	.	_	_	_	_	12	punct	_	_
+
+# sent_id = 20
+# text = Das ist nicht eine Angelegenheit der Wohlfahrt, sondern eine Forderung der Gerechtigkeit.
+1	Das	_	_	_	_	5	nsubj	_	_
+2	ist	_	_	_	_	5	cop	_	_
+3	nicht	_	_	_	_	5	advmod	_	_
+4	eine	_	_	_	_	5	det	_	_
+5	Angelegenheit	_	_	_	_	0	root	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Wohlfahrt	_	_	_	_	5	nmod	_	_
+8	,	_	_	_	_	11	punct	_	_
+9	sondern	_	_	_	_	11	cc	_	_
+10	eine	_	_	_	_	11	det	_	_
+11	Forderung	_	_	_	_	5	conj	_	_
+12	der	_	_	_	_	13	det	_	_
+13	Gerechtigkeit	_	_	_	_	11	nmod	_	_
+14	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 21
+# text = In Abs. 5 wird den Bauenden und Finanzierungshelfern eine weitere Vergünstigung gewährt.
+1	In	_	_	_	_	2	case	_	_
+2	Abs	_	_	_	_	13	obl	_	_
+3	.	_	_	_	_	2	punct	_	_
+4	5	_	_	_	_	2	flat	_	_
+5	wird	_	_	_	_	13	aux:pass	_	_
+6	den	_	_	_	_	7	det	_	_
+7	Bauenden	_	_	_	_	13	iobj	_	_
+8	und	_	_	_	_	9	cc	_	_
+9	Finanzierungshelfern	_	_	_	_	7	conj	_	_
+10	eine	_	_	_	_	12	det	_	_
+11	weitere	_	_	_	_	12	amod	_	_
+12	Vergünstigung	_	_	_	_	13	nsubj:pass	_	_
+13	gewährt	_	_	_	_	0	root	_	_
+14	.	_	_	_	_	13	punct	_	_
+
+# sent_id = 22
+# text = Es bestünde sonst die Gefahr, daß wir uns heute ins Uferlose verlieren würden.
+1	Es	_	_	_	_	2	expl	_	_
+2	bestünde	_	_	_	_	0	root	_	_
+3	sonst	_	_	_	_	2	advmod	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Gefahr	_	_	_	_	2	nsubj	_	_
+6	,	_	_	_	_	13	punct	_	_
+7	daß	_	_	_	_	13	mark	_	_
+8	wir	_	_	_	_	13	nsubj	_	_
+9	uns	_	_	_	_	13	obj	_	_
+10	heute	_	_	_	_	13	advmod	_	_
+11	ins	_	_	_	_	12	case	_	_
+12	Uferlose	_	_	_	_	13	obl	_	_
+13	verlieren	_	_	_	_	5	acl	_	_
+14	würden	_	_	_	_	13	aux	_	_
+15	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Sie sehen daraus, wie notwendig es ist, auf die dadurch bedingten unterschiedlichen Verhältnisse Rücksicht zu nehmen.
+1	Sie	_	_	_	_	2	nsubj	_	_
+2	sehen	_	_	_	_	0	root	_	_
+3	daraus	_	_	_	_	2	obl	_	_
+4	,	_	_	_	_	6	punct	_	_
+5	wie	_	_	_	_	6	advmod	_	_
+6	notwendig	_	_	_	_	2	ccomp	_	_
+7	es	_	_	_	_	6	expl	_	_
+8	ist	_	_	_	_	6	cop	_	_
+9	,	_	_	_	_	18	punct	_	_
+10	auf	_	_	_	_	15	case	_	_
+11	die	_	_	_	_	15	det	_	_
+12	dadurch	_	_	_	_	13	advmod	_	_
+13	bedingten	_	_	_	_	15	amod	_	_
+14	unterschiedlichen	_	_	_	_	15	amod	_	_
+15	Verhältnisse	_	_	_	_	18	obl	_	_
+16	Rücksicht	_	_	_	_	18	obj	_	_
+17	zu	_	_	_	_	18	mark	_	_
+18	nehmen	_	_	_	_	6	xcomp	_	_
+19	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = Meine Damen und Herren, ich frage, ob noch Abgeordnete vorhanden sind, die ihre Stimme abzugeben wünschen.
+1	Meine	_	_	_	_	2	det:poss	_	_
+2	Damen	_	_	_	_	7	vocative	_	_
+3	und	_	_	_	_	4	cc	_	_
+4	Herren	_	_	_	_	2	conj	_	_
+5	,	_	_	_	_	2	punct	_	_
+6	ich	_	_	_	_	7	nsubj	_	_
+7	frage	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	12	punct	_	_
+9	ob	_	_	_	_	12	mark	_	_
+10	noch	_	_	_	_	12	advmod	_	_
+11	Abgeordnete	_	_	_	_	12	nsubj	_	_
+12	vorhanden	_	_	_	_	7	ccomp	_	_
+13	sind	_	_	_	_	12	cop	_	_
+14	,	_	_	_	_	19	punct	_	_
+15	die	_	_	_	_	19	nsubj	_	_
+16	ihre	_	_	_	_	17	det:poss	_	_
+17	Stimme	_	_	_	_	18	obj	_	_
+18	abzugeben	_	_	_	_	19	xcomp	_	_
+19	wünschen	_	_	_	_	11	acl	_	_
+20	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 25
+# text = Zu diesem Abänderungsantrag hat der Geschäftsordnungsausschuß noch nicht Stellung genommen; ich kann daher darüber auch nicht berichten.
+1	Zu	_	_	_	_	3	case	_	_
+2	diesem	_	_	_	_	3	det	_	_
+3	Abänderungsantrag	_	_	_	_	10	obl	_	_
+4	hat	_	_	_	_	10	aux	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Geschäftsordnungsausschuß	_	_	_	_	10	nsubj	_	_
+7	noch	_	_	_	_	8	advmod	_	_
+8	nicht	_	_	_	_	10	advmod	_	_
+9	Stellung	_	_	_	_	10	obj	_	_
+10	genommen	_	_	_	_	0	root	_	_
+11	;	_	_	_	_	18	punct	_	_
+12	ich	_	_	_	_	18	nsubj	_	_
+13	kann	_	_	_	_	18	aux	_	_
+14	daher	_	_	_	_	18	advmod	_	_
+15	darüber	_	_	_	_	18	advmod	_	_
+16	auch	_	_	_	_	17	advmod	_	_
+17	nicht	_	_	_	_	18	advmod	_	_
+18	berichten	_	_	_	_	10	parataxis	_	_
+19	.	_	_	_	_	10	punct	_	_
+
+# sent_id = 26
+# text = Es handelt sich hier um zwei Sachen, bei denen wahrscheinlich keine Aussprache stattfinden wird.
+1	Es	_	_	_	_	2	expl	_	_
+2	handelt	_	_	_	_	0	root	_	_
+3	sich	_	_	_	_	2	obj	_	_
+4	hier	_	_	_	_	2	advmod	_	_
+5	um	_	_	_	_	7	case	_	_
+6	zwei	_	_	_	_	7	nummod	_	_
+7	Sachen	_	_	_	_	2	obl	_	_
+8	,	_	_	_	_	14	punct	_	_
+9	bei	_	_	_	_	10	case	_	_
+10	denen	_	_	_	_	14	obl	_	_
+11	wahrscheinlich	_	_	_	_	14	advmod	_	_
+12	keine	_	_	_	_	13	nmod	_	_
+13	Aussprache	_	_	_	_	14	nsubj	_	_
+14	stattfinden	_	_	_	_	7	acl	_	_
+15	wird	_	_	_	_	14	aux	_	_
+16	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 27
+# text = Gleichzeitig wird die Umsatzsteuer in der derzeitigen Höhe beibehalten, so daß die so dringend notwendige steuerliche Entlastung des Kleinverdieners in Wirklichkeit nicht eintritt.
+1	Gleichzeitig	_	_	_	_	9	advmod	_	_
+2	wird	_	_	_	_	9	aux:pass	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Umsatzsteuer	_	_	_	_	9	nsubj:pass	_	_
+5	in	_	_	_	_	8	case	_	_
+6	der	_	_	_	_	8	det	_	_
+7	derzeitigen	_	_	_	_	8	amod	_	_
+8	Höhe	_	_	_	_	9	obl	_	_
+9	beibehalten	_	_	_	_	0	root	_	_
+10	,	_	_	_	_	24	punct	_	_
+11	so	_	_	_	_	24	advmod	_	_
+12	daß	_	_	_	_	24	mark	_	_
+13	die	_	_	_	_	18	det	_	_
+14	so	_	_	_	_	15	advmod	_	_
+15	dringend	_	_	_	_	16	advmod	_	_
+16	notwendige	_	_	_	_	18	amod	_	_
+17	steuerliche	_	_	_	_	18	amod	_	_
+18	Entlastung	_	_	_	_	24	nsubj	_	_
+19	des	_	_	_	_	20	det	_	_
+20	Kleinverdieners	_	_	_	_	18	nmod	_	_
+21	in	_	_	_	_	22	case	_	_
+22	Wirklichkeit	_	_	_	_	24	obl	_	_
+23	nicht	_	_	_	_	24	advmod	_	_
+24	eintritt	_	_	_	_	9	advcl	_	_
+25	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 28
+# text = Auch da ist vom Ältestenrat die Aussprachezeit wieder in der gleichen Weise geregelt worden, also zehn Minuten für die Begründung.
+1	Auch	_	_	_	_	2	advmod	_	_
+2	da	_	_	_	_	13	advmod	_	_
+3	ist	_	_	_	_	13	aux	_	_
+4	vom	_	_	_	_	5	case	_	_
+5	Ältestenrat	_	_	_	_	13	obl	_	_
+6	die	_	_	_	_	7	det	_	_
+7	Aussprachezeit	_	_	_	_	13	nsubj:pass	_	_
+8	wieder	_	_	_	_	13	advmod	_	_
+9	in	_	_	_	_	12	case	_	_
+10	der	_	_	_	_	12	det	_	_
+11	gleichen	_	_	_	_	12	amod	_	_
+12	Weise	_	_	_	_	13	obl	_	_
+13	geregelt	_	_	_	_	0	root	_	_
+14	worden	_	_	_	_	13	aux:pass	_	_
+15	,	_	_	_	_	18	punct	_	_
+16	also	_	_	_	_	18	advmod	_	_
+17	zehn	_	_	_	_	18	nummod	_	_
+18	Minuten	_	_	_	_	13	appos	_	_
+19	für	_	_	_	_	21	case	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Begründung	_	_	_	_	18	nmod	_	_
+22	.	_	_	_	_	13	punct	_	_
+
+# sent_id = 29
+# text = Wer für die Annahme des § 19 a in der Ausschußfassung ist, den bitte ich, die Hand zu erheben.
+1	Wer	_	_	_	_	12	nsubj	_	_
+2	für	_	_	_	_	4	case	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Annahme	_	_	_	_	12	obl	_	_
+5	des	_	_	_	_	6	det	_	_
+6	§	_	_	_	_	4	nmod	_	_
+7	19	_	_	_	_	6	flat	_	_
+8	a	_	_	_	_	6	flat	_	_
+9	in	_	_	_	_	11	case	_	_
+10	der	_	_	_	_	11	det	_	_
+11	Ausschußfassung	_	_	_	_	4	nmod	_	_
+12	ist	_	_	_	_	14	acl	_	_
+13	,	_	_	_	_	12	punct	_	_
+14	den	_	_	_	_	15	obj	_	_
+15	bitte	_	_	_	_	0	root	_	_
+16	ich	_	_	_	_	15	nsubj	_	_
+17	,	_	_	_	_	21	punct	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Hand	_	_	_	_	21	obj	_	_
+20	zu	_	_	_	_	21	mark	_	_
+21	erheben	_	_	_	_	15	xcomp	_	_
+22	.	_	_	_	_	15	punct	_	_
+
+# sent_id = 30
+# text = Man wird weit laufen müssen, um den Versammlungsleiter zu finden, der mit den Problemen dieses Gesetzentwurfs in souveräner Sicherheit fertigzuwerden vermag.
+1	Man	_	_	_	_	4	nsubj	_	_
+2	wird	_	_	_	_	4	aux	_	_
+3	weit	_	_	_	_	4	advmod	_	_
+4	laufen	_	_	_	_	0	root	_	_
+5	müssen	_	_	_	_	4	aux	_	_
+6	,	_	_	_	_	11	punct	_	_
+7	um	_	_	_	_	11	mark	_	_
+8	den	_	_	_	_	9	det	_	_
+9	Versammlungsleiter	_	_	_	_	11	obj	_	_
+10	zu	_	_	_	_	11	mark	_	_
+11	finden	_	_	_	_	4	advcl	_	_
+12	,	_	_	_	_	23	punct	_	_
+13	der	_	_	_	_	23	nsubj	_	_
+14	mit	_	_	_	_	16	case	_	_
+15	den	_	_	_	_	16	det	_	_
+16	Problemen	_	_	_	_	22	obl	_	_
+17	dieses	_	_	_	_	18	det	_	_
+18	Gesetzentwurfs	_	_	_	_	16	nmod	_	_
+19	in	_	_	_	_	21	case	_	_
+20	souveräner	_	_	_	_	21	amod	_	_
+21	Sicherheit	_	_	_	_	22	obl	_	_
+22	fertigzuwerden	_	_	_	_	23	xcomp	_	_
+23	vermag	_	_	_	_	9	acl	_	_
+24	.	_	_	_	_	4	punct	_	_
+
+# sent_id = 31
+# text = Stimmen Sie heute der Behandlung zu, dann ist dies auch eine Vorentscheidung für die Annahme des Generalvertrages der Geheimverhandlungen, die Dr. Adenauer geführt hat.
+1	Stimmen	_	_	_	_	13	advcl	_	_
+2	Sie	_	_	_	_	1	nsubj	_	_
+3	heute	_	_	_	_	1	advmod	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Behandlung	_	_	_	_	1	iobj	_	_
+6	zu	_	_	_	_	1	compound:prt	_	_
+7	,	_	_	_	_	1	punct	_	_
+8	dann	_	_	_	_	13	advmod	_	_
+9	ist	_	_	_	_	13	cop	_	_
+10	dies	_	_	_	_	13	nsubj	_	_
+11	auch	_	_	_	_	13	advmod	_	_
+12	eine	_	_	_	_	13	det	_	_
+13	Vorentscheidung	_	_	_	_	0	root	_	_
+14	für	_	_	_	_	16	case	_	_
+15	die	_	_	_	_	16	det	_	_
+16	Annahme	_	_	_	_	13	nmod	_	_
+17	des	_	_	_	_	18	det	_	_
+18	Generalvertrages	_	_	_	_	16	nmod	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Geheimverhandlungen	_	_	_	_	18	nmod	_	_
+21	,	_	_	_	_	26	punct	_	_
+22	die	_	_	_	_	26	obj	_	_
+23	Dr	_	_	_	_	25	compound	_	_
+24	.	_	_	_	_	23	punct	_	_
+25	Adenauer	_	_	_	_	26	nsubj	_	_
+26	geführt	_	_	_	_	20	acl	_	_
+27	hat	_	_	_	_	26	aux	_	_
+28	.	_	_	_	_	13	punct	_	_
+
+# sent_id = 32
+# text = Wir haben den Wunsch, daß das Selbstverwaltungsgesetz und die Novelle zum Selbstverwaltungsgesetz wie jedes andere Gesetz, das von diesem Hause beschlossen wird, auch die Berlin-Klausel enthält.
+1	Wir	_	_	_	_	2	nsubj	_	_
+2	haben	_	_	_	_	0	root	_	_
+3	den	_	_	_	_	4	det	_	_
+4	Wunsch	_	_	_	_	2	obj	_	_
+5	,	_	_	_	_	29	punct	_	_
+6	daß	_	_	_	_	29	mark	_	_
+7	das	_	_	_	_	8	det	_	_
+8	Selbstverwaltungsgesetz	_	_	_	_	29	nsubj	_	_
+9	und	_	_	_	_	11	cc	_	_
+10	die	_	_	_	_	11	det	_	_
+11	Novelle	_	_	_	_	8	conj	_	_
+12	zum	_	_	_	_	13	case	_	_
+13	Selbstverwaltungsgesetz	_	_	_	_	11	nmod	_	_
+14	wie	_	_	_	_	17	case	_	_
+15	jedes	_	_	_	_	17	det	_	_
+16	andere	_	_	_	_	17	amod	_	_
+17	Gesetz	_	_	_	_	29	obl	_	_
+18	,	_	_	_	_	23	punct	_	_
+19	das	_	_	_	_	23	nsubj:pass	_	_
+20	von	_	_	_	_	22	case	_	_
+21	diesem	_	_	_	_	22	det	_	_
+22	Hause	_	_	_	_	23	obl	_	_
+23	beschlossen	_	_	_	_	17	acl	_	_
+24	wird	_	_	_	_	23	aux:pass	_	_
+25	,	_	_	_	_	17	punct	_	_
+26	auch	_	_	_	_	29	advmod	_	_
+27	die	_	_	_	_	28	det	_	_
+28	Berlin-Klausel	_	_	_	_	29	obj	_	_
+29	enthält	_	_	_	_	4	acl	_	_
+30	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 33
+# text = Kein Problem eignet sich weniger dazu, irgend jemand etwas zu versprechen, was man sowieso nicht halten kann, als etwa die gegenwärtige Not unserer Landwirtschaft.
+1	Kein	_	_	_	_	2	det	_	_
+2	Problem	_	_	_	_	3	nsubj	_	_
+3	eignet	_	_	_	_	0	root	_	_
+4	sich	_	_	_	_	3	obj	_	_
+5	weniger	_	_	_	_	3	advmod	_	_
+6	dazu	_	_	_	_	3	obl	_	_
+7	,	_	_	_	_	12	punct	_	_
+8	irgend	_	_	_	_	9	det	_	_
+9	jemand	_	_	_	_	12	iobj	_	_
+10	etwas	_	_	_	_	12	obj	_	_
+11	zu	_	_	_	_	12	mark	_	_
+12	versprechen	_	_	_	_	6	acl	_	_
+13	,	_	_	_	_	18	punct	_	_
+14	was	_	_	_	_	18	obj	_	_
+15	man	_	_	_	_	18	nsubj	_	_
+16	sowieso	_	_	_	_	17	advmod	_	_
+17	nicht	_	_	_	_	18	advmod	_	_
+18	halten	_	_	_	_	10	acl	_	_
+19	kann	_	_	_	_	18	aux	_	_
+20	,	_	_	_	_	25	punct	_	_
+21	als	_	_	_	_	25	case	_	_
+22	etwa	_	_	_	_	25	advmod	_	_
+23	die	_	_	_	_	25	det	_	_
+24	gegenwärtige	_	_	_	_	25	amod	_	_
+25	Not	_	_	_	_	3	obl	_	_
+26	unserer	_	_	_	_	27	det:poss	_	_
+27	Landwirtschaft	_	_	_	_	25	nmod	_	_
+28	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 34
+# text = Es ist aber wohl anzunehmen, daß dieser Vorbehalt nur deshalb nicht ausdrücklich aufgenommen ist, weil er der Sache nach als selbstverständlich betrachtet wurde.
+1	Es	_	_	_	_	5	expl	_	_
+2	ist	_	_	_	_	5	aux:pass	_	_
+3	aber	_	_	_	_	5	advmod	_	_
+4	wohl	_	_	_	_	5	advmod	_	_
+5	anzunehmen	_	_	_	_	0	root	_	_
+6	,	_	_	_	_	14	punct	_	_
+7	daß	_	_	_	_	14	mark	_	_
+8	dieser	_	_	_	_	9	det	_	_
+9	Vorbehalt	_	_	_	_	14	nsubj:pass	_	_
+10	nur	_	_	_	_	11	advmod	_	_
+11	deshalb	_	_	_	_	14	advmod	_	_
+12	nicht	_	_	_	_	14	advmod	_	_
+13	ausdrücklich	_	_	_	_	14	advmod	_	_
+14	aufgenommen	_	_	_	_	5	csubj:pass	_	_
+15	ist	_	_	_	_	14	aux:pass	_	_
+16	,	_	_	_	_	24	punct	_	_
+17	weil	_	_	_	_	24	mark	_	_
+18	er	_	_	_	_	24	nsubj:pass	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Sache	_	_	_	_	24	obl	_	_
+21	nach	_	_	_	_	20	case	_	_
+22	als	_	_	_	_	24	fixed	_	_
+23	selbstverständlich	_	_	_	_	24	xcomp	_	_
+24	betrachtet	_	_	_	_	14	advcl	_	_
+25	wurde	_	_	_	_	24	aux:pass	_	_
+26	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 35
+# text = Es konnte weiter für den Ausschuß keinem Zweifel unterliegen, daß auch jede Begrenzung der Stahlkapazität wie auch der Stahlproduktion vom Augenblick des Inkrafttretens der Hohen Behörde an beseitigt ist, daß sich also dann so bedauerliche Entscheidungen, wie sie kürzlich hinsichtlich der August-Thyssen-Hütte und Watenstedt-Salzgitters noch getroffen werden konnten, einfach nicht mehr wiederholen können.
+1	Es	_	_	_	_	9	expl	_	_
+2	konnte	_	_	_	_	9	aux	_	_
+3	weiter	_	_	_	_	9	advmod	_	_
+4	für	_	_	_	_	6	case	_	_
+5	den	_	_	_	_	6	det	_	_
+6	Ausschuß	_	_	_	_	9	obl	_	_
+7	keinem	_	_	_	_	8	nmod	_	_
+8	Zweifel	_	_	_	_	9	iobj	_	_
+9	unterliegen	_	_	_	_	0	root	_	_
+10	,	_	_	_	_	29	punct	_	_
+11	daß	_	_	_	_	29	mark	_	_
+12	auch	_	_	_	_	14	advmod	_	_
+13	jede	_	_	_	_	14	det	_	_
+14	Begrenzung	_	_	_	_	29	nsubj	_	_
+15	der	_	_	_	_	16	det	_	_
+16	Stahlkapazität	_	_	_	_	14	nmod	_	_
+17	wie	_	_	_	_	20	cc	_	_
+18	auch	_	_	_	_	20	advmod	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Stahlproduktion	_	_	_	_	16	conj	_	_
+21	vom	_	_	_	_	22	case	_	_
+22	Augenblick	_	_	_	_	29	nmod	_	_
+23	des	_	_	_	_	24	det	_	_
+24	Inkrafttretens	_	_	_	_	22	nmod	_	_
+25	der	_	_	_	_	27	det	_	_
+26	Hohen	_	_	_	_	27	amod	_	_
+27	Behörde	_	_	_	_	24	nmod	_	_
+28	an	_	_	_	_	21	fixed	_	_
+29	beseitigt	_	_	_	_	9	csubj	_	_
+30	ist	_	_	_	_	29	cop	_	_
+31	,	_	_	_	_	56	punct	_	_
+32	daß	_	_	_	_	56	mark	_	_
+33	sich	_	_	_	_	56	obj	_	_
+34	also	_	_	_	_	56	advmod	_	_
+35	dann	_	_	_	_	56	advmod	_	_
+36	so	_	_	_	_	37	advmod	_	_
+37	bedauerliche	_	_	_	_	38	amod	_	_
+38	Entscheidungen	_	_	_	_	56	nsubj	_	_
+39	,	_	_	_	_	49	punct	_	_
+40	wie	_	_	_	_	49	mark	_	_
+41	sie	_	_	_	_	49	nsubj:pass	_	_
+42	kürzlich	_	_	_	_	49	advmod	_	_
+43	hinsichtlich	_	_	_	_	45	case	_	_
+44	der	_	_	_	_	45	det	_	_
+45	August-Thyssen-Hütte	_	_	_	_	49	obl	_	_
+46	und	_	_	_	_	47	cc	_	_
+47	Watenstedt-Salzgitters	_	_	_	_	45	conj	_	_
+48	noch	_	_	_	_	49	advmod	_	_
+49	getroffen	_	_	_	_	38	acl	_	_
+50	werden	_	_	_	_	49	aux:pass	_	_
+51	konnten	_	_	_	_	49	aux	_	_
+52	,	_	_	_	_	49	punct	_	_
+53	einfach	_	_	_	_	56	advmod	_	_
+54	nicht	_	_	_	_	56	advmod	_	_
+55	mehr	_	_	_	_	54	advmod	_	_
+56	wiederholen	_	_	_	_	29	conj	_	_
+57	können	_	_	_	_	56	aux	_	_
+58	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 36
+# text = Man kann hier nicht lediglich von den Dienstgruppen in der britischen Besatzungszone sprechen,  sondern muß zum Vergleich - die Dienstgruppen in der britischen Zone gehen schon diesen Weg - auf die Verhältnisse in der amerikanisch besetzten Zone eingehen.
+1	Man	_	_	_	_	13	nsubj	_	_
+2	kann	_	_	_	_	13	aux	_	_
+3	hier	_	_	_	_	13	advmod	_	_
+4	nicht	_	_	_	_	13	advmod	_	_
+5	lediglich	_	_	_	_	13	advmod	_	_
+6	von	_	_	_	_	8	case	_	_
+7	den	_	_	_	_	8	det	_	_
+8	Dienstgruppen	_	_	_	_	13	obl	_	_
+9	in	_	_	_	_	12	case	_	_
+10	der	_	_	_	_	12	det	_	_
+11	britischen	_	_	_	_	12	amod	_	_
+12	Besatzungszone	_	_	_	_	8	nmod	_	_
+13	sprechen	_	_	_	_	0	root	_	_
+14	,	_	_	_	_	39	punct	_	_
+15	sondern	_	_	_	_	39	cc	_	_
+16	muß	_	_	_	_	39	aux	_	_
+17	zum	_	_	_	_	18	case	_	_
+18	Vergleich	_	_	_	_	39	obl	_	_
+19	-	_	_	_	_	26	punct	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Dienstgruppen	_	_	_	_	26	nsubj	_	_
+22	in	_	_	_	_	25	case	_	_
+23	der	_	_	_	_	25	det	_	_
+24	britischen	_	_	_	_	25	amod	_	_
+25	Zone	_	_	_	_	21	nmod	_	_
+26	gehen	_	_	_	_	39	parataxis	_	_
+27	schon	_	_	_	_	26	advmod	_	_
+28	diesen	_	_	_	_	29	det	_	_
+29	Weg	_	_	_	_	26	obj	_	_
+30	-	_	_	_	_	26	punct	_	_
+31	auf	_	_	_	_	33	case	_	_
+32	die	_	_	_	_	33	det	_	_
+33	Verhältnisse	_	_	_	_	39	obl	_	_
+34	in	_	_	_	_	38	case	_	_
+35	der	_	_	_	_	38	det	_	_
+36	amerikanisch	_	_	_	_	37	advmod	_	_
+37	besetzten	_	_	_	_	38	amod	_	_
+38	Zone	_	_	_	_	33	nmod	_	_
+39	eingehen	_	_	_	_	13	conj	_	_
+40	.	_	_	_	_	13	punct	_	_
+
+# sent_id = 37
+# text = Wir haben uns immer in einem starken Maße für die Jugend eingesetzt, weil wir wußten und wissen, daß sie im Ablauf der Generationen immer wieder jenes Element ist, das von der einen zur anderen Generation Brücken schlägt und zugleich eine Entwicklung trägt.
+1	Wir	_	_	_	_	12	nsubj	_	_
+2	haben	_	_	_	_	12	aux	_	_
+3	uns	_	_	_	_	12	obj	_	_
+4	immer	_	_	_	_	12	advmod	_	_
+5	in	_	_	_	_	8	case	_	_
+6	einem	_	_	_	_	8	det	_	_
+7	starken	_	_	_	_	8	amod	_	_
+8	Maße	_	_	_	_	12	obl	_	_
+9	für	_	_	_	_	11	case	_	_
+10	die	_	_	_	_	11	det	_	_
+11	Jugend	_	_	_	_	12	obl	_	_
+12	eingesetzt	_	_	_	_	0	root	_	_
+13	,	_	_	_	_	16	punct	_	_
+14	weil	_	_	_	_	16	mark	_	_
+15	wir	_	_	_	_	16	nsubj	_	_
+16	wußten	_	_	_	_	12	advcl	_	_
+17	und	_	_	_	_	18	cc	_	_
+18	wissen	_	_	_	_	16	conj	_	_
+19	,	_	_	_	_	29	punct	_	_
+20	daß	_	_	_	_	29	mark	_	_
+21	sie	_	_	_	_	29	nsubj	_	_
+22	im	_	_	_	_	23	case	_	_
+23	Ablauf	_	_	_	_	29	nmod	_	_
+24	der	_	_	_	_	25	det	_	_
+25	Generationen	_	_	_	_	23	nmod	_	_
+26	immer	_	_	_	_	27	advmod	_	_
+27	wieder	_	_	_	_	29	advmod	_	_
+28	jenes	_	_	_	_	29	det	_	_
+29	Element	_	_	_	_	16	ccomp	_	_
+30	ist	_	_	_	_	29	cop	_	_
+31	,	_	_	_	_	40	punct	_	_
+32	das	_	_	_	_	40	nsubj	_	_
+33	von	_	_	_	_	35	case	_	_
+34	der	_	_	_	_	35	det	_	_
+35	einen	_	_	_	_	40	obl	_	_
+36	zur	_	_	_	_	38	case	_	_
+37	anderen	_	_	_	_	38	amod	_	_
+38	Generation	_	_	_	_	40	obl	_	_
+39	Brücken	_	_	_	_	40	obj	_	_
+40	schlägt	_	_	_	_	29	acl	_	_
+41	und	_	_	_	_	45	cc	_	_
+42	zugleich	_	_	_	_	45	advmod	_	_
+43	eine	_	_	_	_	44	det	_	_
+44	Entwicklung	_	_	_	_	45	obj	_	_
+45	trägt	_	_	_	_	40	conj	_	_
+46	.	_	_	_	_	12	punct	_	_
+
+# sent_id = 38
+# text = Sie werden sehr viel Mühe haben, den durch Vorfinanzierung an Sie gelangenden Betrag der Bank deutscher Länder in Höhe von 350 Millionen DM im Laufe des restlichen Jahres und im Anfang des nächsten bis zur Mitte des nächsten Jahres wieder abzudecken.
+1	Sie	_	_	_	_	6	nsubj	_	_
+2	werden	_	_	_	_	6	aux	_	_
+3	sehr	_	_	_	_	4	advmod	_	_
+4	viel	_	_	_	_	5	det	_	_
+5	Mühe	_	_	_	_	6	obj	_	_
+6	haben	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	42	punct	_	_
+8	den	_	_	_	_	14	det	_	_
+9	durch	_	_	_	_	10	case	_	_
+10	Vorfinanzierung	_	_	_	_	13	obl	_	_
+11	an	_	_	_	_	12	case	_	_
+12	Sie	_	_	_	_	13	obl	_	_
+13	gelangenden	_	_	_	_	14	amod	_	_
+14	Betrag	_	_	_	_	42	obj	_	_
+15	der	_	_	_	_	16	det	_	_
+16	Bank	_	_	_	_	14	nmod	_	_
+17	deutscher	_	_	_	_	18	amod	_	_
+18	Länder	_	_	_	_	16	nmod	_	_
+19	in	_	_	_	_	20	case	_	_
+20	Höhe	_	_	_	_	14	nmod	_	_
+21	von	_	_	_	_	24	case	_	_
+22	350	_	_	_	_	23	nummod	_	_
+23	Millionen	_	_	_	_	24	nmod	_	_
+24	DM	_	_	_	_	20	nmod	_	_
+25	im	_	_	_	_	26	case	_	_
+26	Laufe	_	_	_	_	42	obl	_	_
+27	des	_	_	_	_	29	det	_	_
+28	restlichen	_	_	_	_	29	amod	_	_
+29	Jahres	_	_	_	_	26	nmod	_	_
+30	und	_	_	_	_	32	cc	_	_
+31	im	_	_	_	_	32	case	_	_
+32	Anfang	_	_	_	_	26	conj	_	_
+33	des	_	_	_	_	34	det	_	_
+34	nächsten	_	_	_	_	32	nmod	_	_
+35	bis	_	_	_	_	37	case	_	_
+36	zur	_	_	_	_	37	case	_	_
+37	Mitte	_	_	_	_	42	obl	_	_
+38	des	_	_	_	_	40	det	_	_
+39	nächsten	_	_	_	_	40	amod	_	_
+40	Jahres	_	_	_	_	37	nmod	_	_
+41	wieder	_	_	_	_	42	advmod	_	_
+42	abzudecken	_	_	_	_	6	xcomp	_	_
+43	.	_	_	_	_	6	punct	_	_
+

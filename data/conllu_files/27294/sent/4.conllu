@@ -1,0 +1,19 @@
+# sent_id = 4
+# text = Gegen Ende der Regierungserklärung kamen mit einer leicht vorangesetzten Betonung die Worte Nation und Vaterland.
+1	Gegen	_	ADP	APPR	_	5	MO	_	_
+2	Ende	_	NOUN	NN	_	1	NK	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Regierungserklärung	_	NOUN	NN	_	2	AG	_	_
+5	kamen	_	VERB	VVFIN	_	0	--	_	_
+6	mit	_	ADP	APPR	_	5	MO	_	_
+7	einer	_	DET	ART	_	10	NK	_	_
+8	leicht	_	ADJ	ADJD	_	9	MO	_	_
+9	vorangesetzten	_	ADJ	ADJA	_	10	NK	_	_
+10	Betonung	_	NOUN	NN	_	6	NK	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Worte	_	NOUN	NN	_	5	SB	_	_
+13	Nation	_	NOUN	NN	_	12	NK	_	_
+14	und	_	CONJ	KON	_	13	CD	_	_
+15	Vaterland	_	NOUN	NN	_	14	CJ	_	_
+16	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

@@ -1,0 +1,30 @@
+# sent_id = 145
+# text = Im Weltkrieg als Kriegsfreiwilliger 1915 an die italienische Front ausgerückt, im Verbände der Tiroler Standschützen vom Juni 1915 bis Mai 1917 als Mannschaftsperson im Schützengraben.
+1	Im	_	ADP	APPRART	_	10	MO	_	_
+2	Weltkrieg	_	NOUN	NN	_	1	NK	_	_
+3	als	_	ADP	APPR	_	2	MNR	_	_
+4	Kriegsfreiwilliger	_	NOUN	NN	_	3	NK	_	_
+5	1915	_	NUM	CARD	_	10	MO	_	_
+6	an	_	ADP	APPR	_	10	MO	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	italienische	_	ADJ	ADJA	_	9	NK	_	_
+9	Front	_	NOUN	NN	_	6	NK	_	_
+10	ausgerückt	_	VERB	VVPP	_	0	--	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	im	_	ADP	APPRART	_	10	MO	_	_
+13	Verbände	_	NOUN	NN	_	12	NK	_	_
+14	der	_	DET	ART	_	16	NK	_	_
+15	Tiroler	_	ADJ	ADJA	_	16	NK	_	_
+16	Standschützen	_	NOUN	NN	_	13	AG	_	_
+17	vom	_	ADP	APPRART	_	13	MNR	_	_
+18	Juni	_	NOUN	NN	_	17	NK	_	_
+19	1915	_	NUM	CARD	_	18	NK	_	_
+20	bis	_	ADP	APPR	_	13	MNR	_	_
+21	Mai	_	NOUN	NN	_	20	NK	_	_
+22	1917	_	NUM	CARD	_	21	NK	_	_
+23	als	_	ADP	APPR	_	13	MNR	_	_
+24	Mannschaftsperson	_	NOUN	NN	_	23	NK	_	_
+25	im	_	ADP	APPRART	_	24	MNR	_	_
+26	Schützengraben	_	NOUN	NN	_	25	NK	_	_
+27	.	_	PUNCT	$.	_	10	PUNCT	_	_
+

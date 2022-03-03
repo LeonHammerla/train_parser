@@ -1,0 +1,41 @@
+# sent_id = 33
+# text = Die Bekassine legt sich dabei auf die Seite, so dass die Flügel, in ganz absonderlicher Weise gegen den Körper verkürzt, heftig vibrirend, fast senkrecht über einander stehen, die Schwanzfedern aber krampfhaft starren.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Bekassine	_	NOUN	NN	_	3	SB	_	_
+3	legt	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	dabei	_	ADV	PROAV	_	3	MO	_	_
+6	auf	_	ADP	APPR	_	3	OP	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Seite	_	NOUN	NN	_	6	NK	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	so	_	ADV	ADV	_	3	MO	_	_
+11	dass	_	CONJ	KOUS	_	31	CP	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Flügel	_	NOUN	NN	_	31	SB	_	_
+14	,	_	PUNCT	$,	_	22	PUNCT	_	_
+15	in	_	ADP	APPR	_	22	MO	_	_
+16	ganz	_	ADV	ADV	_	17	MO	_	_
+17	absonderlicher	_	ADJ	ADJA	_	18	NK	_	_
+18	Weise	_	NOUN	NN	_	15	NK	_	_
+19	gegen	_	ADP	APPR	_	22	MO	_	_
+20	den	_	DET	ART	_	21	NK	_	_
+21	Körper	_	NOUN	NN	_	19	NK	_	_
+22	verkürzt	_	VERB	VVPP	_	31	MO	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	heftig	_	ADJ	ADJD	_	25	MO	_	_
+25	vibrirend	_	ADJ	ADJD	_	22	CJ	_	_
+26	,	_	PUNCT	$,	_	31	PUNCT	_	_
+27	fast	_	ADV	ADV	_	28	MO	_	_
+28	senkrecht	_	NOUN	NN	_	31	MO	_	_
+29	über	_	ADP	APPR	_	31	MO	_	_
+30	einander	_	PRON	PRF	_	29	NK	_	_
+31	stehen	_	VERB	VVINF	_	10	RE	_	_
+32	,	_	PUNCT	$,	_	31	PUNCT	_	_
+33	die	_	DET	ART	_	34	NK	_	_
+34	Schwanzfedern	_	NOUN	NN	_	37	SB	_	_
+35	aber	_	ADV	ADV	_	31	CD	_	_
+36	krampfhaft	_	ADJ	ADJD	_	37	MO	_	_
+37	starren	_	VERB	VVINF	_	35	CJ	_	_
+38	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

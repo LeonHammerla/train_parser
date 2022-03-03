@@ -1,0 +1,11 @@
+# sent_id = 359
+# text = Ausgewählte Siedlungsdichten der Türkentaube in Chemnitz.16. 64,4%
+1	Ausgewählte	_	ADJ	ADJA	_	2	NK	_	_
+2	Siedlungsdichten	_	NOUN	NN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Türkentaube	_	NOUN	NN	_	2	AG	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	Chemnitz.16.	_	PROPN	NE	_	5	NK	_	_
+7	64,4	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	2	PD	_	_
+

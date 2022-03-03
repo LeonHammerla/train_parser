@@ -1,0 +1,23 @@
+# sent_id = 159
+# text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
+1	Beide	_	PRON	PIAT	_	3	NK	_	_
+2	Herren	_	NOUN	NN	_	3	NK	_	_
+3	Redner	_	NOUN	NN	_	4	SB	_	_
+4	haben	_	VERB	VAFIN	_	0	--	_	_
+5	darauf	_	ADV	PROAV	_	7	MO	_	_
+6	aufmerksam	_	ADJ	ADJD	_	7	MO	_	_
+7	gemacht	_	VERB	VVPP	_	4	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	19	CP	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	Deutsche	_	ADJ	ADJA	_	12	NK	_	_
+12	Text	_	NOUN	NN	_	19	SB	_	_
+13	nicht	_	X	PTKNEG	_	14	NG	_	_
+14	überall	_	ADV	ADV	_	19	MO	_	_
+15	vollständig	_	ADJ	ADJD	_	19	MO	_	_
+16	mit	_	ADP	APPR	_	19	OP	_	_
+17	dem	_	DET	ART	_	18	NK	_	_
+18	Italienischen	_	NOUN	NN	_	16	NK	_	_
+19	übereinstimmt	_	VERB	VVFIN	_	5	RE	_	_
+20	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

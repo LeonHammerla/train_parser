@@ -1,0 +1,11 @@
+# sent_id = 50
+# text = rictus 19 Mm.150 —155;
+Barbatula
+1	rictus	_	NOUN	NN	_	3	MO	_	_
+2	19	_	NUM	CARD	_	3	NMC	_	_
+3	Mm.150	_	NOUN	NN	_	4	DEP	_	_
+4	—	_	PUNCT	$(	_	5	DEP	_	_
+5	155	_	NUM	CARD	_	6	DEP	_	_
+6	;	_	PUNCT	$.	_	7	PUNCT	_	_
+7	Barbatula	_	PROPN	NE	_	0	--	_	_
+

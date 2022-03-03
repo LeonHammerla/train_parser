@@ -1,0 +1,231 @@
+# sent_id = 372
+# text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
+1	Der	_	DET	ART	_	3	NK	_	_
+2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
+3	Bromus	_	NOUN	NN	_	6	SB	_	_
+4	madritensis	_	PROPN	NE	_	5	PNC	_	_
+5	L.	_	PROPN	NE	_	3	NK	_	_
+6	war	_	VERB	VAFIN	_	0	--	_	_
+7	in	_	ADP	APPR	_	16	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Jahren	_	NOUN	NN	_	7	NK	_	_
+10	1888	_	NUM	CARD	_	9	NK	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	1889	_	NUM	CARD	_	11	CJ	_	_
+13	an	_	ADP	APPR	_	16	MO	_	_
+14	zwei	_	NUM	CARD	_	15	NK	_	_
+15	Stellen	_	NOUN	NN	_	13	NK	_	_
+16	vorhanden	_	ADJ	ADJD	_	6	PD	_	_
+17	,	_	PUNCT	$,	_	6	PUNCT	_	_
+18	ist	_	VERB	VAFIN	_	6	CJ	_	_
+19	aber	_	ADV	ADV	_	18	MO	_	_
+20	jetzt	_	ADV	ADV	_	18	MO	_	_
+21	nur	_	ADV	ADV	_	24	MO	_	_
+22	noch	_	ADV	ADV	_	24	MO	_	_
+23	sehr	_	ADV	ADV	_	24	MO	_	_
+24	selten	_	ADJ	ADJD	_	26	MO	_	_
+25	zu	_	X	PTKZU	_	26	PM	_	_
+26	finden	_	VERB	VVINF	_	18	OC	_	_
+27	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 373
+# text = Hordeum secalinum, die Roggengerste.
+1	Hordeum	_	NOUN	NN	_	2	PNC	_	_
+2	secalinum	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Roggengerste	_	NOUN	NN	_	2	APP	_	_
+6	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 374
+# text = Dann kommen noch Lepturus incurvatus, L. filiformis und L. cylindricus.
+1	Dann	_	ADV	ADV	_	2	MO	_	_
+2	kommen	_	VERB	VVFIN	_	0	--	_	_
+3	noch	_	ADV	ADV	_	2	MO	_	_
+4	Lepturus	_	PROPN	NE	_	5	PNC	_	_
+5	incurvatus	_	X	FM	_	2	SB	_	_
+6	,	_	PUNCT	$,	_	2	PUNCT	_	_
+7	L.	_	PROPN	NE	_	8	PNC	_	_
+8	filiformis	_	PROPN	NE	_	5	CJ	_	_
+9	und	_	CONJ	KON	_	8	CD	_	_
+10	L.	_	PROPN	NE	_	11	PNC	_	_
+11	cylindricus	_	PROPN	NE	_	9	CJ	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 375
+# text = Noch eine in der Pfalz sehr sehr seltene Graminee müssen wir erwähnen.
+1	Noch	_	ADV	ADV	_	2	MO	_	_
+2	eine	_	DET	ART	_	9	NK	_	_
+3	in	_	ADP	APPR	_	8	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Pfalz	_	PROPN	NE	_	3	NK	_	_
+6	sehr	_	ADV	ADV	_	7	MO	_	_
+7	sehr	_	ADV	ADV	_	8	MO	_	_
+8	seltene	_	ADJ	ADJA	_	9	NK	_	_
+9	Graminee	_	NOUN	NN	_	12	OA	_	_
+10	müssen	_	VERB	VMFIN	_	0	--	_	_
+11	wir	_	PRON	PPER	_	10	SB	_	_
+12	erwähnen	_	VERB	VVINF	_	10	OC	_	_
+13	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 376
+# text = Wie sie hierher kam, läßt sich nicht einmal vermuten.
+1	Wie	_	PRON	PWAV	_	4	MO	_	_
+2	sie	_	PRON	PPER	_	4	SB	_	_
+3	hierher	_	ADV	PROAV	_	4	MO	_	_
+4	kam	_	VERB	VVFIN	_	6	SB	_	_
+5	,	_	PUNCT	$,	_	6	PUNCT	_	_
+6	läßt	_	VERB	VVFIN	_	0	--	_	_
+7	sich	_	PRON	PRF	_	10	OA	_	_
+8	nicht	_	X	PTKNEG	_	6	NG	_	_
+9	einmal	_	ADV	ADV	_	8	MO	_	_
+10	vermuten	_	VERB	VVINF	_	6	OC	_	_
+11	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 377
+# text = Polygonum cuspidatum Sieb, et Zucc, der japanische Riesenknöterich, hat sich an manchen Orten fest angesiedelt und scheint sich in unserem Klima sehr wohl zu befinden und dehnt seine Kolonien von Jahr zu Jahr immer weiter aus.
+1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
+2	cuspidatum	_	PROPN	NE	_	3	NK	_	_
+3	Sieb	_	NOUN	NN	_	12	SB	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	et	_	PROPN	NE	_	6	PNC	_	_
+6	Zucc	_	PROPN	NE	_	3	APP	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	der	_	DET	ART	_	10	NK	_	_
+9	japanische	_	ADJ	ADJA	_	10	NK	_	_
+10	Riesenknöterich	_	NOUN	NN	_	3	APP	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	hat	_	VERB	VAFIN	_	0	--	_	_
+13	sich	_	PRON	PRF	_	18	OA	_	_
+14	an	_	ADP	APPR	_	18	MO	_	_
+15	manchen	_	PRON	PIAT	_	16	NK	_	_
+16	Orten	_	NOUN	NN	_	14	NK	_	_
+17	fest	_	ADJ	ADJD	_	18	MO	_	_
+18	angesiedelt	_	VERB	VVPP	_	12	OC	_	_
+19	und	_	CONJ	KON	_	12	CD	_	_
+20	scheint	_	VERB	VVFIN	_	19	CJ	_	_
+21	sich	_	PRON	PRF	_	28	OA	_	_
+22	in	_	ADP	APPR	_	28	MO	_	_
+23	unserem	_	PRON	PPOSAT	_	24	NK	_	_
+24	Klima	_	NOUN	NN	_	22	NK	_	_
+25	sehr	_	ADV	ADV	_	26	MO	_	_
+26	wohl	_	ADV	ADV	_	28	MO	_	_
+27	zu	_	X	PTKZU	_	28	PM	_	_
+28	befinden	_	VERB	VVINF	_	20	OC	_	_
+29	und	_	CONJ	KON	_	20	CD	_	_
+30	dehnt	_	VERB	VVFIN	_	29	CJ	_	_
+31	seine	_	PRON	PPOSAT	_	32	NK	_	_
+32	Kolonien	_	NOUN	NN	_	30	OA	_	_
+33	von	_	ADP	APPR	_	30	MO	_	_
+34	Jahr	_	NOUN	NN	_	33	NK	_	_
+35	zu	_	ADP	APPR	_	34	MNR	_	_
+36	Jahr	_	NOUN	NN	_	35	NK	_	_
+37	immer	_	ADV	ADV	_	38	MO	_	_
+38	weiter	_	ADV	ADV	_	30	MO	_	_
+39	aus	_	VERB	PTKVZ	_	30	SVP	_	_
+40	.	_	PUNCT	$.	_	12	PUNCT	_	_
+
+# sent_id = 378
+# text = Rumex maritimus ist bei Mundenheim und Maudach in echt typischer Form noch vorhanden, ist aber so selten geworden, daß man schon Glück haben muß, wenn man noch ein Exemplar entdeckt.
+1	Rumex	_	PROPN	NE	_	2	PNC	_	_
+2	maritimus	_	PROPN	NE	_	3	SB	_	_
+3	ist	_	VERB	VAFIN	_	0	--	_	_
+4	bei	_	ADP	APPR	_	3	MO	_	_
+5	Mundenheim	_	NOUN	NN	_	4	NK	_	_
+6	und	_	CONJ	KON	_	5	CD	_	_
+7	Maudach	_	NOUN	NN	_	6	CJ	_	_
+8	in	_	ADP	APPR	_	3	MO	_	_
+9	echt	_	ADJ	ADJD	_	10	MO	_	_
+10	typischer	_	ADJ	ADJA	_	11	NK	_	_
+11	Form	_	NOUN	NN	_	8	NK	_	_
+12	noch	_	ADV	ADV	_	3	MO	_	_
+13	vorhanden	_	ADJ	ADJD	_	3	PD	_	_
+14	,	_	PUNCT	$,	_	3	PUNCT	_	_
+15	ist	_	VERB	VAFIN	_	16	CJ	_	_
+16	aber	_	ADV	ADV	_	3	CD	_	_
+17	so	_	ADV	ADV	_	18	MO	_	_
+18	selten	_	ADJ	ADJD	_	19	PD	_	_
+19	geworden	_	VERB	VAPP	_	15	OC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	daß	_	CONJ	KOUS	_	26	CP	_	_
+22	man	_	PRON	PIS	_	26	SB	_	_
+23	schon	_	ADV	ADV	_	26	MO	_	_
+24	Glück	_	NOUN	NN	_	25	OA	_	_
+25	haben	_	VERB	VAINF	_	26	OC	_	_
+26	muß	_	VERB	VMFIN	_	19	MO	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	wenn	_	CONJ	KOUS	_	33	CP	_	_
+29	man	_	PRON	PIS	_	33	SB	_	_
+30	noch	_	ADV	ADV	_	33	MO	_	_
+31	ein	_	DET	ART	_	32	NK	_	_
+32	Exemplar	_	NOUN	NN	_	33	OA	_	_
+33	entdeckt	_	VERB	VVPP	_	26	MO	_	_
+34	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 379
+# text = Polygonum Bistorta L. in vielen Gegenden, z. B. im Taunus bei Langenschwalbach auf Wiesen gemein, ist bei uns ebenfalls fast vollständig verschwunden und nur im Odenwald ist es an wenigen Standorten noch vorhanden.
+1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
+2	Bistorta	_	PROPN	NE	_	3	PNC	_	_
+3	L.	_	PROPN	NE	_	18	SB	_	_
+4	in	_	ADP	APPR	_	16	MO	_	_
+5	vielen	_	PRON	PIAT	_	6	NK	_	_
+6	Gegenden	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	z.	_	ADP	APPRART	_	10	MO	_	_
+9	B.	_	NOUN	NN	_	8	NK	_	_
+10	im	_	ADP	APPRART	_	6	MNR	_	_
+11	Taunus	_	NOUN	NN	_	10	NK	_	_
+12	bei	_	ADP	APPR	_	11	MNR	_	_
+13	Langenschwalbach	_	PROPN	NE	_	12	NK	_	_
+14	auf	_	ADP	APPR	_	13	MNR	_	_
+15	Wiesen	_	NOUN	NN	_	14	NK	_	_
+16	gemein	_	ADJ	ADJD	_	3	PAR	_	_
+17	,	_	PUNCT	$,	_	18	PUNCT	_	_
+18	ist	_	VERB	VAFIN	_	0	--	_	_
+19	bei	_	ADP	APPR	_	24	MO	_	_
+20	uns	_	PRON	PPER	_	19	NK	_	_
+21	ebenfalls	_	ADV	ADV	_	24	MO	_	_
+22	fast	_	ADV	ADV	_	23	MO	_	_
+23	vollständig	_	ADJ	ADJD	_	24	MO	_	_
+24	verschwunden	_	VERB	VVPP	_	18	OC	_	_
+25	und	_	CONJ	KON	_	24	CD	_	_
+26	nur	_	ADV	ADV	_	27	MO	_	_
+27	im	_	ADP	APPRART	_	29	MO	_	_
+28	Odenwald	_	PROPN	NE	_	27	NK	_	_
+29	ist	_	VERB	VAFIN	_	25	CJ	_	_
+30	es	_	PRON	PPER	_	29	SB	_	_
+31	an	_	ADP	APPR	_	29	MO	_	_
+32	wenigen	_	PRON	PIAT	_	33	NK	_	_
+33	Standorten	_	NOUN	NN	_	31	NK	_	_
+34	noch	_	ADV	ADV	_	35	MO	_	_
+35	vorhanden	_	ADJ	ADJD	_	29	PD	_	_
+36	.	_	PUNCT	$.	_	18	PUNCT	_	_
+
+# sent_id = 380
+# text = Bei Ketsch am Rhein hat sich Rumex pulcher angesiedelt;
+1	Bei	_	ADP	APPR	_	9	MO	_	_
+2	Ketsch	_	PROPN	NE	_	1	NK	_	_
+3	am	_	ADP	APPRART	_	2	MNR	_	_
+4	Rhein	_	PROPN	NE	_	3	NK	_	_
+5	hat	_	VERB	VAFIN	_	0	--	_	_
+6	sich	_	PRON	PRF	_	9	OA	_	_
+7	Rumex	_	PROPN	NE	_	8	PNC	_	_
+8	pulcher	_	ADJ	ADJD	_	5	SB	_	_
+9	angesiedelt	_	VERB	VVPP	_	5	OC	_	_
+10	;	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 381
+# text = An den Schmidt'schen Standorten sind die Thesium- arten fast vollständig erloschen.
+1	An	_	ADP	APPR	_	11	MO	_	_
+2	den	_	DET	ART	_	4	NK	_	_
+3	Schmidt'schen	_	ADJ	ADJA	_	4	NK	_	_
+4	Standorten	_	NOUN	NN	_	1	NK	_	_
+5	sind	_	VERB	VAFIN	_	0	--	_	_
+6	die	_	DET	ART	_	8	NK	_	_
+7	Thesium-	_	X	TRUNC	_	8	NK	_	_
+8	arten	_	NOUN	NN	_	5	SB	_	_
+9	fast	_	ADV	ADV	_	10	MO	_	_
+10	vollständig	_	ADJ	ADJD	_	11	MO	_	_
+11	erloschen	_	VERB	VVPP	_	5	OC	_	_
+12	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

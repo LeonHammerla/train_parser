@@ -1,0 +1,18 @@
+# sent_id = 147
+# text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	halte	_	_	_	_	0	root	_	_
+3	meinerseits	_	_	_	_	2	advmod	_	_
+4	dieses	_	_	_	_	6	det	_	_
+5	letzte	_	_	_	_	6	amod	_	_
+6	Wort	_	_	_	_	2	obj	_	_
+7	,	_	_	_	_	13	punct	_	_
+8	daß	_	_	_	_	13	mark	_	_
+9	das	_	_	_	_	10	det	_	_
+10	Volk	_	_	_	_	13	nsubj	_	_
+11	noch	_	_	_	_	12	advmod	_	_
+12	nicht	_	_	_	_	13	advmod	_	_
+13	reif	_	_	_	_	6	appos	_	_
+14	sei	_	_	_	_	13	cop	_	_
+15	.	_	_	_	_	2	punct	_	_
+

@@ -1,0 +1,30 @@
+# sent_id = 198
+# text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
+1	Der	_	DET	ART	_	3	NK	_	_
+2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
+3	Bromus	_	NOUN	NN	_	6	SB	_	_
+4	madritensis	_	PROPN	NE	_	5	PNC	_	_
+5	L.	_	PROPN	NE	_	3	PNC	_	_
+6	war	_	VERB	VAFIN	_	0	--	_	_
+7	in	_	ADP	APPR	_	16	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Jahren	_	NOUN	NN	_	7	NK	_	_
+10	1888	_	NUM	CARD	_	9	NK	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	1889	_	NUM	CARD	_	11	CJ	_	_
+13	an	_	ADP	APPR	_	16	MO	_	_
+14	zwei	_	NUM	CARD	_	15	NK	_	_
+15	Stellen	_	NOUN	NN	_	13	NK	_	_
+16	vorhanden	_	ADJ	ADJD	_	6	PD	_	_
+17	,	_	PUNCT	$,	_	6	PUNCT	_	_
+18	ist	_	VERB	VAFIN	_	6	CJ	_	_
+19	aber	_	ADV	ADV	_	18	MO	_	_
+20	jetzt	_	ADV	ADV	_	18	MO	_	_
+21	nur	_	ADV	ADV	_	24	MO	_	_
+22	noch	_	ADV	ADV	_	24	MO	_	_
+23	sehr	_	ADV	ADV	_	24	MO	_	_
+24	selten	_	ADJ	ADJD	_	26	MO	_	_
+25	zu	_	X	PTKZU	_	26	PM	_	_
+26	finden	_	VERB	VVINF	_	18	OC	_	_
+27	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

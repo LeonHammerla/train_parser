@@ -1,0 +1,31 @@
+# sent_id = 111
+# text = Die längeren Ladenöffnungszeiten werden von einem großen Teil der Kunden vor allem am Donnerstag und am Freitag angenommen, jedoch nur von einem kleinen Teil der Unternehmen.
+1	Die	_	DET	ART	_	3	NK	_	_
+2	längeren	_	ADJ	ADJA	_	3	NK	_	_
+3	Ladenöffnungszeiten	_	NOUN	NN	_	4	SB	_	_
+4	werden	_	VERB	VAFIN	_	0	--	_	_
+5	von	_	ADP	APPR	_	18	SBP	_	_
+6	einem	_	DET	ART	_	8	NK	_	_
+7	großen	_	ADJ	ADJA	_	8	NK	_	_
+8	Teil	_	NOUN	NN	_	5	NK	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Kunden	_	NOUN	NN	_	8	AG	_	_
+11	vor	_	ADP	APPR	_	13	MO	_	_
+12	allem	_	PRON	PIS	_	11	NK	_	_
+13	am	_	ADP	APPRART	_	18	MO	_	_
+14	Donnerstag	_	NOUN	NN	_	13	NK	_	_
+15	und	_	CONJ	KON	_	13	CD	_	_
+16	am	_	ADP	APPRART	_	15	CJ	_	_
+17	Freitag	_	NOUN	NN	_	16	NK	_	_
+18	angenommen	_	VERB	VVPP	_	4	OC	_	_
+19	,	_	PUNCT	$,	_	4	PUNCT	_	_
+20	jedoch	_	ADV	ADV	_	8	CD	_	_
+21	nur	_	ADV	ADV	_	22	MO	_	_
+22	von	_	ADP	APPR	_	25	AC	_	_
+23	einem	_	DET	ART	_	25	NK	_	_
+24	kleinen	_	ADJ	ADJA	_	25	NK	_	_
+25	Teil	_	NOUN	NN	_	20	CJ	_	_
+26	der	_	DET	ART	_	27	NK	_	_
+27	Unternehmen	_	NOUN	NN	_	25	AG	_	_
+28	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

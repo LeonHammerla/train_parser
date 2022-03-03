@@ -1,0 +1,41 @@
+# sent_id = 227
+# text = Grundsätzlich ist bei dieser Art nur von Revieren zu sprechen, da in der Kartierungsperiode und in den vorangegangenen Jahren kein Nestfund oder anderer D-Nachweis gelang und damit nicht generell auf „Brutpaare" geschlossen werden kann.
+1	Grundsätzlich	_	ADJ	ADJD	_	10	MO	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	bei	_	ADP	APPR	_	10	MO	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Art	_	NOUN	NN	_	3	NK	_	_
+6	nur	_	ADV	ADV	_	7	MO	_	_
+7	von	_	ADP	APPR	_	10	OP	_	_
+8	Revieren	_	NOUN	NN	_	7	NK	_	_
+9	zu	_	X	PTKZU	_	10	PM	_	_
+10	sprechen	_	VERB	VVINF	_	2	OC	_	_
+11	,	_	PUNCT	$,	_	2	PUNCT	_	_
+12	da	_	CONJ	KOUS	_	26	CP	_	_
+13	in	_	ADP	APPR	_	26	MO	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Kartierungsperiode	_	NOUN	NN	_	13	NK	_	_
+16	und	_	CONJ	KON	_	13	CD	_	_
+17	in	_	ADP	APPR	_	16	CJ	_	_
+18	den	_	DET	ART	_	20	NK	_	_
+19	vorangegangenen	_	ADJ	ADJA	_	20	NK	_	_
+20	Jahren	_	NOUN	NN	_	17	NK	_	_
+21	kein	_	PRON	PIAT	_	22	NK	_	_
+22	Nestfund	_	NOUN	NN	_	26	SB	_	_
+23	oder	_	CONJ	KON	_	22	CD	_	_
+24	anderer	_	ADJ	ADJA	_	25	NK	_	_
+25	D-Nachweis	_	NOUN	NN	_	23	CJ	_	_
+26	gelang	_	VERB	VVFIN	_	2	MO	_	_
+27	und	_	CONJ	KON	_	26	CD	_	_
+28	damit	_	ADV	PROAV	_	37	MO	_	_
+29	nicht	_	X	PTKNEG	_	30	NG	_	_
+30	generell	_	ADJ	ADJD	_	37	MO	_	_
+31	auf	_	ADP	APPR	_	35	OP	_	_
+32	„	_	PUNCT	$(	_	33	PUNCT	_	_
+33	Brutpaare	_	NOUN	NN	_	31	NK	_	_
+34	"	_	PUNCT	$(	_	33	PUNCT	_	_
+35	geschlossen	_	VERB	VVPP	_	36	OC	_	_
+36	werden	_	VERB	VAINF	_	37	OC	_	_
+37	kann	_	VERB	VMFIN	_	27	CJ	_	_
+38	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

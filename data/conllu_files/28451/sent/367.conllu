@@ -1,0 +1,19 @@
+# sent_id = 367
+# text = Verbreitung und Lebensraum
+9, 2006, Sonderheft 4 Turteltaube, Streptopelia turtur Status:
+1	Verbreitung	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
+4	9	_	NUM	CARD	_	3	PNC	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	2006	_	NUM	CARD	_	3	CJ	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	Sonderheft	_	PROPN	NE	_	6	CJ	_	_
+9	4	_	NUM	CARD	_	10	NK	_	_
+10	Turteltaube	_	NOUN	NN	_	1	PAR	_	_
+11	,	_	PUNCT	$,	_	1	PUNCT	_	_
+12	Streptopelia	_	PROPN	NE	_	13	PNC	_	_
+13	turtur	_	NOUN	NN	_	1	CJ	_	_
+14	Status	_	NOUN	NN	_	13	NK	_	_
+15	:	_	PUNCT	$.	_	1	PUNCT	_	_
+

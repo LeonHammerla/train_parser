@@ -1,0 +1,14 @@
+# sent_id = 176
+# text = Wir hielten es lange für eine Kümmerform von Poa annua.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	hielten	_	VERB	VVFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	OA	_	_
+4	lange	_	ADV	ADV	_	2	MO	_	_
+5	für	_	ADP	APPR	_	2	OP	_	_
+6	eine	_	DET	ART	_	7	NK	_	_
+7	Kümmerform	_	NOUN	NN	_	5	NK	_	_
+8	von	_	ADP	APPR	_	7	PG	_	_
+9	Poa	_	PROPN	NE	_	10	PNC	_	_
+10	annua	_	VERB	VVFIN	_	8	NK	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

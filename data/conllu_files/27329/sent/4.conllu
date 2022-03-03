@@ -1,0 +1,24 @@
+# sent_id = 4
+# text = I particularly wanted to speak on the public/private partnership proposed by the Bill for National Air Traffic Services.
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	particularly	_	ADV	RB	_	3	advmod	_	_
+3	wanted	_	VERB	VBD	_	0	root	_	_
+4	to	_	ADP	TO	_	5	mark	_	_
+5	speak	_	VERB	VB	_	3	xcomp	_	_
+6	on	_	ADP	IN	_	11	case	_	_
+7	the	_	DET	DT	_	11	det	_	_
+8	public	_	ADJ	JJ	_	10	flat	_	_
+9	/	_	SYM	SYM	_	10	punct	_	_
+10	private	_	ADJ	JJ	_	11	amod	_	_
+11	partnership	_	NOUN	NN	_	5	obl	_	_
+12	proposed	_	VERB	VBN	_	11	acl	_	_
+13	by	_	ADP	IN	_	15	case	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	Bill	_	PROPN	NNP	_	12	obl	_	_
+16	for	_	ADP	IN	_	20	case	_	_
+17	National	_	PROPN	NNP	_	20	compound	_	_
+18	Air	_	PROPN	NNP	_	19	compound	_	_
+19	Traffic	_	PROPN	NNP	_	20	compound	_	_
+20	Services	_	PROPN	NNP	_	15	nmod	_	_
+21	.	_	PUNCT	.	_	3	punct	_	_
+

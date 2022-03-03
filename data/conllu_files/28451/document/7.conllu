@@ -1,0 +1,1035 @@
+# sent_id = 300
+# text = Alle drei Verbreitungsinseln weisen zeitweise größere übersichtliche, vegetationslose Flächen auf, die der Flussregenpfeifer als Sekundärlebensraum besiedelt.
+1	Alle	_	PRON	PIAT	_	3	NK	_	_
+2	drei	_	NUM	CARD	_	3	NK	_	_
+3	Verbreitungsinseln	_	NOUN	NN	_	4	SB	_	_
+4	weisen	_	VERB	VVFIN	_	0	--	_	_
+5	zeitweise	_	ADV	ADV	_	4	MO	_	_
+6	größere	_	ADJ	ADJA	_	10	NK	_	_
+7	übersichtliche	_	ADJ	ADJA	_	10	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	vegetationslose	_	ADJ	ADJA	_	7	CJ	_	_
+10	Flächen	_	NOUN	NN	_	4	OA	_	_
+11	auf	_	VERB	PTKVZ	_	4	SVP	_	_
+12	,	_	PUNCT	$,	_	4	PUNCT	_	_
+13	die	_	PRON	PRELS	_	18	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Flussregenpfeifer	_	NOUN	NN	_	18	SB	_	_
+16	als	_	ADP	APPR	_	18	MO	_	_
+17	Sekundärlebensraum	_	NOUN	NN	_	16	NK	_	_
+18	besiedelt	_	VERB	VVFIN	_	10	RC	_	_
+19	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 301
+# text = Außer Einzelvorkommen in Ebersdorf und Euba ist das übrige Stadtgebiet gänzlich unbesiedelt.
+1	Außer	_	ADP	APPR	_	7	MO	_	_
+2	Einzelvorkommen	_	NOUN	NN	_	1	NK	_	_
+3	in	_	ADP	APPR	_	2	MNR	_	_
+4	Ebersdorf	_	PROPN	NE	_	3	NK	_	_
+5	und	_	CONJ	KON	_	4	CD	_	_
+6	Euba	_	PROPN	NE	_	5	CJ	_	_
+7	ist	_	VERB	VAFIN	_	0	--	_	_
+8	das	_	DET	ART	_	10	NK	_	_
+9	übrige	_	ADJ	ADJA	_	10	NK	_	_
+10	Stadtgebiet	_	NOUN	NN	_	7	SB	_	_
+11	gänzlich	_	ADJ	ADJD	_	12	MO	_	_
+12	unbesiedelt	_	VERB	VVPP	_	7	PD	_	_
+13	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 302
+# text = Ein kleines Bestandshoch war dann für die Zeit nach 1990 erkennbar, als der Flussregenpfeifer planierte, aber später nicht genutzte Bauflächen annahm (z. B. am Weideweg in Rottluff) und auch aufgelassene Militäranlagen (Munitionslager Euba) zur Brut nutzte.
+1	Ein	_	DET	ART	_	3	NK	_	_
+2	kleines	_	ADJ	ADJA	_	3	NK	_	_
+3	Bestandshoch	_	NOUN	NN	_	4	SB	_	_
+4	war	_	VERB	VAFIN	_	0	--	_	_
+5	dann	_	ADV	ADV	_	4	MO	_	_
+6	für	_	ADP	APPR	_	11	MO	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Zeit	_	NOUN	NN	_	6	NK	_	_
+9	nach	_	ADP	APPR	_	8	MNR	_	_
+10	1990	_	NUM	CARD	_	9	NK	_	_
+11	erkennbar	_	ADJ	ADJD	_	4	PD	_	_
+12	,	_	PUNCT	$,	_	4	PUNCT	_	_
+13	als	_	CONJ	KOUS	_	16	MO	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Flussregenpfeifer	_	NOUN	NN	_	16	SB	_	_
+16	planierte	_	VERB	VVFIN	_	8	RC	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	aber	_	CONJ	KON	_	16	CD	_	_
+19	später	_	ADJ	ADJD	_	21	MO	_	_
+20	nicht	_	X	PTKNEG	_	21	NG	_	_
+21	genutzte	_	ADJ	ADJA	_	22	NK	_	_
+22	Bauflächen	_	NOUN	NN	_	23	OA	_	_
+23	annahm	_	VERB	VVFIN	_	18	CJ	_	_
+24	(	_	PUNCT	$(	_	28	PUNCT	_	_
+25	z.	_	ADP	APPRART	_	27	MO	_	_
+26	B.	_	NOUN	NN	_	25	NK	_	_
+27	am	_	ADP	APPRART	_	22	MNR	_	_
+28	Weideweg	_	NOUN	NN	_	27	NK	_	_
+29	in	_	ADP	APPR	_	28	MNR	_	_
+30	Rottluff	_	NOUN	NN	_	29	NK	_	_
+31	)	_	PUNCT	$(	_	27	PUNCT	_	_
+32	und	_	CONJ	KON	_	23	CD	_	_
+33	auch	_	ADV	ADV	_	35	MO	_	_
+34	aufgelassene	_	ADJ	ADJA	_	35	NK	_	_
+35	Militäranlagen	_	NOUN	NN	_	42	OA	_	_
+36	(	_	PUNCT	$(	_	38	PUNCT	_	_
+37	Munitionslager	_	ADJ	ADJA	_	38	NK	_	_
+38	Euba	_	PROPN	NE	_	35	PAR	_	_
+39	)	_	PUNCT	$(	_	38	PUNCT	_	_
+40	zur	_	ADP	APPRART	_	42	MO	_	_
+41	Brut	_	NOUN	NN	_	40	NK	_	_
+42	nutzte	_	VERB	VVFIN	_	32	CJ	_	_
+43	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 303
+# text = 12 Gefährdung und Schutz:
+1	12	_	NUM	CARD	_	2	NK	_	_
+2	Gefährdung	_	NOUN	NN	_	0	--	_	_
+3	und	_	CONJ	KON	_	2	CD	_	_
+4	Schutz	_	NOUN	NN	_	3	CJ	_	_
+5	:	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 304
+# text = Der Flussregenpfeifer nutzt in Chemnitz nahezu ausschließlich Sekundärhabitate als Brutstätten und ist somit stark von der menschlichen Bautätigkeit abhängig.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Flussregenpfeifer	_	NOUN	NN	_	3	SB	_	_
+3	nutzt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
+6	nahezu	_	ADV	ADV	_	7	MO	_	_
+7	ausschließlich	_	ADV	ADV	_	3	MO	_	_
+8	Sekundärhabitate	_	NOUN	NN	_	3	OA	_	_
+9	als	_	ADP	APPR	_	3	MO	_	_
+10	Brutstätten	_	NOUN	NN	_	9	NK	_	_
+11	und	_	CONJ	KON	_	3	CD	_	_
+12	ist	_	VERB	VAFIN	_	11	CJ	_	_
+13	somit	_	ADV	ADV	_	19	MO	_	_
+14	stark	_	ADJ	ADJD	_	19	MO	_	_
+15	von	_	ADP	APPR	_	19	OP	_	_
+16	der	_	DET	ART	_	18	NK	_	_
+17	menschlichen	_	ADJ	ADJA	_	18	NK	_	_
+18	Bautätigkeit	_	NOUN	NN	_	15	NK	_	_
+19	abhängig	_	ADJ	ADJD	_	12	PD	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 305
+# text = Zusammenfassend kann für den Flussregenpfeifer bis 2000 eine Zunahme konstatiert werden.
+1	Zusammenfassend	_	NOUN	NN	_	2	MO	_	_
+2	kann	_	VERB	VMFIN	_	0	--	_	_
+3	für	_	ADP	APPR	_	2	MO	_	_
+4	den	_	DET	ART	_	5	NK	_	_
+5	Flussregenpfeifer	_	NOUN	NN	_	3	NK	_	_
+6	bis	_	ADP	APPR	_	2	MO	_	_
+7	2000	_	NUM	CARD	_	6	NK	_	_
+8	eine	_	DET	ART	_	9	NK	_	_
+9	Zunahme	_	NOUN	NN	_	2	SB	_	_
+10	konstatiert	_	VERB	VVPP	_	11	OC	_	_
+11	werden	_	VERB	VAINF	_	2	OC	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 306
+# text = Die höhere Bestandszahl im Kartierungszeitraum resultierte vor allem aus den in dieser Zeit günstigen Bedingungen im Chemnitztal bei Draisdorf, wo an den Rändern neu angelegter Gewässer drei bis sechs Paare nisteten.
+1	Die	_	DET	ART	_	3	NK	_	_
+2	höhere	_	ADJ	ADJA	_	3	NK	_	_
+3	Bestandszahl	_	NOUN	NN	_	6	SB	_	_
+4	im	_	ADP	APPRART	_	3	MNR	_	_
+5	Kartierungszeitraum	_	NOUN	NN	_	4	NK	_	_
+6	resultierte	_	VERB	VVFIN	_	0	--	_	_
+7	vor	_	ADP	APPR	_	9	MO	_	_
+8	allem	_	PRON	PIS	_	7	NK	_	_
+9	aus	_	ADP	APPR	_	6	OP	_	_
+10	den	_	DET	ART	_	15	NK	_	_
+11	in	_	ADP	APPR	_	14	MO	_	_
+12	dieser	_	PRON	PDAT	_	13	NK	_	_
+13	Zeit	_	NOUN	NN	_	11	NK	_	_
+14	günstigen	_	ADJ	ADJA	_	15	NK	_	_
+15	Bedingungen	_	NOUN	NN	_	9	NK	_	_
+16	im	_	ADP	APPRART	_	15	MNR	_	_
+17	Chemnitztal	_	NOUN	NN	_	16	NK	_	_
+18	bei	_	ADP	APPR	_	17	MNR	_	_
+19	Draisdorf	_	PROPN	NE	_	18	NK	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	wo	_	PRON	PWAV	_	32	MO	_	_
+22	an	_	ADP	APPR	_	32	MO	_	_
+23	den	_	DET	ART	_	24	NK	_	_
+24	Rändern	_	NOUN	NN	_	22	NK	_	_
+25	neu	_	ADJ	ADJD	_	26	MO	_	_
+26	angelegter	_	ADJ	ADJA	_	27	NK	_	_
+27	Gewässer	_	NOUN	NN	_	24	AG	_	_
+28	drei	_	NUM	CARD	_	31	NK	_	_
+29	bis	_	CONJ	KON	_	28	CD	_	_
+30	sechs	_	NUM	CARD	_	29	CJ	_	_
+31	Paare	_	NOUN	NN	_	32	OA	_	_
+32	nisteten	_	VERB	VVINF	_	19	RC	_	_
+33	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 307
+# text = 9, 2006, Sonderheft 4 Flussregenpfeifer, Charadrius dubius Status: Regelmäßiger, seltener Brutvogel.
+1	9	_	NUM	CARD	_	7	NK	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	2006	_	NUM	CARD	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
+6	4	_	NUM	CARD	_	5	NK	_	_
+7	Flussregenpfeifer	_	NOUN	NN	_	0	--	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	Charadrius	_	PROPN	NE	_	3	CJ	_	_
+10	dubius	_	PROPN	NE	_	11	PNC	_	_
+11	Status	_	PROPN	NE	_	9	NK	_	_
+12	:	_	PUNCT	$.	_	7	PUNCT	_	_
+13	Regelmäßiger	_	ADJ	ADJA	_	7	PAR	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	seltener	_	ADJ	ADJA	_	16	NK	_	_
+16	Brutvogel	_	NOUN	NN	_	13	CJ	_	_
+17	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 308
+# text = Ornithol.
+1	Ornithol	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 309
+# text = Sachs.
+1	Sachs	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 310
+# text = Ver.
+1	Ver	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 311
+# text = Flöter et al.
+1	Flöter	_	NOUN	NN	_	0	--	_	_
+2	et	_	X	FM	_	3	PNC	_	_
+3	al.	_	X	FM	_	1	NK	_	_
+
+# sent_id = 312
+# text = : Brutvogelatlas der Stadt Chemnitz 85 Flussregenpfeifer p858
+1	:	_	PUNCT	$.	_	2	PUNCT	_	_
+2	Brutvogelatlas	_	NOUN	NN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Stadt	_	NOUN	NN	_	2	AG	_	_
+5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
+6	85	_	NUM	CARD	_	7	NK	_	_
+7	Flussregenpfeifer	_	NOUN	NN	_	2	OA	_	_
+8	p858	_	NOUN	NN	_	7	NK	_	_
+
+# sent_id = 313
+# text = Brutmöglichkeiten nur noch im geringen Maße zur Verfügung stehen.
+1	Brutmöglichkeiten	_	NOUN	NN	_	9	SB	_	_
+2	nur	_	ADV	ADV	_	4	MO	_	_
+3	noch	_	ADV	ADV	_	2	MO	_	_
+4	im	_	ADP	APPRART	_	9	MO	_	_
+5	geringen	_	ADJ	ADJA	_	6	NK	_	_
+6	Maße	_	NOUN	NN	_	4	NK	_	_
+7	zur	_	ADP	APPRART	_	9	CVC	_	_
+8	Verfügung	_	NOUN	NN	_	7	NK	_	_
+9	stehen	_	VERB	VVINF	_	0	--	_	_
+10	.	_	PUNCT	$.	_	9	PUNCT	_	_
+
+# sent_id = 314
+# text = Die Anlage einiger neuer Gewässer mit angrenzenden Rohbodenflächen im Chemnitztal (vgl. Börner et al. 1995, Flöter &amp;
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Anlage	_	NOUN	NN	_	0	--	_	_
+3	einiger	_	PRON	PIAT	_	5	NK	_	_
+4	neuer	_	ADJ	ADJA	_	5	NK	_	_
+5	Gewässer	_	NOUN	NN	_	2	AG	_	_
+6	mit	_	ADP	APPR	_	5	MNR	_	_
+7	angrenzenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Rohbodenflächen	_	NOUN	NN	_	6	NK	_	_
+9	im	_	ADP	APPRART	_	8	MNR	_	_
+10	Chemnitztal	_	NOUN	NN	_	9	NK	_	_
+11	(	_	PUNCT	$(	_	13	PUNCT	_	_
+12	vgl.	_	PROPN	NE	_	2	PAR	_	_
+13	Börner	_	PROPN	NE	_	12	OA	_	_
+14	et	_	X	FM	_	15	PNC	_	_
+15	al.	_	X	FM	_	16	NK	_	_
+16	1995	_	NUM	CARD	_	13	NK	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	Flöter	_	NOUN	NN	_	16	CJ	_	_
+19	&	_	CONJ	KON	_	18	CD	_	_
+20	amp	_	VERB	VVFIN	_	19	CJ	_	_
+21	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 315
+# text = Börner 2001) schaffte infolge der Sukzession nur kurzzeitig günstige Lebensbedingungen.
+1	Börner	_	NOUN	NN	_	4	SB	_	_
+2	2001	_	NUM	CARD	_	1	NK	_	_
+3	)	_	PUNCT	$(	_	1	PUNCT	_	_
+4	schaffte	_	VERB	VVFIN	_	0	--	_	_
+5	infolge	_	ADP	APPR	_	4	MO	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Sukzession	_	NOUN	NN	_	5	NK	_	_
+8	nur	_	ADV	ADV	_	9	MO	_	_
+9	kurzzeitig	_	ADJ	ADJD	_	10	MO	_	_
+10	günstige	_	ADJ	ADJA	_	11	NK	_	_
+11	Lebensbedingungen	_	NOUN	NN	_	4	OA	_	_
+12	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 316
+# text = An unzugänglichen Standorten (Industriebrachen) können Einzelvorkommen übersehen worden sein.
+1	An	_	ADP	APPR	_	11	MO	_	_
+2	unzugänglichen	_	ADJ	ADJA	_	3	NK	_	_
+3	Standorten	_	NOUN	NN	_	1	NK	_	_
+4	(	_	PUNCT	$(	_	5	PUNCT	_	_
+5	Industriebrachen	_	NOUN	NN	_	3	APP	_	_
+6	)	_	PUNCT	$(	_	5	PUNCT	_	_
+7	können	_	VERB	VMFIN	_	0	--	_	_
+8	Einzelvorkommen	_	NOUN	NN	_	7	SB	_	_
+9	übersehen	_	VERB	VVPP	_	10	OC	_	_
+10	worden	_	VERB	VAPP	_	11	OC	_	_
+11	sein	_	VERB	VAINF	_	7	OC	_	_
+12	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 317
+# text = In dieser Zeit war die Hohltaube jedoch im gesamten Erzgebirgsvorland ein sehr seltener Brutvogel, der im Gebiet des Bezirkes Chemnitz in den 1950er- bis 1970er- Jahren einen erheblichen Bestandsrückgang hinnehmen musste (Saemann 1976, Möckel 1981).
+1	In	_	ADP	APPR	_	4	MO	_	_
+2	dieser	_	PRON	PDAT	_	3	NK	_	_
+3	Zeit	_	NOUN	NN	_	1	NK	_	_
+4	war	_	VERB	VAFIN	_	0	--	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hohltaube	_	NOUN	NN	_	4	SB	_	_
+7	jedoch	_	ADV	ADV	_	4	MO	_	_
+8	im	_	ADP	APPRART	_	4	MO	_	_
+9	gesamten	_	ADJ	ADJA	_	10	NK	_	_
+10	Erzgebirgsvorland	_	NOUN	NN	_	8	NK	_	_
+11	ein	_	DET	ART	_	14	NK	_	_
+12	sehr	_	ADV	ADV	_	13	MO	_	_
+13	seltener	_	ADJ	ADJA	_	14	NK	_	_
+14	Brutvogel	_	NOUN	NN	_	4	PD	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	der	_	PRON	PRELS	_	32	SB	_	_
+17	im	_	ADP	APPRART	_	31	MO	_	_
+18	Gebiet	_	NOUN	NN	_	17	NK	_	_
+19	des	_	DET	ART	_	20	NK	_	_
+20	Bezirkes	_	NOUN	NN	_	18	AG	_	_
+21	Chemnitz	_	PROPN	NE	_	20	NK	_	_
+22	in	_	ADP	APPR	_	31	MO	_	_
+23	den	_	DET	ART	_	24	NK	_	_
+24	1950er-	_	NOUN	NN	_	22	NK	_	_
+25	bis	_	ADP	APPR	_	31	MO	_	_
+26	1970er-	_	NUM	CARD	_	25	NK	_	_
+27	Jahren	_	NOUN	NN	_	25	NK	_	_
+28	einen	_	DET	ART	_	30	NK	_	_
+29	erheblichen	_	ADJ	ADJA	_	30	NK	_	_
+30	Bestandsrückgang	_	NOUN	NN	_	31	OA	_	_
+31	hinnehmen	_	VERB	VVFIN	_	32	OC	_	_
+32	musste	_	ADJ	ADJA	_	14	RC	_	_
+33	(	_	PUNCT	$(	_	34	PUNCT	_	_
+34	Saemann	_	PROPN	NE	_	32	PAR	_	_
+35	1976	_	NUM	CARD	_	34	NK	_	_
+36	,	_	PUNCT	$,	_	34	PUNCT	_	_
+37	Möckel	_	NOUN	NN	_	34	CJ	_	_
+38	1981	_	NUM	CARD	_	37	NK	_	_
+39	)	_	PUNCT	$(	_	34	PUNCT	_	_
+40	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 318
+# text = Verbreitung und Lebensraum:
+1	Verbreitung	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
+4	:	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 319
+# text = Der Verbreitungsschwerpunkt der Hohltaube liegt in Chemnitz im Zeisigwald.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Verbreitungsschwerpunkt	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Hohltaube	_	NOUN	NN	_	2	AG	_	_
+5	liegt	_	VERB	VVFIN	_	0	--	_	_
+6	in	_	ADP	APPR	_	5	MO	_	_
+7	Chemnitz	_	PROPN	NE	_	6	NK	_	_
+8	im	_	ADP	APPRART	_	7	MNR	_	_
+9	Zeisigwald	_	PROPN	NE	_	8	NK	_	_
+10	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 320
+# text = Sommervogel.9, 2006, Sonderheft 4 Hohltaube, Columba oenas Status: Wahrscheinlich ab 1978 regelmäßiger, seltener Brutvogel.
+1	Sommervogel.9	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	2006	_	NUM	CARD	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
+6	4	_	NUM	CARD	_	5	NK	_	_
+7	Hohltaube	_	NOUN	NN	_	3	CJ	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	Columba	_	PROPN	NE	_	11	AG	_	_
+10	oenas	_	PROPN	NE	_	11	AG	_	_
+11	Status	_	PROPN	NE	_	1	APP	_	_
+12	:	_	PUNCT	$.	_	1	PUNCT	_	_
+13	Wahrscheinlich	_	ADJ	ADJD	_	14	MO	_	_
+14	ab	_	ADP	APPR	_	1	PAR	_	_
+15	1978	_	NUM	CARD	_	14	NK	_	_
+16	regelmäßiger	_	ADJ	ADJA	_	19	NK	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	seltener	_	ADJ	ADJA	_	16	CJ	_	_
+19	Brutvogel	_	NOUN	NN	_	14	NK	_	_
+20	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 321
+# text = Die Hohltaube kommt außerdem im östlich die Stadtgrenze berührenden Struthwald vor.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Hohltaube	_	NOUN	NN	_	3	SB	_	_
+3	kommt	_	VERB	VVFIN	_	0	--	_	_
+4	außerdem	_	ADV	PROAV	_	3	MO	_	_
+5	im	_	ADP	APPRART	_	3	MO	_	_
+6	östlich	_	ADJ	ADJD	_	9	MO	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Stadtgrenze	_	NOUN	NN	_	9	OA	_	_
+9	berührenden	_	VERB	VVFIN	_	10	NK	_	_
+10	Struthwald	_	PROPN	NE	_	5	NK	_	_
+11	vor	_	VERB	PTKVZ	_	3	SVP	_	_
+12	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 322
+# text = Mehner und J. Börner Brutzeitbeobachtungen aus dem Kartierungszeitraum.
+1	Mehner	_	PROPN	NE	_	5	NK	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	J.	_	PROPN	NE	_	4	PNC	_	_
+4	Börner	_	PROPN	NE	_	2	CJ	_	_
+5	Brutzeitbeobachtungen	_	NOUN	NN	_	0	--	_	_
+6	aus	_	ADP	APPR	_	5	MNR	_	_
+7	dem	_	DET	ART	_	8	NK	_	_
+8	Kartierungszeitraum	_	NOUN	NN	_	6	NK	_	_
+9	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 323
+# text = Auch Parkanlagen wurden trotz angebotener Nistkästen (innerhalb Axtenhilfsprogramm für die Dohle) nicht besetzt.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	Parkanlagen	_	NOUN	NN	_	3	SB	_	_
+3	wurden	_	VERB	VAFIN	_	0	--	_	_
+4	trotz	_	ADP	APPR	_	15	MO	_	_
+5	angebotener	_	ADJ	ADJA	_	6	NK	_	_
+6	Nistkästen	_	NOUN	NN	_	4	NK	_	_
+7	(	_	PUNCT	$(	_	9	PUNCT	_	_
+8	innerhalb	_	ADP	APPR	_	15	MO	_	_
+9	Axtenhilfsprogramm	_	NOUN	NN	_	8	NK	_	_
+10	für	_	ADP	APPR	_	9	MNR	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Dohle	_	NOUN	NN	_	10	NK	_	_
+13	)	_	PUNCT	$(	_	9	PUNCT	_	_
+14	nicht	_	X	PTKNEG	_	15	NG	_	_
+15	besetzt	_	VERB	VVPP	_	3	OC	_	_
+16	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 324
+# text = Nach J. Frölich blieb der Rabensteiner Wald bisher ebenfalls unbesiedelt.
+1	Nach	_	ADP	APPR	_	4	MO	_	_
+2	J.	_	PROPN	NE	_	3	PNC	_	_
+3	Frölich	_	ADJ	ADJD	_	1	NK	_	_
+4	blieb	_	VERB	VVFIN	_	0	--	_	_
+5	der	_	DET	ART	_	7	NK	_	_
+6	Rabensteiner	_	ADJ	ADJA	_	7	NK	_	_
+7	Wald	_	NOUN	NN	_	4	SB	_	_
+8	bisher	_	ADV	ADV	_	10	MO	_	_
+9	ebenfalls	_	ADV	ADV	_	10	MO	_	_
+10	unbesiedelt	_	VERB	VVPP	_	4	OC	_	_
+11	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 325
+# text = Lediglich 2003 fand J. Zill ein Paar im Zeisigwald in einer Eiche nistend.
+1	Lediglich	_	NOUN	NN	_	2	MO	_	_
+2	2003	_	NUM	CARD	_	3	MO	_	_
+3	fand	_	VERB	VVFIN	_	0	--	_	_
+4	J.	_	PROPN	NE	_	5	PNC	_	_
+5	Zill	_	PROPN	NE	_	3	SB	_	_
+6	ein	_	DET	ART	_	7	NK	_	_
+7	Paar	_	NOUN	NN	_	3	OA	_	_
+8	im	_	ADP	APPRART	_	7	MNR	_	_
+9	Zeisigwald	_	NOUN	NN	_	8	NK	_	_
+10	in	_	ADP	APPR	_	13	MO	_	_
+11	einer	_	DET	ART	_	12	NK	_	_
+12	Eiche	_	NOUN	NN	_	10	NK	_	_
+13	nistend	_	ADJ	ADJD	_	3	MO	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 326
+# text = Sie ist fast ausnahmslos an hallenartige Buchenalthölzer gebunden, wo Schwarzspechthöhlen und Nistkästen zur Brut bezogen werden.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	fast	_	ADV	ADV	_	4	MO	_	_
+4	ausnahmslos	_	ADJ	ADJD	_	8	MO	_	_
+5	an	_	ADP	APPR	_	8	OP	_	_
+6	hallenartige	_	ADJ	ADJA	_	7	NK	_	_
+7	Buchenalthölzer	_	NOUN	NN	_	5	NK	_	_
+8	gebunden	_	VERB	VVPP	_	2	PD	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	wo	_	PRON	PWAV	_	16	MO	_	_
+11	Schwarzspechthöhlen	_	NOUN	NN	_	17	SB	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Nistkästen	_	NOUN	NN	_	12	CJ	_	_
+14	zur	_	ADP	APPRART	_	16	MO	_	_
+15	Brut	_	NOUN	NN	_	14	NK	_	_
+16	bezogen	_	VERB	VVPP	_	17	OC	_	_
+17	werden	_	VERB	VAINF	_	7	RC	_	_
+18	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 327
+# text = Auf dem Städtischen Friedhof bemerkte U. Schuster am 22.5.1977 sowie mehrfach zwischen dem 1.4. und 15-5.1978 ein balzrufendes Männchen, ohne dabei jedoch einen zweiten Vogel zu sehen.
+1	Auf	_	ADP	APPR	_	5	MO	_	_
+2	dem	_	DET	ART	_	4	NK	_	_
+3	Städtischen	_	ADJ	ADJA	_	4	NK	_	_
+4	Friedhof	_	NOUN	NN	_	1	NK	_	_
+5	bemerkte	_	VERB	VVFIN	_	0	--	_	_
+6	U.	_	PROPN	NE	_	7	PNC	_	_
+7	Schuster	_	PROPN	NE	_	5	SB	_	_
+8	am	_	ADP	APPRART	_	5	MO	_	_
+9	22.5.1977	_	NOUN	NN	_	8	NK	_	_
+10	sowie	_	CONJ	KON	_	8	CD	_	_
+11	mehrfach	_	ADJ	ADJD	_	12	MO	_	_
+12	zwischen	_	ADP	APPR	_	10	CJ	_	_
+13	dem	_	DET	ART	_	14	NK	_	_
+14	1.4.	_	PROPN	NE	_	12	NK	_	_
+15	und	_	CONJ	KON	_	14	CD	_	_
+16	15	_	NUM	CARD	_	18	NK	_	_
+17	-	_	PUNCT	$(	_	18	PUNCT	_	_
+18	5.1978	_	NOUN	NN	_	15	CJ	_	_
+19	ein	_	DET	ART	_	21	NK	_	_
+20	balzrufendes	_	ADJ	ADJA	_	21	NK	_	_
+21	Männchen	_	NOUN	NN	_	5	OA	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	ohne	_	CONJ	KOUI	_	30	CP	_	_
+24	dabei	_	ADV	PROAV	_	30	MO	_	_
+25	jedoch	_	ADV	ADV	_	30	MO	_	_
+26	einen	_	DET	ART	_	28	NK	_	_
+27	zweiten	_	ADJ	ADJA	_	28	NK	_	_
+28	Vogel	_	NOUN	NN	_	30	OA	_	_
+29	zu	_	X	PTKZU	_	30	PM	_	_
+30	sehen	_	VERB	VVINF	_	5	MO	_	_
+31	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 328
+# text = Bereits seit 1995 wird im Zeisigwald der Hohltaubenbestand mit Hilfe von Nistkästen gestützt.
+1	Bereits	_	ADV	ADV	_	2	MO	_	_
+2	seit	_	ADP	APPR	_	13	MO	_	_
+3	1995	_	NUM	CARD	_	2	NK	_	_
+4	wird	_	VERB	VAFIN	_	0	--	_	_
+5	im	_	ADP	APPRART	_	13	MO	_	_
+6	Zeisigwald	_	NOUN	NN	_	5	NK	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Hohltaubenbestand	_	NOUN	NN	_	4	SB	_	_
+9	mit	_	ADP	APPR	_	13	MO	_	_
+10	Hilfe	_	NOUN	NN	_	9	NK	_	_
+11	von	_	ADP	APPR	_	10	PG	_	_
+12	Nistkästen	_	NOUN	NN	_	11	NK	_	_
+13	gestützt	_	VERB	VVPP	_	4	OC	_	_
+14	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 329
+# text = Bestand und Bestandsentwicklung:
+1	Bestand	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
+4	:	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 330
+# text = Der Bestand der Hohltaube betrug im Kartierungszeitraum sechs bis acht BR, davon wurden vier bis sechs im Zeisigwald festgestellt.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Bestand	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Hohltaube	_	NOUN	NN	_	2	AG	_	_
+5	betrug	_	VERB	VVFIN	_	0	--	_	_
+6	im	_	ADP	APPRART	_	5	MO	_	_
+7	Kartierungszeitraum	_	NOUN	NN	_	6	NK	_	_
+8	sechs	_	NUM	CARD	_	11	NK	_	_
+9	bis	_	CONJ	KON	_	8	CD	_	_
+10	acht	_	NUM	CARD	_	9	CJ	_	_
+11	BR	_	NOUN	NN	_	5	OA	_	_
+12	,	_	PUNCT	$,	_	5	PUNCT	_	_
+13	davon	_	ADV	PROAV	_	14	MO	_	_
+14	wurden	_	VERB	VAFIN	_	5	CJ	_	_
+15	vier	_	NUM	CARD	_	14	SB	_	_
+16	bis	_	CONJ	KON	_	15	CD	_	_
+17	sechs	_	NUM	CARD	_	16	CJ	_	_
+18	im	_	ADP	APPRART	_	20	MO	_	_
+19	Zeisigwald	_	NOUN	NN	_	18	NK	_	_
+20	festgestellt	_	VERB	VVPP	_	14	OC	_	_
+21	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 331
+# text = 9, 2006, Sonderheft 4 Hohltaube, Columba oenas Status: Wahrscheinlich ab 1978 regelmäßiger, seltener Brutvogel.
+1	9	_	NUM	CARD	_	7	NK	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	2006	_	NUM	CARD	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
+6	4	_	NUM	CARD	_	5	NK	_	_
+7	Hohltaube	_	NOUN	NN	_	0	--	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	Columba	_	PROPN	NE	_	11	AG	_	_
+10	oenas	_	PROPN	NE	_	11	AG	_	_
+11	Status	_	PROPN	NE	_	7	APP	_	_
+12	:	_	PUNCT	$.	_	7	PUNCT	_	_
+13	Wahrscheinlich	_	ADJ	ADJD	_	14	MO	_	_
+14	ab	_	ADP	APPR	_	7	PAR	_	_
+15	1978	_	NUM	CARD	_	14	NK	_	_
+16	regelmäßiger	_	ADJ	ADJA	_	19	NK	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	seltener	_	ADJ	ADJA	_	16	CJ	_	_
+19	Brutvogel	_	NOUN	NN	_	14	NK	_	_
+20	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 332
+# text = Ornithol.
+1	Ornithol	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 333
+# text = Sachs.
+1	Sachs	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 334
+# text = Ver
+1	Ver	_	NOUN	NN	_	0	--	_	_
+
+# sent_id = 335
+# text = .
+1	.	_	PUNCT	$.	_	0	--	_	_
+
+# sent_id = 336
+# text = Die Ringeltaube bewohnt alle Flächen mit für die Nestanlage geeignetem Baumbestand.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Ringeltaube	_	NOUN	NN	_	3	SB	_	_
+3	bewohnt	_	VERB	VVFIN	_	0	--	_	_
+4	alle	_	PRON	PIAT	_	5	NK	_	_
+5	Flächen	_	NOUN	NN	_	3	OA	_	_
+6	mit	_	ADP	APPR	_	5	MNR	_	_
+7	für	_	ADP	APPR	_	10	MO	_	_
+8	die	_	DET	ART	_	9	NK	_	_
+9	Nestanlage	_	NOUN	NN	_	7	NK	_	_
+10	geeignetem	_	ADJ	ADJA	_	11	NK	_	_
+11	Baumbestand	_	NOUN	NN	_	6	NK	_	_
+12	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 337
+# text = Sehr dünn besiedelt ist die gehölzarme Feldflur am Rand der Stadt.
+1	Sehr	_	ADV	ADV	_	2	MO	_	_
+2	dünn	_	ADJ	ADJD	_	3	MO	_	_
+3	besiedelt	_	VERB	VVPP	_	4	PD	_	_
+4	ist	_	VERB	VAFIN	_	0	--	_	_
+5	die	_	DET	ART	_	7	NK	_	_
+6	gehölzarme	_	ADJ	ADJA	_	7	NK	_	_
+7	Feldflur	_	NOUN	NN	_	4	SB	_	_
+8	am	_	ADP	APPRART	_	7	MNR	_	_
+9	Rand	_	NOUN	NN	_	8	NK	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Stadt	_	NOUN	NN	_	9	AG	_	_
+12	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 338
+# text = In den 1990er-Jahren hat die Ringeltaube in ihrem Bestand jedoch erheblich zugenommen.
+1	In	_	ADP	APPR	_	12	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	1990er-Jahren	_	NOUN	NN	_	1	NK	_	_
+4	hat	_	VERB	VAFIN	_	0	--	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Ringeltaube	_	NOUN	NN	_	4	SB	_	_
+7	in	_	ADP	APPR	_	12	MO	_	_
+8	ihrem	_	PRON	PPOSAT	_	9	NK	_	_
+9	Bestand	_	NOUN	NN	_	7	NK	_	_
+10	jedoch	_	ADV	ADV	_	12	MO	_	_
+11	erheblich	_	ADJ	ADJD	_	12	MO	_	_
+12	zugenommen	_	VERB	VVPP	_	4	OC	_	_
+13	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 339
+# text = Der Bestand der Ringeltaube umfasste im Kartierungs- zeitraum 600-900 BR, wobei davon 100-180 die neuen Stadtteile betrafen.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Bestand	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Ringeltaube	_	NOUN	NN	_	2	AG	_	_
+5	umfasste	_	ADJ	ADJA	_	0	--	_	_
+6	im	_	ADP	APPRART	_	5	MO	_	_
+7	Kartierungs-	_	X	TRUNC	_	8	NK	_	_
+8	zeitraum	_	NOUN	NN	_	6	NK	_	_
+9	600	_	NUM	CARD	_	11	NMC	_	_
+10	-	_	NUM	CARD	_	11	PUNCT	_	_
+11	900	_	NUM	CARD	_	12	NK	_	_
+12	BR	_	NOUN	NN	_	5	OA	_	_
+13	,	_	PUNCT	$,	_	5	PUNCT	_	_
+14	wobei	_	PRON	PWAV	_	22	MO	_	_
+15	davon	_	ADV	PROAV	_	22	MO	_	_
+16	100	_	NUM	CARD	_	18	NK	_	_
+17	-	_	NUM	CARD	_	18	DEP	_	_
+18	180	_	NUM	CARD	_	22	SB	_	_
+19	die	_	DET	ART	_	21	NK	_	_
+20	neuen	_	ADJ	ADJA	_	21	NK	_	_
+21	Stadtteile	_	NOUN	NN	_	22	OA	_	_
+22	betrafen	_	VERB	VVINF	_	5	MO	_	_
+23	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 340
+# text = Ein weiterer möglicher Faktor für ihre Zunahme ist die fehlende Nistplatzkonkurrenz durch die im Bestand stark zurückgegangene Türkentaube.
+1	Ein	_	DET	ART	_	4	NK	_	_
+2	weiterer	_	ADJ	ADJA	_	4	NK	_	_
+3	möglicher	_	ADJ	ADJA	_	4	NK	_	_
+4	Faktor	_	NOUN	NN	_	8	PD	_	_
+5	für	_	ADP	APPR	_	4	MNR	_	_
+6	ihre	_	PRON	PPOSAT	_	7	NK	_	_
+7	Zunahme	_	NOUN	NN	_	5	NK	_	_
+8	ist	_	VERB	VAFIN	_	0	--	_	_
+9	die	_	DET	ART	_	11	NK	_	_
+10	fehlende	_	ADJ	ADJA	_	11	NK	_	_
+11	Nistplatzkonkurrenz	_	NOUN	NN	_	8	SB	_	_
+12	durch	_	ADP	APPR	_	11	MNR	_	_
+13	die	_	DET	ART	_	18	NK	_	_
+14	im	_	ADP	APPRART	_	17	MO	_	_
+15	Bestand	_	NOUN	NN	_	14	NK	_	_
+16	stark	_	ADJ	ADJD	_	17	MO	_	_
+17	zurückgegangene	_	ADJ	ADJA	_	18	NK	_	_
+18	Türkentaube	_	NOUN	NN	_	12	NK	_	_
+19	.	_	PUNCT	$.	_	8	PUNCT	_	_
+
+# sent_id = 341
+# text = Ausgewählte Siedlungsdichten der Ringeltaube in Chemnitz.15.
+Verbreitung und Lebensraum:
+1	Ausgewählte	_	ADJ	ADJA	_	2	NK	_	_
+2	Siedlungsdichten	_	NOUN	NN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Ringeltaube	_	NOUN	NN	_	2	AG	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	Chemnitz.15.	_	PROPN	NE	_	7	PNC	_	_
+7	Verbreitung	_	NOUN	NN	_	5	NK	_	_
+8	und	_	CONJ	KON	_	7	CD	_	_
+9	Lebensraum	_	NOUN	NN	_	8	CJ	_	_
+10	:	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 342
+# text = Die Ringeltaube bewohnt fast flächendeckend das gesamte Stadtgebiet.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Ringeltaube	_	NOUN	NN	_	3	SB	_	_
+3	bewohnt	_	VERB	VVFIN	_	0	--	_	_
+4	fast	_	ADV	ADV	_	5	MO	_	_
+5	flächendeckend	_	ADJ	ADJD	_	3	MO	_	_
+6	das	_	DET	ART	_	8	NK	_	_
+7	gesamte	_	ADJ	ADJA	_	8	NK	_	_
+8	Stadtgebiet	_	NOUN	NN	_	3	OA	_	_
+9	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 343
+# text = Sommervogel, zunehmend Uberwinterungen.
+1	Sommervogel	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	zunehmend	_	ADJ	ADJD	_	4	MO	_	_
+4	Uberwinterungen	_	NOUN	NN	_	1	CJ	_	_
+5	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 344
+# text = 9, 2006, Sonderheft 4 Ringeltaube, Columba palumbus Status: Regelmäßiger, häufiger Brutvogel.
+1	9	_	NUM	CARD	_	7	NK	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	2006	_	NUM	CARD	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	5	PUNCT	_	_
+5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
+6	4	_	NUM	CARD	_	5	NK	_	_
+7	Ringeltaube	_	NOUN	NN	_	0	--	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	Columba	_	PROPN	NE	_	11	AG	_	_
+10	palumbus	_	PROPN	NE	_	11	NK	_	_
+11	Status	_	NOUN	NN	_	3	CJ	_	_
+12	:	_	PUNCT	$.	_	11	PUNCT	_	_
+13	Regelmäßiger	_	ADJ	ADJA	_	11	PAR	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	häufiger	_	ADJ	ADJA	_	16	MO	_	_
+16	Brutvogel	_	PROPN	NE	_	13	CJ	_	_
+17	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 345
+# text = Ornithol.
+1	Ornithol	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 346
+# text = Sächs
+1	Sächs	_	PROPN	NE	_	0	--	_	_
+
+# sent_id = 347
+# text = .
+1	.	_	PUNCT	$.	_	0	--	_	_
+
+# sent_id = 348
+# text = Ver.
+1	Ver	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 349
+# text = Für die 1960er- Jahre zählt Saemann (1970a) die Ringeltaube schon zu den verstädternden Arten, da sie bis in die Wohnblockzone vordrang.
+1	Für	_	ADP	APPR	_	5	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	1960er-	_	NUM	CARD	_	4	NK	_	_
+4	Jahre	_	NOUN	NN	_	1	NK	_	_
+5	zählt	_	VERB	VVFIN	_	0	--	_	_
+6	Saemann	_	PROPN	NE	_	5	SB	_	_
+7	(	_	PUNCT	$(	_	8	PUNCT	_	_
+8	1970a	_	PROPN	NE	_	6	APP	_	_
+9	)	_	PUNCT	$(	_	8	PUNCT	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Ringeltaube	_	NOUN	NN	_	5	OA	_	_
+12	schon	_	ADV	ADV	_	5	MO	_	_
+13	zu	_	ADP	APPR	_	5	OP	_	_
+14	den	_	DET	ART	_	16	NK	_	_
+15	verstädternden	_	ADJ	ADJA	_	16	NK	_	_
+16	Arten	_	NOUN	NN	_	13	NK	_	_
+17	,	_	PUNCT	$,	_	5	PUNCT	_	_
+18	da	_	CONJ	KOUS	_	24	CP	_	_
+19	sie	_	PRON	PPER	_	24	SB	_	_
+20	bis	_	ADP	APPR	_	21	AC	_	_
+21	in	_	ADP	APPR	_	24	OP	_	_
+22	die	_	DET	ART	_	23	NK	_	_
+23	Wohnblockzone	_	NOUN	NN	_	21	NK	_	_
+24	vordrang	_	VERB	VVFIN	_	5	MO	_	_
+25	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 350
+# text = 9, 2006, Sonderheft 4 Türkentaube, Streptopelia decaocto Status: Regelmäßiger, häufiger Brutvogel.
+1	9	_	NUM	CARD	_	7	NK	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	2006	_	NUM	CARD	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
+6	4	_	NUM	CARD	_	5	NK	_	_
+7	Türkentaube	_	NOUN	NN	_	0	--	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	Streptopelia	_	PROPN	NE	_	11	AG	_	_
+10	decaocto	_	X	FM	_	9	MNR	_	_
+11	Status	_	X	FM	_	7	CJ	_	_
+12	:	_	PUNCT	$.	_	11	PUNCT	_	_
+13	Regelmäßiger	_	ADJ	ADJA	_	11	PAR	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	häufiger	_	ADJ	ADJA	_	16	MO	_	_
+16	Brutvogel	_	PROPN	NE	_	13	CJ	_	_
+17	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 351
+# text = Ornithol.
+1	Ornithol	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 352
+# text = Sächs
+1	Sächs	_	PROPN	NE	_	0	--	_	_
+
+# sent_id = 353
+# text = .
+1	.	_	PUNCT	$.	_	0	--	_	_
+
+# sent_id = 354
+# text = Ver.
+1	Ver	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 355
+# text = RLS V, RLD V. Verbreitung und Lebensraum
+1	RLS	_	PROPN	NE	_	2	PNC	_	_
+2	V	_	PROPN	NE	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	RLD	_	PROPN	NE	_	6	PNC	_	_
+5	V.	_	PROPN	NE	_	4	UC	_	_
+6	Verbreitung	_	NOUN	NN	_	2	CJ	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Lebensraum	_	NOUN	NN	_	7	CJ	_	_
+
+# sent_id = 356
+# text = : Die Türkentaube ist fast im gesamten bebauten Stadtgebiet Brutvogel.
+1	:	_	PUNCT	$.	_	4	PUNCT	_	_
+2	Die	_	DET	ART	_	3	NK	_	_
+3	Türkentaube	_	NOUN	NN	_	4	SB	_	_
+4	ist	_	VERB	VAFIN	_	0	--	_	_
+5	fast	_	ADV	ADV	_	6	MO	_	_
+6	im	_	ADP	APPRART	_	4	MO	_	_
+7	gesamten	_	ADJ	ADJA	_	9	NK	_	_
+8	bebauten	_	ADJ	ADJA	_	9	NK	_	_
+9	Stadtgebiet	_	NOUN	NN	_	6	NK	_	_
+10	Brutvogel	_	PROPN	NE	_	4	PD	_	_
+11	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 357
+# text = Bestand und Bestandsentwicklung:
+1	Bestand	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
+4	:	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 358
+# text = Der Bestand der Türkentaube betrug im Kartierungs- zeitraum 350-520 BR, wobei nur 20-30 BR in den neuen Stadtteilen ermittelt wurden.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Bestand	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Türkentaube	_	NOUN	NN	_	2	AG	_	_
+5	betrug	_	VERB	VVFIN	_	0	--	_	_
+6	im	_	ADP	APPRART	_	5	MO	_	_
+7	Kartierungs-	_	X	TRUNC	_	8	NK	_	_
+8	zeitraum	_	NOUN	NN	_	6	NK	_	_
+9	350	_	NUM	CARD	_	12	NK	_	_
+10	-	_	PUNCT	$(	_	9	CD	_	_
+11	520	_	NUM	CARD	_	10	CJ	_	_
+12	BR	_	NOUN	NN	_	5	OA	_	_
+13	,	_	PUNCT	$,	_	5	PUNCT	_	_
+14	wobei	_	PRON	PWAV	_	24	MO	_	_
+15	nur	_	ADV	ADV	_	16	MO	_	_
+16	20	_	NUM	CARD	_	19	NK	_	_
+17	-	_	PUNCT	$(	_	16	CD	_	_
+18	30	_	NUM	CARD	_	17	CJ	_	_
+19	BR	_	NOUN	NN	_	25	SB	_	_
+20	in	_	ADP	APPR	_	24	MO	_	_
+21	den	_	DET	ART	_	23	NK	_	_
+22	neuen	_	ADJ	ADJA	_	23	NK	_	_
+23	Stadtteilen	_	NOUN	NN	_	20	NK	_	_
+24	ermittelt	_	VERB	VVPP	_	25	OC	_	_
+25	wurden	_	VERB	VAFIN	_	5	MO	_	_
+26	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 359
+# text = Ausgewählte Siedlungsdichten der Türkentaube in Chemnitz.16. 64,4%
+1	Ausgewählte	_	ADJ	ADJA	_	2	NK	_	_
+2	Siedlungsdichten	_	NOUN	NN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Türkentaube	_	NOUN	NN	_	2	AG	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	Chemnitz.16.	_	PROPN	NE	_	5	NK	_	_
+7	64,4	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	2	PD	_	_
+
+# sent_id = 360
+# text = 2,47 BR/km2
+1	2,47	_	NUM	CARD	_	2	NK	_	_
+2	BR	_	NOUN	NN	_	0	--	_	_
+3	/	_	PUNCT	$(	_	2	PUNCT	_	_
+4	km2	_	PROPN	NE	_	2	CJ	_	_
+
+# sent_id = 361
+# text = Verbreitxmgsgrad besetzte Raster 1997-2000 350-520 BR
+1	Verbreitxmgsgrad	_	PROPN	NE	_	2	SB	_	_
+2	besetzte	_	ADJ	ADJA	_	0	--	_	_
+3	Raster	_	NOUN	NN	_	2	OA	_	_
+4	1997	_	NUM	CARD	_	2	MO	_	_
+5	-	_	NUM	CARD	_	4	PUNCT	_	_
+6	2000	_	NUM	CARD	_	10	NK	_	_
+7	350	_	NUM	CARD	_	10	NK	_	_
+8	-	_	NUM	CARD	_	9	PUNCT	_	_
+9	520	_	NUM	CARD	_	10	NK	_	_
+10	BR	_	NOUN	NN	_	2	OA	_	_
+
+# sent_id = 362
+# text = Die Turteltaube war im Chemnitzer Raum vermutlich nie besonders häufig.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
+3	war	_	VERB	VAFIN	_	0	--	_	_
+4	im	_	ADP	APPRART	_	3	MO	_	_
+5	Chemnitzer	_	ADJ	ADJA	_	6	NK	_	_
+6	Raum	_	NOUN	NN	_	4	NK	_	_
+7	vermutlich	_	ADV	ADV	_	3	MO	_	_
+8	nie	_	ADV	ADV	_	3	MO	_	_
+9	besonders	_	ADV	ADV	_	10	MO	_	_
+10	häufig	_	ADJ	ADJD	_	3	PD	_	_
+11	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 363
+# text = Für den Kartierungszeitraum wurde von 8-14 nicht alljährlich besetzten Revieren ausgegangen.
+1	Für	_	ADP	APPR	_	13	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
+4	wurde	_	VERB	VAFIN	_	0	--	_	_
+5	von	_	ADP	APPR	_	13	MO	_	_
+6	8	_	NUM	CARD	_	12	NK	_	_
+7	-	_	PUNCT	$(	_	6	PUNCT	_	_
+8	14	_	NUM	CARD	_	6	CJ	_	_
+9	nicht	_	X	PTKNEG	_	11	NG	_	_
+10	alljährlich	_	ADJ	ADJD	_	11	MO	_	_
+11	besetzten	_	ADJ	ADJA	_	12	NK	_	_
+12	Revieren	_	NOUN	NN	_	5	NK	_	_
+13	ausgegangen	_	VERB	VVPP	_	4	OC	_	_
+14	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 364
+# text = Auffällig ist das fast völlige Fehlen der Turteltaube in einigen stadtnahen Wäldern wie z. B. im Sechsruthenwald und in der Kohlung.
+1	Auffällig	_	ADJ	ADJD	_	2	PD	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	das	_	DET	ART	_	6	NK	_	_
+4	fast	_	ADV	ADV	_	5	MO	_	_
+5	völlige	_	ADJ	ADJA	_	6	NK	_	_
+6	Fehlen	_	NOUN	NN	_	2	PD	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Turteltaube	_	NOUN	NN	_	6	AG	_	_
+9	in	_	ADP	APPR	_	6	MNR	_	_
+10	einigen	_	PRON	PIAT	_	12	NK	_	_
+11	stadtnahen	_	ADJ	ADJA	_	12	NK	_	_
+12	Wäldern	_	NOUN	NN	_	9	NK	_	_
+13	wie	_	CONJ	KOKOM	_	16	CM	_	_
+14	z.	_	ADP	APPRART	_	16	MO	_	_
+15	B.	_	NOUN	NN	_	14	NK	_	_
+16	im	_	ADP	APPRART	_	6	MNR	_	_
+17	Sechsruthenwald	_	NOUN	NN	_	16	NK	_	_
+18	und	_	CONJ	KON	_	16	CD	_	_
+19	in	_	ADP	APPR	_	18	CJ	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Kohlung	_	NOUN	NN	_	19	NK	_	_
+22	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 365
+# text = Die Turteltaube besiedelt in geringer Dichte fast ausschließlich den Erzgebirgsnordrand im Südosten von Chemnitz.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
+3	besiedelt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	geringer	_	ADJ	ADJA	_	6	NK	_	_
+6	Dichte	_	NOUN	NN	_	4	NK	_	_
+7	fast	_	ADV	ADV	_	8	MO	_	_
+8	ausschließlich	_	ADV	ADV	_	10	MO	_	_
+9	den	_	DET	ART	_	10	NK	_	_
+10	Erzgebirgsnordrand	_	NOUN	NN	_	3	OA	_	_
+11	im	_	ADP	APPRART	_	10	MNR	_	_
+12	Südosten	_	NOUN	NN	_	11	NK	_	_
+13	von	_	ADP	APPR	_	12	PG	_	_
+14	Chemnitz	_	PROPN	NE	_	13	NK	_	_
+15	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 366
+# text = V.
+1	V.	_	ADJ	ADJA	_	0	--	_	_
+
+# sent_id = 367
+# text = Verbreitung und Lebensraum
+9, 2006, Sonderheft 4 Turteltaube, Streptopelia turtur Status:
+1	Verbreitung	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
+4	9	_	NUM	CARD	_	3	PNC	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	2006	_	NUM	CARD	_	3	CJ	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	Sonderheft	_	PROPN	NE	_	6	CJ	_	_
+9	4	_	NUM	CARD	_	10	NK	_	_
+10	Turteltaube	_	NOUN	NN	_	1	PAR	_	_
+11	,	_	PUNCT	$,	_	1	PUNCT	_	_
+12	Streptopelia	_	PROPN	NE	_	13	PNC	_	_
+13	turtur	_	NOUN	NN	_	1	CJ	_	_
+14	Status	_	NOUN	NN	_	13	NK	_	_
+15	:	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 368
+# text = Wahrscheinlich regelmäßiger, seltener Brutvogel.
+1	Wahrscheinlich	_	ADJ	ADJD	_	2	MO	_	_
+2	regelmäßiger	_	ADJ	ADJA	_	5	NK	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	seltener	_	ADJ	ADJA	_	2	CJ	_	_
+5	Brutvogel	_	NOUN	NN	_	0	--	_	_
+6	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 369
+# text = Sommervogel.
+1	Sommervogel	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 370
+# text = RLD
+1	RLD	_	PROPN	NE	_	0	--	_	_
+
+# sent_id = 371
+# text = V.
+1	V.	_	PROPN	NE	_	0	--	_	_
+

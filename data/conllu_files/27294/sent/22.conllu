@@ -1,0 +1,18 @@
+# sent_id = 22
+# text = Es bestünde sonst die Gefahr, daß wir uns heute ins Uferlose verlieren würden.
+1	Es	_	PRON	PPER	_	2	EP	_	_
+2	bestünde	_	VERB	VVFIN	_	0	--	_	_
+3	sonst	_	ADV	ADV	_	2	MO	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Gefahr	_	NOUN	NN	_	2	SB	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	daß	_	CONJ	KOUS	_	14	CP	_	_
+8	wir	_	PRON	PPER	_	14	SB	_	_
+9	uns	_	PRON	PRF	_	13	OA	_	_
+10	heute	_	ADV	ADV	_	13	MO	_	_
+11	ins	_	ADP	APPRART	_	13	MO	_	_
+12	Uferlose	_	NOUN	NN	_	11	NK	_	_
+13	verlieren	_	VERB	VVINF	_	14	OC	_	_
+14	würden	_	VERB	VAFIN	_	5	OC	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

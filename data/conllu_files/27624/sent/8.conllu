@@ -1,0 +1,26 @@
+# sent_id = 8
+# text = In der Innenpolitik gewinnt die Gesundheitspolitik, insbesondere die gesundheitliche Vorsorge gegen die Gefahren der modernen Umwelt, immer mehr an Gewicht.
+1	In	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Innenpolitik	_	_	_	_	4	obl	_	_
+4	gewinnt	_	_	_	_	0	root	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Gesundheitspolitik	_	_	_	_	4	nsubj	_	_
+7	,	_	_	_	_	11	punct	_	_
+8	insbesondere	_	_	_	_	11	advmod	_	_
+9	die	_	_	_	_	11	det	_	_
+10	gesundheitliche	_	_	_	_	11	amod	_	_
+11	Vorsorge	_	_	_	_	6	nmod	_	_
+12	gegen	_	_	_	_	14	case	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Gefahren	_	_	_	_	11	nmod	_	_
+15	der	_	_	_	_	17	det	_	_
+16	modernen	_	_	_	_	17	amod	_	_
+17	Umwelt	_	_	_	_	14	nmod	_	_
+18	,	_	_	_	_	11	punct	_	_
+19	immer	_	_	_	_	20	advmod	_	_
+20	mehr	_	_	_	_	4	advmod	_	_
+21	an	_	_	_	_	22	case	_	_
+22	Gewicht	_	_	_	_	4	obl	_	_
+23	.	_	_	_	_	4	punct	_	_
+

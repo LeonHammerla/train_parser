@@ -1,0 +1,39 @@
+# sent_id = 21
+# text = As he knows, there has been a regular ten-yearly census since 1801 except for one year, 1941, which was missed, but we shall consider very carefully what he said.
+1	As	_	ADP	IN	_	3	mark	_	_
+2	he	_	PRON	PRP	_	3	nsubj	_	_
+3	knows	_	VERB	VBZ	_	7	advcl	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	there	_	DET	EX	_	7	expl	_	_
+6	has	_	VERB	VBZ	_	7	aux	_	_
+7	been	_	VERB	VBN	_	0	root	_	_
+8	a	_	DET	DT	_	13	det	_	_
+9	regular	_	ADJ	JJ	_	13	amod	_	_
+10	ten	_	NUM	CD	_	12	nummod	_	_
+11	-	_	_	HYPH	_	12	punct	_	_
+12	yearly	_	ADJ	JJ	_	13	amod	_	_
+13	census	_	NOUN	NN	_	7	nsubj	_	_
+14	since	_	ADP	IN	_	15	case	_	_
+15	1801	_	NUM	CD	_	7	obl	_	_
+16	except	_	ADP	IN	_	19	case	_	_
+17	for	_	ADP	IN	_	19	case	_	_
+18	one	_	NUM	CD	_	19	nummod	_	_
+19	year	_	NOUN	NN	_	7	obl	_	_
+20	,	_	PUNCT	,	_	19	punct	_	_
+21	1941	_	NUM	CD	_	19	appos	_	_
+22	,	_	PUNCT	,	_	19	punct	_	_
+23	which	_	DET	WDT	_	25	nsubj:pass	_	_
+24	was	_	VERB	VBD	_	25	aux:pass	_	_
+25	missed	_	VERB	VBN	_	19	acl:relcl	_	_
+26	,	_	PUNCT	,	_	30	punct	_	_
+27	but	_	CONJ	CC	_	30	cc	_	_
+28	we	_	PRON	PRP	_	30	nsubj	_	_
+29	shall	_	VERB	MD	_	30	aux	_	_
+30	consider	_	VERB	VB	_	7	conj	_	_
+31	very	_	ADV	RB	_	32	advmod	_	_
+32	carefully	_	ADV	RB	_	30	advmod	_	_
+33	what	_	PRON	WP	_	35	obj	_	_
+34	he	_	PRON	PRP	_	35	nsubj	_	_
+35	said	_	VERB	VBD	_	30	ccomp	_	_
+36	.	_	PUNCT	.	_	7	punct	_	_
+

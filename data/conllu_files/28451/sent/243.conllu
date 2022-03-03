@@ -1,0 +1,19 @@
+# sent_id = 243
+# text = Schon R. Heyder bezeichnete den Kuckuck als „Herumflieger" und warnte vor überzogenen Siedlungsdichteangaben.
+1	Schon	_	ADV	ADV	_	3	MO	_	_
+2	R.	_	PROPN	NE	_	3	PNC	_	_
+3	Heyder	_	PROPN	NE	_	4	SB	_	_
+4	bezeichnete	_	VERB	VVFIN	_	0	--	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	Kuckuck	_	NOUN	NN	_	4	OA	_	_
+7	als	_	ADP	APPR	_	4	OP	_	_
+8	„	_	PUNCT	$(	_	9	PUNCT	_	_
+9	Herumflieger	_	NOUN	NN	_	7	NK	_	_
+10	"	_	PUNCT	$(	_	9	PUNCT	_	_
+11	und	_	CONJ	KON	_	4	CD	_	_
+12	warnte	_	VERB	VVFIN	_	11	CJ	_	_
+13	vor	_	ADP	APPR	_	12	OP	_	_
+14	überzogenen	_	ADJ	ADJA	_	15	NK	_	_
+15	Siedlungsdichteangaben	_	NOUN	NN	_	13	NK	_	_
+16	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

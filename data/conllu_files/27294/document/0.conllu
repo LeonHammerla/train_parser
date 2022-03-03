@@ -1,0 +1,512 @@
+# sent_id = 0
+# text = Haben wir in der Bundesrepublik Deutschland diese neuen Dimensionen der menschlichen Gesellschaft schon erkannt?
+1	Haben	_	VERB	VAFIN	_	0	--	_	_
+2	wir	_	PRON	PPER	_	1	SB	_	_
+3	in	_	ADP	APPR	_	14	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Bundesrepublik	_	NOUN	NN	_	3	NK	_	_
+6	Deutschland	_	PROPN	NE	_	5	NK	_	_
+7	diese	_	PRON	PDAT	_	9	NK	_	_
+8	neuen	_	ADJ	ADJA	_	9	NK	_	_
+9	Dimensionen	_	NOUN	NN	_	14	OA	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	menschlichen	_	ADJ	ADJA	_	12	NK	_	_
+12	Gesellschaft	_	NOUN	NN	_	9	AG	_	_
+13	schon	_	ADV	ADV	_	14	MO	_	_
+14	erkannt	_	VERB	VVPP	_	1	OC	_	_
+15	?	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 1
+# text = Zu den Äußerungen zur Kriegsfolgengesetzgebung wird mein Kollege Schmidt noch Stellung nehmen.
+1	Zu	_	ADP	APPR	_	11	OP	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Äußerungen	_	NOUN	NN	_	1	NK	_	_
+4	zur	_	ADP	APPRART	_	3	MNR	_	_
+5	Kriegsfolgengesetzgebung	_	NOUN	NN	_	4	NK	_	_
+6	wird	_	VERB	VAFIN	_	0	--	_	_
+7	mein	_	PRON	PPOSAT	_	8	NK	_	_
+8	Kollege	_	NOUN	NN	_	6	SB	_	_
+9	Schmidt	_	PROPN	NE	_	8	NK	_	_
+10	noch	_	ADV	ADV	_	12	MO	_	_
+11	Stellung	_	NOUN	NN	_	12	OA	_	_
+12	nehmen	_	VERB	VVINF	_	6	OC	_	_
+13	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 2
+# text = Es geht hier um den Bau von Kindergärten im Zonenrandgebiet.
+1	Es	_	PRON	PPER	_	2	EP	_	_
+2	geht	_	VERB	VVFIN	_	0	--	_	_
+3	hier	_	ADV	ADV	_	2	MO	_	_
+4	um	_	ADP	APPR	_	2	OP	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	Bau	_	NOUN	NN	_	4	NK	_	_
+7	von	_	ADP	APPR	_	6	PG	_	_
+8	Kindergärten	_	NOUN	NN	_	7	NK	_	_
+9	im	_	ADP	APPRART	_	6	MNR	_	_
+10	Zonenrandgebiet	_	NOUN	NN	_	9	NK	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 3
+# text = In der Finanzpolitik aber konkretisieren sich die gesellschaftlichen Verhältnisse.
+1	In	_	ADP	APPR	_	5	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Finanzpolitik	_	NOUN	NN	_	1	NK	_	_
+4	aber	_	ADV	ADV	_	5	MO	_	_
+5	konkretisieren	_	VERB	VVFIN	_	0	--	_	_
+6	sich	_	PRON	PRF	_	5	OA	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	gesellschaftlichen	_	ADJ	ADJA	_	9	NK	_	_
+9	Verhältnisse	_	NOUN	NN	_	5	SB	_	_
+10	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 4
+# text = Gegen Ende der Regierungserklärung kamen mit einer leicht vorangesetzten Betonung die Worte Nation und Vaterland.
+1	Gegen	_	ADP	APPR	_	5	MO	_	_
+2	Ende	_	NOUN	NN	_	1	NK	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Regierungserklärung	_	NOUN	NN	_	2	AG	_	_
+5	kamen	_	VERB	VVFIN	_	0	--	_	_
+6	mit	_	ADP	APPR	_	5	MO	_	_
+7	einer	_	DET	ART	_	10	NK	_	_
+8	leicht	_	ADJ	ADJD	_	9	MO	_	_
+9	vorangesetzten	_	ADJ	ADJA	_	10	NK	_	_
+10	Betonung	_	NOUN	NN	_	6	NK	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Worte	_	NOUN	NN	_	5	SB	_	_
+13	Nation	_	NOUN	NN	_	12	NK	_	_
+14	und	_	CONJ	KON	_	13	CD	_	_
+15	Vaterland	_	NOUN	NN	_	14	CJ	_	_
+16	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 5
+# text = Damit sind die Ausbildungsmöglichkeiten des Auswärtigen Amts, insbesondere im europäischen Raum, voll erschöpft.
+1	Damit	_	ADV	PROAV	_	2	MO	_	_
+2	sind	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Ausbildungsmöglichkeiten	_	NOUN	NN	_	2	SB	_	_
+5	des	_	DET	ART	_	7	NK	_	_
+6	Auswärtigen	_	ADJ	ADJA	_	7	NK	_	_
+7	Amts	_	NOUN	NN	_	4	AG	_	_
+8	,	_	PUNCT	$,	_	4	PUNCT	_	_
+9	insbesondere	_	ADV	ADV	_	10	MO	_	_
+10	im	_	ADP	APPRART	_	4	MNR	_	_
+11	europäischen	_	ADJ	ADJA	_	12	NK	_	_
+12	Raum	_	NOUN	NN	_	10	NK	_	_
+13	,	_	PUNCT	$,	_	15	PUNCT	_	_
+14	voll	_	ADJ	ADJD	_	15	MO	_	_
+15	erschöpft	_	VERB	VVPP	_	2	PD	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 6
+# text = Die Bundesregierung hofft, daß bald nach Eingang der russischen Antwortnote Gespräche zwischen den beiderseitigen Luftfahrtbehörden beginnen können.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Bundesregierung	_	NOUN	NN	_	3	SB	_	_
+3	hofft	_	VERB	VVFIN	_	0	--	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	daß	_	CONJ	KOUS	_	18	CP	_	_
+6	bald	_	ADV	ADV	_	17	MO	_	_
+7	nach	_	ADP	APPR	_	18	MO	_	_
+8	Eingang	_	NOUN	NN	_	7	NK	_	_
+9	der	_	DET	ART	_	11	NK	_	_
+10	russischen	_	ADJ	ADJA	_	11	NK	_	_
+11	Antwortnote	_	NOUN	NN	_	8	AG	_	_
+12	Gespräche	_	NOUN	NN	_	18	SB	_	_
+13	zwischen	_	ADP	APPR	_	12	MNR	_	_
+14	den	_	DET	ART	_	16	NK	_	_
+15	beiderseitigen	_	ADJ	ADJA	_	16	NK	_	_
+16	Luftfahrtbehörden	_	NOUN	NN	_	13	NK	_	_
+17	beginnen	_	VERB	VVINF	_	18	OC	_	_
+18	können	_	VERB	VMFIN	_	3	OC	_	_
+19	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 7
+# text = Herr Kollege, wenn Sie der Auffassung sind, daß hier ein Zeitmangel nicht vorgelegen haben können, haben Sie natürlich recht.
+1	Herr	_	NOUN	NN	_	8	VO	_	_
+2	Kollege	_	NOUN	NN	_	1	NK	_	_
+3	,	_	PUNCT	$,	_	1	PUNCT	_	_
+4	wenn	_	CONJ	KOUS	_	8	CP	_	_
+5	Sie	_	PRON	PPER	_	8	SB	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Auffassung	_	NOUN	NN	_	8	PD	_	_
+8	sind	_	VERB	VAFIN	_	19	MO	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	daß	_	CONJ	KOUS	_	17	CP	_	_
+11	hier	_	ADV	ADV	_	17	MO	_	_
+12	ein	_	DET	ART	_	13	NK	_	_
+13	Zeitmangel	_	NOUN	NN	_	17	SB	_	_
+14	nicht	_	X	PTKNEG	_	17	NG	_	_
+15	vorgelegen	_	VERB	VVPP	_	16	OC	_	_
+16	haben	_	VERB	VAINF	_	17	OC	_	_
+17	können	_	VERB	VMFIN	_	7	OC	_	_
+18	,	_	PUNCT	$,	_	19	PUNCT	_	_
+19	haben	_	VERB	VAFIN	_	0	--	_	_
+20	Sie	_	PRON	PPER	_	19	SB	_	_
+21	natürlich	_	ADV	ADV	_	19	MO	_	_
+22	recht	_	NOUN	NN	_	19	MO	_	_
+23	.	_	PUNCT	$.	_	19	PUNCT	_	_
+
+# sent_id = 8
+# text = In der Innenpolitik gewinnt die Gesundheitspolitik, insbesondere die gesundheitliche Vorsorge gegen die Gefahren der modernen Umwelt, immer mehr an Gewicht.
+1	In	_	ADP	APPR	_	4	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Innenpolitik	_	NOUN	NN	_	1	NK	_	_
+4	gewinnt	_	VERB	VVFIN	_	0	--	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Gesundheitspolitik	_	NOUN	NN	_	4	SB	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	insbesondere	_	ADV	ADV	_	11	CD	_	_
+9	die	_	DET	ART	_	11	NK	_	_
+10	gesundheitliche	_	ADJ	ADJA	_	11	NK	_	_
+11	Vorsorge	_	NOUN	NN	_	6	CJ	_	_
+12	gegen	_	ADP	APPR	_	11	MNR	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Gefahren	_	NOUN	NN	_	12	NK	_	_
+15	der	_	DET	ART	_	17	NK	_	_
+16	modernen	_	ADJ	ADJA	_	17	NK	_	_
+17	Umwelt	_	NOUN	NN	_	14	AG	_	_
+18	,	_	PUNCT	$,	_	4	PUNCT	_	_
+19	immer	_	ADV	ADV	_	20	MO	_	_
+20	mehr	_	ADV	ADV	_	4	MO	_	_
+21	an	_	ADP	APPR	_	4	MO	_	_
+22	Gewicht	_	NOUN	NN	_	21	NK	_	_
+23	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 9
+# text = Es waren sehr genaue, sehr sorgfältige Abstimmungen, die wir unter Respektierung der autonomen Stellung der Bundesbank vorgenommen haben.
+1	Es	_	PRON	PPER	_	2	EP	_	_
+2	waren	_	VERB	VAFIN	_	0	--	_	_
+3	sehr	_	ADV	ADV	_	4	MO	_	_
+4	genaue	_	ADJ	ADJA	_	8	NK	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	sehr	_	ADV	ADV	_	7	MO	_	_
+7	sorgfältige	_	ADJ	ADJA	_	8	NK	_	_
+8	Abstimmungen	_	NOUN	NN	_	2	PD	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	die	_	PRON	PRELS	_	19	OA	_	_
+11	wir	_	PRON	PPER	_	20	SB	_	_
+12	unter	_	ADP	APPR	_	19	MO	_	_
+13	Respektierung	_	NOUN	NN	_	12	NK	_	_
+14	der	_	DET	ART	_	16	NK	_	_
+15	autonomen	_	ADJ	ADJA	_	16	NK	_	_
+16	Stellung	_	NOUN	NN	_	13	AG	_	_
+17	der	_	DET	ART	_	18	NK	_	_
+18	Bundesbank	_	NOUN	NN	_	16	AG	_	_
+19	vorgenommen	_	VERB	VVPP	_	20	OC	_	_
+20	haben	_	VERB	VAFIN	_	8	RC	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 10
+# text = Denn schließlich geht es auch um die Erhaltung des Finanzierungsspielraumes für die privaten Investitionen, und hier besteht ein enger innerer Zusammenhang.
+1	Denn	_	CONJ	KON	_	3	JU	_	_
+2	schließlich	_	ADV	ADV	_	3	MO	_	_
+3	geht	_	VERB	VVFIN	_	0	--	_	_
+4	es	_	PRON	PPER	_	3	EP	_	_
+5	auch	_	ADV	ADV	_	6	MO	_	_
+6	um	_	ADP	APPR	_	3	OP	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Erhaltung	_	NOUN	NN	_	6	NK	_	_
+9	des	_	DET	ART	_	10	NK	_	_
+10	Finanzierungsspielraumes	_	NOUN	NN	_	8	AG	_	_
+11	für	_	ADP	APPR	_	10	MNR	_	_
+12	die	_	DET	ART	_	14	NK	_	_
+13	privaten	_	ADJ	ADJA	_	14	NK	_	_
+14	Investitionen	_	NOUN	NN	_	11	NK	_	_
+15	,	_	PUNCT	$,	_	3	PUNCT	_	_
+16	und	_	CONJ	KON	_	3	CD	_	_
+17	hier	_	ADV	ADV	_	18	MO	_	_
+18	besteht	_	VERB	VVFIN	_	16	CJ	_	_
+19	ein	_	DET	ART	_	22	NK	_	_
+20	enger	_	ADJ	ADJD	_	21	MO	_	_
+21	innerer	_	ADJ	ADJA	_	22	NK	_	_
+22	Zusammenhang	_	NOUN	NN	_	18	SB	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 11
+# text = Er hat zugleich für die Partner seiner Koalition das Versprechen abgegeben, in der Zeit dieses Koalitionsbündnisses "alle wichtigen Aufgaben mit äußerster Entschlossenheit zu bewältigen".
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	hat	_	VERB	VAFIN	_	0	--	_	_
+3	zugleich	_	ADV	ADV	_	11	MO	_	_
+4	für	_	ADP	APPR	_	11	MO	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Partner	_	NOUN	NN	_	4	NK	_	_
+7	seiner	_	PRON	PPOSAT	_	8	NK	_	_
+8	Koalition	_	NOUN	NN	_	6	AG	_	_
+9	das	_	DET	ART	_	10	NK	_	_
+10	Versprechen	_	NOUN	NN	_	11	OA	_	_
+11	abgegeben	_	VERB	VVPP	_	2	OC	_	_
+12	,	_	PUNCT	$,	_	11	PUNCT	_	_
+13	in	_	ADP	APPR	_	26	MO	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Zeit	_	NOUN	NN	_	13	NK	_	_
+16	dieses	_	PRON	PDAT	_	17	NK	_	_
+17	Koalitionsbündnisses	_	NOUN	NN	_	15	AG	_	_
+18	"	_	PUNCT	$(	_	26	PUNCT	_	_
+19	alle	_	PRON	PIAT	_	21	NK	_	_
+20	wichtigen	_	ADJ	ADJA	_	21	NK	_	_
+21	Aufgaben	_	NOUN	NN	_	26	OA	_	_
+22	mit	_	ADP	APPR	_	21	MNR	_	_
+23	äußerster	_	ADJ	ADJA	_	24	NK	_	_
+24	Entschlossenheit	_	NOUN	NN	_	22	NK	_	_
+25	zu	_	X	PTKZU	_	26	PM	_	_
+26	bewältigen	_	VERB	VVINF	_	10	OC	_	_
+27	"	_	PUNCT	$(	_	26	PUNCT	_	_
+28	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 12
+# text = Es ist unsere Aufgabe, in langen, ruhigen, freundschaftlichen Verhandlungen gewisse Widerstände, gewisse Einwendungen auszuräumen, die gegen den Beitritt Englands bestehen.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	unsere	_	PRON	PPOSAT	_	4	NK	_	_
+4	Aufgabe	_	NOUN	NN	_	2	PD	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	in	_	ADP	APPR	_	18	MO	_	_
+7	langen	_	ADJ	ADJA	_	12	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	ruhigen	_	ADJ	ADJA	_	7	CJ	_	_
+10	,	_	PUNCT	$,	_	7	PUNCT	_	_
+11	freundschaftlichen	_	ADJ	ADJA	_	7	CJ	_	_
+12	Verhandlungen	_	NOUN	NN	_	6	NK	_	_
+13	gewisse	_	ADJ	ADJA	_	14	NK	_	_
+14	Widerstände	_	NOUN	NN	_	18	OA	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	gewisse	_	ADJ	ADJA	_	17	NK	_	_
+17	Einwendungen	_	NOUN	NN	_	14	CJ	_	_
+18	auszuräumen	_	VERB	VVIZU	_	1	RE	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	die	_	PRON	PRELS	_	25	SB	_	_
+21	gegen	_	ADP	APPR	_	25	MO	_	_
+22	den	_	DET	ART	_	23	NK	_	_
+23	Beitritt	_	NOUN	NN	_	21	NK	_	_
+24	Englands	_	NOUN	NN	_	23	AG	_	_
+25	bestehen	_	VERB	VVFIN	_	17	RC	_	_
+26	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 13
+# text = Zur Frage der Höhe der Elternrente nach dem Bundesversorgungsgesetz muß allgemein berücksichtigt werden, daß hierfür das Einkommen der Eltern nach Abzug von Freibeträgen der vollen Elternrente gegenüberzustellen ist.
+1	Zur	_	ADP	APPRART	_	13	MO	_	_
+2	Frage	_	NOUN	NN	_	1	NK	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Höhe	_	NOUN	NN	_	2	AG	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Elternrente	_	NOUN	NN	_	4	AG	_	_
+7	nach	_	ADP	APPR	_	6	MNR	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Bundesversorgungsgesetz	_	NOUN	NN	_	7	NK	_	_
+10	muß	_	VERB	VMFIN	_	0	--	_	_
+11	allgemein	_	ADJ	ADJD	_	12	MO	_	_
+12	berücksichtigt	_	VERB	VVPP	_	13	OC	_	_
+13	werden	_	VERB	VAINF	_	10	OC	_	_
+14	,	_	PUNCT	$,	_	10	PUNCT	_	_
+15	daß	_	CONJ	KOUS	_	29	CP	_	_
+16	hierfür	_	ADV	PROAV	_	28	MO	_	_
+17	das	_	DET	ART	_	18	NK	_	_
+18	Einkommen	_	NOUN	NN	_	29	SB	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Eltern	_	NOUN	NN	_	18	AG	_	_
+21	nach	_	ADP	APPR	_	28	MO	_	_
+22	Abzug	_	NOUN	NN	_	21	NK	_	_
+23	von	_	ADP	APPR	_	22	PG	_	_
+24	Freibeträgen	_	NOUN	NN	_	23	NK	_	_
+25	der	_	DET	ART	_	27	NK	_	_
+26	vollen	_	ADJ	ADJA	_	27	NK	_	_
+27	Elternrente	_	NOUN	NN	_	28	DA	_	_
+28	gegenüberzustellen	_	VERB	VVPP	_	29	OC	_	_
+29	ist	_	VERB	VAFIN	_	12	OC	_	_
+30	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 14
+# text = Seit zwei Jahren ist der Maßstab, den der Haushaltsausschuß und der Bundestagsvorstand anlegen, das Gutachten, das auf Wunsch des Hauses der Bundesrechnungshof erstellt hat.
+1	Seit	_	ADP	APPR	_	4	MO	_	_
+2	zwei	_	NUM	CARD	_	3	NK	_	_
+3	Jahren	_	NOUN	NN	_	1	NK	_	_
+4	ist	_	VERB	VAFIN	_	0	--	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Maßstab	_	NOUN	NN	_	4	SB	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	den	_	PRON	PRELS	_	14	OA	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Haushaltsausschuß	_	NOUN	NN	_	14	SB	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Bundestagsvorstand	_	NOUN	NN	_	11	CJ	_	_
+14	anlegen	_	VERB	VVINF	_	6	RC	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	das	_	DET	ART	_	17	NK	_	_
+17	Gutachten	_	NOUN	NN	_	4	PD	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	das	_	PRON	PRELS	_	26	OA	_	_
+20	auf	_	ADP	APPR	_	26	MO	_	_
+21	Wunsch	_	NOUN	NN	_	20	NK	_	_
+22	des	_	DET	ART	_	23	NK	_	_
+23	Hauses	_	NOUN	NN	_	21	AG	_	_
+24	der	_	DET	ART	_	25	NK	_	_
+25	Bundesrechnungshof	_	PROPN	NE	_	27	SB	_	_
+26	erstellt	_	VERB	VVPP	_	27	OC	_	_
+27	hat	_	VERB	VAFIN	_	17	RC	_	_
+28	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 15
+# text = Nach übereinstimmender Auskunft des Dekans der medizinischen Fakultät der TH Aachen und des Kultusministeriums in Düsseldorf trifft es zu, daß zur Zeit vier Lehrstühle nicht besetzt sind und deshalb die unbedingt erforderlichen Lehrveranstaltungen in den Fächern Gerichtsmedizin und Zahnmedizin sowie die nur schwer ersetzbaren Lehrveranstaltungen in Hygiene und Medizingeschichte nicht stattfinden können.
+1	Nach	_	ADP	APPR	_	17	MO	_	_
+2	übereinstimmender	_	ADJ	ADJA	_	3	NK	_	_
+3	Auskunft	_	NOUN	NN	_	1	NK	_	_
+4	des	_	DET	ART	_	5	NK	_	_
+5	Dekans	_	NOUN	NN	_	3	AG	_	_
+6	der	_	DET	ART	_	8	NK	_	_
+7	medizinischen	_	ADJ	ADJA	_	8	NK	_	_
+8	Fakultät	_	NOUN	NN	_	5	AG	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	TH	_	PROPN	NE	_	8	AG	_	_
+11	Aachen	_	PROPN	NE	_	10	NK	_	_
+12	und	_	CONJ	KON	_	10	CD	_	_
+13	des	_	DET	ART	_	14	NK	_	_
+14	Kultusministeriums	_	NOUN	NN	_	12	CJ	_	_
+15	in	_	ADP	APPR	_	14	MNR	_	_
+16	Düsseldorf	_	PROPN	NE	_	15	NK	_	_
+17	trifft	_	VERB	VVFIN	_	0	--	_	_
+18	es	_	PRON	PPER	_	17	EP	_	_
+19	zu	_	VERB	PTKVZ	_	17	SVP	_	_
+20	,	_	PUNCT	$,	_	17	PUNCT	_	_
+21	daß	_	CONJ	KOUS	_	28	CP	_	_
+22	zur	_	ADP	APPRART	_	28	MO	_	_
+23	Zeit	_	NOUN	NN	_	22	NK	_	_
+24	vier	_	NUM	CARD	_	25	NK	_	_
+25	Lehrstühle	_	NOUN	NN	_	28	SB	_	_
+26	nicht	_	X	PTKNEG	_	27	NG	_	_
+27	besetzt	_	VERB	VVPP	_	28	PD	_	_
+28	sind	_	VERB	VAFIN	_	17	OC	_	_
+29	und	_	CONJ	KON	_	28	CD	_	_
+30	deshalb	_	ADV	PROAV	_	53	MO	_	_
+31	die	_	DET	ART	_	34	NK	_	_
+32	unbedingt	_	ADV	ADV	_	33	MO	_	_
+33	erforderlichen	_	ADJ	ADJA	_	34	NK	_	_
+34	Lehrveranstaltungen	_	NOUN	NN	_	52	OA	_	_
+35	in	_	ADP	APPR	_	34	MNR	_	_
+36	den	_	DET	ART	_	37	NK	_	_
+37	Fächern	_	NOUN	NN	_	35	NK	_	_
+38	Gerichtsmedizin	_	NOUN	NN	_	37	NK	_	_
+39	und	_	CONJ	KON	_	38	CD	_	_
+40	Zahnmedizin	_	NOUN	NN	_	39	CJ	_	_
+41	sowie	_	CONJ	KON	_	34	CD	_	_
+42	die	_	DET	ART	_	46	NK	_	_
+43	nur	_	ADV	ADV	_	44	MO	_	_
+44	schwer	_	ADJ	ADJD	_	45	MO	_	_
+45	ersetzbaren	_	ADJ	ADJA	_	46	NK	_	_
+46	Lehrveranstaltungen	_	NOUN	NN	_	41	CJ	_	_
+47	in	_	ADP	APPR	_	46	MNR	_	_
+48	Hygiene	_	NOUN	NN	_	47	NK	_	_
+49	und	_	CONJ	KON	_	48	CD	_	_
+50	Medizingeschichte	_	NOUN	NN	_	49	CJ	_	_
+51	nicht	_	X	PTKNEG	_	53	NG	_	_
+52	stattfinden	_	VERB	VVINF	_	53	OC	_	_
+53	können	_	VERB	VMINF	_	29	CJ	_	_
+54	.	_	PUNCT	$.	_	17	PUNCT	_	_
+
+# sent_id = 16
+# text = Ich melde mich nur zu Wort, um einige Mißverständnisse zurückzuweisen und um auch einiges für den Vorsitzenden des Ausschusses zu sagen, der selber heute nicht hier sein kann.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	melde	_	VERB	VVFIN	_	0	--	_	_
+3	mich	_	PRON	PPER	_	2	OA	_	_
+4	nur	_	ADV	ADV	_	5	MO	_	_
+5	zu	_	ADP	APPR	_	2	CVC	_	_
+6	Wort	_	NOUN	NN	_	5	NK	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	um	_	CONJ	KOUI	_	11	CP	_	_
+9	einige	_	PRON	PIAT	_	10	NK	_	_
+10	Mißverständnisse	_	NOUN	NN	_	11	OA	_	_
+11	zurückzuweisen	_	VERB	VVIZU	_	2	MO	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	um	_	CONJ	KOUI	_	22	CP	_	_
+14	auch	_	ADV	ADV	_	22	MO	_	_
+15	einiges	_	PRON	PIS	_	22	OA	_	_
+16	für	_	ADP	APPR	_	22	MO	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Vorsitzenden	_	NOUN	NN	_	16	NK	_	_
+19	des	_	DET	ART	_	20	NK	_	_
+20	Ausschusses	_	NOUN	NN	_	18	AG	_	_
+21	zu	_	X	PTKZU	_	22	PM	_	_
+22	sagen	_	VERB	VVINF	_	12	CJ	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	der	_	PRON	PRELS	_	30	SB	_	_
+25	selber	_	ADV	ADV	_	30	MO	_	_
+26	heute	_	ADV	ADV	_	30	MO	_	_
+27	nicht	_	X	PTKNEG	_	30	NG	_	_
+28	hier	_	ADV	ADV	_	29	PD	_	_
+29	sein	_	VERB	VAINF	_	30	OC	_	_
+30	kann	_	VERB	VMFIN	_	18	RC	_	_
+31	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 17
+# text = Diese gesamtdeutschen technischen Kommissionen sollten nicht losgelöst, sondern als Stufe in einem Wiedervereinigungsvorgang betrachtet werden, sollten Fragen der innerdeutschen Kontakte, des Handels, der Kultur, des Verkehrs und des Sports erörtern.
+1	Diese	_	PRON	PDAT	_	4	NK	_	_
+2	gesamtdeutschen	_	ADJ	ADJA	_	4	NK	_	_
+3	technischen	_	ADJ	ADJA	_	4	NK	_	_
+4	Kommissionen	_	NOUN	NN	_	5	SB	_	_
+5	sollten	_	VERB	VMFIN	_	0	--	_	_
+6	nicht	_	X	PTKNEG	_	7	NG	_	_
+7	losgelöst	_	VERB	VVPP	_	5	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	sondern	_	CONJ	KON	_	7	CD	_	_
+10	als	_	ADP	APPR	_	15	MO	_	_
+11	Stufe	_	NOUN	NN	_	10	NK	_	_
+12	in	_	ADP	APPR	_	11	MNR	_	_
+13	einem	_	DET	ART	_	14	NK	_	_
+14	Wiedervereinigungsvorgang	_	NOUN	NN	_	12	NK	_	_
+15	betrachtet	_	VERB	VVPP	_	16	OC	_	_
+16	werden	_	VERB	VAINF	_	9	CJ	_	_
+17	,	_	PUNCT	$,	_	18	PUNCT	_	_
+18	sollten	_	VERB	VMFIN	_	5	CJ	_	_
+19	Fragen	_	NOUN	NN	_	35	OA	_	_
+20	der	_	DET	ART	_	22	NK	_	_
+21	innerdeutschen	_	ADJ	ADJA	_	22	NK	_	_
+22	Kontakte	_	NOUN	NN	_	19	AG	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	des	_	DET	ART	_	25	NK	_	_
+25	Handels	_	NOUN	NN	_	22	CJ	_	_
+26	,	_	PUNCT	$,	_	22	PUNCT	_	_
+27	der	_	DET	ART	_	28	NK	_	_
+28	Kultur	_	NOUN	NN	_	22	CJ	_	_
+29	,	_	PUNCT	$,	_	28	PUNCT	_	_
+30	des	_	DET	ART	_	31	NK	_	_
+31	Verkehrs	_	NOUN	NN	_	28	CJ	_	_
+32	und	_	CONJ	KON	_	31	CD	_	_
+33	des	_	DET	ART	_	34	NK	_	_
+34	Sports	_	NOUN	NN	_	32	CJ	_	_
+35	erörtern	_	VERB	VVINF	_	18	OC	_	_
+36	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 18
+# text = Die Bundesregierung hat die Absicht, zu dieser ersten Konferenz nicht nur die Vertreter der EWG-Staaten, sondern auch die Vertreter anderer Mitgliedstaaten des Europarates einzuladen, soweit sie interessiert sind.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Bundesregierung	_	NOUN	NN	_	3	SB	_	_
+3	hat	_	VERB	VAFIN	_	0	--	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Absicht	_	NOUN	NN	_	3	OA	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	zu	_	ADP	APPR	_	26	MO	_	_
+8	dieser	_	PRON	PDAT	_	10	NK	_	_
+9	ersten	_	ADJ	ADJA	_	10	NK	_	_
+10	Konferenz	_	NOUN	NN	_	7	NK	_	_
+11	nicht	_	X	PTKNEG	_	12	NG	_	_
+12	nur	_	ADV	ADV	_	14	MO	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Vertreter	_	NOUN	NN	_	26	OA	_	_
+15	der	_	DET	ART	_	16	NK	_	_
+16	EWG-Staaten	_	NOUN	NN	_	14	AG	_	_
+17	,	_	PUNCT	$,	_	14	PUNCT	_	_
+18	sondern	_	CONJ	KON	_	14	CD	_	_
+19	auch	_	ADV	ADV	_	21	MO	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Vertreter	_	NOUN	NN	_	18	CJ	_	_
+22	anderer	_	ADJ	ADJA	_	23	NK	_	_
+23	Mitgliedstaaten	_	NOUN	NN	_	21	AG	_	_
+24	des	_	DET	ART	_	25	NK	_	_
+25	Europarates	_	NOUN	NN	_	23	AG	_	_
+26	einzuladen	_	VERB	VVIZU	_	5	OC	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	soweit	_	CONJ	KOUS	_	31	CP	_	_
+29	sie	_	PRON	PPER	_	31	SB	_	_
+30	interessiert	_	ADJ	ADJD	_	31	PD	_	_
+31	sind	_	VERB	VAFIN	_	26	MO	_	_
+32	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

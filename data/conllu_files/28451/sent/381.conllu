@@ -1,0 +1,15 @@
+# sent_id = 381
+# text = An den Schmidt'schen Standorten sind die Thesium- arten fast vollständig erloschen.
+1	An	_	ADP	APPR	_	11	MO	_	_
+2	den	_	DET	ART	_	4	NK	_	_
+3	Schmidt'schen	_	ADJ	ADJA	_	4	NK	_	_
+4	Standorten	_	NOUN	NN	_	1	NK	_	_
+5	sind	_	VERB	VAFIN	_	0	--	_	_
+6	die	_	DET	ART	_	8	NK	_	_
+7	Thesium-	_	X	TRUNC	_	8	NK	_	_
+8	arten	_	NOUN	NN	_	5	SB	_	_
+9	fast	_	ADV	ADV	_	10	MO	_	_
+10	vollständig	_	ADJ	ADJD	_	11	MO	_	_
+11	erloschen	_	VERB	VVPP	_	5	OC	_	_
+12	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

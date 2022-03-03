@@ -1,0 +1,36 @@
+# sent_id = 111
+# text = Unter Buchstabe b empfiehlt der Ausschuss die Ablehnung des Antrags der Fraktion der FDP auf Drucksache 15 / 5477 mit dem Titel "Prekärer Haushaltslage entgegentreten - Nachtragshaushalt und Haushaltssicherungsgesetz vorlegen".
+1	Unter	_	_	_	_	2	case	_	_
+2	Buchstabe	_	_	_	_	4	obl	_	_
+3	b	_	_	_	_	2	flat	_	_
+4	empfiehlt	_	_	_	_	0	root	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Ausschuss	_	_	_	_	4	nsubj	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Ablehnung	_	_	_	_	4	obj	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Antrags	_	_	_	_	8	nmod	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Fraktion	_	_	_	_	10	nmod	_	_
+13	der	_	_	_	_	14	det	_	_
+14	FDP	_	_	_	_	12	nmod	_	_
+15	auf	_	_	_	_	16	case	_	_
+16	Drucksache	_	_	_	_	10	nmod	_	_
+17	15	_	_	_	_	16	flat	_	_
+18	/	_	_	_	_	19	punct	_	_
+19	5477	_	_	_	_	16	flat	_	_
+20	mit	_	_	_	_	22	case	_	_
+21	dem	_	_	_	_	22	det	_	_
+22	Titel	_	_	_	_	10	nmod	_	_
+23	"	_	_	_	_	26	punct	_	_
+24	Prekärer	_	_	_	_	25	amod	_	_
+25	Haushaltslage	_	_	_	_	26	iobj	_	_
+26	entgegentreten	_	_	_	_	22	parataxis	_	_
+27	-	_	_	_	_	31	punct	_	_
+28	Nachtragshaushalt	_	_	_	_	31	obj	_	_
+29	und	_	_	_	_	30	cc	_	_
+30	Haushaltssicherungsgesetz	_	_	_	_	28	conj	_	_
+31	vorlegen	_	_	_	_	26	conj	_	_
+32	"	_	_	_	_	26	punct	_	_
+33	.	_	_	_	_	4	punct	_	_
+

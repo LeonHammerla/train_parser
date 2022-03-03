@@ -1,0 +1,41 @@
+# sent_id = 269
+# text = Ich erwähne hier vorzüglich nur dieser beiden Berge, weil sie wahrhaft bas Bild der Vorzeit und des deutschen Urwaldes gaben, und an jene Zeiten erinnerten, wo nach Tacitus Ausdruck Germania silvis horrida noch war.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	erwähne	_	VERB	VVFIN	_	0	--	_	_
+3	hier	_	ADV	ADV	_	2	MO	_	_
+4	vorzüglich	_	ADJ	ADJD	_	2	MO	_	_
+5	nur	_	ADV	ADV	_	8	MO	_	_
+6	dieser	_	PRON	PDAT	_	8	NK	_	_
+7	beiden	_	PRON	PIAT	_	8	NK	_	_
+8	Berge	_	NOUN	NN	_	2	OA	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	weil	_	CONJ	KOUS	_	21	CP	_	_
+11	sie	_	PRON	PPER	_	21	SB	_	_
+12	wahrhaft	_	ADV	ADV	_	21	MO	_	_
+13	bas	_	ADP	APPR	_	14	NK	_	_
+14	Bild	_	NOUN	NN	_	21	OA	_	_
+15	der	_	DET	ART	_	16	NK	_	_
+16	Vorzeit	_	NOUN	NN	_	14	AG	_	_
+17	und	_	CONJ	KON	_	16	CD	_	_
+18	des	_	DET	ART	_	20	NK	_	_
+19	deutschen	_	ADJ	ADJA	_	20	NK	_	_
+20	Urwaldes	_	NOUN	NN	_	17	CJ	_	_
+21	gaben	_	VERB	VVFIN	_	2	MO	_	_
+22	,	_	PUNCT	$,	_	2	PUNCT	_	_
+23	und	_	CONJ	KON	_	2	CD	_	_
+24	an	_	ADP	APPR	_	27	OP	_	_
+25	jene	_	PRON	PDAT	_	26	NK	_	_
+26	Zeiten	_	NOUN	NN	_	24	NK	_	_
+27	erinnerten	_	VERB	VVFIN	_	23	CJ	_	_
+28	,	_	PUNCT	$,	_	27	PUNCT	_	_
+29	wo	_	PRON	PWAV	_	37	MO	_	_
+30	nach	_	ADP	APPR	_	37	MO	_	_
+31	Tacitus	_	PROPN	NE	_	32	AG	_	_
+32	Ausdruck	_	NOUN	NN	_	30	NK	_	_
+33	Germania	_	PROPN	NE	_	37	SB	_	_
+34	silvis	_	VERB	VVFIN	_	37	PD	_	_
+35	horrida	_	PROPN	NE	_	34	MO	_	_
+36	noch	_	ADV	ADV	_	37	MO	_	_
+37	war	_	VERB	VAFIN	_	26	RC	_	_
+38	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

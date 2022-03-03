@@ -1,0 +1,18 @@
+# sent_id = 22
+# text = Es bestünde sonst die Gefahr, daß wir uns heute ins Uferlose verlieren würden.
+1	Es	_	_	_	_	2	expl	_	_
+2	bestünde	_	_	_	_	0	root	_	_
+3	sonst	_	_	_	_	2	advmod	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Gefahr	_	_	_	_	2	nsubj	_	_
+6	,	_	_	_	_	13	punct	_	_
+7	daß	_	_	_	_	13	mark	_	_
+8	wir	_	_	_	_	13	nsubj	_	_
+9	uns	_	_	_	_	13	obj	_	_
+10	heute	_	_	_	_	13	advmod	_	_
+11	ins	_	_	_	_	12	case	_	_
+12	Uferlose	_	_	_	_	13	obl	_	_
+13	verlieren	_	_	_	_	5	acl	_	_
+14	würden	_	_	_	_	13	aux	_	_
+15	.	_	_	_	_	2	punct	_	_
+

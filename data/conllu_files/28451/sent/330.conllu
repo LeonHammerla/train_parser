@@ -1,0 +1,24 @@
+# sent_id = 330
+# text = Der Bestand der Hohltaube betrug im Kartierungszeitraum sechs bis acht BR, davon wurden vier bis sechs im Zeisigwald festgestellt.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Bestand	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Hohltaube	_	NOUN	NN	_	2	AG	_	_
+5	betrug	_	VERB	VVFIN	_	0	--	_	_
+6	im	_	ADP	APPRART	_	5	MO	_	_
+7	Kartierungszeitraum	_	NOUN	NN	_	6	NK	_	_
+8	sechs	_	NUM	CARD	_	11	NK	_	_
+9	bis	_	CONJ	KON	_	8	CD	_	_
+10	acht	_	NUM	CARD	_	9	CJ	_	_
+11	BR	_	NOUN	NN	_	5	OA	_	_
+12	,	_	PUNCT	$,	_	5	PUNCT	_	_
+13	davon	_	ADV	PROAV	_	14	MO	_	_
+14	wurden	_	VERB	VAFIN	_	5	CJ	_	_
+15	vier	_	NUM	CARD	_	14	SB	_	_
+16	bis	_	CONJ	KON	_	15	CD	_	_
+17	sechs	_	NUM	CARD	_	16	CJ	_	_
+18	im	_	ADP	APPRART	_	20	MO	_	_
+19	Zeisigwald	_	NOUN	NN	_	18	NK	_	_
+20	festgestellt	_	VERB	VVPP	_	14	OC	_	_
+21	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

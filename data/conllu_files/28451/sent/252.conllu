@@ -1,0 +1,36 @@
+# sent_id = 252
+# text = Ein Torfmoor des Pfälzerwaldes, wie z. B. jenes, welches sich oberhalb des Jagdhäusler Weihers (südlich von Kaiserslautern) ausdehnt, wo unter anderm Andromeda polifolia noch ziemlich häufig vorkommt.
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Torfmoor	_	NOUN	NN	_	0	--	_	_
+3	des	_	DET	ART	_	4	NK	_	_
+4	Pfälzerwaldes	_	NOUN	NN	_	2	AG	_	_
+5	,	_	PUNCT	$,	_	2	PUNCT	_	_
+6	wie	_	CONJ	KOKOM	_	9	CM	_	_
+7	z.	_	ADP	APPRART	_	9	MO	_	_
+8	B.	_	NOUN	NN	_	7	NK	_	_
+9	jenes	_	PRON	PDS	_	2	CC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	welches	_	PRON	PRELS	_	22	SB	_	_
+12	sich	_	PRON	PRF	_	22	OA	_	_
+13	oberhalb	_	ADP	APPR	_	22	MO	_	_
+14	des	_	DET	ART	_	16	NK	_	_
+15	Jagdhäusler	_	NOUN	NN	_	16	PNC	_	_
+16	Weihers	_	PROPN	NE	_	13	NK	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	südlich	_	ADJ	ADJD	_	16	PAR	_	_
+19	von	_	ADP	APPR	_	18	PG	_	_
+20	Kaiserslautern	_	NOUN	NN	_	19	NK	_	_
+21	)	_	PUNCT	$(	_	18	PUNCT	_	_
+22	ausdehnt	_	VERB	VVPP	_	9	RC	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	wo	_	PRON	PWAV	_	32	MO	_	_
+25	unter	_	ADP	APPR	_	32	MO	_	_
+26	anderm	_	PROPN	NE	_	25	NK	_	_
+27	Andromeda	_	NOUN	NN	_	28	PNC	_	_
+28	polifolia	_	PROPN	NE	_	32	SB	_	_
+29	noch	_	ADV	ADV	_	31	MO	_	_
+30	ziemlich	_	ADV	ADV	_	31	MO	_	_
+31	häufig	_	ADJ	ADJD	_	32	MO	_	_
+32	vorkommt	_	VERB	VVPP	_	16	RC	_	_
+33	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

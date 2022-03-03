@@ -1,0 +1,34 @@
+# sent_id = 159
+# text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
+1	Die	_	_	_	_	2	det	_	_
+2	Reichsverwaltung	_	_	_	_	3	nsubj	_	_
+3	verpflichtete	_	_	_	_	0	root	_	_
+4	sich	_	_	_	_	3	obj	_	_
+5	dagegen	_	_	_	_	3	advmod	_	_
+6	,	_	_	_	_	19	punct	_	_
+7	für	_	_	_	_	8	case	_	_
+8	Benutzung	_	_	_	_	19	obl	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Kabels	_	_	_	_	8	nmod	_	_
+11	jährlich	_	_	_	_	19	advmod	_	_
+12	eine	_	_	_	_	14	det	_	_
+13	feste	_	_	_	_	14	amod	_	_
+14	Entschädigung	_	_	_	_	19	obj	_	_
+15	von	_	_	_	_	17	case	_	_
+16	140000	_	_	_	_	17	nummod	_	_
+17	Mark	_	_	_	_	14	nmod	_	_
+18	zu	_	_	_	_	19	mark	_	_
+19	geben	_	_	_	_	3	xcomp	_	_
+20	ohne	_	_	_	_	21	case	_	_
+21	Rücksicht	_	_	_	_	19	obl	_	_
+22	auf	_	_	_	_	24	case	_	_
+23	die	_	_	_	_	24	det	_	_
+24	Zahl	_	_	_	_	21	nmod	_	_
+25	der	_	_	_	_	26	det	_	_
+26	Depeschen	_	_	_	_	24	nmod	_	_
+27	,	_	_	_	_	29	punct	_	_
+28	welche	_	_	_	_	29	nsubj:pass	_	_
+29	befördert	_	_	_	_	26	acl	_	_
+30	werden	_	_	_	_	29	aux:pass	_	_
+31	.	_	_	_	_	3	punct	_	_
+

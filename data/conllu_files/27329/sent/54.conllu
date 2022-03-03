@@ -1,0 +1,28 @@
+# sent_id = 54
+# text = At any rate, the objections that had been raised were not, he thought, sufficiently strong to prevent the going into Committee.
+1	At	_	ADP	IN	_	3	case	_	_
+2	any	_	DET	DT	_	3	det	_	_
+3	rate	_	NOUN	NN	_	18	obl	_	_
+4	,	_	PUNCT	,	_	18	punct	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	objections	_	NOUN	NNS	_	18	nsubj	_	_
+7	that	_	DET	WDT	_	10	nsubj:pass	_	_
+8	had	_	VERB	VBD	_	10	aux	_	_
+9	been	_	VERB	VBN	_	10	aux:pass	_	_
+10	raised	_	VERB	VBN	_	6	acl:relcl	_	_
+11	were	_	VERB	VBD	_	18	cop	_	_
+12	not	_	ADV	RB	_	18	advmod	_	_
+13	,	_	PUNCT	,	_	15	punct	_	_
+14	he	_	PRON	PRP	_	15	nsubj	_	_
+15	thought	_	VERB	VBD	_	18	parataxis	_	_
+16	,	_	PUNCT	,	_	15	punct	_	_
+17	sufficiently	_	ADV	RB	_	18	advmod	_	_
+18	strong	_	ADJ	JJ	_	0	root	_	_
+19	to	_	ADP	TO	_	20	mark	_	_
+20	prevent	_	VERB	VB	_	18	xcomp	_	_
+21	the	_	DET	DT	_	22	det	_	_
+22	going	_	VERB	VBG	_	20	obj	_	_
+23	into	_	ADP	IN	_	24	case	_	_
+24	Committee	_	PROPN	NNP	_	22	obl	_	_
+25	.	_	PUNCT	.	_	18	punct	_	_
+

@@ -1,0 +1,32 @@
+# sent_id = 73
+# text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	möchte	_	VERB	VMFIN	_	0	--	_	_
+3	sagen	_	VERB	VVINF	_	2	OC	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	dass	_	CONJ	KOUS	_	22	CP	_	_
+6	links	_	ADV	ADV	_	22	MO	_	_
+7	von	_	ADP	APPR	_	6	PG	_	_
+8	mir	_	PRON	PPER	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	7	PUNCT	_	_
+10	also	_	ADV	ADV	_	11	MO	_	_
+11	rechts	_	ADV	ADV	_	22	MO	_	_
+12	von	_	ADP	APPR	_	11	PG	_	_
+13	Ihnen	_	PRON	PPER	_	12	NK	_	_
+14	,	_	PUNCT	$,	_	22	PUNCT	_	_
+15	da	_	CONJ	KOUS	_	22	MO	_	_
+16	vielleicht	_	ADV	ADV	_	22	MO	_	_
+17	noch	_	ADV	ADV	_	21	MO	_	_
+18	ein	_	DET	ART	_	19	NK	_	_
+19	bisschen	_	ADJ	ADJA	_	21	NK	_	_
+20	mehr	_	PRON	PIAT	_	21	NK	_	_
+21	Nachholbedarf	_	NOUN	NN	_	22	SB	_	_
+22	besteht	_	VERB	VVFIN	_	3	OC	_	_
+23	als	_	CONJ	KOKOM	_	24	CM	_	_
+24	auf	_	ADP	APPR	_	20	CC	_	_
+25	dieser	_	PRON	PDAT	_	26	NK	_	_
+26	Seite	_	NOUN	NN	_	24	NK	_	_
+27	des	_	DET	ART	_	28	NK	_	_
+28	Hauses	_	NOUN	NN	_	26	AG	_	_
+29	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

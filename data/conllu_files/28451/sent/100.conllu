@@ -1,0 +1,15 @@
+# sent_id = 100
+# text = Sandstein bedeckt von dem sich weit und breit hinziehenden Forst Waldeck.
+1	Sandstein	_	NOUN	NN	_	1	ROOT	_	_
+2	bedeckt	_	ADJ	ADJD	_	1	PAR	_	_
+3	von	_	ADP	APPR	_	2	SBP	_	_
+4	dem	_	DET	ART	_	10	NK	_	_
+5	sich	_	PRON	PRF	_	9	OA	_	_
+6	weit	_	ADJ	ADJD	_	9	MO	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	breit	_	ADJ	ADJD	_	7	CJ	_	_
+9	hinziehenden	_	ADJ	ADJA	_	10	NK	_	_
+10	Forst	_	NOUN	NN	_	3	NK	_	_
+11	Waldeck	_	PROPN	NE	_	10	NK	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

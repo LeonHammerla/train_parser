@@ -1,0 +1,17 @@
+# sent_id = 40
+# text = I would like the Minister to have said something more on that matter.
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	VERB	MD	_	3	aux	_	_
+3	like	_	VERB	VB	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	Minister	_	PROPN	NNP	_	3	obj	_	_
+6	to	_	ADP	TO	_	8	mark	_	_
+7	have	_	VERB	VB	_	8	aux	_	_
+8	said	_	VERB	VBN	_	3	xcomp	_	_
+9	something	_	NOUN	NN	_	8	obj	_	_
+10	more	_	ADJ	JJR	_	9	amod	_	_
+11	on	_	ADP	IN	_	13	case	_	_
+12	that	_	DET	DT	_	13	det	_	_
+13	matter	_	NOUN	NN	_	9	nmod	_	_
+14	.	_	PUNCT	.	_	3	punct	_	_
+

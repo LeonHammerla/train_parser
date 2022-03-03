@@ -1,0 +1,20 @@
+# sent_id = 151
+# text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bitte	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Herren	_	_	_	_	2	obj	_	_
+5	aufzustehen	_	_	_	_	2	xcomp	_	_
+6	,	_	_	_	_	10	punct	_	_
+7	oder	_	_	_	_	10	cc	_	_
+8	stehen	_	_	_	_	10	xcomp	_	_
+9	zu	_	_	_	_	10	mark	_	_
+10	bleiben	_	_	_	_	5	conj	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	welche	_	_	_	_	15	nsubj	_	_
+13	den	_	_	_	_	14	det	_	_
+14	Schlußantrag	_	_	_	_	15	obj	_	_
+15	annehmen	_	_	_	_	4	acl	_	_
+16	wollen	_	_	_	_	15	aux	_	_
+17	.	_	_	_	_	2	punct	_	_
+

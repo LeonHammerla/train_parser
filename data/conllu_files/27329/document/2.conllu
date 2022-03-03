@@ -1,0 +1,309 @@
+# sent_id = 20
+# text = For estates over that value the rates were last fixed in 1949.
+1	For	_	ADP	IN	_	2	case	_	_
+2	estates	_	NOUN	NNS	_	10	obl	_	_
+3	over	_	ADP	IN	_	5	case	_	_
+4	that	_	DET	DT	_	5	det	_	_
+5	value	_	NOUN	NN	_	2	nmod	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	rates	_	NOUN	NNS	_	10	nsubj:pass	_	_
+8	were	_	VERB	VBD	_	10	aux:pass	_	_
+9	last	_	ADV	RB	_	10	advmod	_	_
+10	fixed	_	VERB	VBN	_	0	root	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	1949	_	NUM	CD	_	10	obl	_	_
+13	.	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = 21
+# text = As he knows, there has been a regular ten-yearly census since 1801 except for one year, 1941, which was missed, but we shall consider very carefully what he said.
+1	As	_	ADP	IN	_	3	mark	_	_
+2	he	_	PRON	PRP	_	3	nsubj	_	_
+3	knows	_	VERB	VBZ	_	7	advcl	_	_
+4	,	_	PUNCT	,	_	7	punct	_	_
+5	there	_	DET	EX	_	7	expl	_	_
+6	has	_	VERB	VBZ	_	7	aux	_	_
+7	been	_	VERB	VBN	_	0	root	_	_
+8	a	_	DET	DT	_	13	det	_	_
+9	regular	_	ADJ	JJ	_	13	amod	_	_
+10	ten	_	NUM	CD	_	12	nummod	_	_
+11	-	_	_	HYPH	_	12	punct	_	_
+12	yearly	_	ADJ	JJ	_	13	amod	_	_
+13	census	_	NOUN	NN	_	7	nsubj	_	_
+14	since	_	ADP	IN	_	15	case	_	_
+15	1801	_	NUM	CD	_	7	obl	_	_
+16	except	_	ADP	IN	_	19	case	_	_
+17	for	_	ADP	IN	_	19	case	_	_
+18	one	_	NUM	CD	_	19	nummod	_	_
+19	year	_	NOUN	NN	_	7	obl	_	_
+20	,	_	PUNCT	,	_	19	punct	_	_
+21	1941	_	NUM	CD	_	19	appos	_	_
+22	,	_	PUNCT	,	_	19	punct	_	_
+23	which	_	DET	WDT	_	25	nsubj:pass	_	_
+24	was	_	VERB	VBD	_	25	aux:pass	_	_
+25	missed	_	VERB	VBN	_	19	acl:relcl	_	_
+26	,	_	PUNCT	,	_	30	punct	_	_
+27	but	_	CONJ	CC	_	30	cc	_	_
+28	we	_	PRON	PRP	_	30	nsubj	_	_
+29	shall	_	VERB	MD	_	30	aux	_	_
+30	consider	_	VERB	VB	_	7	conj	_	_
+31	very	_	ADV	RB	_	32	advmod	_	_
+32	carefully	_	ADV	RB	_	30	advmod	_	_
+33	what	_	PRON	WP	_	35	obj	_	_
+34	he	_	PRON	PRP	_	35	nsubj	_	_
+35	said	_	VERB	VBD	_	30	ccomp	_	_
+36	.	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 22
+# text = I was startled to find that two of the large burghs are not building at this moment.
+1	I	_	PRON	PRP	_	3	nsubj:pass	_	_
+2	was	_	VERB	VBD	_	3	aux:pass	_	_
+3	startled	_	ADJ	JJ	_	0	root	_	_
+4	to	_	ADP	TO	_	5	mark	_	_
+5	find	_	VERB	VB	_	3	xcomp	_	_
+6	that	_	ADP	IN	_	14	mark	_	_
+7	two	_	NUM	CD	_	14	nsubj	_	_
+8	of	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	large	_	ADJ	JJ	_	11	amod	_	_
+11	burghs	_	NOUN	NNS	_	7	nmod	_	_
+12	are	_	VERB	VBP	_	14	aux	_	_
+13	not	_	ADV	RB	_	14	advmod	_	_
+14	building	_	VERB	VBG	_	5	ccomp	_	_
+15	at	_	ADP	IN	_	17	case	_	_
+16	this	_	DET	DT	_	17	det	_	_
+17	moment	_	NOUN	NN	_	14	obl	_	_
+18	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 23
+# text = I should imagine that since 1945—I have not worked out the figures, but, roughly, I should imagine—nearly 80,000 have been killed and millions injured in road accidents in this country, far more than the casualties caused by air raids on this country between 1939 and 1945.
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	should	_	VERB	MD	_	3	aux	_	_
+3	imagine	_	VERB	VB	_	0	root	_	_
+4	that	_	ADP	IN	_	28	mark	_	_
+5	since	_	ADP	IN	_	6	case	_	_
+6	1945	_	NUM	CD	_	28	obl	_	_
+7	—	_	PUNCT	:	_	11	punct	_	_
+8	I	_	PRON	PRP	_	11	nsubj	_	_
+9	have	_	VERB	VBP	_	11	aux	_	_
+10	not	_	ADV	RB	_	11	advmod	_	_
+11	worked	_	VERB	VBN	_	3	parataxis	_	_
+12	out	_	ADP	RP	_	11	compound:prt	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	figures	_	NOUN	NNS	_	11	obj	_	_
+15	,	_	PUNCT	,	_	22	punct	_	_
+16	but	_	CONJ	CC	_	22	cc	_	_
+17	,	_	PUNCT	,	_	22	punct	_	_
+18	roughly	_	ADV	RB	_	22	advmod	_	_
+19	,	_	PUNCT	,	_	22	punct	_	_
+20	I	_	PRON	PRP	_	22	nsubj	_	_
+21	should	_	VERB	MD	_	22	aux	_	_
+22	imagine	_	VERB	VB	_	11	conj	_	_
+23	—	_	PUNCT	:	_	28	punct	_	_
+24	nearly	_	ADV	RB	_	25	advmod	_	_
+25	80,000	_	NUM	CD	_	28	nsubj:pass	_	_
+26	have	_	VERB	VBP	_	28	aux	_	_
+27	been	_	VERB	VBN	_	28	aux:pass	_	_
+28	killed	_	VERB	VBN	_	3	ccomp	_	_
+29	and	_	CONJ	CC	_	30	cc	_	_
+30	millions	_	NOUN	NNS	_	28	conj	_	_
+31	injured	_	VERB	VBN	_	30	orphan	_	_
+32	in	_	ADP	IN	_	34	case	_	_
+33	road	_	NOUN	NN	_	34	compound	_	_
+34	accidents	_	NOUN	NNS	_	28	obl	_	_
+35	in	_	ADP	IN	_	37	case	_	_
+36	this	_	DET	DT	_	37	det	_	_
+37	country	_	NOUN	NN	_	34	nmod	_	_
+38	,	_	PUNCT	,	_	28	punct	_	_
+39	far	_	ADV	RB	_	40	advmod	_	_
+40	more	_	ADJ	JJR	_	28	parataxis	_	_
+41	than	_	ADP	IN	_	43	case	_	_
+42	the	_	DET	DT	_	43	det	_	_
+43	casualties	_	NOUN	NNS	_	40	obl	_	_
+44	caused	_	VERB	VBN	_	43	acl	_	_
+45	by	_	ADP	IN	_	47	case	_	_
+46	air	_	NOUN	NN	_	47	compound	_	_
+47	raids	_	NOUN	NNS	_	44	obl	_	_
+48	on	_	ADP	IN	_	50	case	_	_
+49	this	_	DET	DT	_	50	det	_	_
+50	country	_	NOUN	NN	_	47	nmod	_	_
+51	between	_	ADP	IN	_	52	case	_	_
+52	1939	_	NUM	CD	_	44	obl	_	_
+53	and	_	CONJ	CC	_	54	cc	_	_
+54	1945	_	NUM	CD	_	52	conj	_	_
+55	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 24
+# text = This is a very splendid development, and one which I want to see, because the development of this new product, radioactive isotopes, will help our industry immensely.
+1	This	_	DET	DT	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	splendid	_	ADJ	JJ	_	6	amod	_	_
+6	development	_	NOUN	NN	_	0	root	_	_
+7	,	_	PUNCT	,	_	9	punct	_	_
+8	and	_	CONJ	CC	_	9	cc	_	_
+9	one	_	NUM	CD	_	6	conj	_	_
+10	which	_	DET	WDT	_	12	obj	_	_
+11	I	_	PRON	PRP	_	12	nsubj	_	_
+12	want	_	VERB	VBP	_	9	acl:relcl	_	_
+13	to	_	ADP	TO	_	14	mark	_	_
+14	see	_	VERB	VB	_	12	xcomp	_	_
+15	,	_	PUNCT	,	_	14	punct	_	_
+16	because	_	ADP	IN	_	28	mark	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	development	_	NOUN	NN	_	28	nsubj	_	_
+19	of	_	ADP	IN	_	22	case	_	_
+20	this	_	DET	DT	_	22	det	_	_
+21	new	_	ADJ	JJ	_	22	amod	_	_
+22	product	_	NOUN	NN	_	18	nmod	_	_
+23	,	_	PUNCT	,	_	22	punct	_	_
+24	radioactive	_	ADJ	JJ	_	25	amod	_	_
+25	isotopes	_	NOUN	NNS	_	22	appos	_	_
+26	,	_	PUNCT	,	_	28	punct	_	_
+27	will	_	VERB	MD	_	28	aux	_	_
+28	help	_	VERB	VB	_	12	advcl	_	_
+29	our	_	PRON	PRP$	_	30	nmod:poss	_	_
+30	industry	_	NOUN	NN	_	28	obj	_	_
+31	immensely	_	ADV	RB	_	28	advmod	_	_
+32	.	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 25
+# text = The response in the United Kingdom at present is most gratifying, but we are dealing with a problem which has touched so many people's hearts that I feel that Her Majesty's Government should at least make some additional contribution towards alleviating the plight of these people before the World Refugee Year comes to an end, on, I believe,
+1	The	_	DET	DT	_	2	det	_	_
+2	response	_	NOUN	NN	_	11	nsubj	_	_
+3	in	_	ADP	IN	_	6	case	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	United	_	PROPN	NNP	_	6	compound	_	_
+6	Kingdom	_	PROPN	NNP	_	2	nmod	_	_
+7	at	_	ADP	IN	_	8	case	_	_
+8	present	_	ADJ	JJ	_	11	obl	_	_
+9	is	_	VERB	VBZ	_	11	cop	_	_
+10	most	_	ADV	RBS	_	11	advmod	_	_
+11	gratifying	_	ADJ	JJ	_	0	root	_	_
+12	,	_	PUNCT	,	_	16	punct	_	_
+13	but	_	CONJ	CC	_	16	cc	_	_
+14	we	_	PRON	PRP	_	16	nsubj	_	_
+15	are	_	VERB	VBP	_	16	aux	_	_
+16	dealing	_	VERB	VBG	_	11	conj	_	_
+17	with	_	ADP	IN	_	19	case	_	_
+18	a	_	DET	DT	_	19	det	_	_
+19	problem	_	NOUN	NN	_	16	obl	_	_
+20	which	_	DET	WDT	_	22	nsubj	_	_
+21	has	_	VERB	VBZ	_	22	aux	_	_
+22	touched	_	VERB	VBN	_	19	acl:relcl	_	_
+23	so	_	ADV	RB	_	24	advmod	_	_
+24	many	_	ADJ	JJ	_	25	amod	_	_
+25	people	_	NOUN	NNS	_	27	nmod:poss	_	_
+26	's	_	X	POS	_	25	case	_	_
+27	hearts	_	NOUN	NNS	_	22	obj	_	_
+28	that	_	DET	WDT	_	30	mark	_	_
+29	I	_	PRON	PRP	_	30	nsubj	_	_
+30	feel	_	VERB	VBP	_	23	advcl	_	_
+31	that	_	ADP	IN	_	39	mark	_	_
+32	Her	_	PRON	PRP$	_	33	nmod:poss	_	_
+33	Majesty	_	PROPN	NNP	_	35	nmod:poss	_	_
+34	's	_	X	POS	_	33	case	_	_
+35	Government	_	PROPN	NNP	_	39	nsubj	_	_
+36	should	_	VERB	MD	_	39	aux	_	_
+37	at	_	ADV	RB	_	39	advmod	_	_
+38	least	_	ADJ	JJS	_	37	fixed	_	_
+39	make	_	VERB	VB	_	30	ccomp	_	_
+40	some	_	DET	DT	_	42	det	_	_
+41	additional	_	ADJ	JJ	_	42	amod	_	_
+42	contribution	_	NOUN	NN	_	39	obj	_	_
+43	towards	_	ADP	IN	_	44	mark	_	_
+44	alleviating	_	VERB	VBG	_	42	acl	_	_
+45	the	_	DET	DT	_	46	det	_	_
+46	plight	_	NOUN	NN	_	44	obj	_	_
+47	of	_	ADP	IN	_	49	case	_	_
+48	these	_	DET	DT	_	49	det	_	_
+49	people	_	NOUN	NNS	_	46	nmod	_	_
+50	before	_	ADP	IN	_	55	mark	_	_
+51	the	_	DET	DT	_	54	det	_	_
+52	World	_	PROPN	NNP	_	54	compound	_	_
+53	Refugee	_	PROPN	NNP	_	54	compound	_	_
+54	Year	_	PROPN	NNP	_	55	nsubj	_	_
+55	comes	_	VERB	VBZ	_	39	advcl	_	_
+56	to	_	ADP	IN	_	58	case	_	_
+57	an	_	DET	DT	_	58	det	_	_
+58	end	_	NOUN	NN	_	55	obl	_	_
+59	,	_	PUNCT	,	_	63	punct	_	_
+60	on	_	ADV	RB	_	55	advmod	_	_
+61	,	_	PUNCT	,	_	63	punct	_	_
+62	I	_	PRON	PRP	_	63	nsubj	_	_
+63	believe	_	VERB	VBP	_	55	parataxis	_	_
+64	,	_	PUNCT	,	_	63	punct	_	_
+
+# sent_id = 26
+# text = 31st May this year.
+1	31st	_	ADJ	JJ	_	2	nummod	_	_
+2	May	_	VERB	MD	_	0	root	_	_
+3	this	_	DET	DT	_	4	det	_	_
+4	year	_	NOUN	NN	_	2	nmod:tmod	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 27
+# text = Gentleman claim that that gap was being filled by private buildings.
+1	Gentleman	_	PROPN	NNP	_	2	nsubj	_	_
+2	claim	_	VERB	VBP	_	0	root	_	_
+3	that	_	ADP	IN	_	8	mark	_	_
+4	that	_	DET	DT	_	5	det	_	_
+5	gap	_	NOUN	NN	_	8	nsubj:pass	_	_
+6	was	_	VERB	VBD	_	8	aux	_	_
+7	being	_	VERB	VBG	_	8	aux:pass	_	_
+8	filled	_	VERB	VBN	_	2	ccomp	_	_
+9	by	_	ADP	IN	_	11	case	_	_
+10	private	_	ADJ	JJ	_	11	amod	_	_
+11	buildings	_	NOUN	NNS	_	8	obl	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 28
+# text = Friends have referred to their size.
+1	Friends	_	NOUN	NNS	_	3	nsubj	_	_
+2	have	_	VERB	VBP	_	3	aux	_	_
+3	referred	_	VERB	VBN	_	0	root	_	_
+4	to	_	ADP	IN	_	6	case	_	_
+5	their	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	size	_	NOUN	NN	_	3	obl	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 29
+# text = Throughout the recommendations one gets the impression that there should be a radical approach to this problem; that something new should be created.
+1	Throughout	_	ADP	IN	_	3	case	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	recommendations	_	NOUN	NNS	_	5	obl	_	_
+4	one	_	NUM	CD	_	5	nsubj	_	_
+5	gets	_	VERB	VBZ	_	0	root	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	impression	_	NOUN	NN	_	5	obj	_	_
+8	that	_	ADP	IN	_	11	mark	_	_
+9	there	_	DET	EX	_	11	expl	_	_
+10	should	_	VERB	MD	_	11	aux	_	_
+11	be	_	VERB	VB	_	7	acl	_	_
+12	a	_	DET	DT	_	14	det	_	_
+13	radical	_	ADJ	JJ	_	14	amod	_	_
+14	approach	_	NOUN	NN	_	11	nsubj	_	_
+15	to	_	ADP	IN	_	17	case	_	_
+16	this	_	DET	DT	_	17	det	_	_
+17	problem	_	NOUN	NN	_	14	nmod	_	_
+18	;	_	PUNCT	:	_	11	punct	_	_
+19	that	_	ADP	IN	_	24	mark	_	_
+20	something	_	NOUN	NN	_	24	nsubj:pass	_	_
+21	new	_	ADJ	JJ	_	20	amod	_	_
+22	should	_	VERB	MD	_	24	aux	_	_
+23	be	_	VERB	VB	_	24	aux:pass	_	_
+24	created	_	VERB	VBN	_	11	parataxis	_	_
+25	.	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 30
+# text = I think that I have been reasonably fair.
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	think	_	VERB	VBP	_	0	root	_	_
+3	that	_	ADP	IN	_	8	mark	_	_
+4	I	_	PRON	PRP	_	8	nsubj	_	_
+5	have	_	VERB	VBP	_	8	aux	_	_
+6	been	_	VERB	VBN	_	8	cop	_	_
+7	reasonably	_	ADV	RB	_	8	advmod	_	_
+8	fair	_	ADJ	JJ	_	2	ccomp	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+

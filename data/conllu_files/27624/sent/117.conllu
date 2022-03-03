@@ -1,0 +1,20 @@
+# sent_id = 117
+# text = Würden Sie mir zugeben, daß die Kilowattstunde aus dem Atomkraftwerk Mülheim-Kärlich über 20 Pf kostet?
+1	Würden	_	_	_	_	4	aux	_	_
+2	Sie	_	_	_	_	4	nsubj	_	_
+3	mir	_	_	_	_	4	iobj	_	_
+4	zugeben	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	16	punct	_	_
+6	daß	_	_	_	_	16	mark	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Kilowattstunde	_	_	_	_	16	nsubj	_	_
+9	aus	_	_	_	_	11	case	_	_
+10	dem	_	_	_	_	11	det	_	_
+11	Atomkraftwerk	_	_	_	_	8	nmod	_	_
+12	Mülheim-Kärlich	_	_	_	_	11	flat	_	_
+13	über	_	_	_	_	14	advmod	_	_
+14	20	_	_	_	_	15	nummod	_	_
+15	Pf	_	_	_	_	16	obl	_	_
+16	kostet	_	_	_	_	4	ccomp	_	_
+17	?	_	_	_	_	4	punct	_	_
+

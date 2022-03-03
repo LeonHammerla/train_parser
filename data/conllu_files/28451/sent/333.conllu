@@ -1,0 +1,5 @@
+# sent_id = 333
+# text = Sachs.
+1	Sachs	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+

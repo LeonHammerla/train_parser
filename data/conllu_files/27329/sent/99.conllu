@@ -1,0 +1,32 @@
+# sent_id = 99
+# text = In the case of these official receivers it is for them to make their own arrangements as to the number and pay of any assistants they may require.
+1	In	_	ADP	IN	_	3	case	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	case	_	NOUN	NN	_	9	obl	_	_
+4	of	_	ADP	IN	_	7	case	_	_
+5	these	_	DET	DT	_	7	det	_	_
+6	official	_	ADJ	JJ	_	7	amod	_	_
+7	receivers	_	NOUN	NNS	_	3	nmod	_	_
+8	it	_	PRON	PRP	_	9	expl	_	_
+9	is	_	VERB	VBZ	_	0	root	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	them	_	PRON	PRP	_	13	iobj	_	_
+12	to	_	ADP	TO	_	13	mark	_	_
+13	make	_	VERB	VB	_	9	csubj	_	_
+14	their	_	PRON	PRP$	_	16	nmod:poss	_	_
+15	own	_	ADJ	JJ	_	16	amod	_	_
+16	arrangements	_	NOUN	NNS	_	13	obj	_	_
+17	as	_	ADP	IN	_	20	case	_	_
+18	to	_	ADP	IN	_	17	fixed	_	_
+19	the	_	DET	DT	_	20	det	_	_
+20	number	_	NOUN	NN	_	16	nmod	_	_
+21	and	_	CONJ	CC	_	22	cc	_	_
+22	pay	_	NOUN	NN	_	20	conj	_	_
+23	of	_	ADP	IN	_	25	case	_	_
+24	any	_	DET	DT	_	25	det	_	_
+25	assistants	_	NOUN	NNS	_	20	nmod	_	_
+26	they	_	PRON	PRP	_	28	nsubj	_	_
+27	may	_	VERB	MD	_	28	aux	_	_
+28	require	_	VERB	VB	_	25	acl:relcl	_	_
+29	.	_	PUNCT	.	_	9	punct	_	_
+

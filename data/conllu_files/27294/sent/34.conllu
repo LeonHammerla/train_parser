@@ -1,0 +1,33 @@
+# sent_id = 34
+# text = Wir haben den Wunsch, daß das Selbstverwaltungsgesetz und die Novelle zum Selbstverwaltungsgesetz wie jedes andere Gesetz, das von diesem Hause beschlossen wird, auch die Berlin-Klausel enthält.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	haben	_	VERB	VAFIN	_	0	--	_	_
+3	den	_	DET	ART	_	4	NK	_	_
+4	Wunsch	_	NOUN	NN	_	2	OA	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	daß	_	CONJ	KOUS	_	29	CP	_	_
+7	das	_	DET	ART	_	8	NK	_	_
+8	Selbstverwaltungsgesetz	_	NOUN	NN	_	29	SB	_	_
+9	und	_	CONJ	KON	_	8	CD	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Novelle	_	NOUN	NN	_	9	CJ	_	_
+12	zum	_	ADP	APPRART	_	11	MNR	_	_
+13	Selbstverwaltungsgesetz	_	NOUN	NN	_	12	NK	_	_
+14	wie	_	CONJ	KOKOM	_	17	CM	_	_
+15	jedes	_	PRON	PIAT	_	17	NK	_	_
+16	andere	_	ADJ	ADJA	_	17	NK	_	_
+17	Gesetz	_	NOUN	NN	_	8	CC	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	das	_	PRON	PRELS	_	24	SB	_	_
+20	von	_	ADP	APPR	_	23	SBP	_	_
+21	diesem	_	PRON	PDAT	_	22	NK	_	_
+22	Hause	_	NOUN	NN	_	20	NK	_	_
+23	beschlossen	_	VERB	VVPP	_	24	OC	_	_
+24	wird	_	VERB	VAFIN	_	17	RC	_	_
+25	,	_	PUNCT	$,	_	29	PUNCT	_	_
+26	auch	_	ADV	ADV	_	28	MO	_	_
+27	die	_	DET	ART	_	28	NK	_	_
+28	Berlin-Klausel	_	PROPN	NE	_	29	OA	_	_
+29	enthält	_	VERB	VVFIN	_	4	OC	_	_
+30	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

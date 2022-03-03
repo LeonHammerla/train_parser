@@ -1,0 +1,26 @@
+# sent_id = 7
+# text = Herr Kollege, wenn Sie der Auffassung sind, daß hier ein Zeitmangel nicht vorgelegen haben können, haben Sie natürlich recht.
+1	Herr	_	NOUN	NN	_	8	VO	_	_
+2	Kollege	_	NOUN	NN	_	1	NK	_	_
+3	,	_	PUNCT	$,	_	1	PUNCT	_	_
+4	wenn	_	CONJ	KOUS	_	8	CP	_	_
+5	Sie	_	PRON	PPER	_	8	SB	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Auffassung	_	NOUN	NN	_	8	PD	_	_
+8	sind	_	VERB	VAFIN	_	19	MO	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	daß	_	CONJ	KOUS	_	17	CP	_	_
+11	hier	_	ADV	ADV	_	17	MO	_	_
+12	ein	_	DET	ART	_	13	NK	_	_
+13	Zeitmangel	_	NOUN	NN	_	17	SB	_	_
+14	nicht	_	X	PTKNEG	_	17	NG	_	_
+15	vorgelegen	_	VERB	VVPP	_	16	OC	_	_
+16	haben	_	VERB	VAINF	_	17	OC	_	_
+17	können	_	VERB	VMFIN	_	7	OC	_	_
+18	,	_	PUNCT	$,	_	19	PUNCT	_	_
+19	haben	_	VERB	VAFIN	_	0	--	_	_
+20	Sie	_	PRON	PPER	_	19	SB	_	_
+21	natürlich	_	ADV	ADV	_	19	MO	_	_
+22	recht	_	NOUN	NN	_	19	MO	_	_
+23	.	_	PUNCT	$.	_	19	PUNCT	_	_
+

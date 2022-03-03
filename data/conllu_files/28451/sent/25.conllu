@@ -1,0 +1,22 @@
+# sent_id = 25
+# text = Es wird ihm dann ergehen wie einst Altum, als Krüper ihn zuerst zu einer meckernden Bekassine führte:
+1	Es	_	PRON	PPER	_	2	EP	_	_
+2	wird	_	VERB	VAFIN	_	0	--	_	_
+3	ihm	_	PRON	PPER	_	5	DA	_	_
+4	dann	_	ADV	ADV	_	5	MO	_	_
+5	ergehen	_	VERB	VVINF	_	2	OC	_	_
+6	wie	_	CONJ	KOKOM	_	8	CM	_	_
+7	einst	_	ADV	ADV	_	8	MO	_	_
+8	Altum	_	NOUN	NN	_	3	CC	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	als	_	CONJ	KOUS	_	18	CP	_	_
+11	Krüper	_	NOUN	NN	_	18	SB	_	_
+12	ihn	_	PRON	PPER	_	18	OA	_	_
+13	zuerst	_	ADV	ADV	_	18	MO	_	_
+14	zu	_	ADP	APPR	_	18	OP	_	_
+15	einer	_	DET	ART	_	17	NK	_	_
+16	meckernden	_	ADJ	ADJA	_	17	NK	_	_
+17	Bekassine	_	NOUN	NN	_	14	NK	_	_
+18	führte	_	VERB	VVFIN	_	5	MO	_	_
+19	:	_	PUNCT	$.	_	2	PUNCT	_	_
+

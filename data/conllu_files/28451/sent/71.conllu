@@ -1,0 +1,6 @@
+# sent_id = 71
+# text = Mm.ala 52;
+1	Mm.ala	_	PROPN	NE	_	0	--	_	_
+2	52	_	NUM	CARD	_	3	DEP	_	_
+3	;	_	PUNCT	$.	_	1	PUNCT	_	_
+

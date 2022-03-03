@@ -1,0 +1,33 @@
+# sent_id = 110
+# text = Denn Auslandserfahrung, Austausch und Zusammenarbeit zwischen Studierenden aus den verschiedenen europäischen Ländern - das sage ich ausdrücklich - sind wichtige Faktoren für die Entwicklung eines Europas des Wissens.
+1	Denn	_	CONJ	KON	_	20	JU	_	_
+2	Auslandserfahrung	_	NOUN	NN	_	20	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	Austausch	_	NOUN	NN	_	2	CJ	_	_
+5	und	_	CONJ	KON	_	4	CD	_	_
+6	Zusammenarbeit	_	NOUN	NN	_	5	CJ	_	_
+7	zwischen	_	ADP	APPR	_	6	MNR	_	_
+8	Studierenden	_	NOUN	NN	_	7	NK	_	_
+9	aus	_	ADP	APPR	_	8	MNR	_	_
+10	den	_	DET	ART	_	13	NK	_	_
+11	verschiedenen	_	ADJ	ADJA	_	13	NK	_	_
+12	europäischen	_	ADJ	ADJA	_	13	NK	_	_
+13	Ländern	_	NOUN	NN	_	9	NK	_	_
+14	-	_	PUNCT	$(	_	15	PUNCT	_	_
+15	das	_	PRON	PDS	_	16	OA	_	_
+16	sage	_	VERB	VVFIN	_	20	PAR	_	_
+17	ich	_	PRON	PPER	_	16	SB	_	_
+18	ausdrücklich	_	ADJ	ADJD	_	16	MO	_	_
+19	-	_	PUNCT	$(	_	20	PUNCT	_	_
+20	sind	_	VERB	VAFIN	_	20	ROOT	_	_
+21	wichtige	_	ADJ	ADJA	_	22	NK	_	_
+22	Faktoren	_	NOUN	NN	_	20	PD	_	_
+23	für	_	ADP	APPR	_	22	MNR	_	_
+24	die	_	DET	ART	_	25	NK	_	_
+25	Entwicklung	_	NOUN	NN	_	23	NK	_	_
+26	eines	_	DET	ART	_	27	NK	_	_
+27	Europas	_	PROPN	NE	_	25	AG	_	_
+28	des	_	DET	ART	_	29	NK	_	_
+29	Wissens	_	NOUN	NN	_	27	AG	_	_
+30	.	_	PUNCT	$.	_	16	PUNCT	_	_
+

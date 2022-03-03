@@ -1,0 +1,16 @@
+# sent_id = 291
+# text = Bezüglich des Wohnortes dieser sehr zarten und durchsichtigen Art sagt Clessin*)
+1	Bezüglich	_	NOUN	NN	_	10	MO	_	_
+2	des	_	DET	ART	_	3	NK	_	_
+3	Wohnortes	_	NOUN	NN	_	1	OG	_	_
+4	dieser	_	PRON	PDAT	_	9	NK	_	_
+5	sehr	_	ADV	ADV	_	6	MO	_	_
+6	zarten	_	ADJ	ADJA	_	9	NK	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	durchsichtigen	_	ADJ	ADJA	_	7	CJ	_	_
+9	Art	_	NOUN	NN	_	3	AG	_	_
+10	sagt	_	VERB	VVFIN	_	0	--	_	_
+11	Clessin	_	PROPN	NE	_	10	SB	_	_
+12	*	_	X	XY	_	10	PUNCT	_	_
+13	)	_	PUNCT	$(	_	10	PUNCT	_	_
+

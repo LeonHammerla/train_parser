@@ -1,0 +1,32 @@
+# sent_id = 48
+# text = Von Anser arvensis kann man einen solchen Bückzug von Hordost nach Südwest fast in jedem Frühjahr beobachten, da selten ein Jahr vergeht, wo derselbe nicht stattfindet.
+1	Von	_	ADP	APPR	_	4	MO	_	_
+2	Anser	_	PROPN	NE	_	3	PNC	_	_
+3	arvensis	_	NOUN	NN	_	1	NK	_	_
+4	kann	_	VERB	VMFIN	_	0	--	_	_
+5	man	_	PRON	PIS	_	4	SB	_	_
+6	einen	_	DET	ART	_	8	NK	_	_
+7	solchen	_	PRON	PIAT	_	8	NK	_	_
+8	Bückzug	_	NOUN	NN	_	17	OA	_	_
+9	von	_	ADP	APPR	_	8	MNR	_	_
+10	Hordost	_	PROPN	NE	_	9	NK	_	_
+11	nach	_	ADP	APPR	_	8	MNR	_	_
+12	Südwest	_	NOUN	NN	_	11	NK	_	_
+13	fast	_	ADV	ADV	_	14	MO	_	_
+14	in	_	ADP	APPR	_	17	MO	_	_
+15	jedem	_	PRON	PIAT	_	16	NK	_	_
+16	Frühjahr	_	NOUN	NN	_	14	NK	_	_
+17	beobachten	_	VERB	VVINF	_	4	OC	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	da	_	CONJ	KOUS	_	23	CP	_	_
+20	selten	_	ADJ	ADJD	_	23	MO	_	_
+21	ein	_	DET	ART	_	22	NK	_	_
+22	Jahr	_	NOUN	NN	_	23	SB	_	_
+23	vergeht	_	VERB	VVFIN	_	4	MO	_	_
+24	,	_	PUNCT	$,	_	23	PUNCT	_	_
+25	wo	_	PRON	PWAV	_	28	MO	_	_
+26	derselbe	_	PRON	PDS	_	28	SB	_	_
+27	nicht	_	X	PTKNEG	_	28	NG	_	_
+28	stattfindet	_	VERB	VVFIN	_	22	RC	_	_
+29	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

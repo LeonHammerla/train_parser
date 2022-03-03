@@ -1,0 +1,32 @@
+# sent_id = 139
+# text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
+1	In	_	_	_	_	3	case	_	_
+2	blutigen	_	_	_	_	3	amod	_	_
+3	Kämpfen	_	_	_	_	22	obl	_	_
+4	und	_	_	_	_	6	cc	_	_
+5	religiösen	_	_	_	_	6	amod	_	_
+6	Streitigkeiten	_	_	_	_	3	conj	_	_
+7	sowie	_	_	_	_	10	cc	_	_
+8	aus	_	_	_	_	10	case	_	_
+9	den	_	_	_	_	10	det	_	_
+10	Gründen	_	_	_	_	3	conj	_	_
+11	einer	_	_	_	_	14	det	_	_
+12	inneren	_	_	_	_	14	amod	_	_
+13	staatlichen	_	_	_	_	14	amod	_	_
+14	Aufsplitterung	_	_	_	_	10	nmod	_	_
+15	ist	_	_	_	_	22	aux	_	_
+16	dieses	_	_	_	_	17	det	_	_
+17	Reich	_	_	_	_	22	nsubj	_	_
+18	an	_	_	_	_	19	case	_	_
+19	Macht	_	_	_	_	22	obl	_	_
+20	und	_	_	_	_	21	cc	_	_
+21	Größe	_	_	_	_	19	conj	_	_
+22	gefallen	_	_	_	_	0	root	_	_
+23	und	_	_	_	_	28	cc	_	_
+24	endlich	_	_	_	_	28	advmod	_	_
+25	in	_	_	_	_	27	case	_	_
+26	tiefen	_	_	_	_	27	amod	_	_
+27	Schlaf	_	_	_	_	28	obl	_	_
+28	versunken	_	_	_	_	22	conj	_	_
+29	.	_	_	_	_	22	punct	_	_
+

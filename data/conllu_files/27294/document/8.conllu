@@ -1,0 +1,425 @@
+# sent_id = 152
+# text = Er wird aber meiner Auffassung nach gar nicht schädlich wirken.
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	wird	_	VERB	VAFIN	_	0	--	_	_
+3	aber	_	ADV	ADV	_	10	MO	_	_
+4	meiner	_	PRON	PPOSAT	_	5	NK	_	_
+5	Auffassung	_	NOUN	NN	_	6	NK	_	_
+6	nach	_	ADP	APPR	_	10	MO	_	_
+7	gar	_	ADV	ADV	_	8	MO	_	_
+8	nicht	_	X	PTKNEG	_	10	NG	_	_
+9	schädlich	_	ADJ	ADJD	_	10	MO	_	_
+10	wirken	_	VERB	VVINF	_	2	OC	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 153
+# text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	halte	_	VERB	VVFIN	_	0	--	_	_
+3	meinerseits	_	ADV	ADV	_	2	MO	_	_
+4	dieses	_	PRON	PDAT	_	6	NK	_	_
+5	letzte	_	ADJ	ADJA	_	6	NK	_	_
+6	Wort	_	NOUN	NN	_	2	OA	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	14	CP	_	_
+9	das	_	DET	ART	_	10	NK	_	_
+10	Volk	_	NOUN	NN	_	14	SB	_	_
+11	noch	_	ADV	ADV	_	12	MO	_	_
+12	nicht	_	X	PTKNEG	_	14	NG	_	_
+13	reif	_	ADJ	ADJD	_	14	PD	_	_
+14	sei	_	VERB	VAFIN	_	6	OC	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 154
+# text = Meine Herren, ich glaube wirklich, derartige Beispiele können hier außer Betracht bleiben.
+1	Meine	_	PRON	PPOSAT	_	2	NK	_	_
+2	Herren	_	NOUN	NN	_	5	VO	_	_
+3	,	_	PUNCT	$,	_	5	PUNCT	_	_
+4	ich	_	PRON	PPER	_	5	SB	_	_
+5	glaube	_	VERB	VVFIN	_	0	--	_	_
+6	wirklich	_	ADJ	ADJD	_	5	MO	_	_
+7	,	_	PUNCT	$,	_	5	PUNCT	_	_
+8	derartige	_	ADJ	ADJA	_	9	NK	_	_
+9	Beispiele	_	NOUN	NN	_	10	SB	_	_
+10	können	_	VERB	VMFIN	_	5	OC	_	_
+11	hier	_	ADV	ADV	_	14	MO	_	_
+12	außer	_	ADP	APPR	_	14	MO	_	_
+13	Betracht	_	NOUN	NN	_	12	NK	_	_
+14	bleiben	_	VERB	VVINF	_	10	OC	_	_
+15	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 155
+# text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
+1	Wer	_	PRON	PWS	_	2	SB	_	_
+2	hilft	_	VERB	VVFIN	_	0	--	_	_
+3	denn	_	ADV	ADV	_	2	MO	_	_
+4	den	_	DET	ART	_	5	NK	_	_
+5	Leuten	_	NOUN	NN	_	2	DA	_	_
+6	dazu	_	ADV	PROAV	_	2	MO	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	11	CP	_	_
+9	sie	_	PRON	PPER	_	11	SB	_	_
+10	selbstständig	_	ADJ	ADJD	_	11	PD	_	_
+11	werden	_	VERB	VAFIN	_	6	RE	_	_
+12	?	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 156
+# text = Das ist die eine Wendung;
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	PRON	PDS	_	5	NK	_	_
+4	eine	_	DET	ART	_	5	NK	_	_
+5	Wendung	_	NOUN	NN	_	2	PD	_	_
+6	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 157
+# text = nun kommt noch die zweite, der "zweite Streich".
+1	nun	_	ADV	ADV	_	2	MO	_	_
+2	kommt	_	VERB	VVFIN	_	0	--	_	_
+3	noch	_	ADV	ADV	_	2	MO	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	zweite	_	ADJ	ADJA	_	2	SB	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	der	_	DET	ART	_	10	NK	_	_
+8	"	_	PUNCT	$(	_	10	PUNCT	_	_
+9	zweite	_	ADJ	ADJA	_	10	NK	_	_
+10	Streich	_	NOUN	NN	_	5	APP	_	_
+11	"	_	PUNCT	$(	_	10	PUNCT	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 158
+# text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	bitte	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Herren	_	NOUN	NN	_	2	OA	_	_
+5	aufzustehen	_	VERB	VVINF	_	2	OC	_	_
+6	,	_	PUNCT	$,	_	2	PUNCT	_	_
+7	oder	_	CONJ	KON	_	5	CD	_	_
+8	stehen	_	VERB	VVINF	_	10	OC	_	_
+9	zu	_	X	PTKZU	_	10	PM	_	_
+10	bleiben	_	VERB	VVINF	_	7	CJ	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	welche	_	PRON	PRELS	_	16	SB	_	_
+13	den	_	DET	ART	_	14	NK	_	_
+14	Schlußantrag	_	NOUN	NN	_	15	OA	_	_
+15	annehmen	_	VERB	VVINF	_	16	OC	_	_
+16	wollen	_	VERB	VMINF	_	4	RC	_	_
+17	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 159
+# text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
+1	Beide	_	PRON	PIAT	_	3	NK	_	_
+2	Herren	_	NOUN	NN	_	3	NK	_	_
+3	Redner	_	NOUN	NN	_	4	SB	_	_
+4	haben	_	VERB	VAFIN	_	0	--	_	_
+5	darauf	_	ADV	PROAV	_	7	MO	_	_
+6	aufmerksam	_	ADJ	ADJD	_	7	MO	_	_
+7	gemacht	_	VERB	VVPP	_	4	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	19	CP	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	Deutsche	_	ADJ	ADJA	_	12	NK	_	_
+12	Text	_	NOUN	NN	_	19	SB	_	_
+13	nicht	_	X	PTKNEG	_	14	NG	_	_
+14	überall	_	ADV	ADV	_	19	MO	_	_
+15	vollständig	_	ADJ	ADJD	_	19	MO	_	_
+16	mit	_	ADP	APPR	_	19	OP	_	_
+17	dem	_	DET	ART	_	18	NK	_	_
+18	Italienischen	_	NOUN	NN	_	16	NK	_	_
+19	übereinstimmt	_	VERB	VVFIN	_	5	RE	_	_
+20	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 160
+# text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
+1	Aus	_	ADP	APPR	_	4	OP	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Tabelle	_	NOUN	NN	_	1	NK	_	_
+4	geht	_	VERB	VVFIN	_	0	--	_	_
+5	hervor	_	VERB	PTKVZ	_	4	SVP	_	_
+6	,	_	PUNCT	$,	_	4	PUNCT	_	_
+7	daß	_	CONJ	KOUS	_	21	CP	_	_
+8	allein	_	ADV	ADV	_	9	MO	_	_
+9	im	_	ADP	APPRART	_	20	MO	_	_
+10	Zahre	_	NOUN	NN	_	9	NK	_	_
+11	1877	_	NUM	CARD	_	10	NK	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Rinderpest	_	NOUN	NN	_	21	SB	_	_
+14	in	_	ADP	APPR	_	20	MO	_	_
+15	54	_	NUM	CARD	_	16	NK	_	_
+16	Ortschaften	_	NOUN	NN	_	14	NK	_	_
+17	in	_	ADP	APPR	_	20	MO	_	_
+18	130	_	NUM	CARD	_	19	NK	_	_
+19	Gehöften	_	NOUN	NN	_	17	NK	_	_
+20	vorgekommen	_	VERB	VVPP	_	21	OC	_	_
+21	ist	_	VERB	VAFIN	_	4	SB	_	_
+22	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 161
+# text = Dringen wir auf Vereinfachung, dringen wir darauf, daß das Geld verwendet wird, eine tüchtige Marine zu schaffen.
+1	Dringen	_	VERB	VVFIN	_	1	ROOT	_	_
+2	wir	_	PRON	PPER	_	1	SB	_	_
+3	auf	_	ADP	APPR	_	1	OP	_	_
+4	Vereinfachung	_	NOUN	NN	_	3	NK	_	_
+5	,	_	PUNCT	$,	_	6	PUNCT	_	_
+6	dringen	_	VERB	VVFIN	_	1	CJ	_	_
+7	wir	_	PRON	PPER	_	6	SB	_	_
+8	darauf	_	ADV	PROAV	_	6	OP	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	daß	_	CONJ	KOUS	_	14	CP	_	_
+11	das	_	DET	ART	_	12	NK	_	_
+12	Geld	_	NOUN	NN	_	14	SB	_	_
+13	verwendet	_	VERB	VVPP	_	14	OC	_	_
+14	wird	_	VERB	VAFIN	_	8	RE	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	eine	_	DET	ART	_	18	NK	_	_
+17	tüchtige	_	ADJ	ADJA	_	18	NK	_	_
+18	Marine	_	NOUN	NN	_	20	OA	_	_
+19	zu	_	X	PTKZU	_	20	PM	_	_
+20	schaffen	_	VERB	VVINF	_	13	OC	_	_
+21	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 162
+# text = Meine Herren, die Frage der Klassifizirung hat der Herr Vorredner als eine Leimruthe bezeichnet, auf welche der Tabackpflanzer sich nicht werde leiten lassen.
+1	Meine	_	PRON	PPOSAT	_	2	NK	_	_
+2	Herren	_	NOUN	NN	_	8	VO	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Frage	_	NOUN	NN	_	15	OA	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Klassifizirung	_	NOUN	NN	_	5	AG	_	_
+8	hat	_	VERB	VAFIN	_	0	--	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Herr	_	NOUN	NN	_	8	SB	_	_
+11	Vorredner	_	PROPN	NE	_	10	NK	_	_
+12	als	_	ADP	APPR	_	15	MO	_	_
+13	eine	_	DET	ART	_	14	NK	_	_
+14	Leimruthe	_	NOUN	NN	_	12	NK	_	_
+15	bezeichnet	_	VERB	VVPP	_	8	OC	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	auf	_	ADP	APPR	_	18	AC	_	_
+18	welche	_	PRON	PRELS	_	24	MO	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Tabackpflanzer	_	NOUN	NN	_	23	SB	_	_
+21	sich	_	PRON	PRF	_	24	OA	_	_
+22	nicht	_	X	PTKNEG	_	23	NG	_	_
+23	werde	_	VERB	VAFIN	_	14	RC	_	_
+24	leiten	_	VERB	VVINF	_	25	OC	_	_
+25	lassen	_	VERB	VVINF	_	23	OC	_	_
+26	.	_	PUNCT	$.	_	8	PUNCT	_	_
+
+# sent_id = 163
+# text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	meisten	_	PRON	PIS	_	11	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Punkte	_	NOUN	NN	_	2	AG	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	welche	_	PRON	PRELS	_	8	OA	_	_
+7	ich	_	PRON	PPER	_	9	SB	_	_
+8	berühren	_	VERB	VVINF	_	9	OC	_	_
+9	wollte	_	VERB	VMFIN	_	4	RC	_	_
+10	,	_	PUNCT	$,	_	11	PUNCT	_	_
+11	sind	_	VERB	VAFIN	_	0	--	_	_
+12	bereits	_	ADV	ADV	_	14	MO	_	_
+13	so	_	ADV	ADV	_	14	MO	_	_
+14	erschöpft	_	VERB	VVPP	_	11	PD	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	daß	_	CONJ	KOUS	_	21	CP	_	_
+17	ich	_	PRON	PPER	_	21	SB	_	_
+18	es	_	PRON	PPER	_	21	OA	_	_
+19	für	_	ADP	APPR	_	21	MO	_	_
+20	überflüssig	_	ADJ	ADJD	_	19	NK	_	_
+21	halte	_	VERB	VVFIN	_	13	CC	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	noch	_	ADV	ADV	_	26	MO	_	_
+24	irgend	_	ADV	ADV	_	25	MO	_	_
+25	Etwas	_	PRON	PIS	_	26	OA	_	_
+26	hinzuzufügen	_	VERB	VVIZU	_	18	RE	_	_
+27	.	_	PUNCT	$.	_	11	PUNCT	_	_
+
+# sent_id = 164
+# text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
+1	Wenn	_	CONJ	KOUS	_	7	CP	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Redakteur	_	NOUN	NN	_	7	SB	_	_
+4	eine	_	DET	ART	_	6	NK	_	_
+5	solche	_	PRON	PIAT	_	6	NK	_	_
+6	Anordnung	_	NOUN	NN	_	7	OA	_	_
+7	trifft	_	VERB	VVFIN	_	16	MO	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	und	_	CONJ	KON	_	7	CD	_	_
+10	wenn	_	CONJ	KOUS	_	13	CP	_	_
+11	diese	_	PRON	PDS	_	13	SB	_	_
+12	befolgt	_	VERB	VVPP	_	13	OC	_	_
+13	wird	_	VERB	VAFIN	_	9	CJ	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	dann	_	ADV	ADV	_	16	MO	_	_
+16	weiß	_	VERB	VVFIN	_	16	ROOT	_	_
+17	ich	_	PRON	PPER	_	16	SB	_	_
+18	nicht	_	X	PTKNEG	_	16	NG	_	_
+19	,	_	PUNCT	$,	_	16	PUNCT	_	_
+20	wie	_	PRON	PWAV	_	25	MO	_	_
+21	er	_	PRON	PPER	_	25	SB	_	_
+22	einer	_	DET	ART	_	23	NK	_	_
+23	Bestrafung	_	NOUN	NN	_	24	DA	_	_
+24	verfallen	_	VERB	VVINF	_	25	OC	_	_
+25	sollte	_	VERB	VMFIN	_	16	OC	_	_
+26	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 165
+# text = Es kommen mitunter sehr wichtige Petitionen vor, die auf die Verhandlungen und Beschlüsse des Hauses in der Sache von Einfluß sein können.
+1	Es	_	PRON	PPER	_	2	PH	_	_
+2	kommen	_	VERB	VVFIN	_	0	--	_	_
+3	mitunter	_	ADV	ADV	_	2	MO	_	_
+4	sehr	_	ADV	ADV	_	5	MO	_	_
+5	wichtige	_	ADJ	ADJA	_	6	NK	_	_
+6	Petitionen	_	NOUN	NN	_	2	SB	_	_
+7	vor	_	VERB	PTKVZ	_	2	SVP	_	_
+8	,	_	PUNCT	$,	_	2	PUNCT	_	_
+9	die	_	PRON	PRELS	_	23	SB	_	_
+10	auf	_	ADP	APPR	_	21	MO	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Verhandlungen	_	NOUN	NN	_	10	NK	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	Beschlüsse	_	NOUN	NN	_	13	CJ	_	_
+15	des	_	DET	ART	_	16	NK	_	_
+16	Hauses	_	NOUN	NN	_	14	AG	_	_
+17	in	_	ADP	APPR	_	12	MNR	_	_
+18	der	_	DET	ART	_	19	NK	_	_
+19	Sache	_	NOUN	NN	_	17	NK	_	_
+20	von	_	ADP	APPR	_	22	CVC	_	_
+21	Einfluß	_	NOUN	NN	_	20	NK	_	_
+22	sein	_	VERB	VAINF	_	23	OC	_	_
+23	können	_	VERB	VMFIN	_	6	RC	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 166
+# text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Reichsverwaltung	_	NOUN	NN	_	3	SB	_	_
+3	verpflichtete	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	dagegen	_	ADV	PROAV	_	3	MO	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	für	_	ADP	APPR	_	19	MO	_	_
+8	Benutzung	_	NOUN	NN	_	7	NK	_	_
+9	des	_	DET	ART	_	10	NK	_	_
+10	Kabels	_	NOUN	NN	_	8	AG	_	_
+11	jährlich	_	ADJ	ADJD	_	19	MO	_	_
+12	eine	_	DET	ART	_	14	NK	_	_
+13	feste	_	ADJ	ADJA	_	14	NK	_	_
+14	Entschädigung	_	NOUN	NN	_	19	OA	_	_
+15	von	_	ADP	APPR	_	14	MNR	_	_
+16	140000	_	NUM	CARD	_	17	NK	_	_
+17	Mark	_	NOUN	NN	_	15	NK	_	_
+18	zu	_	X	PTKZU	_	19	PM	_	_
+19	geben	_	VERB	VVINF	_	5	RE	_	_
+20	ohne	_	ADP	APPR	_	19	MO	_	_
+21	Rücksicht	_	NOUN	NN	_	20	NK	_	_
+22	auf	_	ADP	APPR	_	21	MNR	_	_
+23	die	_	DET	ART	_	24	NK	_	_
+24	Zahl	_	NOUN	NN	_	22	NK	_	_
+25	der	_	DET	ART	_	26	NK	_	_
+26	Depeschen	_	NOUN	NN	_	24	AG	_	_
+27	,	_	PUNCT	$,	_	24	PUNCT	_	_
+28	welche	_	PRON	PRELS	_	30	SB	_	_
+29	befördert	_	VERB	VVPP	_	30	OC	_	_
+30	werden	_	VERB	VAINF	_	24	RC	_	_
+31	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 167
+# text = Wenn im § 7 ausdrücklich bestimmt sei, daß gegen den jetzt bewilligten Wohnungsgeldzuschuß die bisherigen Lokalzulagen für alle Civilbeamten wegfallen, so entspreche es der Billigkeit, daß auch für Offiziere und Militärbeamte neben dem neuen Servis derjenige Theil des früheren Servises fortfalle, welcher seiner Natur nach nichts Anderes sei, als eine in weiterem Umfange durchgeführte Lokalzulage.
+1	Wenn	_	CONJ	KOUS	_	7	CP	_	_
+2	im	_	ADP	APPRART	_	6	MO	_	_
+3	§	_	NOUN	NN	_	2	NK	_	_
+4	7	_	NUM	CARD	_	3	NK	_	_
+5	ausdrücklich	_	ADJ	ADJD	_	6	MO	_	_
+6	bestimmt	_	VERB	VVPP	_	7	OC	_	_
+7	sei	_	VERB	VAFIN	_	23	RE	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	21	CP	_	_
+10	gegen	_	ADP	APPR	_	21	MO	_	_
+11	den	_	DET	ART	_	14	NK	_	_
+12	jetzt	_	ADV	ADV	_	13	MO	_	_
+13	bewilligten	_	ADJ	ADJA	_	14	NK	_	_
+14	Wohnungsgeldzuschuß	_	NOUN	NN	_	10	NK	_	_
+15	die	_	DET	ART	_	17	NK	_	_
+16	bisherigen	_	ADJ	ADJA	_	17	NK	_	_
+17	Lokalzulagen	_	NOUN	NN	_	21	SB	_	_
+18	für	_	ADP	APPR	_	17	MNR	_	_
+19	alle	_	PRON	PIAT	_	20	NK	_	_
+20	Civilbeamten	_	NOUN	NN	_	18	NK	_	_
+21	wegfallen	_	VERB	VVFIN	_	7	SB	_	_
+22	,	_	PUNCT	$,	_	23	PUNCT	_	_
+23	so	_	ADV	ADV	_	24	MO	_	_
+24	entspreche	_	VERB	VVFIN	_	0	--	_	_
+25	es	_	PRON	PPER	_	24	SB	_	_
+26	der	_	DET	ART	_	27	NK	_	_
+27	Billigkeit	_	NOUN	NN	_	24	DA	_	_
+28	,	_	PUNCT	$,	_	24	PUNCT	_	_
+29	daß	_	CONJ	KOUS	_	44	CP	_	_
+30	auch	_	ADV	ADV	_	31	MO	_	_
+31	für	_	ADP	APPR	_	44	MO	_	_
+32	Offiziere	_	NOUN	NN	_	31	NK	_	_
+33	und	_	CONJ	KON	_	32	CD	_	_
+34	Militärbeamte	_	NOUN	NN	_	33	CJ	_	_
+35	neben	_	ADP	APPR	_	40	CD	_	_
+36	dem	_	DET	ART	_	38	NK	_	_
+37	neuen	_	ADJ	ADJA	_	38	NK	_	_
+38	Servis	_	NOUN	NN	_	35	CJ	_	_
+39	derjenige	_	ADJ	ADJA	_	40	NK	_	_
+40	Theil	_	NOUN	NN	_	44	SB	_	_
+41	des	_	DET	ART	_	43	NK	_	_
+42	früheren	_	ADJ	ADJA	_	43	NK	_	_
+43	Servises	_	NOUN	NN	_	40	AG	_	_
+44	fortfalle	_	VERB	VVFIN	_	25	RE	_	_
+45	,	_	PUNCT	$,	_	44	PUNCT	_	_
+46	welcher	_	PRON	PWAT	_	52	SB	_	_
+47	seiner	_	PRON	PPOSAT	_	48	NK	_	_
+48	Natur	_	NOUN	NN	_	49	NK	_	_
+49	nach	_	ADP	APPR	_	52	MO	_	_
+50	nichts	_	PRON	PIAT	_	51	NK	_	_
+51	Anderes	_	PRON	PIS	_	52	PD	_	_
+52	sei	_	VERB	VAFIN	_	40	RC	_	_
+53	,	_	PUNCT	$,	_	52	PUNCT	_	_
+54	als	_	CONJ	KOKOM	_	60	CM	_	_
+55	eine	_	DET	ART	_	60	NK	_	_
+56	in	_	ADP	APPR	_	59	MO	_	_
+57	weiterem	_	ADJ	ADJA	_	58	NK	_	_
+58	Umfange	_	NOUN	NN	_	56	NK	_	_
+59	durchgeführte	_	ADJ	ADJA	_	60	MO	_	_
+60	Lokalzulage	_	NOUN	NN	_	51	CC	_	_
+61	.	_	PUNCT	$.	_	24	PUNCT	_	_
+
+# sent_id = 168
+# text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung;
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Hauptaufgabe	_	NOUN	NN	_	12	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	für	_	ADP	APPR	_	9	MO	_	_
+5	welche	_	PRON	PRELS	_	4	NK	_	_
+6	wir	_	PRON	PPER	_	10	SB	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Zeit	_	NOUN	NN	_	9	OA	_	_
+9	freigehalten	_	VERB	VVINF	_	10	OC	_	_
+10	haben	_	VERB	VAFIN	_	2	RC	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	ist	_	VERB	VAFIN	_	0	--	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Unfallversicherungsgesetzgebung	_	NOUN	NN	_	12	PD	_	_
+15	;	_	PUNCT	$.	_	12	PUNCT	_	_
+
+# sent_id = 169
+# text = das Gesetz hat, glaube ich, 170 Paragraphen.
+1	das	_	DET	ART	_	2	NK	_	_
+2	Gesetz	_	NOUN	NN	_	3	SB	_	_
+3	hat	_	VERB	VAFIN	_	5	OC	_	_
+4	,	_	PUNCT	$,	_	5	PUNCT	_	_
+5	glaube	_	VERB	VVFIN	_	0	--	_	_
+6	ich	_	PRON	PPER	_	5	SB	_	_
+7	,	_	PUNCT	$,	_	5	PUNCT	_	_
+8	170	_	NUM	CARD	_	9	NK	_	_
+9	Paragraphen	_	NOUN	NN	_	3	OA	_	_
+10	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

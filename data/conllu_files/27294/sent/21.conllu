@@ -1,0 +1,16 @@
+# sent_id = 21
+# text = In Abs. 5 wird den Bauenden und Finanzierungshelfern eine weitere Vergünstigung gewährt.
+1	In	_	ADP	APPR	_	12	MO	_	_
+2	Abs.	_	NOUN	NN	_	1	NK	_	_
+3	5	_	NUM	CARD	_	2	PNC	_	_
+4	wird	_	VERB	VAFIN	_	0	--	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	Bauenden	_	NOUN	NN	_	12	DA	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Finanzierungshelfern	_	NOUN	NN	_	7	CJ	_	_
+9	eine	_	DET	ART	_	11	NK	_	_
+10	weitere	_	ADJ	ADJA	_	11	NK	_	_
+11	Vergünstigung	_	NOUN	NN	_	12	OA	_	_
+12	gewährt	_	VERB	VVPP	_	4	OC	_	_
+13	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

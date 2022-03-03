@@ -1,0 +1,22 @@
+# sent_id = 340
+# text = Ein weiterer möglicher Faktor für ihre Zunahme ist die fehlende Nistplatzkonkurrenz durch die im Bestand stark zurückgegangene Türkentaube.
+1	Ein	_	DET	ART	_	4	NK	_	_
+2	weiterer	_	ADJ	ADJA	_	4	NK	_	_
+3	möglicher	_	ADJ	ADJA	_	4	NK	_	_
+4	Faktor	_	NOUN	NN	_	8	PD	_	_
+5	für	_	ADP	APPR	_	4	MNR	_	_
+6	ihre	_	PRON	PPOSAT	_	7	NK	_	_
+7	Zunahme	_	NOUN	NN	_	5	NK	_	_
+8	ist	_	VERB	VAFIN	_	0	--	_	_
+9	die	_	DET	ART	_	11	NK	_	_
+10	fehlende	_	ADJ	ADJA	_	11	NK	_	_
+11	Nistplatzkonkurrenz	_	NOUN	NN	_	8	SB	_	_
+12	durch	_	ADP	APPR	_	11	MNR	_	_
+13	die	_	DET	ART	_	18	NK	_	_
+14	im	_	ADP	APPRART	_	17	MO	_	_
+15	Bestand	_	NOUN	NN	_	14	NK	_	_
+16	stark	_	ADJ	ADJD	_	17	MO	_	_
+17	zurückgegangene	_	ADJ	ADJA	_	18	NK	_	_
+18	Türkentaube	_	NOUN	NN	_	12	NK	_	_
+19	.	_	PUNCT	$.	_	8	PUNCT	_	_
+

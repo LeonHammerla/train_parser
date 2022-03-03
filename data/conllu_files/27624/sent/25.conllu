@@ -1,0 +1,22 @@
+# sent_id = 25
+# text = Zu diesem Abänderungsantrag hat der Geschäftsordnungsausschuß noch nicht Stellung genommen; ich kann daher darüber auch nicht berichten.
+1	Zu	_	_	_	_	3	case	_	_
+2	diesem	_	_	_	_	3	det	_	_
+3	Abänderungsantrag	_	_	_	_	10	obl	_	_
+4	hat	_	_	_	_	10	aux	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Geschäftsordnungsausschuß	_	_	_	_	10	nsubj	_	_
+7	noch	_	_	_	_	8	advmod	_	_
+8	nicht	_	_	_	_	10	advmod	_	_
+9	Stellung	_	_	_	_	10	obj	_	_
+10	genommen	_	_	_	_	0	root	_	_
+11	;	_	_	_	_	18	punct	_	_
+12	ich	_	_	_	_	18	nsubj	_	_
+13	kann	_	_	_	_	18	aux	_	_
+14	daher	_	_	_	_	18	advmod	_	_
+15	darüber	_	_	_	_	18	advmod	_	_
+16	auch	_	_	_	_	17	advmod	_	_
+17	nicht	_	_	_	_	18	advmod	_	_
+18	berichten	_	_	_	_	10	parataxis	_	_
+19	.	_	_	_	_	10	punct	_	_
+

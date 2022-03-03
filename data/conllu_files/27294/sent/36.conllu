@@ -1,0 +1,29 @@
+# sent_id = 36
+# text = Es ist aber wohl anzunehmen, daß dieser Vorbehalt nur deshalb nicht ausdrücklich aufgenommen ist, weil er der Sache nach als selbstverständlich betrachtet wurde.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	aber	_	ADV	ADV	_	5	MO	_	_
+4	wohl	_	ADV	ADV	_	5	MO	_	_
+5	anzunehmen	_	VERB	VVIZU	_	2	OC	_	_
+6	,	_	PUNCT	$,	_	2	PUNCT	_	_
+7	daß	_	CONJ	KOUS	_	15	CP	_	_
+8	dieser	_	PRON	PDAT	_	9	NK	_	_
+9	Vorbehalt	_	NOUN	NN	_	15	SB	_	_
+10	nur	_	ADV	ADV	_	11	MO	_	_
+11	deshalb	_	ADV	PROAV	_	14	MO	_	_
+12	nicht	_	X	PTKNEG	_	14	NG	_	_
+13	ausdrücklich	_	ADJ	ADJD	_	14	MO	_	_
+14	aufgenommen	_	VERB	VVPP	_	15	OC	_	_
+15	ist	_	VERB	VAFIN	_	1	RE	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	weil	_	CONJ	KOUS	_	25	CP	_	_
+18	er	_	PRON	PPER	_	25	SB	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Sache	_	NOUN	NN	_	21	NK	_	_
+21	nach	_	VERB	PTKVZ	_	24	MO	_	_
+22	als	_	ADP	APPR	_	23	CM	_	_
+23	selbstverständlich	_	ADJ	ADJD	_	21	CC	_	_
+24	betrachtet	_	VERB	VVPP	_	25	OC	_	_
+25	wurde	_	VERB	VAFIN	_	14	MO	_	_
+26	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

@@ -1,0 +1,23 @@
+# sent_id = 79
+# text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
+1	Aber	_	_	_	_	10	cc	_	_
+2	beim	_	_	_	_	3	case	_	_
+3	Kleinhandel	_	_	_	_	10	obl	_	_
+4	,	_	_	_	_	6	punct	_	_
+5	beim	_	_	_	_	6	case	_	_
+6	Verkauf	_	_	_	_	3	conj	_	_
+7	an	_	_	_	_	9	case	_	_
+8	den	_	_	_	_	9	det	_	_
+9	Konsumenten	_	_	_	_	6	nmod	_	_
+10	herrschen	_	_	_	_	0	root	_	_
+11	große	_	_	_	_	12	amod	_	_
+12	Mißstände	_	_	_	_	10	nsubj	_	_
+13	,	_	_	_	_	19	punct	_	_
+14	wie	_	_	_	_	19	mark	_	_
+15	ich	_	_	_	_	19	nsubj	_	_
+16	zu	_	_	_	_	17	case	_	_
+17	Anfang	_	_	_	_	19	obl	_	_
+18	bereits	_	_	_	_	19	advmod	_	_
+19	andeutete	_	_	_	_	10	advcl	_	_
+20	.	_	_	_	_	10	punct	_	_
+

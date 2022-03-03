@@ -1,0 +1,43 @@
+# sent_id = 38
+# text = Man kann hier nicht lediglich von den Dienstgruppen in der britischen Besatzungszone sprechen,  sondern muß zum Vergleich - die Dienstgruppen in der britischen Zone gehen schon diesen Weg - auf die Verhältnisse in der amerikanisch besetzten Zone eingehen.
+1	Man	_	PRON	PIS	_	2	SB	_	_
+2	kann	_	VERB	VMFIN	_	0	--	_	_
+3	hier	_	ADV	ADV	_	2	MO	_	_
+4	nicht	_	X	PTKNEG	_	2	NG	_	_
+5	lediglich	_	ADV	ADV	_	6	MO	_	_
+6	von	_	ADP	APPR	_	13	OP	_	_
+7	den	_	DET	ART	_	8	NK	_	_
+8	Dienstgruppen	_	NOUN	NN	_	6	NK	_	_
+9	in	_	ADP	APPR	_	8	MNR	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	britischen	_	ADJ	ADJA	_	12	NK	_	_
+12	Besatzungszone	_	NOUN	NN	_	9	NK	_	_
+13	sprechen	_	VERB	VVINF	_	2	OC	_	_
+14	,	_	PUNCT	$,	_	2	PUNCT	_	_
+15	sondern	_	CONJ	KON	_	2	CD	_	_
+16	muß	_	VERB	VMFIN	_	15	CJ	_	_
+17	zum	_	ADP	APPRART	_	16	MO	_	_
+18	Vergleich	_	NOUN	NN	_	17	NK	_	_
+19	-	_	PUNCT	$(	_	16	PUNCT	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Dienstgruppen	_	NOUN	NN	_	26	SB	_	_
+22	in	_	ADP	APPR	_	21	MNR	_	_
+23	der	_	DET	ART	_	25	NK	_	_
+24	britischen	_	ADJ	ADJA	_	25	NK	_	_
+25	Zone	_	NOUN	NN	_	22	NK	_	_
+26	gehen	_	VERB	VVFIN	_	18	PAR	_	_
+27	schon	_	ADV	ADV	_	26	MO	_	_
+28	diesen	_	PRON	PDAT	_	29	NK	_	_
+29	Weg	_	NOUN	NN	_	26	OA	_	_
+30	-	_	PUNCT	$(	_	26	PUNCT	_	_
+31	auf	_	ADP	APPR	_	39	OP	_	_
+32	die	_	DET	ART	_	33	NK	_	_
+33	Verhältnisse	_	NOUN	NN	_	31	NK	_	_
+34	in	_	ADP	APPR	_	33	MNR	_	_
+35	der	_	DET	ART	_	38	NK	_	_
+36	amerikanisch	_	ADJ	ADJD	_	37	MO	_	_
+37	besetzten	_	ADJ	ADJA	_	38	NK	_	_
+38	Zone	_	NOUN	NN	_	34	NK	_	_
+39	eingehen	_	VERB	VVINF	_	16	OC	_	_
+40	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

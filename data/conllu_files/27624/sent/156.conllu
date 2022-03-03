@@ -1,0 +1,30 @@
+# sent_id = 156
+# text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
+1	Die	_	_	_	_	2	det	_	_
+2	meisten	_	_	_	_	14	nsubj	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Punkte	_	_	_	_	2	nmod	_	_
+5	,	_	_	_	_	8	punct	_	_
+6	welche	_	_	_	_	8	obj	_	_
+7	ich	_	_	_	_	8	nsubj	_	_
+8	berühren	_	_	_	_	4	acl	_	_
+9	wollte	_	_	_	_	8	aux	_	_
+10	,	_	_	_	_	2	punct	_	_
+11	sind	_	_	_	_	14	cop	_	_
+12	bereits	_	_	_	_	14	advmod	_	_
+13	so	_	_	_	_	14	advmod	_	_
+14	erschöpft	_	_	_	_	0	root	_	_
+15	,	_	_	_	_	21	punct	_	_
+16	daß	_	_	_	_	21	mark	_	_
+17	ich	_	_	_	_	21	nsubj	_	_
+18	es	_	_	_	_	21	expl	_	_
+19	für	_	_	_	_	21	compound:prt	_	_
+20	überflüssig	_	_	_	_	21	xcomp	_	_
+21	halte	_	_	_	_	14	advcl	_	_
+22	,	_	_	_	_	26	punct	_	_
+23	noch	_	_	_	_	26	advmod	_	_
+24	irgend	_	_	_	_	25	det	_	_
+25	Etwas	_	_	_	_	26	obj	_	_
+26	hinzuzufügen	_	_	_	_	21	xcomp	_	_
+27	.	_	_	_	_	14	punct	_	_
+

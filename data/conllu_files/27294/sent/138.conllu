@@ -1,0 +1,17 @@
+# sent_id = 138
+# text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
+1	Von	_	ADP	APPR	_	0	--	_	_
+2	1925	_	NUM	CARD	_	1	NK	_	_
+3	Ortsgruppenleiter	_	NOUN	NN	_	1	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	NSDAP	_	PROPN	NE	_	3	AG	_	_
+6	,	_	PUNCT	$,	_	3	PUNCT	_	_
+7	in	_	ADP	APPR	_	3	MNR	_	_
+8	Neuwied	_	PROPN	NE	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	dann	_	ADV	ADV	_	11	MO	_	_
+11	Kreisleiter	_	NOUN	NN	_	3	CJ	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Bezirksleiter	_	NOUN	NN	_	12	CJ	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

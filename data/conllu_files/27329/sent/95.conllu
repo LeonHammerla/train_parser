@@ -1,0 +1,21 @@
+# sent_id = 95
+# text = They explain that they intend to set up District Mining Councils to be composed of 21 members.
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	explain	_	VERB	VBP	_	0	root	_	_
+3	that	_	ADP	IN	_	5	mark	_	_
+4	they	_	PRON	PRP	_	5	nsubj	_	_
+5	intend	_	VERB	VBP	_	2	ccomp	_	_
+6	to	_	ADP	TO	_	7	mark	_	_
+7	set	_	VERB	VB	_	5	xcomp	_	_
+8	up	_	ADP	RP	_	7	compound:prt	_	_
+9	District	_	PROPN	NNP	_	11	compound	_	_
+10	Mining	_	PROPN	NNP	_	11	compound	_	_
+11	Councils	_	PROPN	NNPS	_	7	obj	_	_
+12	to	_	ADP	TO	_	14	mark	_	_
+13	be	_	VERB	VB	_	14	aux:pass	_	_
+14	composed	_	VERB	VBN	_	11	acl	_	_
+15	of	_	ADP	IN	_	17	case	_	_
+16	21	_	NUM	CD	_	17	nummod	_	_
+17	members	_	NOUN	NNS	_	14	obl	_	_
+18	.	_	PUNCT	.	_	2	punct	_	_
+

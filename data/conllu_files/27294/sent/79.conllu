@@ -1,0 +1,9 @@
+# sent_id = 79
+# text = denn wir bekämen demnachäußerst wenig.
+1	denn	_	CONJ	KON	_	3	JU	_	_
+2	wir	_	PRON	PPER	_	3	SB	_	_
+3	bekämen	_	VERB	VVFIN	_	0	--	_	_
+4	demnachäußerst	_	ADV	ADV	_	3	MO	_	_
+5	wenig	_	PRON	PIS	_	3	OA	_	_
+6	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,18 @@
+# sent_id = 0
+# text = Haben wir in der Bundesrepublik Deutschland diese neuen Dimensionen der menschlichen Gesellschaft schon erkannt?
+1	Haben	_	_	_	_	14	aux	_	_
+2	wir	_	_	_	_	14	nsubj	_	_
+3	in	_	_	_	_	5	case	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Bundesrepublik	_	_	_	_	14	obl	_	_
+6	Deutschland	_	_	_	_	5	flat	_	_
+7	diese	_	_	_	_	9	det	_	_
+8	neuen	_	_	_	_	9	amod	_	_
+9	Dimensionen	_	_	_	_	14	obj	_	_
+10	der	_	_	_	_	12	det	_	_
+11	menschlichen	_	_	_	_	12	amod	_	_
+12	Gesellschaft	_	_	_	_	9	nmod	_	_
+13	schon	_	_	_	_	14	advmod	_	_
+14	erkannt	_	_	_	_	0	root	_	_
+15	?	_	_	_	_	14	punct	_	_
+

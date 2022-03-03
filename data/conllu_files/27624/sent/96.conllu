@@ -1,0 +1,19 @@
+# sent_id = 96
+# text = Ihre Umsetzung wird auf europäischer Ebene durch das Visumsinformationssystem vorbereitet bzw. erfolgt bereits jetzt.
+1	Ihre	_	_	_	_	2	det:poss	_	_
+2	Umsetzung	_	_	_	_	10	nsubj:pass	_	_
+3	wird	_	_	_	_	10	aux:pass	_	_
+4	auf	_	_	_	_	6	case	_	_
+5	europäischer	_	_	_	_	6	amod	_	_
+6	Ebene	_	_	_	_	10	obl	_	_
+7	durch	_	_	_	_	9	case	_	_
+8	das	_	_	_	_	9	det	_	_
+9	Visumsinformationssystem	_	_	_	_	10	obl	_	_
+10	vorbereitet	_	_	_	_	0	root	_	_
+11	bzw	_	_	_	_	13	cc	_	_
+12	.	_	_	_	_	11	punct	_	_
+13	erfolgt	_	_	_	_	10	conj	_	_
+14	bereits	_	_	_	_	15	advmod	_	_
+15	jetzt	_	_	_	_	13	advmod	_	_
+16	.	_	_	_	_	10	punct	_	_
+

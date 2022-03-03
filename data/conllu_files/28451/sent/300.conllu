@@ -1,0 +1,22 @@
+# sent_id = 300
+# text = Alle drei Verbreitungsinseln weisen zeitweise größere übersichtliche, vegetationslose Flächen auf, die der Flussregenpfeifer als Sekundärlebensraum besiedelt.
+1	Alle	_	PRON	PIAT	_	3	NK	_	_
+2	drei	_	NUM	CARD	_	3	NK	_	_
+3	Verbreitungsinseln	_	NOUN	NN	_	4	SB	_	_
+4	weisen	_	VERB	VVFIN	_	0	--	_	_
+5	zeitweise	_	ADV	ADV	_	4	MO	_	_
+6	größere	_	ADJ	ADJA	_	10	NK	_	_
+7	übersichtliche	_	ADJ	ADJA	_	10	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	vegetationslose	_	ADJ	ADJA	_	7	CJ	_	_
+10	Flächen	_	NOUN	NN	_	4	OA	_	_
+11	auf	_	VERB	PTKVZ	_	4	SVP	_	_
+12	,	_	PUNCT	$,	_	4	PUNCT	_	_
+13	die	_	PRON	PRELS	_	18	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Flussregenpfeifer	_	NOUN	NN	_	18	SB	_	_
+16	als	_	ADP	APPR	_	18	MO	_	_
+17	Sekundärlebensraum	_	NOUN	NN	_	16	NK	_	_
+18	besiedelt	_	VERB	VVFIN	_	10	RC	_	_
+19	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

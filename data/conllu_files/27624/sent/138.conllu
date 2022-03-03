@@ -1,0 +1,30 @@
+# sent_id = 138
+# text = Im Weltkrieg als Kriegsfreiwilliger 1915 an die italienische Front ausgerückt, im Verbände der Tiroler Standschützen vom Juni 1915 bis Mai 1917 als Mannschaftsperson im Schützengraben.
+1	Im	_	_	_	_	2	case	_	_
+2	Weltkrieg	_	_	_	_	10	obl	_	_
+3	als	_	_	_	_	4	case	_	_
+4	Kriegsfreiwilliger	_	_	_	_	10	obl	_	_
+5	1915	_	_	_	_	10	obl	_	_
+6	an	_	_	_	_	9	case	_	_
+7	die	_	_	_	_	9	det	_	_
+8	italienische	_	_	_	_	9	amod	_	_
+9	Front	_	_	_	_	10	obl	_	_
+10	ausgerückt	_	_	_	_	0	root	_	_
+11	,	_	_	_	_	13	punct	_	_
+12	im	_	_	_	_	13	case	_	_
+13	Verbände	_	_	_	_	26	nmod	_	_
+14	der	_	_	_	_	16	det	_	_
+15	Tiroler	_	_	_	_	16	amod	_	_
+16	Standschützen	_	_	_	_	13	nmod	_	_
+17	vom	_	_	_	_	18	case	_	_
+18	Juni	_	_	_	_	26	nmod	_	_
+19	1915	_	_	_	_	18	nmod	_	_
+20	bis	_	_	_	_	21	case	_	_
+21	Mai	_	_	_	_	26	nmod	_	_
+22	1917	_	_	_	_	21	nmod	_	_
+23	als	_	_	_	_	24	case	_	_
+24	Mannschaftsperson	_	_	_	_	26	nmod	_	_
+25	im	_	_	_	_	26	case	_	_
+26	Schützengraben	_	_	_	_	10	orphan	_	_
+27	.	_	_	_	_	10	punct	_	_
+

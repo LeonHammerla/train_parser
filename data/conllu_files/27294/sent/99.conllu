@@ -1,0 +1,17 @@
+# sent_id = 99
+# text = Sie sollten sich einmal mit den Erkenntnissen der Amerikaner in diesem Bereich beschäftigen.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	sollten	_	VERB	VMFIN	_	0	--	_	_
+3	sich	_	PRON	PRF	_	13	OA	_	_
+4	einmal	_	ADV	ADV	_	3	MO	_	_
+5	mit	_	ADP	APPR	_	13	OP	_	_
+6	den	_	DET	ART	_	7	NK	_	_
+7	Erkenntnissen	_	NOUN	NN	_	5	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Amerikaner	_	NOUN	NN	_	7	AG	_	_
+10	in	_	ADP	APPR	_	7	MNR	_	_
+11	diesem	_	PRON	PDAT	_	12	NK	_	_
+12	Bereich	_	NOUN	NN	_	10	NK	_	_
+13	beschäftigen	_	VERB	VVINF	_	2	OC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

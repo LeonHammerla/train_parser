@@ -1,0 +1,18 @@
+# sent_id = 57
+# text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
+1	Jetzt	_	_	_	_	7	advmod	_	_
+2	will	_	_	_	_	7	aux	_	_
+3	ich	_	_	_	_	7	nsubj	_	_
+4	Ihnen	_	_	_	_	7	iobj	_	_
+5	einfach	_	_	_	_	6	advmod	_	_
+6	mathematisch	_	_	_	_	7	advmod	_	_
+7	klarmachen	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	14	punct	_	_
+9	was	_	_	_	_	14	obj	_	_
+10	das	_	_	_	_	14	nsubj	_	_
+11	für	_	_	_	_	13	case	_	_
+12	den	_	_	_	_	13	det	_	_
+13	Bundeshaushalt	_	_	_	_	14	obl	_	_
+14	bedeutet	_	_	_	_	7	ccomp	_	_
+15	.	_	_	_	_	7	punct	_	_
+

@@ -1,0 +1,27 @@
+# sent_id = 200
+# text = Agropyrum cristatnm P. B. stand mehrere Jahre am Verbindungskanal im Mannheimer Hafen, wurde aber ebenfalls durch Frauen abgeschnitten und als Ziegenfutter verwendet.
+1	Agropyrum	_	NOUN	NN	_	5	SB	_	_
+2	cristatnm	_	PROPN	NE	_	4	PNC	_	_
+3	P.	_	PROPN	NE	_	4	PNC	_	_
+4	B.	_	PROPN	NE	_	1	PNC	_	_
+5	stand	_	VERB	VVFIN	_	0	--	_	_
+6	mehrere	_	PRON	PIAT	_	7	NK	_	_
+7	Jahre	_	NOUN	NN	_	5	MO	_	_
+8	am	_	ADP	APPRART	_	5	MO	_	_
+9	Verbindungskanal	_	NOUN	NN	_	8	NK	_	_
+10	im	_	ADP	APPRART	_	9	MNR	_	_
+11	Mannheimer	_	ADJ	ADJA	_	12	NK	_	_
+12	Hafen	_	NOUN	NN	_	10	NK	_	_
+13	,	_	PUNCT	$,	_	5	PUNCT	_	_
+14	wurde	_	VERB	VAFIN	_	15	CJ	_	_
+15	aber	_	ADV	ADV	_	5	CD	_	_
+16	ebenfalls	_	ADV	ADV	_	19	MO	_	_
+17	durch	_	ADP	APPR	_	19	SBP	_	_
+18	Frauen	_	NOUN	NN	_	17	NK	_	_
+19	abgeschnitten	_	VERB	VVPP	_	14	OC	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	als	_	ADP	APPR	_	23	OP	_	_
+22	Ziegenfutter	_	NOUN	NN	_	21	NK	_	_
+23	verwendet	_	VERB	VVFIN	_	20	CJ	_	_
+24	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

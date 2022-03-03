@@ -1,0 +1,25 @@
+# sent_id = 43
+# text = He really did not conceive that the orations of these demagogues were listened to with such serious attention as was supposed.
+1	He	_	PRON	PRP	_	5	nsubj	_	_
+2	really	_	ADV	RB	_	5	advmod	_	_
+3	did	_	VERB	VBD	_	5	aux	_	_
+4	not	_	ADV	RB	_	5	advmod	_	_
+5	conceive	_	VERB	VB	_	0	root	_	_
+6	that	_	ADP	IN	_	13	mark	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	orations	_	NOUN	NNS	_	13	nsubj:pass	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	these	_	DET	DT	_	11	det	_	_
+11	demagogues	_	NOUN	NNS	_	8	nmod	_	_
+12	were	_	VERB	VBD	_	13	aux:pass	_	_
+13	listened	_	VERB	VBN	_	5	ccomp	_	_
+14	to	_	ADP	IN	_	13	obl	_	_
+15	with	_	ADP	IN	_	18	case	_	_
+16	such	_	ADJ	JJ	_	18	amod	_	_
+17	serious	_	ADJ	JJ	_	18	amod	_	_
+18	attention	_	NOUN	NN	_	13	obl	_	_
+19	as	_	ADP	IN	_	21	mark	_	_
+20	was	_	VERB	VBD	_	21	aux:pass	_	_
+21	supposed	_	VERB	VBN	_	16	advcl	_	_
+22	.	_	PUNCT	.	_	5	punct	_	_
+

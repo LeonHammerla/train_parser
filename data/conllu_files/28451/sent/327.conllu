@@ -1,0 +1,34 @@
+# sent_id = 327
+# text = Auf dem Städtischen Friedhof bemerkte U. Schuster am 22.5.1977 sowie mehrfach zwischen dem 1.4. und 15-5.1978 ein balzrufendes Männchen, ohne dabei jedoch einen zweiten Vogel zu sehen.
+1	Auf	_	ADP	APPR	_	5	MO	_	_
+2	dem	_	DET	ART	_	4	NK	_	_
+3	Städtischen	_	ADJ	ADJA	_	4	NK	_	_
+4	Friedhof	_	NOUN	NN	_	1	NK	_	_
+5	bemerkte	_	VERB	VVFIN	_	0	--	_	_
+6	U.	_	PROPN	NE	_	7	PNC	_	_
+7	Schuster	_	PROPN	NE	_	5	SB	_	_
+8	am	_	ADP	APPRART	_	5	MO	_	_
+9	22.5.1977	_	NOUN	NN	_	8	NK	_	_
+10	sowie	_	CONJ	KON	_	8	CD	_	_
+11	mehrfach	_	ADJ	ADJD	_	12	MO	_	_
+12	zwischen	_	ADP	APPR	_	10	CJ	_	_
+13	dem	_	DET	ART	_	14	NK	_	_
+14	1.4.	_	PROPN	NE	_	12	NK	_	_
+15	und	_	CONJ	KON	_	14	CD	_	_
+16	15	_	NUM	CARD	_	18	NK	_	_
+17	-	_	PUNCT	$(	_	18	PUNCT	_	_
+18	5.1978	_	NOUN	NN	_	15	CJ	_	_
+19	ein	_	DET	ART	_	21	NK	_	_
+20	balzrufendes	_	ADJ	ADJA	_	21	NK	_	_
+21	Männchen	_	NOUN	NN	_	5	OA	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	ohne	_	CONJ	KOUI	_	30	CP	_	_
+24	dabei	_	ADV	PROAV	_	30	MO	_	_
+25	jedoch	_	ADV	ADV	_	30	MO	_	_
+26	einen	_	DET	ART	_	28	NK	_	_
+27	zweiten	_	ADJ	ADJA	_	28	NK	_	_
+28	Vogel	_	NOUN	NN	_	30	OA	_	_
+29	zu	_	X	PTKZU	_	30	PM	_	_
+30	sehen	_	VERB	VVINF	_	5	MO	_	_
+31	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

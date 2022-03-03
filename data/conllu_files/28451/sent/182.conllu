@@ -1,0 +1,29 @@
+# sent_id = 182
+# text = Durch den Getreidehandel kam Avena capillaris W. et K., die zierlichste Art der Gattung, zu uns und scheint sich das Bürgerrecht zu erwerben.
+1	Durch	_	ADP	APPR	_	4	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Getreidehandel	_	NOUN	NN	_	1	NK	_	_
+4	kam	_	VERB	VVFIN	_	0	--	_	_
+5	Avena	_	NOUN	NN	_	6	PNC	_	_
+6	capillaris	_	PROPN	NE	_	4	SB	_	_
+7	W.	_	PROPN	NE	_	6	PNC	_	_
+8	et	_	PROPN	NE	_	7	CD	_	_
+9	K.	_	PROPN	NE	_	8	CJ	_	_
+10	,	_	PUNCT	$,	_	4	PUNCT	_	_
+11	die	_	DET	ART	_	13	NK	_	_
+12	zierlichste	_	ADJ	ADJA	_	13	NK	_	_
+13	Art	_	NOUN	NN	_	6	APP	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Gattung	_	NOUN	NN	_	13	AG	_	_
+16	,	_	PUNCT	$,	_	13	PUNCT	_	_
+17	zu	_	ADP	APPR	_	4	OP	_	_
+18	uns	_	PRON	PPER	_	17	NK	_	_
+19	und	_	CONJ	KON	_	4	CD	_	_
+20	scheint	_	VERB	VVFIN	_	19	CJ	_	_
+21	sich	_	PRON	PRF	_	25	DA	_	_
+22	das	_	DET	ART	_	23	NK	_	_
+23	Bürgerrecht	_	NOUN	NN	_	25	OA	_	_
+24	zu	_	X	PTKZU	_	25	PM	_	_
+25	erwerben	_	VERB	VVINF	_	20	OC	_	_
+26	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

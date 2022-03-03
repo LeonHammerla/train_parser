@@ -1,0 +1,28 @@
+# sent_id = 10
+# text = Diese einem kleinen Apus ähnliche sehr merkwürdige Ephemeriden-Larve ist für den Rhein zuerst von Noll und zwar für die Gegend des Loreley-Felsens nachgewiesen worden;
+1	Diese	_	PRON	PDS	_	8	NK	_	_
+2	einem	_	DET	ART	_	4	NK	_	_
+3	kleinen	_	ADJ	ADJA	_	4	NK	_	_
+4	Apus	_	NOUN	NN	_	5	DA	_	_
+5	ähnliche	_	ADJ	ADJA	_	8	NK	_	_
+6	sehr	_	ADV	ADV	_	7	MO	_	_
+7	merkwürdige	_	ADJ	ADJA	_	8	NK	_	_
+8	Ephemeriden-Larve	_	NOUN	NN	_	9	SB	_	_
+9	ist	_	VERB	VAFIN	_	0	--	_	_
+10	für	_	ADP	APPR	_	23	MO	_	_
+11	den	_	DET	ART	_	12	NK	_	_
+12	Rhein	_	PROPN	NE	_	10	NK	_	_
+13	zuerst	_	ADV	ADV	_	23	MO	_	_
+14	von	_	ADP	APPR	_	23	SBP	_	_
+15	Noll	_	PROPN	NE	_	14	NK	_	_
+16	und	_	CONJ	KON	_	14	CD	_	_
+17	zwar	_	ADV	ADV	_	18	MO	_	_
+18	für	_	ADP	APPR	_	16	CJ	_	_
+19	die	_	DET	ART	_	20	NK	_	_
+20	Gegend	_	NOUN	NN	_	18	NK	_	_
+21	des	_	DET	ART	_	22	NK	_	_
+22	Loreley-Felsens	_	NOUN	NN	_	20	AG	_	_
+23	nachgewiesen	_	VERB	VVPP	_	24	OC	_	_
+24	worden	_	VERB	VAPP	_	9	OC	_	_
+25	;	_	PUNCT	$.	_	9	PUNCT	_	_
+

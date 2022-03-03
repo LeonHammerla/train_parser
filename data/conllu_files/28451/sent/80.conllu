@@ -1,0 +1,34 @@
+# sent_id = 80
+# text = Die im Homburger Becken häufigste Art, die Gefaltete Brombeere, R. plicatus, wächst gern an quer übers Wiesental führenden Wegen und bringt es im Königsbruch zu beachtlichen Sträuchern.
+1	Die	_	DET	ART	_	6	NK	_	_
+2	im	_	ADP	APPRART	_	5	MO	_	_
+3	Homburger	_	ADJ	ADJA	_	4	NK	_	_
+4	Becken	_	NOUN	NN	_	2	NK	_	_
+5	häufigste	_	ADJ	ADJA	_	6	NK	_	_
+6	Art	_	NOUN	NN	_	15	SB	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	die	_	DET	ART	_	10	NK	_	_
+9	Gefaltete	_	ADJ	ADJA	_	10	NK	_	_
+10	Brombeere	_	NOUN	NN	_	6	APP	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	R.	_	PROPN	NE	_	13	PNC	_	_
+13	plicatus	_	PROPN	NE	_	10	APP	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	wächst	_	VERB	VVFIN	_	0	--	_	_
+16	gern	_	ADV	ADV	_	15	MO	_	_
+17	an	_	ADP	APPR	_	15	MO	_	_
+18	quer	_	ADV	ADV	_	21	MO	_	_
+19	übers	_	ADP	APPRART	_	21	MO	_	_
+20	Wiesental	_	NOUN	NN	_	19	NK	_	_
+21	führenden	_	ADJ	ADJA	_	22	NK	_	_
+22	Wegen	_	NOUN	NN	_	17	NK	_	_
+23	und	_	CONJ	KON	_	15	CD	_	_
+24	bringt	_	VERB	VVFIN	_	23	CJ	_	_
+25	es	_	PRON	PPER	_	24	EP	_	_
+26	im	_	ADP	APPRART	_	24	MO	_	_
+27	Königsbruch	_	NOUN	NN	_	26	NK	_	_
+28	zu	_	ADP	APPR	_	24	OP	_	_
+29	beachtlichen	_	ADJ	ADJA	_	30	NK	_	_
+30	Sträuchern	_	NOUN	NN	_	28	NK	_	_
+31	.	_	PUNCT	$.	_	15	PUNCT	_	_
+

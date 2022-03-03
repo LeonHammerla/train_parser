@@ -1,0 +1,28 @@
+# sent_id = 28
+# text = Gleichzeitig wird die Umsatzsteuer in der derzeitigen Höhe beibehalten, so daß die so dringend notwendige steuerliche Entlastung des Kleinverdieners in Wirklichkeit nicht eintritt.
+1	Gleichzeitig	_	ADJ	ADJD	_	9	MO	_	_
+2	wird	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Umsatzsteuer	_	NOUN	NN	_	2	SB	_	_
+5	in	_	ADP	APPR	_	9	MO	_	_
+6	der	_	DET	ART	_	8	NK	_	_
+7	derzeitigen	_	ADJ	ADJA	_	8	NK	_	_
+8	Höhe	_	NOUN	NN	_	5	NK	_	_
+9	beibehalten	_	VERB	VVPP	_	2	OC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	so	_	ADV	ADV	_	24	MO	_	_
+12	daß	_	CONJ	KOUS	_	24	CP	_	_
+13	die	_	DET	ART	_	18	NK	_	_
+14	so	_	ADV	ADV	_	15	MO	_	_
+15	dringend	_	ADJ	ADJD	_	16	MO	_	_
+16	notwendige	_	ADJ	ADJA	_	18	NK	_	_
+17	steuerliche	_	ADJ	ADJA	_	18	NK	_	_
+18	Entlastung	_	NOUN	NN	_	24	SB	_	_
+19	des	_	DET	ART	_	20	NK	_	_
+20	Kleinverdieners	_	NOUN	NN	_	18	AG	_	_
+21	in	_	ADP	APPR	_	24	MO	_	_
+22	Wirklichkeit	_	NOUN	NN	_	21	NK	_	_
+23	nicht	_	X	PTKNEG	_	24	NG	_	_
+24	eintritt	_	VERB	VVFIN	_	9	MO	_	_
+25	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

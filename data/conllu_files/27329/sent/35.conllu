@@ -1,0 +1,16 @@
+# sent_id = 35
+# text = It is interesting to see what actually happened in America in 1936.
+1	It	_	PRON	PRP	_	3	expl	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	interesting	_	ADJ	JJ	_	0	root	_	_
+4	to	_	ADP	TO	_	5	mark	_	_
+5	see	_	VERB	VB	_	3	csubj	_	_
+6	what	_	PRON	WP	_	8	nsubj	_	_
+7	actually	_	ADV	RB	_	8	advmod	_	_
+8	happened	_	VERB	VBD	_	5	ccomp	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	America	_	PROPN	NNP	_	8	obl	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	1936	_	NUM	CD	_	8	obl	_	_
+13	.	_	PUNCT	.	_	3	punct	_	_
+

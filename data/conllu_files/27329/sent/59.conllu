@@ -1,0 +1,45 @@
+# sent_id = 59
+# text = These men had left good places for the purpose of making an engagement for two years, and with a chance of being required another year in the service of their country, and they were shortly afterwards discharged with only £
+1	These	_	DET	DT	_	2	det	_	_
+2	men	_	NOUN	NNS	_	4	nsubj	_	_
+3	had	_	VERB	VBD	_	4	aux	_	_
+4	left	_	VERB	VBN	_	0	root	_	_
+5	good	_	ADJ	JJ	_	6	amod	_	_
+6	places	_	NOUN	NNS	_	4	obj	_	_
+7	for	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	purpose	_	NOUN	NN	_	4	obl	_	_
+10	of	_	ADP	IN	_	11	mark	_	_
+11	making	_	VERB	VBG	_	9	acl	_	_
+12	an	_	DET	DT	_	13	det	_	_
+13	engagement	_	NOUN	NN	_	11	obj	_	_
+14	for	_	ADP	IN	_	16	case	_	_
+15	two	_	NUM	CD	_	16	nummod	_	_
+16	years	_	NOUN	NNS	_	13	nmod	_	_
+17	,	_	PUNCT	,	_	21	punct	_	_
+18	and	_	CONJ	CC	_	21	cc	_	_
+19	with	_	ADP	IN	_	21	case	_	_
+20	a	_	DET	DT	_	21	det	_	_
+21	chance	_	NOUN	NN	_	11	conj	_	_
+22	of	_	ADP	IN	_	24	mark	_	_
+23	being	_	VERB	VBG	_	24	aux:pass	_	_
+24	required	_	VERB	VBN	_	21	acl	_	_
+25	another	_	DET	DT	_	26	det	_	_
+26	year	_	NOUN	NN	_	24	obl:tmod	_	_
+27	in	_	ADP	IN	_	29	case	_	_
+28	the	_	DET	DT	_	29	det	_	_
+29	service	_	NOUN	NN	_	24	obl	_	_
+30	of	_	ADP	IN	_	32	case	_	_
+31	their	_	PRON	PRP$	_	32	nmod:poss	_	_
+32	country	_	NOUN	NN	_	29	nmod	_	_
+33	,	_	PUNCT	,	_	39	punct	_	_
+34	and	_	CONJ	CC	_	39	cc	_	_
+35	they	_	PRON	PRP	_	39	nsubj:pass	_	_
+36	were	_	VERB	VBD	_	39	aux:pass	_	_
+37	shortly	_	ADV	RB	_	38	advmod	_	_
+38	afterwards	_	ADV	RB	_	39	advmod	_	_
+39	discharged	_	VERB	VBN	_	4	conj	_	_
+40	with	_	ADP	IN	_	42	case	_	_
+41	only	_	ADV	RB	_	39	advmod	_	_
+42	£	_	PUNCT	.	_	4	punct	_	_
+

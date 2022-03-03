@@ -1,0 +1,14 @@
+# sent_id = 91
+# text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Fichte	_	NOUN	NN	_	5	SB	_	_
+3	oder	_	CONJ	KON	_	2	CD	_	_
+4	Rottanne	_	NOUN	NN	_	3	CJ	_	_
+5	bildet	_	VERB	VVFIN	_	0	--	_	_
+6	etwa	_	ADV	ADV	_	7	MO	_	_
+7	15	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	5	OA	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Bestände	_	NOUN	NN	_	8	AG	_	_
+11	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

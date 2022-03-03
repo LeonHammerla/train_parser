@@ -1,0 +1,25 @@
+# sent_id = 153
+# text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
+1	Aus	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Tabelle	_	_	_	_	4	obl	_	_
+4	geht	_	_	_	_	0	root	_	_
+5	hervor	_	_	_	_	4	compound:prt	_	_
+6	,	_	_	_	_	20	punct	_	_
+7	daß	_	_	_	_	20	mark	_	_
+8	allein	_	_	_	_	10	advmod	_	_
+9	im	_	_	_	_	10	case	_	_
+10	Zahre	_	_	_	_	20	obl	_	_
+11	1877	_	_	_	_	10	flat	_	_
+12	die	_	_	_	_	13	det	_	_
+13	Rinderpest	_	_	_	_	20	nsubj	_	_
+14	in	_	_	_	_	16	case	_	_
+15	54	_	_	_	_	16	nummod	_	_
+16	Ortschaften	_	_	_	_	19	nmod	_	_
+17	in	_	_	_	_	19	case	_	_
+18	130	_	_	_	_	19	nummod	_	_
+19	Gehöften	_	_	_	_	20	obl	_	_
+20	vorgekommen	_	_	_	_	4	ccomp	_	_
+21	ist	_	_	_	_	20	aux	_	_
+22	.	_	_	_	_	4	punct	_	_
+

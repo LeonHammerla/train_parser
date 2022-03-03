@@ -1,0 +1,548 @@
+# sent_id = 80
+# text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	das	_	DET	ART	_	4	NK	_	_
+4	Verdienst	_	NOUN	NN	_	2	PD	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	das	_	PRON	PRELS	_	12	OA	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Lloyd	_	PROPN	NE	_	13	SB	_	_
+9	auf	_	ADP	APPR	_	12	MO	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Kingsin-Linie	_	NOUN	NN	_	9	NK	_	_
+12	ausgeübt	_	VERB	VVPP	_	13	OC	_	_
+13	hat	_	VERB	VAFIN	_	4	RC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 81
+# text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
+1	Für	_	ADP	APPR	_	7	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	strafrechtliche	_	ADJ	ADJA	_	4	NK	_	_
+4	Seite	_	NOUN	NN	_	1	NK	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Sache	_	NOUN	NN	_	4	AG	_	_
+7	genüge	_	VERB	VVFIN	_	0	--	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Betrugsparagraph	_	NOUN	NN	_	7	SB	_	_
+10	des	_	DET	ART	_	11	NK	_	_
+11	Strafgesetzbuchs	_	NOUN	NN	_	9	AG	_	_
+12	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 82
+# text = Dort kann bei inneren Unruhen das Militär nur auf Requisition der Zivilbehörden eingreifen.
+1	Dort	_	ADV	ADV	_	2	MO	_	_
+2	kann	_	VERB	VMFIN	_	0	--	_	_
+3	bei	_	ADP	APPR	_	2	MO	_	_
+4	inneren	_	ADJ	ADJA	_	5	NK	_	_
+5	Unruhen	_	NOUN	NN	_	3	NK	_	_
+6	das	_	DET	ART	_	7	NK	_	_
+7	Militär	_	NOUN	NN	_	2	SB	_	_
+8	nur	_	ADV	ADV	_	9	MO	_	_
+9	auf	_	ADP	APPR	_	13	MO	_	_
+10	Requisition	_	NOUN	NN	_	9	NK	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Zivilbehörden	_	NOUN	NN	_	10	AG	_	_
+13	eingreifen	_	VERB	VVFIN	_	2	OC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 83
+# text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	in	_	ADP	APPR	_	5	MO	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Budgetkommission	_	NOUN	NN	_	2	NK	_	_
+5	ist	_	VERB	VAFIN	_	0	--	_	_
+6	diese	_	PRON	PDAT	_	7	NK	_	_
+7	Petition	_	NOUN	NN	_	5	SB	_	_
+8	im	_	ADP	APPRART	_	5	MO	_	_
+9	Anschluß	_	NOUN	NN	_	8	NK	_	_
+10	an	_	ADP	APPR	_	9	MNR	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Verhandlungen	_	NOUN	NN	_	10	NK	_	_
+13	über	_	ADP	APPR	_	12	OP	_	_
+14	jene	_	PRON	PDAT	_	15	NK	_	_
+15	Etatsposition	_	NOUN	NN	_	13	NK	_	_
+16	erledigt	_	VERB	VVPP	_	17	OC	_	_
+17	worden	_	VERB	VAPP	_	5	OC	_	_
+18	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 84
+# text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
+1	Aber	_	CONJ	KON	_	10	JU	_	_
+2	beim	_	ADP	APPRART	_	10	MO	_	_
+3	Kleinhandel	_	NOUN	NN	_	2	NK	_	_
+4	,	_	PUNCT	$,	_	10	PUNCT	_	_
+5	beim	_	ADP	APPRART	_	10	MO	_	_
+6	Verkauf	_	NOUN	NN	_	5	NK	_	_
+7	an	_	ADP	APPR	_	6	MNR	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Konsumenten	_	NOUN	NN	_	7	NK	_	_
+10	herrschen	_	VERB	VVFIN	_	0	--	_	_
+11	große	_	ADJ	ADJA	_	12	NK	_	_
+12	Mißstände	_	NOUN	NN	_	10	SB	_	_
+13	,	_	PUNCT	$,	_	10	PUNCT	_	_
+14	wie	_	PRON	PWAV	_	19	CP	_	_
+15	ich	_	PRON	PPER	_	19	SB	_	_
+16	zu	_	ADP	APPR	_	19	MO	_	_
+17	Anfang	_	NOUN	NN	_	16	NK	_	_
+18	bereits	_	ADV	ADV	_	19	MO	_	_
+19	andeutete	_	VERB	VVFIN	_	10	MO	_	_
+20	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 85
+# text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Feststellung	_	NOUN	NN	_	3	SB	_	_
+3	beschränkt	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	auf	_	ADP	APPR	_	3	OP	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	Ermittlung	_	NOUN	NN	_	5	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Art	_	NOUN	NN	_	7	AG	_	_
+10	und	_	CONJ	KON	_	9	CD	_	_
+11	des	_	DET	ART	_	12	NK	_	_
+12	Nennwerts	_	NOUN	NN	_	10	CJ	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Wertpapiere	_	NOUN	NN	_	12	AG	_	_
+15	sowie	_	CONJ	KON	_	12	CD	_	_
+16	des	_	DET	ART	_	17	NK	_	_
+17	Zeitpunkts	_	NOUN	NN	_	15	CJ	_	_
+18	ihres	_	PRON	PPOSAT	_	19	NK	_	_
+19	Verlustes	_	NOUN	NN	_	17	AG	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 86
+# text = Nun hat gestern der Herr Abgeordnete Graf v. Posadowsky ausgesprochen, das einzige, was helfen könne, sei eine großherzige Wohnungspolitik.
+1	Nun	_	ADV	ADV	_	10	MO	_	_
+2	hat	_	VERB	VAFIN	_	0	--	_	_
+3	gestern	_	ADV	ADV	_	10	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Herr	_	NOUN	NN	_	2	SB	_	_
+6	Abgeordnete	_	NOUN	NN	_	5	NK	_	_
+7	Graf	_	PROPN	NE	_	6	NK	_	_
+8	v.	_	PROPN	NE	_	7	PNC	_	_
+9	Posadowsky	_	PROPN	NE	_	8	PNC	_	_
+10	ausgesprochen	_	VERB	VVPP	_	2	OC	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	das	_	DET	ART	_	13	NK	_	_
+13	einzige	_	PRON	PIS	_	19	PD	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	was	_	PRON	PWS	_	17	SB	_	_
+16	helfen	_	VERB	VVINF	_	17	OC	_	_
+17	könne	_	VERB	VMFIN	_	13	RC	_	_
+18	,	_	PUNCT	$,	_	19	PUNCT	_	_
+19	sei	_	VERB	VAFIN	_	10	OC	_	_
+20	eine	_	DET	ART	_	22	NK	_	_
+21	großherzige	_	ADJ	ADJA	_	22	NK	_	_
+22	Wohnungspolitik	_	NOUN	NN	_	19	SB	_	_
+23	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 87
+# text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Reichs-Gewerbeordnung	_	NOUN	NN	_	3	SB	_	_
+3	ermögliche	_	VERB	VVFIN	_	0	--	_	_
+4	dies	_	PRON	PDS	_	3	OA	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	da	_	CONJ	KOUS	_	20	CP	_	_
+7	sie	_	PRON	PPER	_	20	SB	_	_
+8	keinerlei	_	PRON	PIAT	_	9	NK	_	_
+9	Befähigungsnachweis	_	NOUN	NN	_	20	OA	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	nicht	_	X	PTKNEG	_	13	NG	_	_
+12	einmal	_	ADV	ADV	_	11	MO	_	_
+13	Erlaubnis	_	NOUN	NN	_	20	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Behörde	_	NOUN	NN	_	13	AG	_	_
+16	vor	_	ADP	APPR	_	20	MO	_	_
+17	Ausübung	_	NOUN	NN	_	16	NK	_	_
+18	des	_	DET	ART	_	19	NK	_	_
+19	Berufs	_	NOUN	NN	_	17	AG	_	_
+20	verlange	_	VERB	VVFIN	_	3	MO	_	_
+21	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 88
+# text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
+1	So	_	ADV	ADV	_	2	MO	_	_
+2	verteilen	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Oberpostdirektionen	_	NOUN	NN	_	2	SB	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Gratifikationen	_	NOUN	NN	_	2	OA	_	_
+7	für	_	ADP	APPR	_	6	MNR	_	_
+8	geleistete	_	ADJ	ADJA	_	9	NK	_	_
+9	überstunden	_	NOUN	NN	_	7	NK	_	_
+10	immer	_	ADV	ADV	_	2	MO	_	_
+11	nach	_	ADP	APPR	_	2	MO	_	_
+12	oben	_	ADV	ADV	_	11	NK	_	_
+13	,	_	PUNCT	$,	_	2	PUNCT	_	_
+14	da	_	ADV	ADV	_	15	MO	_	_
+15	ist	_	VERB	VAFIN	_	2	MO	_	_
+16	es	_	PRON	PPER	_	15	SB	_	_
+17	nach	_	ADP	APPR	_	15	MO	_	_
+18	ihrer	_	PRON	PPOSAT	_	19	NK	_	_
+19	Ansicht	_	NOUN	NN	_	17	NK	_	_
+20	weit	_	ADJ	ADJD	_	21	MO	_	_
+21	notwendiger	_	ADJ	ADJD	_	15	PD	_	_
+22	als	_	CONJ	KOKOM	_	23	CM	_	_
+23	nach	_	ADP	APPR	_	21	CC	_	_
+24	unten	_	ADV	ADV	_	23	NK	_	_
+25	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 89
+# text = Es ist da auf Seite 174 aus dem Inspektionsbezirk Breslau eine Kritik über die Porzellanarbeiter und die unter ihnen auftretenden ansteckenden Krankheiten vorhanden.
+1	Es	_	PRON	PPER	_	2	EP	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	da	_	ADV	ADV	_	2	MO	_	_
+4	auf	_	ADP	APPR	_	2	MO	_	_
+5	Seite	_	NOUN	NN	_	4	NK	_	_
+6	174	_	NUM	CARD	_	5	NK	_	_
+7	aus	_	ADP	APPR	_	12	MNR	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Inspektionsbezirk	_	NOUN	NN	_	7	NK	_	_
+10	Breslau	_	PROPN	NE	_	9	NK	_	_
+11	eine	_	DET	ART	_	12	NK	_	_
+12	Kritik	_	NOUN	NN	_	2	SB	_	_
+13	über	_	ADP	APPR	_	12	MNR	_	_
+14	die	_	DET	ART	_	15	NK	_	_
+15	Porzellanarbeiter	_	NOUN	NN	_	13	NK	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	die	_	DET	ART	_	22	NK	_	_
+18	unter	_	ADP	APPR	_	20	MO	_	_
+19	ihnen	_	PRON	PPER	_	18	NK	_	_
+20	auftretenden	_	ADJ	ADJA	_	22	NK	_	_
+21	ansteckenden	_	ADJ	ADJA	_	22	NK	_	_
+22	Krankheiten	_	NOUN	NN	_	16	CJ	_	_
+23	vorhanden	_	ADJ	ADJD	_	2	OC	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 90
+# text = Es sei unmöglich, sich nach Jahr und Tag ein zutreffendes Urteil darüber zu bilden, ob in einem weiter zurückliegenden Zeitpunkt Erziehungs- und Besserungsmaßregeln am Platze gewesen wären.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	sei	_	VERB	VAFIN	_	0	--	_	_
+3	unmöglich	_	ADJ	ADJD	_	2	PD	_	_
+4	,	_	PUNCT	$,	_	2	PUNCT	_	_
+5	sich	_	PRON	PRF	_	15	DA	_	_
+6	nach	_	ADP	APPR	_	15	MO	_	_
+7	Jahr	_	NOUN	NN	_	6	NK	_	_
+8	und	_	CONJ	KON	_	7	CD	_	_
+9	Tag	_	NOUN	NN	_	8	CJ	_	_
+10	ein	_	DET	ART	_	12	NK	_	_
+11	zutreffendes	_	ADJ	ADJA	_	12	NK	_	_
+12	Urteil	_	NOUN	NN	_	15	OA	_	_
+13	darüber	_	ADV	PROAV	_	12	OP	_	_
+14	zu	_	X	PTKZU	_	15	PM	_	_
+15	bilden	_	VERB	VVINF	_	1	RE	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	ob	_	CONJ	KOUS	_	29	CP	_	_
+18	in	_	ADP	APPR	_	28	MO	_	_
+19	einem	_	DET	ART	_	22	NK	_	_
+20	weiter	_	ADV	ADV	_	21	MO	_	_
+21	zurückliegenden	_	ADJ	ADJA	_	22	NK	_	_
+22	Zeitpunkt	_	NOUN	NN	_	18	NK	_	_
+23	Erziehungs-	_	X	TRUNC	_	24	CJ	_	_
+24	und	_	CONJ	KON	_	25	CD	_	_
+25	Besserungsmaßregeln	_	NOUN	NN	_	29	SB	_	_
+26	am	_	ADP	APPRART	_	28	CVC	_	_
+27	Platze	_	NOUN	NN	_	26	NK	_	_
+28	gewesen	_	VERB	VAPP	_	29	OC	_	_
+29	wären	_	VERB	VAFIN	_	13	RE	_	_
+30	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 91
+# text = Ich bedaure, daß die Reichsregierung meiner Anregung keine Folge geleistet hat, da fortgesetzt der deutsche Markt in ganz erheblichem Umfange von ausländischen Geldsuchern in Anspruch genommen wird.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	bedaure	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	daß	_	CONJ	KOUS	_	12	CP	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Reichsregierung	_	NOUN	NN	_	12	SB	_	_
+7	meiner	_	PRON	PPOSAT	_	8	NK	_	_
+8	Anregung	_	NOUN	NN	_	11	DA	_	_
+9	keine	_	PRON	PIAT	_	10	NK	_	_
+10	Folge	_	NOUN	NN	_	11	OA	_	_
+11	geleistet	_	VERB	VVPP	_	2	OC	_	_
+12	hat	_	VERB	VAFIN	_	2	OC	_	_
+13	,	_	PUNCT	$,	_	14	PUNCT	_	_
+14	da	_	CONJ	KOUS	_	29	CP	_	_
+15	fortgesetzt	_	VERB	VVPP	_	28	MO	_	_
+16	der	_	DET	ART	_	18	NK	_	_
+17	deutsche	_	ADJ	ADJA	_	18	NK	_	_
+18	Markt	_	NOUN	NN	_	29	SB	_	_
+19	in	_	ADP	APPR	_	28	MO	_	_
+20	ganz	_	ADV	ADV	_	21	MO	_	_
+21	erheblichem	_	ADJ	ADJA	_	22	NK	_	_
+22	Umfange	_	NOUN	NN	_	19	NK	_	_
+23	von	_	ADP	APPR	_	28	SBP	_	_
+24	ausländischen	_	ADJ	ADJA	_	25	NK	_	_
+25	Geldsuchern	_	NOUN	NN	_	23	NK	_	_
+26	in	_	ADP	APPR	_	28	CVC	_	_
+27	Anspruch	_	NOUN	NN	_	26	NK	_	_
+28	genommen	_	VERB	VVPP	_	29	OC	_	_
+29	wird	_	VERB	VAFIN	_	11	MO	_	_
+30	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 92
+# text = Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers am Leistungsorte versteigern lassen und den Erlös hinterlegen.
+1	Ist	_	VERB	VAFIN	_	11	RE	_	_
+2	die	_	DET	ART	_	5	NK	_	_
+3	geschuldete	_	ADJ	ADJA	_	5	NK	_	_
+4	bewegliche	_	ADJ	ADJA	_	5	NK	_	_
+5	Sache	_	NOUN	NN	_	1	SB	_	_
+6	zur	_	ADP	APPRART	_	9	OP	_	_
+7	Hinterlegung	_	NOUN	NN	_	6	NK	_	_
+8	nicht	_	X	PTKNEG	_	9	NG	_	_
+9	geeignet	_	ADJ	ADJD	_	1	PD	_	_
+10	,	_	PUNCT	$,	_	11	PUNCT	_	_
+11	so	_	ADV	ADV	_	12	MO	_	_
+12	kann	_	VERB	VMFIN	_	0	--	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Schuldner	_	NOUN	NN	_	12	SB	_	_
+15	sie	_	PRON	PPER	_	24	OA	_	_
+16	im	_	ADP	APPRART	_	24	MO	_	_
+17	Falle	_	NOUN	NN	_	16	NK	_	_
+18	des	_	DET	ART	_	19	NK	_	_
+19	Verzugs	_	NOUN	NN	_	17	AG	_	_
+20	des	_	DET	ART	_	21	NK	_	_
+21	Gläubigers	_	NOUN	NN	_	19	AG	_	_
+22	am	_	ADP	APPRART	_	24	MO	_	_
+23	Leistungsorte	_	NOUN	NN	_	22	NK	_	_
+24	versteigern	_	VERB	VVINF	_	25	OC	_	_
+25	lassen	_	VERB	VVINF	_	12	OC	_	_
+26	und	_	CONJ	KON	_	25	CD	_	_
+27	den	_	DET	ART	_	28	NK	_	_
+28	Erlös	_	NOUN	NN	_	29	OA	_	_
+29	hinterlegen	_	VERB	VVINF	_	26	CJ	_	_
+30	.	_	PUNCT	$.	_	12	PUNCT	_	_
+
+# sent_id = 93
+# text = Auch die Zuständigkeit des zukünftigen Kolontalgerichtshofes ist in der neuen Vorlage besser umgrenzt und genauer präzisiert worden, als das in der früheren Vorlage geschehen war.
+1	Auch	_	ADV	ADV	_	3	MO	_	_
+2	die	_	DET	ART	_	3	NK	_	_
+3	Zuständigkeit	_	NOUN	NN	_	7	SB	_	_
+4	des	_	DET	ART	_	6	NK	_	_
+5	zukünftigen	_	ADJ	ADJA	_	6	NK	_	_
+6	Kolontalgerichtshofes	_	NOUN	NN	_	3	AG	_	_
+7	ist	_	VERB	VAFIN	_	0	--	_	_
+8	in	_	ADP	APPR	_	13	MO	_	_
+9	der	_	DET	ART	_	11	NK	_	_
+10	neuen	_	ADJ	ADJA	_	11	NK	_	_
+11	Vorlage	_	NOUN	NN	_	8	NK	_	_
+12	besser	_	ADJ	ADJD	_	13	MO	_	_
+13	umgrenzt	_	ADJ	ADJD	_	17	OC	_	_
+14	und	_	CONJ	KON	_	13	CD	_	_
+15	genauer	_	ADJ	ADJD	_	16	MO	_	_
+16	präzisiert	_	VERB	VVPP	_	14	CJ	_	_
+17	worden	_	VERB	VAPP	_	7	OC	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	als	_	CONJ	KOUS	_	26	CM	_	_
+20	das	_	PRON	PDS	_	26	SB	_	_
+21	in	_	ADP	APPR	_	25	MO	_	_
+22	der	_	DET	ART	_	24	NK	_	_
+23	früheren	_	ADJ	ADJA	_	24	NK	_	_
+24	Vorlage	_	NOUN	NN	_	21	NK	_	_
+25	geschehen	_	VERB	VVPP	_	26	OC	_	_
+26	war	_	VERB	VAFIN	_	15	CC	_	_
+27	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 94
+# text = Zur Zeit ist diese ganze Angelegenheit abhängig von der Landesgesetzgebung, und während in den meisten deutschen Staaten mehr oder weniger strenge Bestimmungen über das Versicherungswesen vorhanden sind, giebt es andererseits einige Staaten, in denen derartige Bestimmungen vollständig fehlen.
+1	Zur	_	ADP	APPRART	_	3	MO	_	_
+2	Zeit	_	NOUN	NN	_	1	NK	_	_
+3	ist	_	VERB	VAFIN	_	0	--	_	_
+4	diese	_	PRON	PDAT	_	6	NK	_	_
+5	ganze	_	ADJ	ADJA	_	6	NK	_	_
+6	Angelegenheit	_	NOUN	NN	_	3	SB	_	_
+7	abhängig	_	ADJ	ADJD	_	3	PD	_	_
+8	von	_	ADP	APPR	_	7	OP	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Landesgesetzgebung	_	NOUN	NN	_	8	NK	_	_
+11	,	_	PUNCT	$,	_	3	PUNCT	_	_
+12	und	_	CONJ	KON	_	3	CD	_	_
+13	während	_	CONJ	KOUS	_	28	CP	_	_
+14	in	_	ADP	APPR	_	28	MO	_	_
+15	den	_	DET	ART	_	18	NK	_	_
+16	meisten	_	PRON	PIAT	_	18	NK	_	_
+17	deutschen	_	ADJ	ADJA	_	18	NK	_	_
+18	Staaten	_	NOUN	NN	_	14	NK	_	_
+19	mehr	_	ADV	ADV	_	22	MO	_	_
+20	oder	_	CONJ	KON	_	19	CD	_	_
+21	weniger	_	ADV	ADV	_	20	CJ	_	_
+22	strenge	_	ADJ	ADJA	_	23	NK	_	_
+23	Bestimmungen	_	NOUN	NN	_	28	SB	_	_
+24	über	_	ADP	APPR	_	23	MNR	_	_
+25	das	_	DET	ART	_	26	NK	_	_
+26	Versicherungswesen	_	NOUN	NN	_	24	NK	_	_
+27	vorhanden	_	ADJ	ADJD	_	28	PD	_	_
+28	sind	_	VERB	VAFIN	_	30	MO	_	_
+29	,	_	PUNCT	$,	_	30	PUNCT	_	_
+30	giebt	_	VERB	VVFIN	_	12	CJ	_	_
+31	es	_	PRON	PPER	_	30	EP	_	_
+32	andererseits	_	ADV	ADV	_	30	MO	_	_
+33	einige	_	PRON	PIAT	_	34	NK	_	_
+34	Staaten	_	NOUN	NN	_	30	SB	_	_
+35	,	_	PUNCT	$,	_	34	PUNCT	_	_
+36	in	_	ADP	APPR	_	41	MO	_	_
+37	denen	_	PRON	PRELS	_	36	NK	_	_
+38	derartige	_	ADJ	ADJA	_	39	NK	_	_
+39	Bestimmungen	_	NOUN	NN	_	41	SB	_	_
+40	vollständig	_	ADJ	ADJD	_	41	MO	_	_
+41	fehlen	_	VERB	VVFIN	_	34	RC	_	_
+42	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 95
+# text = Ich glaube, wenn die Bürgerschaft der Stadt, wie es mit Recht verlangt wird, Vertrauen zur Staatsregierung haben soll, kann auch die Staatsregierung der Bürgerschaft Vertrauen entgegenbringen, daß sie den Mann wählen wird, der für das Amt geeignet ist.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	glaube	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	wenn	_	CONJ	KOUS	_	21	CP	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Bürgerschaft	_	NOUN	NN	_	21	SB	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Stadt	_	NOUN	NN	_	6	AG	_	_
+9	,	_	PUNCT	$,	_	6	PUNCT	_	_
+10	wie	_	PRON	PWAV	_	15	MO	_	_
+11	es	_	PRON	PPER	_	15	SB	_	_
+12	mit	_	ADP	APPR	_	14	MO	_	_
+13	Recht	_	NOUN	NN	_	12	NK	_	_
+14	verlangt	_	VERB	VVPP	_	15	OC	_	_
+15	wird	_	VERB	VAFIN	_	21	MO	_	_
+16	,	_	PUNCT	$,	_	21	PUNCT	_	_
+17	Vertrauen	_	NOUN	NN	_	20	OA	_	_
+18	zur	_	ADP	APPRART	_	17	MNR	_	_
+19	Staatsregierung	_	NOUN	NN	_	18	NK	_	_
+20	haben	_	VERB	VAINF	_	21	OC	_	_
+21	soll	_	VERB	VMFIN	_	23	MO	_	_
+22	,	_	PUNCT	$,	_	23	PUNCT	_	_
+23	kann	_	VERB	VMFIN	_	2	OC	_	_
+24	auch	_	ADV	ADV	_	26	MO	_	_
+25	die	_	DET	ART	_	26	NK	_	_
+26	Staatsregierung	_	NOUN	NN	_	23	SB	_	_
+27	der	_	DET	ART	_	28	NK	_	_
+28	Bürgerschaft	_	NOUN	NN	_	30	DA	_	_
+29	Vertrauen	_	NOUN	NN	_	30	OA	_	_
+30	entgegenbringen	_	VERB	VVIZU	_	23	OC	_	_
+31	,	_	PUNCT	$,	_	30	PUNCT	_	_
+32	daß	_	CONJ	KOUS	_	37	CP	_	_
+33	sie	_	PRON	PPER	_	37	SB	_	_
+34	den	_	DET	ART	_	35	NK	_	_
+35	Mann	_	NOUN	NN	_	36	OA	_	_
+36	wählen	_	VERB	VVINF	_	37	OC	_	_
+37	wird	_	VERB	VAFIN	_	29	OC	_	_
+38	,	_	PUNCT	$,	_	37	PUNCT	_	_
+39	der	_	PRON	PRELS	_	44	SB	_	_
+40	für	_	ADP	APPR	_	43	MO	_	_
+41	das	_	DET	ART	_	42	NK	_	_
+42	Amt	_	NOUN	NN	_	40	NK	_	_
+43	geeignet	_	ADJ	ADJD	_	44	PD	_	_
+44	ist	_	VERB	VAFIN	_	35	RC	_	_
+45	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 96
+# text = Vielleicht denkt der Herr Reichskanzler auch daran, daß er als leitender Staatsmann in Preußen eine wichtige Pflicht zu erfüllen hat, die auf dem Gebiete des Ausbaues der Volksrechte liegt, daß er die Wahlreform durchzusetzen hat, die von dem Träger der Krone seinerzeit feierlich in Aussicht gestellt worden ist.
+1	Vielleicht	_	ADV	ADV	_	2	MO	_	_
+2	denkt	_	VERB	VVFIN	_	0	--	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Herr	_	NOUN	NN	_	2	SB	_	_
+5	Reichskanzler	_	NOUN	NN	_	4	NK	_	_
+6	auch	_	ADV	ADV	_	7	MO	_	_
+7	daran	_	ADV	PROAV	_	2	OP	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	21	CP	_	_
+10	er	_	PRON	PPER	_	21	SB	_	_
+11	als	_	ADP	APPR	_	21	MO	_	_
+12	leitender	_	ADJ	ADJA	_	13	NK	_	_
+13	Staatsmann	_	NOUN	NN	_	11	NK	_	_
+14	in	_	ADP	APPR	_	13	MNR	_	_
+15	Preußen	_	PROPN	NE	_	14	NK	_	_
+16	eine	_	DET	ART	_	18	NK	_	_
+17	wichtige	_	ADJ	ADJA	_	18	NK	_	_
+18	Pflicht	_	NOUN	NN	_	20	OA	_	_
+19	zu	_	X	PTKZU	_	20	PM	_	_
+20	erfüllen	_	VERB	VVINF	_	21	OC	_	_
+21	hat	_	VERB	VAFIN	_	7	RE	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	die	_	PRON	PRELS	_	31	SB	_	_
+24	auf	_	ADP	APPR	_	31	MO	_	_
+25	dem	_	DET	ART	_	26	NK	_	_
+26	Gebiete	_	NOUN	NN	_	24	NK	_	_
+27	des	_	DET	ART	_	28	NK	_	_
+28	Ausbaues	_	NOUN	NN	_	26	AG	_	_
+29	der	_	DET	ART	_	30	NK	_	_
+30	Volksrechte	_	NOUN	NN	_	28	AG	_	_
+31	liegt	_	VERB	VVFIN	_	18	RC	_	_
+32	,	_	PUNCT	$,	_	31	PUNCT	_	_
+33	daß	_	CONJ	KOUS	_	38	CP	_	_
+34	er	_	PRON	PPER	_	38	SB	_	_
+35	die	_	DET	ART	_	36	NK	_	_
+36	Wahlreform	_	NOUN	NN	_	37	OA	_	_
+37	durchzusetzen	_	VERB	VVIZU	_	38	OC	_	_
+38	hat	_	VERB	VAFIN	_	21	CJ	_	_
+39	,	_	PUNCT	$,	_	38	PUNCT	_	_
+40	die	_	PRON	PRELS	_	52	SB	_	_
+41	von	_	ADP	APPR	_	50	SBP	_	_
+42	dem	_	DET	ART	_	43	NK	_	_
+43	Träger	_	NOUN	NN	_	41	NK	_	_
+44	der	_	DET	ART	_	45	NK	_	_
+45	Krone	_	NOUN	NN	_	43	AG	_	_
+46	seinerzeit	_	ADV	ADV	_	50	MO	_	_
+47	feierlich	_	ADJ	ADJD	_	50	MO	_	_
+48	in	_	ADP	APPR	_	50	CVC	_	_
+49	Aussicht	_	NOUN	NN	_	48	NK	_	_
+50	gestellt	_	VERB	VVPP	_	51	OC	_	_
+51	worden	_	VERB	VAPP	_	52	OC	_	_
+52	ist	_	VERB	VAFIN	_	36	RC	_	_
+53	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 97
+# text = Die Gegenseitigkeitsverträge zwischen verschiedenen Knappschaftsvereinen und die Rückversicherungsverbände, welche man jetzt als Heilmittel zur Gesundung des Knappschaftswesens betrachtet, werden die Mißstände und Ungleichheiten der Leistungen, welche in den Knappschaftsvereinen bestehen, nicht aufheben können, da ihnen hierzu jedes gesetzliche Machtmittel fehlt.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Gegenseitigkeitsverträge	_	NOUN	NN	_	21	SB	_	_
+3	zwischen	_	ADP	APPR	_	2	MNR	_	_
+4	verschiedenen	_	ADJ	ADJA	_	5	NK	_	_
+5	Knappschaftsvereinen	_	NOUN	NN	_	3	NK	_	_
+6	und	_	CONJ	KON	_	5	CD	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Rückversicherungsverbände	_	NOUN	NN	_	6	CJ	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	welche	_	PRON	PRELS	_	19	OA	_	_
+11	man	_	PRON	PIS	_	19	SB	_	_
+12	jetzt	_	ADV	ADV	_	19	MO	_	_
+13	als	_	ADP	APPR	_	19	MO	_	_
+14	Heilmittel	_	NOUN	NN	_	13	NK	_	_
+15	zur	_	ADP	APPRART	_	14	MNR	_	_
+16	Gesundung	_	NOUN	NN	_	15	NK	_	_
+17	des	_	DET	ART	_	18	NK	_	_
+18	Knappschaftswesens	_	NOUN	NN	_	16	AG	_	_
+19	betrachtet	_	VERB	VVFIN	_	8	RC	_	_
+20	,	_	PUNCT	$,	_	21	PUNCT	_	_
+21	werden	_	VERB	VAFIN	_	0	--	_	_
+22	die	_	DET	ART	_	23	NK	_	_
+23	Mißstände	_	NOUN	NN	_	36	OA	_	_
+24	und	_	CONJ	KON	_	23	CD	_	_
+25	Ungleichheiten	_	NOUN	NN	_	24	CJ	_	_
+26	der	_	DET	ART	_	27	NK	_	_
+27	Leistungen	_	NOUN	NN	_	23	AG	_	_
+28	,	_	PUNCT	$,	_	27	PUNCT	_	_
+29	welche	_	PRON	PRELS	_	33	SB	_	_
+30	in	_	ADP	APPR	_	33	MO	_	_
+31	den	_	DET	ART	_	32	NK	_	_
+32	Knappschaftsvereinen	_	NOUN	NN	_	30	NK	_	_
+33	bestehen	_	VERB	VVFIN	_	27	RC	_	_
+34	,	_	PUNCT	$,	_	37	PUNCT	_	_
+35	nicht	_	X	PTKNEG	_	37	NG	_	_
+36	aufheben	_	VERB	VVINF	_	37	OC	_	_
+37	können	_	VERB	VMINF	_	21	OC	_	_
+38	,	_	PUNCT	$,	_	37	PUNCT	_	_
+39	da	_	CONJ	KOUS	_	45	CP	_	_
+40	ihnen	_	PRON	PPER	_	45	DA	_	_
+41	hierzu	_	ADV	PROAV	_	45	MO	_	_
+42	jedes	_	PRON	PIAT	_	44	NK	_	_
+43	gesetzliche	_	ADJ	ADJA	_	44	NK	_	_
+44	Machtmittel	_	NOUN	NN	_	45	SB	_	_
+45	fehlt	_	VERB	VVFIN	_	37	MO	_	_
+46	.	_	PUNCT	$.	_	21	PUNCT	_	_
+

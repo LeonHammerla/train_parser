@@ -1,0 +1,25 @@
+# sent_id = 29
+# text = Auch da ist vom Ältestenrat die Aussprachezeit wieder in der gleichen Weise geregelt worden, also zehn Minuten für die Begründung.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	da	_	ADV	ADV	_	3	MO	_	_
+3	ist	_	VERB	VAFIN	_	0	--	_	_
+4	vom	_	ADP	APPRART	_	13	SBP	_	_
+5	Ältestenrat	_	NOUN	NN	_	4	NK	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	Aussprachezeit	_	NOUN	NN	_	3	SB	_	_
+8	wieder	_	ADV	ADV	_	13	MO	_	_
+9	in	_	ADP	APPR	_	13	MO	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	gleichen	_	ADJ	ADJA	_	12	NK	_	_
+12	Weise	_	NOUN	NN	_	9	NK	_	_
+13	geregelt	_	VERB	VVPP	_	14	OC	_	_
+14	worden	_	VERB	VAPP	_	3	OC	_	_
+15	,	_	PUNCT	$,	_	3	PUNCT	_	_
+16	also	_	ADV	ADV	_	18	MO	_	_
+17	zehn	_	NUM	CARD	_	18	NK	_	_
+18	Minuten	_	NOUN	NN	_	7	PAR	_	_
+19	für	_	ADP	APPR	_	18	MNR	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Begründung	_	NOUN	NN	_	19	NK	_	_
+22	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

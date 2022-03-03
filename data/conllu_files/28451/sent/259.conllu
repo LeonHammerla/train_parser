@@ -1,0 +1,42 @@
+# sent_id = 259
+# text = Buche (Fagus silvatica), Eiche (Quercus sessili- flora) und auf magerem fiachgründigem Boden die Kiefer (Pinus silvestris) bilden gegenwärtig den Hauptbestand dieses Waldes, seltener rein, meist mehr oder weniger gemischt.
+1	Buche	_	NOUN	NN	_	24	SB	_	_
+2	(	_	PUNCT	$(	_	3	PUNCT	_	_
+3	Fagus	_	PROPN	NE	_	4	PNC	_	_
+4	silvatica	_	PROPN	NE	_	1	APP	_	_
+5	)	_	PUNCT	$(	_	4	PUNCT	_	_
+6	,	_	PUNCT	$,	_	1	PUNCT	_	_
+7	Eiche	_	NOUN	NN	_	1	CJ	_	_
+8	(	_	PUNCT	$(	_	9	PUNCT	_	_
+9	Quercus	_	PROPN	NE	_	11	PNC	_	_
+10	sessili-	_	ADJ	ADJD	_	11	PNC	_	_
+11	flora	_	ADJ	ADJA	_	7	APP	_	_
+12	)	_	PUNCT	$(	_	11	PUNCT	_	_
+13	und	_	CONJ	KON	_	1	CD	_	_
+14	auf	_	ADP	APPR	_	24	MO	_	_
+15	magerem	_	ADJ	ADJA	_	17	NK	_	_
+16	fiachgründigem	_	ADJ	ADJA	_	17	NK	_	_
+17	Boden	_	NOUN	NN	_	14	NK	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Kiefer	_	NOUN	NN	_	13	CJ	_	_
+20	(	_	PUNCT	$(	_	21	PUNCT	_	_
+21	Pinus	_	NOUN	NN	_	22	PNC	_	_
+22	silvestris	_	PROPN	NE	_	19	APP	_	_
+23	)	_	PUNCT	$(	_	21	PUNCT	_	_
+24	bilden	_	VERB	VVFIN	_	0	--	_	_
+25	gegenwärtig	_	ADJ	ADJD	_	24	MO	_	_
+26	den	_	DET	ART	_	27	NK	_	_
+27	Hauptbestand	_	NOUN	NN	_	24	OA	_	_
+28	dieses	_	PRON	PDAT	_	29	NK	_	_
+29	Waldes	_	NOUN	NN	_	27	AG	_	_
+30	,	_	PUNCT	$,	_	27	PUNCT	_	_
+31	seltener	_	ADJ	ADJD	_	32	MO	_	_
+32	rein	_	ADJ	ADJD	_	24	MO	_	_
+33	,	_	PUNCT	$,	_	24	PUNCT	_	_
+34	meist	_	ADV	ADV	_	38	MO	_	_
+35	mehr	_	ADV	ADV	_	38	MO	_	_
+36	oder	_	CONJ	KON	_	35	CD	_	_
+37	weniger	_	ADV	ADV	_	36	CJ	_	_
+38	gemischt	_	VERB	VVPP	_	24	MO	_	_
+39	.	_	PUNCT	$.	_	24	PUNCT	_	_
+

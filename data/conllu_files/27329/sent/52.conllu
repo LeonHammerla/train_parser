@@ -1,0 +1,16 @@
+# sent_id = 52
+# text = The case of these contractors was one of great hardship and severity.
+1	The	_	DET	DT	_	2	det	_	_
+2	case	_	NOUN	NN	_	7	nsubj	_	_
+3	of	_	ADP	IN	_	5	case	_	_
+4	these	_	DET	DT	_	5	det	_	_
+5	contractors	_	NOUN	NNS	_	2	nmod	_	_
+6	was	_	VERB	VBD	_	7	cop	_	_
+7	one	_	NUM	CD	_	0	root	_	_
+8	of	_	ADP	IN	_	10	case	_	_
+9	great	_	ADJ	JJ	_	10	amod	_	_
+10	hardship	_	NOUN	NN	_	7	nmod	_	_
+11	and	_	CONJ	CC	_	12	cc	_	_
+12	severity	_	NOUN	NN	_	10	conj	_	_
+13	.	_	PUNCT	.	_	7	punct	_	_
+

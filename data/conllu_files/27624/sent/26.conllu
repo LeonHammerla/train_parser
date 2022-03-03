@@ -1,0 +1,19 @@
+# sent_id = 26
+# text = Es handelt sich hier um zwei Sachen, bei denen wahrscheinlich keine Aussprache stattfinden wird.
+1	Es	_	_	_	_	2	expl	_	_
+2	handelt	_	_	_	_	0	root	_	_
+3	sich	_	_	_	_	2	obj	_	_
+4	hier	_	_	_	_	2	advmod	_	_
+5	um	_	_	_	_	7	case	_	_
+6	zwei	_	_	_	_	7	nummod	_	_
+7	Sachen	_	_	_	_	2	obl	_	_
+8	,	_	_	_	_	14	punct	_	_
+9	bei	_	_	_	_	10	case	_	_
+10	denen	_	_	_	_	14	obl	_	_
+11	wahrscheinlich	_	_	_	_	14	advmod	_	_
+12	keine	_	_	_	_	13	nmod	_	_
+13	Aussprache	_	_	_	_	14	nsubj	_	_
+14	stattfinden	_	_	_	_	7	acl	_	_
+15	wird	_	_	_	_	14	aux	_	_
+16	.	_	_	_	_	2	punct	_	_
+

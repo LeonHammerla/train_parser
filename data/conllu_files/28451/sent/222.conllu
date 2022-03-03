@@ -1,0 +1,32 @@
+# sent_id = 222
+# text = Auch für den Rabensteiner Wald berichtet J. Frölich nach dem häufigeren Auftreten der Turteltaube in den 1980er- bis Anfang der 1990er-Jahre über ihren Rückgang in der nachfolgenden Zeit.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	für	_	ADP	APPR	_	6	MO	_	_
+3	den	_	DET	ART	_	5	NK	_	_
+4	Rabensteiner	_	ADJ	ADJA	_	5	NK	_	_
+5	Wald	_	NOUN	NN	_	2	NK	_	_
+6	berichtet	_	VERB	VVFIN	_	0	--	_	_
+7	J.	_	PROPN	NE	_	8	PNC	_	_
+8	Frölich	_	NOUN	NN	_	6	SB	_	_
+9	nach	_	ADP	APPR	_	6	MO	_	_
+10	dem	_	DET	ART	_	12	NK	_	_
+11	häufigeren	_	ADJ	ADJA	_	12	NK	_	_
+12	Auftreten	_	NOUN	NN	_	9	NK	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Turteltaube	_	NOUN	NN	_	12	AG	_	_
+15	in	_	ADP	APPR	_	14	MNR	_	_
+16	den	_	DET	ART	_	17	NK	_	_
+17	1980er-	_	PUNCT	$(	_	15	NK	_	_
+18	bis	_	ADP	APPR	_	17	CJ	_	_
+19	Anfang	_	NOUN	NN	_	18	NK	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	1990er-Jahre	_	NOUN	NN	_	19	AG	_	_
+22	über	_	ADP	APPR	_	6	OP	_	_
+23	ihren	_	PRON	PPOSAT	_	24	NK	_	_
+24	Rückgang	_	NOUN	NN	_	22	NK	_	_
+25	in	_	ADP	APPR	_	24	MNR	_	_
+26	der	_	DET	ART	_	28	NK	_	_
+27	nachfolgenden	_	ADJ	ADJA	_	28	NK	_	_
+28	Zeit	_	NOUN	NN	_	25	NK	_	_
+29	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

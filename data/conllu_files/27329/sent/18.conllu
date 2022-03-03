@@ -1,0 +1,37 @@
+# sent_id = 18
+# text = He failed to see how, under the provisions of this Bill, a County Court Judge would he able to decide that the nonpayment of rent was caused by the prevailing distress.
+1	He	_	PRON	PRP	_	2	nsubj	_	_
+2	failed	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	TO	_	4	mark	_	_
+4	see	_	VERB	VB	_	2	xcomp	_	_
+5	how	_	ADV	WRB	_	20	advmod	_	_
+6	,	_	PUNCT	,	_	20	punct	_	_
+7	under	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	provisions	_	NOUN	NNS	_	20	obl	_	_
+10	of	_	ADP	IN	_	12	case	_	_
+11	this	_	DET	DT	_	12	det	_	_
+12	Bill	_	PROPN	NNP	_	9	nmod	_	_
+13	,	_	PUNCT	,	_	20	punct	_	_
+14	a	_	DET	DT	_	17	det	_	_
+15	County	_	PROPN	NNP	_	16	compound	_	_
+16	Court	_	PROPN	NNP	_	17	compound	_	_
+17	Judge	_	PROPN	NNP	_	20	nsubj	_	_
+18	would	_	VERB	MD	_	20	aux	_	_
+19	he	_	PRON	PRP	_	20	cop	_	_
+20	able	_	ADJ	JJ	_	4	ccomp	_	_
+21	to	_	ADP	TO	_	22	mark	_	_
+22	decide	_	VERB	VB	_	20	xcomp	_	_
+23	that	_	ADP	IN	_	29	mark	_	_
+24	the	_	DET	DT	_	25	det	_	_
+25	nonpayment	_	NOUN	NN	_	29	nsubj:pass	_	_
+26	of	_	ADP	IN	_	27	case	_	_
+27	rent	_	NOUN	NN	_	25	nmod	_	_
+28	was	_	VERB	VBD	_	29	aux:pass	_	_
+29	caused	_	VERB	VBN	_	22	ccomp	_	_
+30	by	_	ADP	IN	_	33	case	_	_
+31	the	_	DET	DT	_	33	det	_	_
+32	prevailing	_	VERB	VBG	_	33	amod	_	_
+33	distress	_	NOUN	NN	_	29	obl	_	_
+34	.	_	PUNCT	.	_	2	punct	_	_
+

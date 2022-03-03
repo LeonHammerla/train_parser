@@ -1,0 +1,25 @@
+# sent_id = 89
+# text = Die Gesamtmächtigkeit der Trias ergibt sich in den Bohrungen bei Solgen zu 630 bis 750 m. B. Lagerungsverhältnisse in der Trias.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Gesamtmächtigkeit	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Trias	_	PROPN	NE	_	2	AG	_	_
+5	ergibt	_	VERB	VVFIN	_	0	--	_	_
+6	sich	_	PRON	PRF	_	5	OA	_	_
+7	in	_	ADP	APPR	_	5	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Bohrungen	_	NOUN	NN	_	7	NK	_	_
+10	bei	_	ADP	APPR	_	9	MNR	_	_
+11	Solgen	_	NOUN	NN	_	10	NK	_	_
+12	zu	_	ADP	APPR	_	11	MNR	_	_
+13	630	_	NUM	CARD	_	16	NK	_	_
+14	bis	_	CONJ	KON	_	13	CD	_	_
+15	750	_	NUM	CARD	_	14	CJ	_	_
+16	m.	_	X	XY	_	18	NK	_	_
+17	B.	_	NOUN	NN	_	16	NK	_	_
+18	Lagerungsverhältnisse	_	NOUN	NN	_	12	NK	_	_
+19	in	_	ADP	APPR	_	5	MO	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Trias	_	PROPN	NE	_	19	NK	_	_
+22	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

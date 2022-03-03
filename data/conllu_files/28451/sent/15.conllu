@@ -1,0 +1,23 @@
+# sent_id = 15
+# text = In einer mir erst jetzt zugänglich gewordenen Arbeit von K.J.Morton (The Larva and case of Ithtyrichia lamellaris Eaton)
+1	In	_	ADP	APPR	_	0	--	_	_
+2	einer	_	DET	ART	_	8	NK	_	_
+3	mir	_	PRON	PPER	_	6	DA	_	_
+4	erst	_	ADV	ADV	_	5	MO	_	_
+5	jetzt	_	ADV	ADV	_	7	MO	_	_
+6	zugänglich	_	ADJ	ADJD	_	7	PD	_	_
+7	gewordenen	_	ADJ	ADJA	_	8	NK	_	_
+8	Arbeit	_	NOUN	NN	_	1	NK	_	_
+9	von	_	ADP	APPR	_	8	PG	_	_
+10	K.J.Morton	_	PROPN	NE	_	9	NK	_	_
+11	(	_	PUNCT	$(	_	19	PUNCT	_	_
+12	The	_	PROPN	NE	_	19	PNC	_	_
+13	Larva	_	PROPN	NE	_	19	PNC	_	_
+14	and	_	PROPN	NE	_	19	PNC	_	_
+15	case	_	PROPN	NE	_	19	PNC	_	_
+16	of	_	PROPN	NE	_	19	PNC	_	_
+17	Ithtyrichia	_	PROPN	NE	_	19	PNC	_	_
+18	lamellaris	_	PROPN	NE	_	19	PNC	_	_
+19	Eaton	_	PROPN	NE	_	8	APP	_	_
+20	)	_	PUNCT	$(	_	19	PUNCT	_	_
+

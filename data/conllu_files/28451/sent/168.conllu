@@ -1,0 +1,25 @@
+# sent_id = 168
+# text = Phleum arenarium hatte in der Nähe des Stengelhofes, dem heutigen Rheinauhafen, in einer alten Kiesgrube eine ziemlich ausgedehnte Station.
+1	Phleum	_	NOUN	NN	_	2	PNC	_	_
+2	arenarium	_	PROPN	NE	_	3	SB	_	_
+3	hatte	_	VERB	VAFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Nähe	_	NOUN	NN	_	4	NK	_	_
+7	des	_	DET	ART	_	8	NK	_	_
+8	Stengelhofes	_	NOUN	NN	_	6	AG	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	dem	_	DET	ART	_	12	NK	_	_
+11	heutigen	_	ADJ	ADJA	_	12	NK	_	_
+12	Rheinauhafen	_	NOUN	NN	_	8	APP	_	_
+13	,	_	PUNCT	$,	_	4	PUNCT	_	_
+14	in	_	ADP	APPR	_	4	CJ	_	_
+15	einer	_	DET	ART	_	17	NK	_	_
+16	alten	_	ADJ	ADJA	_	17	NK	_	_
+17	Kiesgrube	_	NOUN	NN	_	14	NK	_	_
+18	eine	_	DET	ART	_	21	NK	_	_
+19	ziemlich	_	ADV	ADV	_	20	MO	_	_
+20	ausgedehnte	_	ADJ	ADJA	_	21	NK	_	_
+21	Station	_	NOUN	NN	_	3	OA	_	_
+22	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

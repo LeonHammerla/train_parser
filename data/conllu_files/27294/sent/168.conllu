@@ -1,0 +1,18 @@
+# sent_id = 168
+# text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung;
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Hauptaufgabe	_	NOUN	NN	_	12	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	für	_	ADP	APPR	_	9	MO	_	_
+5	welche	_	PRON	PRELS	_	4	NK	_	_
+6	wir	_	PRON	PPER	_	10	SB	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Zeit	_	NOUN	NN	_	9	OA	_	_
+9	freigehalten	_	VERB	VVINF	_	10	OC	_	_
+10	haben	_	VERB	VAFIN	_	2	RC	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	ist	_	VERB	VAFIN	_	0	--	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Unfallversicherungsgesetzgebung	_	NOUN	NN	_	12	PD	_	_
+15	;	_	PUNCT	$.	_	12	PUNCT	_	_
+
