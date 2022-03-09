@@ -1,15 +1,15 @@
 =====27329 with punctuations=====
-2000:		mean=12.5	max=48	min=0
-1880:		mean=18.84	max=54	min=0
-1960:		mean=15.33	max=64	min=0
-1940:		mean=11.17	max=33	min=0
-1820:		mean=15.63	max=62	min=0
-1860:		mean=21.61	max=74	min=0
-1840:		mean=17.06	max=57	min=0
-1900:		mean=22.93	max=75	min=0
-1980:		mean=17.07	max=61	min=0
-1920:		mean=20.76	max=67	min=0
-1803:		mean=40.14	max=175	min=0
+2000:		mean=22.5	max=48	min=16
+1880:		mean=35.8	max=54	min=12
+1960:		mean=25.09	max=64	min=5
+1940:		mean=20.1	max=33	min=10
+1820:		mean=29.7	max=62	min=11
+1860:		mean=35.36	max=74	min=6
+1840:		mean=30.33	max=57	min=10
+1900:		mean=34.4	max=75	min=9
+1980:		mean=25.6	max=61	min=8
+1920:		mean=35.3	max=67	min=10
+1803:		mean=56.2	max=175	min=11
 
 =====28451 with punctuations=====
 1890-1920:		mean=23.08	max=124	min=1
@@ -22,22 +22,22 @@
 
 
 =====27329 without punctuations=====
-2000:		mean=11.28	max=44	min=0
-1880:		mean=17.47	max=49	min=0
-1960:		mean=13.72	max=60	min=0
-1940:		mean=10.5	max=32	min=0
-1820:		mean=14.26	max=56	min=0
-1860:		mean=19.56	max=67	min=0
-1840:		mean=15.25	max=53	min=0
-1900:		mean=20.87	max=67	min=0
-1980:		mean=15.8	max=56	min=0
-1920:		mean=19.18	max=64	min=0
-1803:		mean=35.64	max=154	min=0
+2000:		mean=20.3	max=44	min=11
+1880:		mean=33.2	max=49	min=11
+1960:		mean=22.45	max=60	min=4
+1940:		mean=18.9	max=32	min=8
+1820:		mean=27.1	max=56	min=10
+1860:		mean=32.0	max=67	min=5
+1840:		mean=27.11	max=53	min=9
+1900:		mean=31.3	max=67	min=8
+1980:		mean=23.7	max=56	min=5
+1920:		mean=32.6	max=64	min=8
+1803:		mean=49.9	max=154	min=10
 
 =====28451 without punctuations=====
-1890-1920:		mean=19.27	max=104	min=0
-1890:		mean=19.32	max=83	min=0
-1930-1950:		mean=18.05	max=76	min=0
+1890-1920:		mean=19.54	max=104	min=1
+1890:		mean=19.62	max=83	min=1
+1930-1950:		mean=18.3	max=76	min=1
 1920-1930:		mean=17.41	max=47	min=3
-1950:		mean=11.78	max=36	min=0
+1950:		mean=12.07	max=36	min=1
 

@@ -24,9 +24,11 @@ ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 
 def corpus_sent_info(punct: bool = True,
-                     print_short_sents: bool = False) -> Dict[str, Dict[str, Union[List[str], Callable[[str], str], Dict[str, List[int]]]]]:
+                     print_short_sents: bool = False,
+                     exclude_empty_sents: bool = True) -> Dict[str, Dict[str, Union[List[str], Callable[[str], str], Dict[str, List[int]]]]]:
     """
     Function for collecting sent length info for different corpora.
+    :param exclude_empty_sents:
     :param print_short_sents:
     :param punct:
     :return:
@@ -74,7 +76,10 @@ def corpus_sent_info(punct: bool = True,
                     if sent_length < 2:
                         print(f"sent-(punct={punct}): {sentence.get_covered_text()}")
 
-                sentence_lengths.append(sent_length)
+                if exclude_empty_sents and sent_length == 0:
+                    pass
+                else:
+                    sentence_lengths.append(sent_length)
             # --> Getting Year of document:
             cas_year_id = corpus_info[dir]["splitter"](caspath)
             # --> Filling results in result-dict:
@@ -87,15 +92,20 @@ def corpus_sent_info(punct: bool = True,
 
 
 def extracting_all_sent_info(save_file_path: str,
-                             print_short_sents: bool = False):
+                             print_short_sents: bool = False,
+                             exclude_empty_sents: bool = True):
     """
     Function to save stats to file.
+    :param exclude_empty_sents:
+    :param print_short_sents:
     :param save_file_path:
     :return:
     """
     with open(save_file_path, "w") as f:
         # --> stats with puncts:
-        corpus_info_with_punct = corpus_sent_info(punct=True, print_short_sents=print_short_sents)
+        corpus_info_with_punct = corpus_sent_info(punct=True,
+                                                  print_short_sents=print_short_sents,
+                                                  exclude_empty_sents=exclude_empty_sents)
         for dir in corpus_info_with_punct:
             f.write(f"{5*'='}{dir} with punctuations{5*'='}\n")
             for timeslice in corpus_info_with_punct[dir]["timebuckets"].keys():
@@ -108,7 +118,9 @@ def extracting_all_sent_info(save_file_path: str,
 
         f.write("\n\n\n")
         # --> stats without puncts:
-        corpus_info_with_punct = corpus_sent_info(punct=False,  print_short_sents=print_short_sents)
+        corpus_info_with_punct = corpus_sent_info(punct=False,
+                                                  print_short_sents=print_short_sents,
+                                                  exclude_empty_sents=exclude_empty_sents)
         for dir in corpus_info_with_punct:
             f.write(f"{5 * '='}{dir} without punctuations{5 * '='}\n")
             for timeslice in corpus_info_with_punct[dir]["timebuckets"].keys():
