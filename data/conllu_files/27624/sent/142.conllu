@@ -1,35 +1,14 @@
 # sent_id = 142
-# text = Ich glaube, niemals konnte man ergriffener sein als heute, wo wir die Worte hörten, die aus Schmach und Not heraus wieder zur Größe und zur Ehre führen sollen.
-1	Ich	_	_	_	_	2	nsubj	_	_
-2	glaube	_	_	_	_	0	root	_	_
-3	,	_	_	_	_	7	punct	_	_
-4	niemals	_	_	_	_	7	advmod	_	_
-5	konnte	_	_	_	_	7	aux	_	_
-6	man	_	_	_	_	7	nsubj	_	_
-7	ergriffener	_	_	_	_	2	ccomp	_	_
-8	sein	_	_	_	_	7	cop	_	_
-9	als	_	_	_	_	10	case	_	_
-10	heute	_	_	_	_	7	advmod	_	_
-11	,	_	_	_	_	16	punct	_	_
-12	wo	_	_	_	_	16	advmod	_	_
-13	wir	_	_	_	_	16	nsubj	_	_
-14	die	_	_	_	_	15	det	_	_
-15	Worte	_	_	_	_	16	obj	_	_
-16	hörten	_	_	_	_	10	acl	_	_
-17	,	_	_	_	_	30	punct	_	_
-18	die	_	_	_	_	30	nsubj	_	_
-19	aus	_	_	_	_	20	case	_	_
-20	Schmach	_	_	_	_	30	obl	_	_
-21	und	_	_	_	_	22	cc	_	_
-22	Not	_	_	_	_	20	conj	_	_
-23	heraus	_	_	_	_	19	fixed	_	_
-24	wieder	_	_	_	_	30	advmod	_	_
-25	zur	_	_	_	_	26	case	_	_
-26	Größe	_	_	_	_	30	obl	_	_
-27	und	_	_	_	_	29	cc	_	_
-28	zur	_	_	_	_	29	case	_	_
-29	Ehre	_	_	_	_	26	conj	_	_
-30	führen	_	_	_	_	15	acl	_	_
-31	sollen	_	_	_	_	30	aux	_	_
-32	.	_	_	_	_	2	punct	_	_
+# text = Er wird aber meiner Auffassung nach gar nicht schädlich wirken.
+1	Er	_	_	_	_	10	nsubj	_	_
+2	wird	_	_	_	_	10	aux	_	_
+3	aber	_	_	_	_	10	advmod	_	_
+4	meiner	_	_	_	_	5	det:poss	_	_
+5	Auffassung	_	_	_	_	10	obl	_	_
+6	nach	_	_	_	_	5	case	_	_
+7	gar	_	_	_	_	8	advmod	_	_
+8	nicht	_	_	_	_	10	advmod	_	_
+9	schädlich	_	_	_	_	10	xcomp	_	_
+10	wirken	_	_	_	_	0	root	_	_
+11	.	_	_	_	_	10	punct	_	_
 

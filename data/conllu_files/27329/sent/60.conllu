@@ -1,9 +1,22 @@
 # sent_id = 60
-# text = 1 each as a compensation.
-1	1	_	NUM	CD	_	0	root	_	_
-2	each	_	DET	DT	_	1	nmod:npmod	_	_
-3	as	_	ADP	IN	_	5	case	_	_
-4	a	_	DET	DT	_	5	det	_	_
-5	compensation	_	NOUN	NN	_	1	nmod	_	_
-6	.	_	PUNCT	.	_	1	punct	_	_
+# text = These, my lord, are a few of the leading particulars of the meetings which I attended.
+1	These	_	DET	DT	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	8	punct	_	_
+3	my	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	lord	_	NOUN	NN	_	1	vocative	_	_
+5	,	_	PUNCT	,	_	8	punct	_	_
+6	are	_	VERB	VBP	_	8	cop	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	few	_	ADJ	JJ	_	0	root	_	_
+9	of	_	ADP	IN	_	12	case	_	_
+10	the	_	DET	DT	_	12	det	_	_
+11	leading	_	VERB	VBG	_	12	amod	_	_
+12	particulars	_	NOUN	NNS	_	8	nmod	_	_
+13	of	_	ADP	IN	_	15	case	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	meetings	_	NOUN	NNS	_	12	nmod	_	_
+16	which	_	DET	WDT	_	18	obj	_	_
+17	I	_	PRON	PRP	_	18	nsubj	_	_
+18	attended	_	VERB	VBD	_	15	acl:relcl	_	_
+19	.	_	PUNCT	.	_	8	punct	_	_
 

@@ -1,21 +1,26 @@
 # sent_id = 131
-# text = Die für vorliegende Betrachtung in Frage kommenden Bohrungen sind in der Zahlentafel 2, Seite 24 wiedergegeben.
-1	Die	_	DET	ART	_	8	NK	_	_
-2	für	_	ADP	APPR	_	7	MO	_	_
-3	vorliegende	_	ADJ	ADJA	_	4	NK	_	_
-4	Betrachtung	_	NOUN	NN	_	2	NK	_	_
-5	in	_	ADP	APPR	_	7	CVC	_	_
-6	Frage	_	NOUN	NN	_	5	NK	_	_
-7	kommenden	_	ADJ	ADJA	_	8	NK	_	_
-8	Bohrungen	_	NOUN	NN	_	9	SB	_	_
-9	sind	_	VERB	VAFIN	_	0	--	_	_
-10	in	_	ADP	APPR	_	17	MO	_	_
-11	der	_	DET	ART	_	12	NK	_	_
-12	Zahlentafel	_	NOUN	NN	_	10	NK	_	_
-13	2	_	NUM	CARD	_	12	NK	_	_
-14	,	_	PUNCT	$,	_	12	PUNCT	_	_
-15	Seite	_	NOUN	NN	_	12	NK	_	_
-16	24	_	NUM	CARD	_	15	NK	_	_
-17	wiedergegeben	_	VERB	VVPP	_	9	OC	_	_
-18	.	_	PUNCT	$.	_	9	PUNCT	_	_
+# text = Gaudinia fragilis oder Avena fragilis L. war im Jahre 1902 auf einem Kleeacker bei Mutterstadt in der Pfalz in 24 Exemplaren vorhanden.
+1	Gaudinia	_	PROPN	NE	_	2	PNC	_	_
+2	fragilis	_	PROPN	NE	_	7	SB	_	_
+3	oder	_	CONJ	KON	_	2	CD	_	_
+4	Avena	_	NOUN	NN	_	6	PNC	_	_
+5	fragilis	_	PROPN	NE	_	6	PNC	_	_
+6	L.	_	PROPN	NE	_	3	CJ	_	_
+7	war	_	VERB	VAFIN	_	7	ROOT	_	_
+8	im	_	ADP	APPRART	_	7	MO	_	_
+9	Jahre	_	NOUN	NN	_	8	NK	_	_
+10	1902	_	NUM	CARD	_	9	NK	_	_
+11	auf	_	ADP	APPR	_	22	MO	_	_
+12	einem	_	DET	ART	_	13	NK	_	_
+13	Kleeacker	_	NOUN	NN	_	11	NK	_	_
+14	bei	_	ADP	APPR	_	13	MNR	_	_
+15	Mutterstadt	_	NOUN	NN	_	14	NK	_	_
+16	in	_	ADP	APPR	_	15	MNR	_	_
+17	der	_	DET	ART	_	18	NK	_	_
+18	Pfalz	_	PROPN	NE	_	16	NK	_	_
+19	in	_	ADP	APPR	_	22	MO	_	_
+20	24	_	NUM	CARD	_	21	NK	_	_
+21	Exemplaren	_	NOUN	NN	_	19	NK	_	_
+22	vorhanden	_	ADJ	ADJD	_	7	PD	_	_
+23	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

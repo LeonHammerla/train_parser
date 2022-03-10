@@ -1,4 +1,4 @@
-# sent_id = 56
+# sent_id = 55
 # text = Auch um Frieden zu sichern, brauchen wir völlig neue Instrumente.
 1	Auch	_	_	_	_	5	advmod	_	_
 2	um	_	_	_	_	5	mark	_	_
@@ -13,7 +13,7 @@
 11	Instrumente	_	_	_	_	7	obj	_	_
 12	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 57
+# sent_id = 56
 # text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
 1	Jetzt	_	_	_	_	7	advmod	_	_
 2	will	_	_	_	_	7	aux	_	_
@@ -31,33 +31,7 @@
 14	bedeutet	_	_	_	_	7	ccomp	_	_
 15	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 58
-# text = Grenzüberschreitende Umweltverträglichkeitsprüfung im Rahmen der Verlängerung des Tagebaus Turow in Polen
-In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
-1	Grenzüberschreitende	_	_	_	_	2	amod	_	_
-2	Umweltverträglichkeitsprüfung	_	_	_	_	0	root	_	_
-3	im	_	_	_	_	4	case	_	_
-4	Rahmen	_	_	_	_	2	nmod	_	_
-5	der	_	_	_	_	6	det	_	_
-6	Verlängerung	_	_	_	_	4	nmod	_	_
-7	des	_	_	_	_	8	det	_	_
-8	Tagebaus	_	_	_	_	6	nmod	_	_
-9	Turow	_	_	_	_	8	flat	_	_
-10	in	_	_	_	_	11	case	_	_
-11	Polen	_	_	_	_	8	nmod	_	_
-12	In	_	_	_	_	14	case	_	_
-13	diesem	_	_	_	_	14	det	_	_
-14	Geist	_	_	_	_	21	obl	_	_
-15	sind	_	_	_	_	21	aux	_	_
-16	dann	_	_	_	_	21	advmod	_	_
-17	ja	_	_	_	_	21	advmod	_	_
-18	auch	_	_	_	_	21	advmod	_	_
-19	verschiedene	_	_	_	_	20	amod	_	_
-20	Aktionen	_	_	_	_	21	nsubj	_	_
-21	erfolgt	_	_	_	_	2	parataxis	_	_
-22	.	_	_	_	_	21	punct	_	_
-
-# sent_id = 59
+# sent_id = 57
 # text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
 1	Auch	_	_	_	_	3	advmod	_	_
 2	langzeitarbeitslose	_	_	_	_	3	amod	_	_
@@ -77,7 +51,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	auszusuchen	_	_	_	_	7	acl	_	_
 17	.	_	_	_	_	8	punct	_	_
 
-# sent_id = 60
+# sent_id = 58
 # text = Wir können Ihnen die Projekte gerne auflisten, damit Sie sehen, wie vielfältig dieses Programm ausgestaltet ist.
 1	Wir	_	_	_	_	7	nsubj	_	_
 2	können	_	_	_	_	7	aux	_	_
@@ -99,7 +73,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 18	ist	_	_	_	_	17	aux:pass	_	_
 19	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 61
+# sent_id = 59
 # text = Wir sollten in der Tat einen Beitrag dazu leisten, dass der Iran beides nicht tut.
 1	Wir	_	_	_	_	9	nsubj	_	_
 2	sollten	_	_	_	_	9	aux	_	_
@@ -119,7 +93,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	tut	_	_	_	_	8	advcl	_	_
 17	.	_	_	_	_	9	punct	_	_
 
-# sent_id = 62
+# sent_id = 60
 # text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
 1	Wenn	_	_	_	_	8	mark	_	_
 2	es	_	_	_	_	8	expl	_	_
@@ -139,7 +113,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	vorbei	_	_	_	_	11	compound:prt	_	_
 17	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 63
+# sent_id = 61
 # text = Umso schöner finde ich, dass sich Special Olympics Deutschland im Sommer um die Austragung der World Games beworben hat.
 1	Umso	_	_	_	_	3	advmod	_	_
 2	schöner	_	_	_	_	3	xcomp	_	_
@@ -163,7 +137,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 20	hat	_	_	_	_	19	aux	_	_
 21	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 64
+# sent_id = 62
 # text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
 1	Der	_	_	_	_	2	det	_	_
 2	Staat	_	_	_	_	6	nsubj	_	_
@@ -188,7 +162,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 21	können	_	_	_	_	20	aux	_	_
 22	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 65
+# sent_id = 63
 # text = Dieser Haushalt drückt das ganze Elend und die Beliebigkeit der Merkel-Ära aus, der wohl dunkelsten Kanzlerschaft, die Deutschland erlebt hat.
 1	Dieser	_	_	_	_	2	det	_	_
 2	Haushalt	_	_	_	_	3	nsubj	_	_
@@ -214,7 +188,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 22	hat	_	_	_	_	21	aux	_	_
 23	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 66
+# sent_id = 64
 # text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
 1	Der	_	_	_	_	3	det	_	_
 2	entscheidende	_	_	_	_	3	amod	_	_
@@ -239,7 +213,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 21	herauskommen	_	_	_	_	3	csubj	_	_
 22	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 67
+# sent_id = 65
 # text = Es sieht weiter vor, dass eine Zollgrenze entlang der Irischen See, also in ihrem eigenen Land, errichtet wird, wenn Großbritannien den Binnenmarkt verlässt.
 1	Es	_	_	_	_	2	nsubj	_	_
 2	sieht	_	_	_	_	0	root	_	_
@@ -270,7 +244,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 27	verlässt	_	_	_	_	20	advcl	_	_
 28	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 68
+# sent_id = 66
 # text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
 1	Aber	_	_	_	_	3	cc	_	_
 2	jetzt	_	_	_	_	3	advmod	_	_
@@ -300,7 +274,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 26	sehen	_	_	_	_	13	acl	_	_
 27	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 69
+# sent_id = 67
 # text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
 1	Ich	_	_	_	_	3	nsubj	_	_
 2	möchte	_	_	_	_	3	aux	_	_
@@ -332,7 +306,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 28	Hauses	_	_	_	_	26	nmod	_	_
 29	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 70
+# sent_id = 68
 # text = Wir werden, wie gesagt, dieses Thema in den nächsten wenigen Wochen intensiv beraten, im Übrigen nicht nur in den Fachausschüssen, sondern auch hier im Plenum.
 1	Wir	_	_	_	_	15	nsubj	_	_
 2	werden	_	_	_	_	15	aux	_	_
@@ -365,7 +339,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	Plenum	_	_	_	_	23	conj	_	_
 30	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 71
+# sent_id = 69
 # text = Ein Strafgericht prüft nicht, ob der Angeklagte die Möglichkeit zur Teilnahme am Kommunikationsprozess zwischen Volk und Staatsorganen hat, wenn es die Schuldunfähigkeit des Angeklagten feststellt und seine Unterbringung in einem psychiatrischen Krankenhaus anordnet, weshalb auch eine solche Anordnung nicht den Entzug des Wahlrechts mit sich bringen kann.
 1	Ein	_	_	_	_	2	det	_	_
 2	Strafgericht	_	_	_	_	3	nsubj	_	_
@@ -419,7 +393,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 50	kann	_	_	_	_	49	aux	_	_
 51	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 72
+# sent_id = 70
 # text = Ein Gutachten, das für unsere Fraktion erstellt wurde, kam zu dem Schluss, dass der Minister quasi gezockt hat, so wie man auf Schwarz oder Rot im Casino setzt.
 1	Ein	_	_	_	_	2	det	_	_
 2	Gutachten	_	_	_	_	11	nsubj	_	_
@@ -455,7 +429,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	setzt	_	_	_	_	20	advcl	_	_
 33	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 73
+# sent_id = 71
 # text = Ein Ehepaar mit dem gleichen Einkommen kommt auf eine Entlastung von 2013 Euro pro Monat, und eine Familie mit zwei Kindern und diesem Einkommen entlasten wir um 3931 Euro im Monat.
 1	Ein	_	_	_	_	2	det	_	_
 2	Ehepaar	_	_	_	_	7	nsubj	_	_
@@ -491,7 +465,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	Monat	_	_	_	_	30	nmod	_	_
 33	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 74
+# sent_id = 72
 # text = Der jetzige Haushaltsentwurf für 2019 mit der Finanzplanung bis 2020 und 2021 ist ein dreifacher Bruch des Koalitionsvertrages, weil wir die finanziellen Spielräume nicht prioritär für Entwicklung nutzen; denn wir bekämen demnachäußerst wenig.
 1	Der	_	_	_	_	3	det	_	_
 2	jetzige	_	_	_	_	3	amod	_	_

@@ -1,0 +1,37 @@
+This is a automatically created log-file:
+
+/home/stud_homes/s5935481/work3/parser_train/data/27294/spacy_bucket19_corrected.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/27294/spacy_1942_corrected.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/27294/spacy_1895_corrected.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/27329/2000.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--More than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/2000.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1880.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1960.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1940.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1820.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1860.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1840.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1900.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1980.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--More than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1980.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--More than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1980.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1920.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27329/1803.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/27624/spacy_1918_corrected.txt.xmi: Error--More than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-pre-1890-sel.txt.0.txt.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-pre-1890-sel.txt.0.txt.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-1930-1950-sel_new.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.1.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.1.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.1.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-1890-1920-sel_new.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-1890-1920-sel_new.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-1890-1920-sel_new.txt.0.txt.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Sentence-has uneven annotations?
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Less than one status-annotations for sent
+/home/stud_homes/s5935481/work3/parser_train/data/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi: Error--Less than one status-annotations for sent

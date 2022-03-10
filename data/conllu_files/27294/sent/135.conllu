@@ -1,43 +1,12 @@
 # sent_id = 135
-# text = Aber selbst die inzwischen schon zum Ritual erhobene Behauptung, man habe einen entscheidenden Schritt - "Durchbruch" heißt es - in der Luftreinhaltung durch die Einführung des schadstoffarmen Autos getan, macht die bedrückende Wirklichkeit nicht besser.
-1	Aber	_	ADV	ADV	_	9	MO	_	_
-2	selbst	_	ADV	ADV	_	9	MO	_	_
-3	die	_	DET	ART	_	9	NK	_	_
-4	inzwischen	_	ADV	ADV	_	8	MO	_	_
-5	schon	_	ADV	ADV	_	8	MO	_	_
-6	zum	_	ADP	APPRART	_	8	MO	_	_
-7	Ritual	_	NOUN	NN	_	6	NK	_	_
-8	erhobene	_	ADJ	ADJA	_	9	NK	_	_
-9	Behauptung	_	NOUN	NN	_	34	SB	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	man	_	PRON	PIS	_	12	SB	_	_
-12	habe	_	VERB	VAFIN	_	9	OC	_	_
-13	einen	_	DET	ART	_	15	NK	_	_
-14	entscheidenden	_	ADJ	ADJA	_	15	NK	_	_
-15	Schritt	_	NOUN	NN	_	32	OA	_	_
-16	-	_	PUNCT	$(	_	15	PUNCT	_	_
-17	"	_	PUNCT	$(	_	18	PUNCT	_	_
-18	Durchbruch	_	NOUN	NN	_	20	MO	_	_
-19	"	_	PUNCT	$(	_	18	PUNCT	_	_
-20	heißt	_	VERB	VVFIN	_	15	PAR	_	_
-21	es	_	PRON	PPER	_	20	SB	_	_
-22	-	_	PUNCT	$(	_	20	PUNCT	_	_
-23	in	_	ADP	APPR	_	32	MO	_	_
-24	der	_	DET	ART	_	25	NK	_	_
-25	Luftreinhaltung	_	NOUN	NN	_	23	NK	_	_
-26	durch	_	ADP	APPR	_	32	MO	_	_
-27	die	_	DET	ART	_	28	NK	_	_
-28	Einführung	_	NOUN	NN	_	26	NK	_	_
-29	des	_	DET	ART	_	31	NK	_	_
-30	schadstoffarmen	_	ADJ	ADJA	_	31	NK	_	_
-31	Autos	_	NOUN	NN	_	28	AG	_	_
-32	getan	_	VERB	VVPP	_	12	OC	_	_
-33	,	_	PUNCT	$,	_	34	PUNCT	_	_
-34	macht	_	VERB	VVFIN	_	0	--	_	_
-35	die	_	DET	ART	_	37	NK	_	_
-36	bedrückende	_	ADJ	ADJA	_	37	NK	_	_
-37	Wirklichkeit	_	NOUN	NN	_	34	OA	_	_
-38	nicht	_	X	PTKNEG	_	34	NG	_	_
-39	besser	_	ADJ	ADJD	_	34	MO	_	_
-40	.	_	PUNCT	$.	_	34	PUNCT	_	_
+# text = Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;
+1	Kreisleiter	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Malermeister	_	PROPN	NE	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Präsident	_	NOUN	NN	_	3	CJ	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Gewerbekammer	_	NOUN	NN	_	5	AG	_	_
+8	Hamburg	_	PROPN	NE	_	7	NK	_	_
+9	;	_	PUNCT	$.	_	1	PUNCT	_	_
 

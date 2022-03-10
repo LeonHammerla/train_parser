@@ -1,4 +1,4 @@
-# sent_id = 39
+# sent_id = 38
 # text = Das Anlehen ist aus den nächsten drei Etats zu tilgen.
 1	Das	_	_	_	_	2	det	_	_
 2	Anlehen	_	_	_	_	10	obj	_	_
@@ -12,7 +12,7 @@
 10	tilgen	_	_	_	_	10	root	_	_
 11	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 40
+# sent_id = 39
 # text = Das werde eine sehr starke Belastung der Neichsanstalt zur Folge haben.
 1	Das	_	_	_	_	11	nsubj	_	_
 2	werde	_	_	_	_	11	aux	_	_
@@ -27,7 +27,7 @@
 11	haben	_	_	_	_	0	root	_	_
 12	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 41
+# sent_id = 40
 # text = Der Rechnungshof soll sich zur Erfüllung dieser Aufgabe der Mitwirkung einer von ihm gewählten Treuhandgesellschaft bedienen können.
 1	Der	_	_	_	_	2	det	_	_
 2	Rechnungshof	_	_	_	_	16	nsubj	_	_
@@ -48,7 +48,7 @@
 17	können	_	_	_	_	16	aux	_	_
 18	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 42
+# sent_id = 41
 # text = Bei den Hinterbliebenen ergibt sich, wenn die Ergebnisse der beiden Zählungen verglichen werden, kein einheitliches Bild.
 1	Bei	_	_	_	_	3	case	_	_
 2	den	_	_	_	_	3	det	_	_
@@ -70,7 +70,7 @@
 18	Bild	_	_	_	_	4	nsubj	_	_
 19	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 43
+# sent_id = 42
 # text = Ich bitte die Damen und Herren, die das beschließen wollen, sich zu erheben.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -89,7 +89,7 @@
 15	erheben	_	_	_	_	2	xcomp	_	_
 16	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 44
+# sent_id = 43
 # text = Entfernung der Besatzung aus den Bade- und Luftkurorten des besetzten Gebiets, insbesondere von Kreuznach und Königstein.
 1	Entfernung	_	_	_	_	0	root	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -110,7 +110,7 @@
 17	Königstein	_	_	_	_	15	conj	_	_
 18	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 45
+# sent_id = 44
 # text = Hier gilt nicht das besondere Recht des § 84; sie sind aber Mitglieder der allgemeinen Ortskrankenkasse nach § 82.
 1	Hier	_	_	_	_	2	advmod	_	_
 2	gilt	_	_	_	_	0	root	_	_
@@ -134,7 +134,7 @@
 20	82	_	_	_	_	19	flat	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 46
+# sent_id = 45
 # text = Gegen Sträflinge, die das achtzehnte Lebensjahr nicht vollendet haben, sind auch die in der Schule anwendbaren Züchtigungsmittel zulässig.
 1	Gegen	_	_	_	_	2	case	_	_
 2	Sträflinge	_	_	_	_	20	obl	_	_
@@ -158,7 +158,7 @@
 20	zulässig	_	_	_	_	0	root	_	_
 21	.	_	_	_	_	20	punct	_	_
 
-# sent_id = 47
+# sent_id = 46
 # text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -183,7 +183,7 @@
 21	erheben	_	_	_	_	2	xcomp	_	_
 22	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 48
+# sent_id = 47
 # text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
 1	Der	_	_	_	_	2	det	_	_
 2	Kampf	_	_	_	_	6	nsubj	_	_
@@ -213,7 +213,7 @@
 26	aufbauen	_	_	_	_	17	acl	_	_
 27	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 49
+# sent_id = 48
 # text = Ob der Entwurf, der die Mittel flüssig machen will, um der Presse Hilfe zu bringen, diese Hilfe wirklich in umfangreicher Weise bringen wird, erscheint fraglich.
 1	Ob	_	_	_	_	25	mark	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -246,7 +246,7 @@
 29	fraglich	_	_	_	_	28	xcomp	_	_
 30	.	_	_	_	_	28	punct	_	_
 
-# sent_id = 50
+# sent_id = 49
 # text = Aber ich betone schon heute, daß es nicht angeht, daß wieder in der Hauptsache durch die Gewerkschaften die Verteilung und Durchführung dieser Fonds vorgenommen wird.
 1	Aber	_	_	_	_	3	cc	_	_
 2	ich	_	_	_	_	3	nsubj	_	_
@@ -277,7 +277,7 @@
 27	wird	_	_	_	_	26	aux:pass	_	_
 28	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 51
+# sent_id = 50
 # text = Das Briandsche Memorandum, der Briandsche Paneuropa-Plan will augenscheinlich diese Gefahr endgültig beseitigen, den letzten Schimmer, den letzten Schatten dieser Gefahr verschwinden lassen.
 1	Das	_	_	_	_	3	det	_	_
 2	Briandsche	_	_	_	_	3	amod	_	_
@@ -306,7 +306,7 @@
 25	lassen	_	_	_	_	13	conj	_	_
 26	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 52
+# sent_id = 51
 # text = Die Stellungnahme meiner politischen Freunde zu allen diesen Fragen war - das muß ich nachdrücklichst betonen und dem Herrn Minister für die Anerkennung, die er uns in dieser Hinsicht ausgesprochen hat, speziell Dank sagen - von jeher nicht von kleinlichen oder gar von partikularistischen Gesichtspunkten geleitet.
 1	Die	_	_	_	_	2	det	_	_
 2	Stellungnahme	_	_	_	_	48	nsubj:pass	_	_
@@ -358,7 +358,7 @@
 48	geleitet	_	_	_	_	0	root	_	_
 49	.	_	_	_	_	48	punct	_	_
 
-# sent_id = 53
+# sent_id = 52
 # text = Soweit die hiernach in Kraft getretenen Vorschriften nach Entscheidung des Reichsverwaltungsgerichts oder des Schiedsgerichts nicht zulässig sind, sind die Länder, Gemeinden und sonstigen öffentlichen Körperschaften verpflichtet, die Vorschriften mit rückwirkender Kraft nach Maßgabe der Entscheidung zu ändern.
 1	Soweit	_	_	_	_	16	mark	_	_
 2	die	_	_	_	_	7	det	_	_
@@ -402,7 +402,7 @@
 40	ändern	_	_	_	_	28	xcomp	_	_
 41	.	_	_	_	_	28	punct	_	_
 
-# sent_id = 54
+# sent_id = 53
 # text = Die sich überstürzenden Verhältnisse, die fortwährenden Neuaufstellungen und Umformierungen, die Verwendung der Formationen an verschiedenen Orten, vielfacher Personalwechsel und die häufigen, dazu meist rückwirkenden Änderungen der Gebührnisvorschriften haben eine ordnungsmäßige Rechnungslegung behindert.
 1	Die	_	_	_	_	4	det	_	_
 2	sich	_	_	_	_	3	obj	_	_
@@ -442,7 +442,7 @@
 36	behindert	_	_	_	_	0	root	_	_
 37	.	_	_	_	_	36	punct	_	_
 
-# sent_id = 55
+# sent_id = 54
 # text = Der Entwurf geht davon aus, daß diese Höchstgrenze selbst bei ungünstigeren Zeit- und Wirtschaftsverhältnissen ausreichen wird, da ja durch die Beschleunigung der nötigen Gebührenerhöhungen dem ordentlichen Einnahmebedarfe stets rechtzeitig Rechnung getragen werden kann.
 1	Der	_	_	_	_	2	det	_	_
 2	Entwurf	_	_	_	_	3	nsubj	_	_

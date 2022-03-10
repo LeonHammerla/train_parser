@@ -1,5 +1,23 @@
 # sent_id = 114
-# text = Maschinenschrift.
-1	Maschinenschrift	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Apera interrupta P. B. kann in jedem Sommer in der Nähe unserer großen Getreidelagerhäuser in den Häfen gesammelt werden.
+1	Apera	_	NOUN	NN	_	2	PNC	_	_
+2	interrupta	_	X	FM	_	5	SB	_	_
+3	P.	_	X	FM	_	4	PNC	_	_
+4	B.	_	PROPN	NE	_	2	PNC	_	_
+5	kann	_	VERB	VMFIN	_	0	--	_	_
+6	in	_	ADP	APPR	_	18	MO	_	_
+7	jedem	_	PRON	PIAT	_	8	NK	_	_
+8	Sommer	_	NOUN	NN	_	6	NK	_	_
+9	in	_	ADP	APPR	_	18	MO	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Nähe	_	NOUN	NN	_	9	NK	_	_
+12	unserer	_	PRON	PPOSAT	_	14	NK	_	_
+13	großen	_	ADJ	ADJA	_	14	NK	_	_
+14	Getreidelagerhäuser	_	NOUN	NN	_	11	AG	_	_
+15	in	_	ADP	APPR	_	18	MO	_	_
+16	den	_	DET	ART	_	17	NK	_	_
+17	Häfen	_	NOUN	NN	_	15	NK	_	_
+18	gesammelt	_	VERB	VVPP	_	19	OC	_	_
+19	werden	_	VERB	VAINF	_	5	OC	_	_
+20	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

@@ -1,4 +1,4 @@
-# sent_id = 146
+# sent_id = 142
 # text = Er wird aber meiner Auffassung nach gar nicht schädlich wirken.
 1	Er	_	_	_	_	10	nsubj	_	_
 2	wird	_	_	_	_	10	aux	_	_
@@ -12,7 +12,7 @@
 10	wirken	_	_	_	_	0	root	_	_
 11	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 147
+# sent_id = 143
 # text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	halte	_	_	_	_	0	root	_	_
@@ -30,7 +30,7 @@
 14	sei	_	_	_	_	13	cop	_	_
 15	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 148
+# sent_id = 144
 # text = Meine Herren, ich glaube wirklich, derartige Beispiele können hier außer Betracht bleiben.
 1	Meine	_	_	_	_	2	det:poss	_	_
 2	Herren	_	_	_	_	5	vocative	_	_
@@ -48,7 +48,7 @@
 14	bleiben	_	_	_	_	5	ccomp	_	_
 15	.	_	_	_	_	5	punct	_	_
 
-# sent_id = 149
+# sent_id = 145
 # text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
 1	Wer	_	_	_	_	2	nsubj	_	_
 2	hilft	_	_	_	_	0	root	_	_
@@ -63,7 +63,7 @@
 11	werden	_	_	_	_	6	advcl	_	_
 12	?	_	_	_	_	2	punct	_	_
 
-# sent_id = 150
+# sent_id = 146
 # text = Das ist die eine Wendung; nun kommt noch die zweite, der "zweite Streich".
 1	Das	_	_	_	_	5	nsubj	_	_
 2	ist	_	_	_	_	5	cop	_	_
@@ -84,7 +84,7 @@
 17	"	_	_	_	_	16	punct	_	_
 18	.	_	_	_	_	5	punct	_	_
 
-# sent_id = 151
+# sent_id = 147
 # text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -104,7 +104,7 @@
 16	wollen	_	_	_	_	15	aux	_	_
 17	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 152
+# sent_id = 148
 # text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
 1	Beide	_	_	_	_	2	det	_	_
 2	Herren	_	_	_	_	7	nsubj	_	_
@@ -127,7 +127,7 @@
 19	übereinstimmt	_	_	_	_	5	advcl	_	_
 20	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 153
+# sent_id = 149
 # text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
 1	Aus	_	_	_	_	3	case	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -152,7 +152,7 @@
 21	ist	_	_	_	_	20	aux	_	_
 22	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 154
+# sent_id = 150
 # text = Dringen wir auf Vereinfachung, dringen wir darauf, daß das Geld verwendet wird, eine tüchtige Marine zu schaffen.
 1	Dringen	_	_	_	_	1	ROOT	_	_
 2	wir	_	_	_	_	1	nsubj	_	_
@@ -176,7 +176,7 @@
 20	schaffen	_	_	_	_	13	advcl	_	_
 21	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 155
+# sent_id = 151
 # text = Meine Herren, die Frage der Klassifizirung hat der Herr Vorredner als eine Leimruthe bezeichnet, auf welche der Tabackpflanzer sich nicht werde leiten lassen.
 1	Meine	_	_	_	_	2	det:poss	_	_
 2	Herren	_	_	_	_	15	vocative	_	_
@@ -205,7 +205,7 @@
 25	lassen	_	_	_	_	14	acl	_	_
 26	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 156
+# sent_id = 152
 # text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
 1	Die	_	_	_	_	2	det	_	_
 2	meisten	_	_	_	_	14	nsubj	_	_
@@ -235,7 +235,7 @@
 26	hinzuzufügen	_	_	_	_	21	xcomp	_	_
 27	.	_	_	_	_	14	punct	_	_
 
-# sent_id = 157
+# sent_id = 153
 # text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
 1	Wenn	_	_	_	_	7	mark	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -264,7 +264,7 @@
 25	sollte	_	_	_	_	24	aux	_	_
 26	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 158
+# sent_id = 154
 # text = Es kommen mitunter sehr wichtige Petitionen vor, die auf die Verhandlungen und Beschlüsse des Hauses in der Sache von Einfluß sein können.
 1	Es	_	_	_	_	2	expl	_	_
 2	kommen	_	_	_	_	0	root	_	_
@@ -291,7 +291,7 @@
 23	können	_	_	_	_	21	aux	_	_
 24	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 159
+# sent_id = 155
 # text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
 1	Die	_	_	_	_	2	det	_	_
 2	Reichsverwaltung	_	_	_	_	3	nsubj	_	_
@@ -325,7 +325,7 @@
 30	werden	_	_	_	_	29	aux:pass	_	_
 31	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 160
+# sent_id = 156
 # text = Wenn im § 7 ausdrücklich bestimmt sei, daß gegen den jetzt bewilligten Wohnungsgeldzuschuß die bisherigen Lokalzulagen für alle Civilbeamten wegfallen, so entspreche es der Billigkeit, daß auch für Offiziere und Militärbeamte neben dem neuen Servis derjenige Theil des früheren Servises fortfalle, welcher seiner Natur nach nichts Anderes sei, als eine in weiterem Umfange durchgeführte Lokalzulage.
 1	Wenn	_	_	_	_	6	mark	_	_
 2	im	_	_	_	_	3	case	_	_
@@ -389,7 +389,7 @@
 60	Lokalzulage	_	_	_	_	51	nmod	_	_
 61	.	_	_	_	_	24	punct	_	_
 
-# sent_id = 161
+# sent_id = 157
 # text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung; das Gesetz hat, glaube ich, 170 Paragraphen.
 1	Die	_	_	_	_	2	det	_	_
 2	Hauptaufgabe	_	_	_	_	14	nsubj	_	_
@@ -417,7 +417,7 @@
 24	Paragraphen	_	_	_	_	18	obj	_	_
 25	.	_	_	_	_	14	punct	_	_
 
-# sent_id = 162
+# sent_id = 158
 # text = Denn die finanzielle Kalamität, welche aus dem Festhalten unrichtiger Steuersysteme gerade beim Zucker bereits überall  eingetreten ist, und die ungeheuren Zubußen, welche aus den öffentlichen Mitteln in den verschiedensten hierbei interessirenden Staaten geleistet worden sind und bei Festhaltung der Systeme noch weiter geleistet werden müssen, sind so groß, daß bei ernstlichem Willen auch nur einiger hervorragender und bedeutender Staaten die anderen sich der weiteren Nachfolge gar nicht werden entziehen können und für die Dauer auch nicht werden entziehen wollen.
 1	Denn	_	_	_	_	52	advmod	_	_
 2	die	_	_	_	_	4	det	_	_

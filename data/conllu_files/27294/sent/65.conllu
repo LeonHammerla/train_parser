@@ -1,0 +1,24 @@
+# sent_id = 65
+# text = Umso schöner finde ich, dass sich Special Olympics Deutschland im Sommer um die Austragung der World Games beworben hat.
+1	Umso	_	NOUN	NN	_	2	MO	_	_
+2	schöner	_	ADJ	ADJD	_	3	MO	_	_
+3	finde	_	VERB	VVFIN	_	0	--	_	_
+4	ich	_	PRON	PPER	_	3	SB	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	dass	_	CONJ	KOUS	_	20	CP	_	_
+7	sich	_	PRON	PRF	_	19	OA	_	_
+8	Special	_	PROPN	NE	_	9	PNC	_	_
+9	Olympics	_	PROPN	NE	_	20	SB	_	_
+10	Deutschland	_	PROPN	NE	_	9	NK	_	_
+11	im	_	ADP	APPRART	_	20	MO	_	_
+12	Sommer	_	NOUN	NN	_	11	NK	_	_
+13	um	_	ADP	APPR	_	19	OP	_	_
+14	die	_	DET	ART	_	15	NK	_	_
+15	Austragung	_	NOUN	NN	_	13	NK	_	_
+16	der	_	DET	ART	_	18	NK	_	_
+17	World	_	PROPN	NE	_	18	PNC	_	_
+18	Games	_	PROPN	NE	_	15	AG	_	_
+19	beworben	_	VERB	VVPP	_	20	OC	_	_
+20	hat	_	VERB	VAFIN	_	3	OC	_	_
+21	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,17 +1,23 @@
 # sent_id = 80
-# text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
-1	Das	_	PRON	PDS	_	2	SB	_	_
-2	ist	_	VERB	VAFIN	_	0	--	_	_
-3	das	_	DET	ART	_	4	NK	_	_
-4	Verdienst	_	NOUN	NN	_	2	PD	_	_
-5	,	_	PUNCT	$,	_	4	PUNCT	_	_
-6	das	_	PRON	PRELS	_	12	OA	_	_
-7	der	_	DET	ART	_	8	NK	_	_
-8	Lloyd	_	PROPN	NE	_	13	SB	_	_
-9	auf	_	ADP	APPR	_	12	MO	_	_
-10	die	_	DET	ART	_	11	NK	_	_
-11	Kingsin-Linie	_	NOUN	NN	_	9	NK	_	_
-12	ausgeübt	_	VERB	VVPP	_	13	OC	_	_
-13	hat	_	VERB	VAFIN	_	4	RC	_	_
-14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
+1	Aber	_	CONJ	KON	_	10	JU	_	_
+2	beim	_	ADP	APPRART	_	10	MO	_	_
+3	Kleinhandel	_	NOUN	NN	_	2	NK	_	_
+4	,	_	PUNCT	$,	_	10	PUNCT	_	_
+5	beim	_	ADP	APPRART	_	10	MO	_	_
+6	Verkauf	_	NOUN	NN	_	5	NK	_	_
+7	an	_	ADP	APPR	_	6	MNR	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Konsumenten	_	NOUN	NN	_	7	NK	_	_
+10	herrschen	_	VERB	VVFIN	_	0	--	_	_
+11	große	_	ADJ	ADJA	_	12	NK	_	_
+12	Mißstände	_	NOUN	NN	_	10	SB	_	_
+13	,	_	PUNCT	$,	_	10	PUNCT	_	_
+14	wie	_	PRON	PWAV	_	19	CP	_	_
+15	ich	_	PRON	PPER	_	19	SB	_	_
+16	zu	_	ADP	APPR	_	19	MO	_	_
+17	Anfang	_	NOUN	NN	_	16	NK	_	_
+18	bereits	_	ADV	ADV	_	19	MO	_	_
+19	andeutete	_	VERB	VVFIN	_	10	MO	_	_
+20	.	_	PUNCT	$.	_	10	PUNCT	_	_
 

@@ -1,26 +1,17 @@
 # sent_id = 199
-# text = Gaudinia fragilis oder Avena fragilis L. war im Jahre 1902 auf einem Kleeacker bei Mutterstadt in der Pfalz in 24 Exemplaren vorhanden.
-1	Gaudinia	_	PROPN	NE	_	2	PNC	_	_
-2	fragilis	_	PROPN	NE	_	7	SB	_	_
-3	oder	_	CONJ	KON	_	2	CD	_	_
-4	Avena	_	NOUN	NN	_	6	PNC	_	_
-5	fragilis	_	PROPN	NE	_	6	PNC	_	_
-6	L.	_	PROPN	NE	_	3	CJ	_	_
-7	war	_	VERB	VAFIN	_	7	ROOT	_	_
-8	im	_	ADP	APPRART	_	7	MO	_	_
-9	Jahre	_	NOUN	NN	_	8	NK	_	_
-10	1902	_	NUM	CARD	_	9	NK	_	_
-11	auf	_	ADP	APPR	_	22	MO	_	_
-12	einem	_	DET	ART	_	13	NK	_	_
-13	Kleeacker	_	NOUN	NN	_	11	NK	_	_
-14	bei	_	ADP	APPR	_	13	MNR	_	_
-15	Mutterstadt	_	NOUN	NN	_	14	NK	_	_
-16	in	_	ADP	APPR	_	15	MNR	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Pfalz	_	PROPN	NE	_	16	NK	_	_
-19	in	_	ADP	APPR	_	22	MO	_	_
-20	24	_	NUM	CARD	_	21	NK	_	_
-21	Exemplaren	_	NOUN	NN	_	19	NK	_	_
-22	vorhanden	_	ADJ	ADJD	_	7	PD	_	_
-23	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Wurde im Januar 1901 bei Johanniskreuz im Pfälzerwald durch Herrn Forstassistenten Jäger erlegt.
+1	Wurde	_	VERB	VAFIN	_	0	--	_	_
+2	im	_	ADP	APPRART	_	13	MO	_	_
+3	Januar	_	NOUN	NN	_	2	NK	_	_
+4	1901	_	NUM	CARD	_	3	NK	_	_
+5	bei	_	ADP	APPR	_	13	MO	_	_
+6	Johanniskreuz	_	PROPN	NE	_	5	NK	_	_
+7	im	_	ADP	APPRART	_	6	MNR	_	_
+8	Pfälzerwald	_	PROPN	NE	_	7	NK	_	_
+9	durch	_	ADP	APPR	_	13	SBP	_	_
+10	Herrn	_	NOUN	NN	_	9	NK	_	_
+11	Forstassistenten	_	ADJ	ADJA	_	10	NK	_	_
+12	Jäger	_	NOUN	NN	_	10	NK	_	_
+13	erlegt	_	VERB	VVFIN	_	1	OC	_	_
+14	.	_	PUNCT	$.	_	1	PUNCT	_	_
 

@@ -1,20 +1,28 @@
 # sent_id = 36
-# text = Sowie die Bekassine sich wieder in eine horizontale Lage bringt, ist das Meckern augenblicklich vorbei.
-1	Sowie	_	CONJ	KON	_	10	CP	_	_
-2	die	_	DET	ART	_	3	NK	_	_
-3	Bekassine	_	NOUN	NN	_	10	SB	_	_
-4	sich	_	PRON	PRF	_	10	OA	_	_
-5	wieder	_	ADV	ADV	_	10	MO	_	_
-6	in	_	ADP	APPR	_	10	MO	_	_
-7	eine	_	DET	ART	_	9	NK	_	_
-8	horizontale	_	ADJ	ADJA	_	9	NK	_	_
-9	Lage	_	NOUN	NN	_	6	NK	_	_
-10	bringt	_	VERB	VVFIN	_	12	MO	_	_
-11	,	_	PUNCT	$,	_	12	PUNCT	_	_
-12	ist	_	VERB	VAFIN	_	0	--	_	_
-13	das	_	DET	ART	_	14	NK	_	_
-14	Meckern	_	NOUN	NN	_	12	SB	_	_
-15	augenblicklich	_	ADJ	ADJD	_	12	MO	_	_
-16	vorbei	_	VERB	PTKVZ	_	12	MO	_	_
-17	.	_	PUNCT	$.	_	12	PUNCT	_	_
+# text = „Die Vögel konnten unmöglich nach Norden streichen, grade in das nachwinterliche Wetter hinein, welches mit Ost- und Hordwind dort eintrat.“
+1	„	_	PUNCT	$(	_	4	PUNCT	_	_
+2	Die	_	DET	ART	_	3	NK	_	_
+3	Vögel	_	NOUN	NN	_	4	SB	_	_
+4	konnten	_	VERB	VMFIN	_	0	--	_	_
+5	unmöglich	_	ADJ	ADJD	_	8	MO	_	_
+6	nach	_	ADP	APPR	_	8	OP	_	_
+7	Norden	_	NOUN	NN	_	6	NK	_	_
+8	streichen	_	VERB	VVINF	_	4	OC	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	grade	_	NOUN	NN	_	11	MO	_	_
+11	in	_	ADP	APPR	_	6	CJ	_	_
+12	das	_	DET	ART	_	14	NK	_	_
+13	nachwinterliche	_	ADJ	ADJA	_	14	NK	_	_
+14	Wetter	_	NOUN	NN	_	11	NK	_	_
+15	hinein	_	VERB	PTKVZ	_	11	AC	_	_
+16	,	_	PUNCT	$,	_	4	PUNCT	_	_
+17	welches	_	PRON	PRELS	_	23	SB	_	_
+18	mit	_	ADP	APPR	_	23	MO	_	_
+19	Ost-	_	X	TRUNC	_	20	CJ	_	_
+20	und	_	CONJ	KON	_	21	CD	_	_
+21	Hordwind	_	NOUN	NN	_	18	NK	_	_
+22	dort	_	ADV	ADV	_	23	MO	_	_
+23	eintrat	_	VERB	VVFIN	_	14	RC	_	_
+24	.	_	PUNCT	$.	_	4	PUNCT	_	_
+25	“	_	PUNCT	$(	_	4	PUNCT	_	_
 

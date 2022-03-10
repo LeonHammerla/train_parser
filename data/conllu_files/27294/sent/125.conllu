@@ -1,0 +1,27 @@
+# sent_id = 125
+# text = Im übrigen kann seit geraumer Zeit vom sogenannten Restdrittel-Erlaß Gebrauch gemacht werden, nämlich dann, wenn sich einer bei der Strafverbüßung wohlverhält.
+1	Im	_	ADP	APPRART	_	3	MO	_	_
+2	übrigen	_	ADJ	ADJA	_	1	NK	_	_
+3	kann	_	VERB	VMFIN	_	0	--	_	_
+4	seit	_	ADP	APPR	_	3	MO	_	_
+5	geraumer	_	ADJ	ADJA	_	6	NK	_	_
+6	Zeit	_	NOUN	NN	_	4	NK	_	_
+7	vom	_	ADP	APPRART	_	11	MO	_	_
+8	sogenannten	_	ADJ	ADJA	_	9	NK	_	_
+9	Restdrittel-Erlaß	_	NOUN	NN	_	7	NK	_	_
+10	Gebrauch	_	NOUN	NN	_	11	CVC	_	_
+11	gemacht	_	VERB	VVPP	_	12	OC	_	_
+12	werden	_	VERB	VAINF	_	3	OC	_	_
+13	,	_	PUNCT	$,	_	3	PUNCT	_	_
+14	nämlich	_	ADV	ADV	_	15	MO	_	_
+15	dann	_	ADV	ADV	_	3	MO	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	wenn	_	CONJ	KOUS	_	23	CP	_	_
+18	sich	_	PRON	PRF	_	23	OA	_	_
+19	einer	_	DET	ART	_	23	SB	_	_
+20	bei	_	ADP	APPR	_	23	MO	_	_
+21	der	_	DET	ART	_	22	NK	_	_
+22	Strafverbüßung	_	NOUN	NN	_	20	NK	_	_
+23	wohlverhält	_	VERB	VVFIN	_	15	RE	_	_
+24	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,4 +1,4 @@
-# sent_id = 372
+# sent_id = 246
 # text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
@@ -28,7 +28,7 @@
 26	finden	_	VERB	VVINF	_	18	OC	_	_
 27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 373
+# sent_id = 247
 # text = Hordeum secalinum, die Roggengerste.
 1	Hordeum	_	NOUN	NN	_	2	PNC	_	_
 2	secalinum	_	VERB	VVFIN	_	0	--	_	_
@@ -37,7 +37,7 @@
 5	Roggengerste	_	NOUN	NN	_	2	APP	_	_
 6	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 374
+# sent_id = 248
 # text = Dann kommen noch Lepturus incurvatus, L. filiformis und L. cylindricus.
 1	Dann	_	ADV	ADV	_	2	MO	_	_
 2	kommen	_	VERB	VVFIN	_	0	--	_	_
@@ -52,7 +52,7 @@
 11	cylindricus	_	PROPN	NE	_	9	CJ	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 375
+# sent_id = 249
 # text = Noch eine in der Pfalz sehr sehr seltene Graminee müssen wir erwähnen.
 1	Noch	_	ADV	ADV	_	2	MO	_	_
 2	eine	_	DET	ART	_	9	NK	_	_
@@ -68,7 +68,7 @@
 12	erwähnen	_	VERB	VVINF	_	10	OC	_	_
 13	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 376
+# sent_id = 250
 # text = Wie sie hierher kam, läßt sich nicht einmal vermuten.
 1	Wie	_	PRON	PWAV	_	4	MO	_	_
 2	sie	_	PRON	PPER	_	4	SB	_	_
@@ -82,7 +82,7 @@
 10	vermuten	_	VERB	VVINF	_	6	OC	_	_
 11	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 377
+# sent_id = 251
 # text = Polygonum cuspidatum Sieb, et Zucc, der japanische Riesenknöterich, hat sich an manchen Orten fest angesiedelt und scheint sich in unserem Klima sehr wohl zu befinden und dehnt seine Kolonien von Jahr zu Jahr immer weiter aus.
 1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
 2	cuspidatum	_	PROPN	NE	_	3	NK	_	_
@@ -125,7 +125,7 @@
 39	aus	_	VERB	PTKVZ	_	30	SVP	_	_
 40	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 378
+# sent_id = 252
 # text = Rumex maritimus ist bei Mundenheim und Maudach in echt typischer Form noch vorhanden, ist aber so selten geworden, daß man schon Glück haben muß, wenn man noch ein Exemplar entdeckt.
 1	Rumex	_	PROPN	NE	_	2	PNC	_	_
 2	maritimus	_	PROPN	NE	_	3	SB	_	_
@@ -162,7 +162,7 @@
 33	entdeckt	_	VERB	VVPP	_	26	MO	_	_
 34	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 379
+# sent_id = 253
 # text = Polygonum Bistorta L. in vielen Gegenden, z. B. im Taunus bei Langenschwalbach auf Wiesen gemein, ist bei uns ebenfalls fast vollständig verschwunden und nur im Odenwald ist es an wenigen Standorten noch vorhanden.
 1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
 2	Bistorta	_	PROPN	NE	_	3	PNC	_	_
@@ -201,7 +201,7 @@
 35	vorhanden	_	ADJ	ADJD	_	29	PD	_	_
 36	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 380
+# sent_id = 254
 # text = Bei Ketsch am Rhein hat sich Rumex pulcher angesiedelt;
 1	Bei	_	ADP	APPR	_	9	MO	_	_
 2	Ketsch	_	PROPN	NE	_	1	NK	_	_
@@ -214,7 +214,7 @@
 9	angesiedelt	_	VERB	VVPP	_	5	OC	_	_
 10	;	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 381
+# sent_id = 255
 # text = An den Schmidt'schen Standorten sind die Thesium- arten fast vollständig erloschen.
 1	An	_	ADP	APPR	_	11	MO	_	_
 2	den	_	DET	ART	_	4	NK	_	_

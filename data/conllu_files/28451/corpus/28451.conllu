@@ -349,36 +349,6 @@
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
 # sent_id = 12
-# text = Die Agraylea-Larve aus dem Altrhein Neuhofen, deren Nymphe Herr Prof. Klapalek als A. pallidulaerstere gehört der Gattung Agraylea an, letztere ist noch etwas zweifelhaft.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Agraylea-Larve	_	NOUN	NN	_	16	SB	_	_
-3	aus	_	ADP	APPR	_	2	MNR	_	_
-4	dem	_	DET	ART	_	5	NK	_	_
-5	Altrhein	_	NOUN	NN	_	3	NK	_	_
-6	Neuhofen	_	NOUN	NN	_	5	NK	_	_
-7	,	_	PUNCT	$,	_	5	PUNCT	_	_
-8	deren	_	PRON	PRELAT	_	10	AG	_	_
-9	Nymphe	_	PROPN	NE	_	10	NK	_	_
-10	Herr	_	NOUN	NN	_	16	SB	_	_
-11	Prof.	_	NOUN	NN	_	10	PUNCT	_	_
-12	Klapalek	_	PROPN	NE	_	10	NK	_	_
-13	als	_	ADP	APPR	_	15	CM	_	_
-14	A.	_	PROPN	NE	_	15	PNC	_	_
-15	pallidulaerstere	_	NOUN	NN	_	12	CC	_	_
-16	gehört	_	VERB	VVFIN	_	0	--	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Gattung	_	NOUN	NN	_	16	DA	_	_
-19	Agraylea	_	PROPN	NE	_	18	NK	_	_
-20	an	_	VERB	PTKVZ	_	16	SVP	_	_
-21	,	_	PUNCT	$,	_	16	PUNCT	_	_
-22	letztere	_	PRON	PIS	_	23	SB	_	_
-23	ist	_	VERB	VAFIN	_	16	CJ	_	_
-24	noch	_	ADV	ADV	_	25	MO	_	_
-25	etwas	_	ADV	ADV	_	26	MO	_	_
-26	zweifelhaft	_	ADJ	ADJD	_	23	PD	_	_
-27	.	_	PUNCT	$.	_	16	PUNCT	_	_
-
-# sent_id = 13
 # text = Eine zweite Generation von Larven fand ich von Juni bis August-September, dieses Mal aber hauptsächlich an den Stengeln von Scirpus, Typha, Sparaganium, an den Blattstielen und Blättern von Nym- phaea und Nuphar, seltener Potamogeton, an deren Unterseite dann auch die Nymphengehäuse, mit der Breitseite aufliegend, in der von Bremi geschilderten Weise mit vier Kabeln an den „Ecken" der Gehäuse verankert waren.
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	zweite	_	ADJ	ADJA	_	3	NK	_	_
@@ -453,7 +423,7 @@
 71	waren	_	VERB	VAFIN	_	39	RC	_	_
 72	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 14
+# sent_id = 13
 # text = Ich fand die Larve an Scirpus, Sparaganium, Potamogeton, Nuphar, Nymphaea, im März und April, dann wieder im August, September und im Oktober;
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	fand	_	VERB	VVFIN	_	0	--	_	_
@@ -486,7 +456,7 @@
 29	Oktober	_	NOUN	NN	_	28	NK	_	_
 30	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 15
+# sent_id = 14
 # text = In einer mir erst jetzt zugänglich gewordenen Arbeit von K.J.Morton (The Larva and case of Ithtyrichia lamellaris Eaton)
 1	In	_	ADP	APPR	_	0	--	_	_
 2	einer	_	DET	ART	_	8	NK	_	_
@@ -509,15 +479,7 @@
 19	Eaton	_	PROPN	NE	_	8	APP	_	_
 20	)	_	PUNCT	$(	_	19	PUNCT	_	_
 
-# sent_id = 16
-# text = Speculipastor bicolor, sp.
-1	Speculipastor	_	NOUN	NN	_	2	SB	_	_
-2	bicolor	_	VERB	VVFIN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	sp	_	X	XY	_	2	CJ	_	_
-5	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 17
+# sent_id = 15
 # text = Die während vieler Jahre durch Beobachtungen von Ornithologen aller Länder und der verschiedensten Richtungen angesammelten Beweise scheinen zuletzt zu dem Schlüsse zu nöthigen, dass kein spezifischer Unterschied zwischen den wissenschaftlich lang bekannten Vögeln Corvus corone und Gorvus cornix (Raben- und Nebelkrähe) besteht.
 1	Die	_	DET	ART	_	16	NK	_	_
 2	während	_	ADP	APPR	_	15	MO	_	_
@@ -566,7 +528,7 @@
 45	besteht	_	VERB	VVFIN	_	21	OC	_	_
 46	.	_	PUNCT	$.	_	17	PUNCT	_	_
 
-# sent_id = 18
+# sent_id = 16
 # text = Aehnliche Fälle der Verbastadirung sind bei Fasanen vom Himalaya, Coracias indica und affinis und bei nordamerikanischen Spechten (Colaptes) beobachtet.
 1	Aehnliche	_	ADJ	ADJA	_	2	NK	_	_
 2	Fälle	_	NOUN	NN	_	5	SB	_	_
@@ -592,7 +554,7 @@
 22	beobachtet	_	VERB	VVPP	_	5	OC	_	_
 23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 19
+# sent_id = 17
 # text = Sie baut ihr Nest, gleichviel ob an den stürmisch bewegten Klippen Schottlands oder auf den Palmen des sonnigen Egyptens.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	baut	_	VERB	VVFIN	_	0	--	_	_
@@ -616,7 +578,7 @@
 20	Egyptens	_	NOUN	NN	_	17	AG	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 20
+# sent_id = 18
 # text = Jenseits dieser Grenze aber ändert sich die Sachlage und beinahe auf einmal wird die graue Krähe die allgemeinere Art, denn obgleich die schwarze Krähe noch vorkommt, allenfalls in den niedrig gelegenen Gegenden, sogar weit nördlich, hält doch ihre Zahl keinen Vergleich mit der der ersteren in ganz Schottland aus, wo beide Arten ganz allgemein „Huddies“ genannt werden, ein corrumpirter Name von „Hooded Crow“ und darum eigentlich auf die theilweise schwarzen Vögel sich beziehend, während die ganz schwarzen Vögel als „Black Huddies“ unterschieden sind.
 1	Jenseits	_	ADP	APPR	_	5	MO	_	_
 2	dieser	_	PRON	PDAT	_	3	NK	_	_
@@ -716,7 +678,7 @@
 96	sind	_	VERB	VAFIN	_	83	MO	_	_
 97	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 21
+# sent_id = 19
 # text = In der nördlichen Hemisphäre sind alle Vögel diesem Einflüsse unterworfen und ziehen oder streichen in südlicher Bichtung, sobald der Sommer geschieden.
 1	In	_	ADP	APPR	_	5	MO	_	_
 2	der	_	DET	ART	_	4	NK	_	_
@@ -742,7 +704,7 @@
 22	geschieden	_	VERB	VVPP	_	12	MO	_	_
 23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 22
+# sent_id = 20
 # text = Dagegen ist die schwarze Form verhältnissmässig selten, daher kommt es wahrscheinlich, dass frühere Schriftsteller, welche über irische Vögel schreiben, als Payne im Jahre 1589 und Moryson 1617, ihr Vorkommen dort leugnen.
 1	Dagegen	_	ADV	PROAV	_	2	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -782,7 +744,7 @@
 36	leugnen	_	VERB	VVINF	_	11	RE	_	_
 37	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 23
+# sent_id = 21
 # text = Alle diese Einwände beweisen nur, dass das Verhalten der Bekassine beim Meckern noch immer Vielen, auch Ornithologen, nicht genügend bekannt ist.
 1	Alle	_	PRON	PIAT	_	3	NK	_	_
 2	diese	_	PRON	PDAT	_	3	NK	_	_
@@ -810,7 +772,7 @@
 24	ist	_	VERB	VAFIN	_	4	OC	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 24
+# sent_id = 22
 # text = Charles Smith, im Jahre 1750, ist augenscheinlich der Erste, der sie unter die Vögel von County-Cork aufnimmt.
 1	Charles	_	PROPN	NE	_	2	PNC	_	_
 2	Smith	_	PROPN	NE	_	8	SB	_	_
@@ -834,7 +796,7 @@
 20	aufnimmt	_	VERB	VVFIN	_	11	RC	_	_
 21	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 25
+# sent_id = 23
 # text = Es wird ihm dann ergehen wie einst Altum, als Krüper ihn zuerst zu einer meckernden Bekassine führte:
 1	Es	_	PRON	PPER	_	2	EP	_	_
 2	wird	_	VERB	VAFIN	_	0	--	_	_
@@ -856,25 +818,7 @@
 18	führte	_	VERB	VVFIN	_	5	MO	_	_
 19	:	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 26
-# text = Noch einmal das Meckern der Bekassine.
-1	Noch	_	ADV	ADV	_	2	MO	_	_
-2	einmal	_	ADV	ADV	_	4	MO	_	_
-3	das	_	DET	ART	_	4	NK	_	_
-4	Meckern	_	NOUN	NN	_	0	--	_	_
-5	der	_	DET	ART	_	6	NK	_	_
-6	Bekassine	_	NOUN	NN	_	4	AG	_	_
-7	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 27
-# text = (Schluss folgt.)
-1	(	_	PUNCT	$(	_	3	PUNCT	_	_
-2	Schluss	_	PROPN	NE	_	3	SB	_	_
-3	folgt	_	VERB	VVFIN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-5	)	_	PUNCT	$(	_	3	PUNCT	_	_
-
-# sent_id = 28
+# sent_id = 24
 # text = Die letztere also bewohnt Syrien und den Süden von Palästina, freilich scheint sie hier örtlich zu sein in ihrer Ausbreitung, aber sie ist ein gut bekannter Vogel in Aegypten und eben so erscheint sie in Nubien.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	letztere	_	PRON	PIS	_	4	SB	_	_
@@ -916,7 +860,7 @@
 38	Nubien	_	PROPN	NE	_	37	NK	_	_
 39	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 29
+# sent_id = 25
 # text = Er wird die Bekassine so nahe haben, dass er über die Natur des Meckerns zur vollständigen Gewissheit gelangen kann.
 1	Er	_	PRON	PPER	_	2	SB	_	_
 2	wird	_	VERB	VAFIN	_	0	--	_	_
@@ -940,7 +884,7 @@
 20	kann	_	VERB	VMFIN	_	5	RE	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 30
+# sent_id = 26
 # text = Ferner ist gegen die Altum’sche und Meves’sche Theorie, das Meckern werde durch die Schwanzfedern bewirkt, der Einwurf erhoben, es sei ganz unmöglich, dass die Bekassine „im langsam gleitenden“ Fluge den Schwanz derartig halte, dass die Steuerfedern eine solche Lage erhielten, wie beim Experiment des Herrn Meves (durch welches dieser den versammelten Ornithologen das Meckern versinnlichte), ganz abgesehen davon, dass die Schwanzfedern durch die dichten Deckfedern vollständig verhüllt würden.
 1	Ferner	_	ADV	ADV	_	2	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -1028,7 +972,7 @@
 84	würden	_	VERB	VAFIN	_	73	RE	_	_
 85	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 31
+# sent_id = 27
 # text = Inmitten des Kreises der meckernden Bekassine in einem vorher dazu hergerichteten Wachholderbusche, oder auch in einem selbst bereiteten „Jagdschirm“ in der richtigen Balzzeit, etwa im letzten Drittel des März bis zur Mitte April, wohlgedeckt stehend (das balzende Bekassinen-Männchen umfliegt meist während der ganzen Balzzeit nahezu in einem Kreise den zum Nisten ausersehenen Platz), wird es dem Zweifler vielleicht ebenso gelingen, wie es mir mehrfach geglückt ist, das meckernde Bekassinen-Männchen während seines Absturzes herunter zu schiessen.
 1	Inmitten	_	ADP	APPR	_	40	MO	_	_
 2	des	_	DET	ART	_	3	NK	_	_
@@ -1117,7 +1061,7 @@
 85	schiessen	_	VERB	VVINF	_	63	RE	_	_
 86	.	_	PUNCT	$.	_	39	PUNCT	_	_
 
-# sent_id = 32
+# sent_id = 28
 # text = Eine einzelne Bekassine trieb sich längere Zeit gleichfalls in sehr massiger Höhe über uns umher, in Liebesübermuth die ausgelassensten Kapriolen ausführend.
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	einzelne	_	ADJ	ADJA	_	3	NK	_	_
@@ -1143,7 +1087,7 @@
 22	ausführend	_	ADJ	ADJD	_	4	MO	_	_
 23	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 33
+# sent_id = 29
 # text = Die Bekassine legt sich dabei auf die Seite, so dass die Flügel, in ganz absonderlicher Weise gegen den Körper verkürzt, heftig vibrirend, fast senkrecht über einander stehen, die Schwanzfedern aber krampfhaft starren.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Bekassine	_	NOUN	NN	_	3	SB	_	_
@@ -1184,23 +1128,7 @@
 37	starren	_	VERB	VVINF	_	35	CJ	_	_
 38	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 34
-# text = Er sagt in der Naumannia 1852, Heft I, S. 26:
-1	Er	_	PRON	PPER	_	2	SB	_	_
-2	sagt	_	VERB	VVFIN	_	0	--	_	_
-3	in	_	ADP	APPR	_	2	MO	_	_
-4	der	_	DET	ART	_	5	NK	_	_
-5	Naumannia	_	NOUN	NN	_	3	NK	_	_
-6	1852	_	NUM	CARD	_	5	NK	_	_
-7	,	_	PUNCT	$,	_	6	PUNCT	_	_
-8	Heft	_	PROPN	NE	_	6	CJ	_	_
-9	I	_	NUM	CARD	_	8	NK	_	_
-10	,	_	PUNCT	$,	_	5	PUNCT	_	_
-11	S.	_	NOUN	NN	_	2	OA	_	_
-12	26	_	NUM	CARD	_	11	NK	_	_
-13	:	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 35
+# sent_id = 30
 # text = „Am 24. März 1846 gegen Mittag habe ich auf ganz freiem Moore, und zwar nach kurzem Zwischenräume zweimal von einer fliegenden Bekassine, die ich etwa während einer halben Stunde beobachtete, den ungefähr wie Jick— jack, jick—jack klingenden Gesang, wenn ich mich so ausdrücken darf, und das Meckern zu gleicher Zeit vernommen, d. h. das Meckern begann schon, ehe das diesem sonst vorhergehende Singen ganz beendigt war.
 1	„	_	PUNCT	$(	_	8	PUNCT	_	_
 2	Am	_	ADP	APPRART	_	8	MO	_	_
@@ -1279,7 +1207,7 @@
 75	war	_	VERB	VAFIN	_	64	MO	_	_
 76	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 36
+# sent_id = 31
 # text = Sowie die Bekassine sich wieder in eine horizontale Lage bringt, ist das Meckern augenblicklich vorbei.
 1	Sowie	_	CONJ	KON	_	10	CP	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -1299,7 +1227,7 @@
 16	vorbei	_	VERB	PTKVZ	_	12	MO	_	_
 17	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 37
+# sent_id = 32
 # text = Die Deckfedern können selbstverständlich bei dieser schrägen, seitlich beinah senkrechten Stellung der Schwanzfedern gar nicht in Frage kommen.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Deckfedern	_	NOUN	NN	_	3	SB	_	_
@@ -1322,7 +1250,7 @@
 19	kommen	_	VERB	VVINF	_	3	OC	_	_
 20	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 38
+# sent_id = 33
 # text = Immerhin erscheint es auffallend, dass nicht allein Jäger, welche zur Zeit dem Kehlmeckern wieder das Wort reden, sondern auch „Ornithologen von Fach“ von den oben erwähnten, in der Naumannia niedergelegten Beobachtungen gar keine Notiz nehmen.
 1	Immerhin	_	ADV	ADV	_	2	MO	_	_
 2	erscheint	_	VERB	VVFIN	_	0	--	_	_
@@ -1367,7 +1295,7 @@
 41	nehmen	_	VERB	VVINF	_	3	RE	_	_
 42	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 39
+# sent_id = 34
 # text = Am 25. März 1851, ebenfalls gegen Mittag, habe ich meine frühere Beobachtung auf das unzweifelhafteste bestätigt gefunden, indem ich den Gesang während des meckernden Schnurrens und auch noch nach demselben von einer und derselben sich gaukelnd umhertummelnden Bekassine ununterbrochen vernahm.
 1	Am	_	ADP	APPRART	_	19	MO	_	_
 2	25.	_	ADJ	ADJA	_	3	NK	_	_
@@ -1414,72 +1342,7 @@
 43	vernahm	_	VERB	VVFIN	_	19	MO	_	_
 44	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 40
-# text = Pralle hat auf Anregung des von Louis Ziegler in dessen Federwildjagd über das Schnurren der Bekassine Gesagten, dass es nämlich der Mühe werth wäre, wenn Jäger in bekassinenreichen Gegenden hierüber noch mehr gründliche Beobachtungen machten,, in einem kurzen Aufsatze seine eigenen Erfahrungen veröffentlicht, welche der Bechstein’schen Erklärungsweise widersprechen und die Naumann’sche bestätigen.
-1	Pralle	_	NOUN	NN	_	2	SB	_	_
-2	hat	_	VERB	VAFIN	_	0	--	_	_
-3	auf	_	ADP	APPR	_	47	MO	_	_
-4	Anregung	_	NOUN	NN	_	3	NK	_	_
-5	des	_	DET	ART	_	4	NK	_	_
-6	von	_	ADP	APPR	_	5	PG	_	_
-7	Louis	_	PROPN	NE	_	8	PNC	_	_
-8	Ziegler	_	PROPN	NE	_	6	NK	_	_
-9	in	_	ADP	APPR	_	5	MNR	_	_
-10	dessen	_	PRON	PDS	_	11	AG	_	_
-11	Federwildjagd	_	NOUN	NN	_	9	NK	_	_
-12	über	_	ADP	APPR	_	5	MNR	_	_
-13	das	_	DET	ART	_	14	NK	_	_
-14	Schnurren	_	NOUN	NN	_	12	NK	_	_
-15	der	_	DET	ART	_	17	NK	_	_
-16	Bekassine	_	NOUN	NN	_	17	NK	_	_
-17	Gesagten	_	NOUN	NN	_	14	AG	_	_
-18	,	_	PUNCT	$,	_	5	PUNCT	_	_
-19	dass	_	CONJ	KOUS	_	25	CP	_	_
-20	es	_	PRON	PPER	_	25	SB	_	_
-21	nämlich	_	ADV	ADV	_	25	MO	_	_
-22	der	_	DET	ART	_	23	NK	_	_
-23	Mühe	_	NOUN	NN	_	24	DA	_	_
-24	werth	_	ADJ	ADJD	_	25	PD	_	_
-25	wäre	_	VERB	VAFIN	_	5	CC	_	_
-26	,	_	PUNCT	$,	_	25	PUNCT	_	_
-27	wenn	_	CONJ	KOUS	_	37	CP	_	_
-28	Jäger	_	NOUN	NN	_	37	SB	_	_
-29	in	_	ADP	APPR	_	37	MO	_	_
-30	bekassinenreichen	_	ADJ	ADJA	_	31	NK	_	_
-31	Gegenden	_	NOUN	NN	_	29	NK	_	_
-32	hierüber	_	ADV	PROAV	_	37	MO	_	_
-33	noch	_	ADV	ADV	_	34	MO	_	_
-34	mehr	_	PRON	PIAT	_	36	NK	_	_
-35	gründliche	_	ADJ	ADJA	_	36	NK	_	_
-36	Beobachtungen	_	NOUN	NN	_	37	OA	_	_
-37	machten	_	VERB	VVFIN	_	25	MO	_	_
-38	,	_	PUNCT	$,	_	5	PUNCT	_	_
-39	,	_	PUNCT	$,	_	47	PUNCT	_	_
-40	in	_	ADP	APPR	_	47	MO	_	_
-41	einem	_	DET	ART	_	43	NK	_	_
-42	kurzen	_	ADJ	ADJA	_	43	NK	_	_
-43	Aufsatze	_	NOUN	NN	_	40	NK	_	_
-44	seine	_	PRON	PPOSAT	_	46	NK	_	_
-45	eigenen	_	ADJ	ADJA	_	46	NK	_	_
-46	Erfahrungen	_	NOUN	NN	_	47	OA	_	_
-47	veröffentlicht	_	VERB	VVPP	_	2	OC	_	_
-48	,	_	PUNCT	$,	_	47	PUNCT	_	_
-49	welche	_	PRON	PRELS	_	55	OA	_	_
-50	der	_	DET	ART	_	51	NK	_	_
-51	Bechstein	_	NOUN	NN	_	55	SB	_	_
-52	’	_	NOUN	NN	_	51	NK	_	_
-53	schen	_	ADJ	ADJA	_	54	NK	_	_
-54	Erklärungsweise	_	NOUN	NN	_	55	OA	_	_
-55	widersprechen	_	VERB	VVINF	_	4	RC	_	_
-56	und	_	CONJ	KON	_	55	CD	_	_
-57	die	_	DET	ART	_	58	NK	_	_
-58	Naumann	_	PROPN	NE	_	61	OA	_	_
-59	’	_	PROPN	NE	_	58	NK	_	_
-60	sche	_	ADJ	ADJA	_	61	OA	_	_
-61	bestätigen	_	VERB	VVINF	_	56	CJ	_	_
-62	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 41
+# sent_id = 35
 # text = So nahe der meckernden Bekassine, wird er ferner gewahr werden, dass das Meckern niemals im horizontalen, noch viel weniger „im langsam gleitenden“ Fluge erfolgt, sondern stets nur im beinah senkrechten (mehr oder weniger in einem Winkel von 80 Graden) mit grosser Vehemenz stattfindenden Absturze.
 1	So	_	ADV	ADV	_	2	MO	_	_
 2	nahe	_	ADP	APPR	_	7	MO	_	_
@@ -1535,16 +1398,7 @@
 52	Absturze	_	NOUN	NN	_	34	NK	_	_
 53	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 42
-# text = denn:
-1	denn	_	ADV	ADV	_	0	--	_	_
-2	:	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 43
-# text = 1.
-1	1.	_	ADV	ADV	_	0	--	_	_
-
-# sent_id = 44
+# sent_id = 36
 # text = „Die Vögel konnten unmöglich nach Norden streichen, grade in das nachwinterliche Wetter hinein, welches mit Ost- und Hordwind dort eintrat.“
 1	„	_	PUNCT	$(	_	4	PUNCT	_	_
 2	Die	_	DET	ART	_	3	NK	_	_
@@ -1572,7 +1426,7 @@
 24	.	_	PUNCT	$.	_	4	PUNCT	_	_
 25	“	_	PUNCT	$(	_	4	PUNCT	_	_
 
-# sent_id = 45
+# sent_id = 37
 # text = Ihr luftiger Circus erstreckte sich beiläufig zu 8 Theilen über einen grossen Weiher hin, was ich deshalb ausdrücklich erwähne, weil dadurch doch wohl der Gedanke an eine Täuschung und die Annahme, es könnte während des Schnurrens das auf der Erde sitzende Weibchen Tikküp gerufen haben, von selbst wegfällt.
 1	Ihr	_	PRON	PPOSAT	_	3	NK	_	_
 2	luftiger	_	ADJ	ADJA	_	3	NK	_	_
@@ -1628,7 +1482,7 @@
 52	wegfällt	_	VERB	VVPP	_	20	MO	_	_
 53	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 46
+# sent_id = 38
 # text = Aehnliche Beobachtungen habe ich bei verschiedenen andern Vögeln gemacht, doch nicht in allen Jahren, und es ist mir nicht klar, warum Vögel oft hartnäckig bleiben und vor Kälte und Hunger umkommen, während dieselben zu andern Zeiten sich in wenig Stunden in ein milderes Klima begeben.
 1	Aehnliche	_	ADJ	ADJA	_	2	NK	_	_
 2	Beobachtungen	_	NOUN	NN	_	9	OA	_	_
@@ -1681,7 +1535,7 @@
 49	begeben	_	VERB	VVPP	_	34	MO	_	_
 50	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 47
+# sent_id = 39
 # text = „Sie fragen mich nach meiner Ansicht über den Bückzug der Vögel bei Eintritt vor schlechtem Wetter, und da muss ich Ihnen sagen, dass derselbe wohl keine Regel bildet, aber öfters doch von mir mit voller Entschiedenheit beobachtet ist, namentlich bei Lerchen und Gänsen.
 1	„	_	PUNCT	$(	_	3	PUNCT	_	_
 2	Sie	_	PRON	PPER	_	3	SB	_	_
@@ -1733,7 +1587,7 @@
 48	Gänsen	_	NOUN	NN	_	47	CJ	_	_
 49	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 48
+# sent_id = 40
 # text = Von Anser arvensis kann man einen solchen Bückzug von Hordost nach Südwest fast in jedem Frühjahr beobachten, da selten ein Jahr vergeht, wo derselbe nicht stattfindet.
 1	Von	_	ADP	APPR	_	4	MO	_	_
 2	Anser	_	PROPN	NE	_	3	PNC	_	_
@@ -1765,57 +1619,7 @@
 28	stattfindet	_	VERB	VVFIN	_	22	RC	_	_
 29	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 49
-# text = Sylviella leucopsis Hab : Kipini (Ostafrica).ala 77; cauda 73;
-1	Sylviella	_	PROPN	NE	_	3	PNC	_	_
-2	leucopsis	_	VERB	VVFIN	_	3	PNC	_	_
-3	Hab	_	NOUN	NN	_	0	--	_	_
-4	:	_	PUNCT	$.	_	3	PUNCT	_	_
-5	Kipini	_	PROPN	NE	_	3	APP	_	_
-6	(	_	PUNCT	$(	_	7	PUNCT	_	_
-7	Ostafrica).ala	_	PROPN	NE	_	5	PAR	_	_
-8	77	_	NUM	CARD	_	7	PNC	_	_
-9	;	_	PUNCT	$.	_	7	PUNCT	_	_
-10	cauda	_	PROPN	NE	_	11	PNC	_	_
-11	73	_	NUM	CARD	_	7	NK	_	_
-12	;	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 50
-# text = rictus 19 Mm.150 —155;
-Barbatula
-1	rictus	_	NOUN	NN	_	3	MO	_	_
-2	19	_	NUM	CARD	_	3	NMC	_	_
-3	Mm.150	_	NOUN	NN	_	4	DEP	_	_
-4	—	_	PUNCT	$(	_	5	DEP	_	_
-5	155	_	NUM	CARD	_	6	DEP	_	_
-6	;	_	PUNCT	$.	_	7	PUNCT	_	_
-7	Barbatula	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 51
-# text = affords Hab: Ualimi (Ostafrica).ala 135;
-1	affords	_	ADP	APPR	_	2	PNC	_	_
-2	Hab	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	Ualimi	_	PROPN	NE	_	2	PD	_	_
-5	(	_	PUNCT	$(	_	6	PUNCT	_	_
-6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
-7	135	_	NUM	CARD	_	6	NK	_	_
-8	;	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 52
-# text = cauda 50;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	50	_	NUM	CARD	_	3	DEP	_	_
-3	;	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 53
-# text = rictus 16 Mm.135;
-1	rictus	_	NOUN	NN	_	2	MO	_	_
-2	16	_	NUM	CARD	_	3	NK	_	_
-3	Mm.135	_	PROPN	NE	_	0	--	_	_
-4	;	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 54
+# sent_id = 41
 # text = Diese Beobachtung ist nach meiner Ueberzeugung so schlagend, dass alle Beispiele, wo Vögel anders gehandelt haben, nichts dagegen beweisen.
 1	Diese	_	PRON	PDAT	_	2	NK	_	_
 2	Beobachtung	_	NOUN	NN	_	3	SB	_	_
@@ -1841,12 +1645,7 @@ Barbatula
 22	beweisen	_	VERB	VVINF	_	7	CC	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 55
-# text = Apalis ehariessa
-1	Apalis	_	PROPN	NE	_	0	--	_	_
-2	ehariessa	_	VERB	VVFIN	_	1	MNR	_	_
-
-# sent_id = 56
+# sent_id = 42
 # text = Die weissen Kopfseiten und der dunkle Augenstrich über der weissen Superciliarlinie unterscheiden diese, auch etwas kleinere Art von der verwandten A. microura.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	weissen	_	ADJ	ADJA	_	3	NK	_	_
@@ -1873,12 +1672,7 @@ Barbatula
 23	microura	_	PROPN	NE	_	22	NK	_	_
 24	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 57
-# text = Uraeginthus ianthinogaster
-1	Uraeginthus	_	PROPN	NE	_	0	--	_	_
-2	ianthinogaster	_	ADJ	ADJA	_	1	MNR	_	_
-
-# sent_id = 58
+# sent_id = 43
 # text = Nur durch die verlängerten Schwanzfedern von Hypochera ultramarina unterschieden.
 1	Nur	_	ADV	ADV	_	2	MO	_	_
 2	durch	_	ADP	APPR	_	9	MO	_	_
@@ -1891,17 +1685,7 @@ Barbatula
 9	unterschieden	_	VERB	VVPP	_	0	--	_	_
 10	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 59
-# text = Hab: Kibaradja (Ostafrika).10 Mm.
-1	Hab	_	NOUN	NN	_	0	--	_	_
-2	:	_	PUNCT	$.	_	1	PUNCT	_	_
-3	Kibaradja	_	PROPN	NE	_	1	APP	_	_
-4	(	_	PUNCT	$(	_	6	PUNCT	_	_
-5	Ostafrika).10	_	PROPN	NE	_	6	PNC	_	_
-6	Mm	_	NOUN	NN	_	3	PAR	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 60
+# sent_id = 44
 # text = Neue Vögel aus Ostafrika.
 1	Neue	_	ADJ	ADJA	_	2	NK	_	_
 2	Vögel	_	NOUN	NN	_	0	--	_	_
@@ -1909,92 +1693,7 @@ Barbatula
 4	Ostafrika	_	PROPN	NE	_	3	NK	_	_
 5	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 61
-# text = 1879. J. Rohwedee.
-1	1879.	_	NUM	CARD	_	3	PNC	_	_
-2	J.	_	X	XY	_	3	PNC	_	_
-3	Rohwedee	_	PROPN	NE	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 62
-# text = Husum, d. 28. Junimitgetheilten stimmt.
-1	Husum	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	d.	_	DET	ART	_	5	NK	_	_
-4	28.	_	ADJ	ADJA	_	5	NK	_	_
-5	Junimitgetheilten	_	NOUN	NN	_	6	DA	_	_
-6	stimmt	_	VERB	VVFIN	_	1	RC	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 63
-# text = Colins leucocephalusHab: Kipini (Ostafrica).ala 50;
-1	Colins	_	PROPN	NE	_	2	AG	_	_
-2	leucocephalusHab	_	PROPN	NE	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	Kipini	_	PROPN	NE	_	2	APP	_	_
-5	(	_	PUNCT	$(	_	6	PUNCT	_	_
-6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
-7	50	_	NUM	CARD	_	6	NK	_	_
-8	;	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 64
-# text = cauda 32;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	32	_	NUM	CARD	_	0	--	_	_
-3	;	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 65
-# text = rictus 15 Mm.
-1	rictus	_	VERB	VVFIN	_	3	MO	_	_
-2	15	_	NUM	CARD	_	3	NK	_	_
-3	Mm	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 66
-# text = ;
-1	;	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 67
-# text = Thamnobia quadrivirgata
-1	Thamnobia	_	NOUN	NN	_	0	--	_	_
-2	quadrivirgata	_	VERB	VVFIN	_	1	PD	_	_
-
-# sent_id = 68
-# text = 108.
-1	108.	_	NUM	CARD	_	0	--	_	_
-
-# sent_id = 69
-# text = Dryoscopus nigerrimus
-1	Dryoscopus	_	NOUN	NN	_	0	--	_	_
-2	nigerrimus	_	NOUN	NN	_	1	NK	_	_
-
-# sent_id = 70
-# text = 9
-1	9	_	NUM	CARD	_	0	--	_	_
-
-# sent_id = 71
-# text = Mm.ala 52;
-1	Mm.ala	_	PROPN	NE	_	0	--	_	_
-2	52	_	NUM	CARD	_	3	DEP	_	_
-3	;	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 72
-# text = cauda 60;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	60	_	NUM	CARD	_	0	--	_	_
-3	;	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 73
-# text = rictus110;
-1	rictus110	_	VERB	VVFIN	_	0	--	_	_
-2	;	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 74
-# text = Cypselus stictilaemus
-1	Cypselus	_	NOUN	NN	_	2	SB	_	_
-2	stictilaemus	_	NOUN	NN	_	0	--	_	_
-
-# sent_id = 75
+# sent_id = 45
 # text = Eine zur Pfingstzeit in Kaiserslautern zu Besuch weilende Münchnerin fand an der Schönheit unserer blühenden Besenginsterbestände, Sarothamnus, solches Wohlgefallen, daß sie Pflanzen ausgrub, um die Pracht ihres heimischen Gartens zu erhöhen.
 1	Eine	_	DET	ART	_	9	NK	_	_
 2	zur	_	ADP	APPRART	_	8	MO	_	_
@@ -2033,7 +1732,7 @@ Barbatula
 35	erhöhen	_	VERB	VVINF	_	26	MO	_	_
 36	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 76
+# sent_id = 46
 # text = Kommt der Besenginster bei Kaiserslautern in stattlicher Entwicklung vor, so ist er in der Homburger Bruchlandschaft durchaus nicht so häufig.
 1	Kommt	_	VERB	VVFIN	_	11	RE	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -2058,7 +1757,7 @@ Barbatula
 21	häufig	_	ADJ	ADJD	_	12	PD	_	_
 22	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 77
+# sent_id = 47
 # text = Die erste, die Ardennenbrombeere, leicht kenntlich an ihren überreichen Blütenständen, hält sich als Kind des rauheren Ardennenwaldes südlich der Kaiserstraße an der Straße nach Bechhofen, ist im Closenbruch an sonnigen Gebüschrändern nicht selten und wandert auf den Vorhügeln und der ersten Terrasse des nach Norden abfallenden Steilhangs der Sickingerhöhe ostwärts gegen Kaiserslautern, so die klimatischen Besonderheiten dieses viel im Bergschatten liegenden Steilrandes ebenso erkennen lassend wie das Vorkommen der kälteliebenden Ausdauernden Mondviole, Lunaria rediviva, im Fleischackerloch.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	erste	_	ADJ	ADJA	_	14	SB	_	_
@@ -2145,7 +1844,7 @@ Barbatula
 83	Fleischackerloch	_	NOUN	NN	_	82	NK	_	_
 84	.	_	PUNCT	$.	_	14	PUNCT	_	_
 
-# sent_id = 78
+# sent_id = 48
 # text = Die Pflanzen bestätigen die Richtigkeit dieser Beobachtung und erweisen sich als Klimazeiger von äußerster Feinheit.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Pflanzen	_	NOUN	NN	_	3	SB	_	_
@@ -2164,7 +1863,7 @@ Barbatula
 15	Feinheit	_	NOUN	NN	_	13	NK	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 79
+# sent_id = 49
 # text = Bei Kaiserslautern überzieht es eine größere Fläche am Weg hinter der Eselsfürth nach dem Daubornerhof und in der Eifel, darüber pfeifender Wind feuchtigkeitsschwangere Luftmassen treibt, ist das Immergrün als Buchenbegleiter stark verbreitet.
 1	Bei	_	ADP	APPR	_	3	MO	_	_
 2	Kaiserslautern	_	NOUN	NN	_	1	NK	_	_
@@ -2202,7 +1901,7 @@ Barbatula
 34	verbreitet	_	VERB	VVPP	_	28	PD	_	_
 35	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 80
+# sent_id = 50
 # text = Die im Homburger Becken häufigste Art, die Gefaltete Brombeere, R. plicatus, wächst gern an quer übers Wiesental führenden Wegen und bringt es im Königsbruch zu beachtlichen Sträuchern.
 1	Die	_	DET	ART	_	6	NK	_	_
 2	im	_	ADP	APPRART	_	5	MO	_	_
@@ -2236,7 +1935,7 @@ Barbatula
 30	Sträuchern	_	NOUN	NN	_	28	NK	_	_
 31	.	_	PUNCT	$.	_	15	PUNCT	_	_
 
-# sent_id = 81
+# sent_id = 51
 # text = Dieses Behalten des derben Laubes zur Winterszeit weist stets auf ozeanischen Einschlag hin, gibt es doch zu erkennen, daß die Pflanzen milderen Gegenden entstammen, wo ihnen die Ausnützung der Wintertage zur Assimilation zur Erbanlage geworden ist.
 1	Dieses	_	PRON	PDAT	_	2	NK	_	_
 2	Behalten	_	NOUN	NN	_	8	SB	_	_
@@ -2279,7 +1978,7 @@ Barbatula
 39	ist	_	VERB	VAFIN	_	25	RC	_	_
 40	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 82
+# sent_id = 52
 # text = Bei der Pollichia-Wanderung ins Homburger Bruch im Juli 1941 machte eine aus Bayern stammende Teilnehmerin die Bemerkung, der Salbeiblättrige Gamander, Teucrium scorodonia, sei ihr von drüben nicht bekannt.
 1	Bei	_	ADP	APPR	_	10	MO	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -2314,7 +2013,7 @@ Barbatula
 31	bekannt	_	ADJ	ADJD	_	26	PD	_	_
 32	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 83
+# sent_id = 53
 # text = Wir fanden den Salbeiblättrigen Gamander im Homburger Becken nur spärlich an Waldwegen und wenig kräftig entwickelt, dagegen wächst er bei Kaiserslautern an Wald- und Wegrändern und offenen Waldstellen reich und üppig.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	fanden	_	VERB	VVFIN	_	2	ROOT	_	_
@@ -2350,33 +2049,7 @@ Barbatula
 32	üppig	_	ADJ	ADJD	_	31	CJ	_	_
 33	.	_	PUNCT	$.	_	19	PUNCT	_	_
 
-# sent_id = 84
-# text = Der Gelbweiße Hohlzahn, Galeopsis ochroleuca, überzieht auf Sand - 74en zeigt die Schwarze Flockenblume, Centaurea nigra, dasselbe Verhalten.
-1	Der	_	DET	ART	_	3	NK	_	_
-2	Gelbweiße	_	ADJ	ADJA	_	3	NK	_	_
-3	Hohlzahn	_	NOUN	NN	_	8	SB	_	_
-4	,	_	PUNCT	$,	_	3	PUNCT	_	_
-5	Galeopsis	_	NOUN	NN	_	6	PNC	_	_
-6	ochroleuca	_	PROPN	NE	_	3	APP	_	_
-7	,	_	PUNCT	$,	_	8	PUNCT	_	_
-8	überzieht	_	VERB	VVFIN	_	0	--	_	_
-9	auf	_	ADP	APPR	_	8	OP	_	_
-10	Sand	_	NOUN	NN	_	9	NK	_	_
-11	-	_	PUNCT	$(	_	12	DEP	_	_
-12	74en	_	ADV	ADV	_	13	SB	_	_
-13	zeigt	_	VERB	VVFIN	_	8	CJ	_	_
-14	die	_	DET	ART	_	16	NK	_	_
-15	Schwarze	_	ADJ	ADJA	_	16	NK	_	_
-16	Flockenblume	_	NOUN	NN	_	13	OA	_	_
-17	,	_	PUNCT	$,	_	16	PUNCT	_	_
-18	Centaurea	_	PROPN	NE	_	19	PNC	_	_
-19	nigra	_	PROPN	NE	_	16	APP	_	_
-20	,	_	PUNCT	$,	_	16	PUNCT	_	_
-21	dasselbe	_	PRON	PDAT	_	22	NK	_	_
-22	Verhalten	_	NOUN	NN	_	13	OA	_	_
-23	.	_	PUNCT	$.	_	8	PUNCT	_	_
-
-# sent_id = 85
+# sent_id = 54
 # text = Der obere Buntsandstein gliedert sich von unten nach oben in: Zwischenschichten, Voltziensandstein oder Rhöt mit Voltzia heterophylla und die Lettenregion.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	obere	_	ADJ	ADJA	_	3	NK	_	_
@@ -2402,96 +2075,7 @@ Barbatula
 22	Lettenregion	_	NOUN	NN	_	20	CJ	_	_
 23	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 86
-# text = Die oberste Stufe der Trias, der Keuper, gliedert sich in: Oberer Keuper (Rhät), 35 m: Sandsteine, schwarze u. rote Tone Mittlerer Keuper ,150m: Steinmergelkeuper, rote Mergel und Plattendolomite Schilfsandstein Salz- und Gipskeuper, 70—80 m Unterer Keuper , 20-
-1	Die	_	DET	ART	_	3	NK	_	_
-2	oberste	_	ADJ	ADJA	_	3	NK	_	_
-3	Stufe	_	NOUN	NN	_	10	SB	_	_
-4	der	_	DET	ART	_	5	NK	_	_
-5	Trias	_	PROPN	NE	_	3	AG	_	_
-6	,	_	PUNCT	$,	_	3	PUNCT	_	_
-7	der	_	DET	ART	_	8	NK	_	_
-8	Keuper	_	NOUN	NN	_	3	APP	_	_
-9	,	_	PUNCT	$,	_	10	PUNCT	_	_
-10	gliedert	_	VERB	VVFIN	_	0	--	_	_
-11	sich	_	PRON	PRF	_	10	OA	_	_
-12	in	_	VERB	PTKVZ	_	10	SVP	_	_
-13	:	_	PUNCT	$.	_	10	PUNCT	_	_
-14	Oberer	_	ADJ	ADJA	_	15	NK	_	_
-15	Keuper	_	NOUN	NN	_	10	SB	_	_
-16	(	_	PUNCT	$(	_	17	PUNCT	_	_
-17	Rhät	_	PROPN	NE	_	15	PAR	_	_
-18	)	_	PUNCT	$(	_	17	PUNCT	_	_
-19	,	_	PUNCT	$,	_	15	PUNCT	_	_
-20	35	_	NUM	CARD	_	21	NK	_	_
-21	m	_	NOUN	NN	_	15	PAR	_	_
-22	:	_	PUNCT	$.	_	23	PUNCT	_	_
-23	Sandsteine	_	NOUN	NN	_	21	NK	_	_
-24	,	_	PUNCT	$,	_	23	PUNCT	_	_
-25	schwarze	_	ADJ	ADJA	_	29	MO	_	_
-26	u.	_	ADP	APPR	_	29	MO	_	_
-27	rote	_	ADJ	ADJA	_	28	NK	_	_
-28	Tone	_	NOUN	NN	_	26	NK	_	_
-29	Mittlerer	_	ADJ	ADJA	_	23	SB	_	_
-30	Keuper	_	NOUN	NN	_	29	NK	_	_
-31	,	_	PUNCT	$,	_	29	PUNCT	_	_
-32	150	_	NUM	CARD	_	33	NK	_	_
-33	m	_	NOUN	NN	_	15	PAR	_	_
-34	:	_	PUNCT	$.	_	15	PUNCT	_	_
-35	Steinmergelkeuper	_	NOUN	NN	_	15	PAR	_	_
-36	,	_	PUNCT	$,	_	35	PUNCT	_	_
-37	rote	_	ADJ	ADJA	_	38	NK	_	_
-38	Mergel	_	NOUN	NN	_	35	CJ	_	_
-39	und	_	CONJ	KON	_	38	CD	_	_
-40	Plattendolomite	_	NOUN	NN	_	39	CJ	_	_
-41	Schilfsandstein	_	PROPN	NE	_	38	CJ	_	_
-42	Salz-	_	X	TRUNC	_	43	CJ	_	_
-43	und	_	CONJ	KON	_	44	CD	_	_
-44	Gipskeuper	_	NOUN	NN	_	35	CJ	_	_
-45	,	_	PUNCT	$,	_	35	PUNCT	_	_
-46	70—80	_	PROPN	NE	_	35	CJ	_	_
-47	m	_	PROPN	NE	_	35	UC	_	_
-48	Unterer	_	ADJ	ADJA	_	35	CJ	_	_
-49	Keuper	_	PROPN	NE	_	15	PAR	_	_
-50	,	_	PUNCT	$,	_	49	PUNCT	_	_
-51	20	_	NUM	CARD	_	49	CJ	_	_
-52	-	_	PUNCT	$(	_	49	PUNCT	_	_
-
-# sent_id = 87
-# text = 30 m
-1	30	_	NUM	CARD	_	2	NK	_	_
-2	m	_	NOUN	NN	_	0	--	_	_
-
-# sent_id = 88
-# text = :
-1	:	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 89
-# text = Die Gesamtmächtigkeit der Trias ergibt sich in den Bohrungen bei Solgen zu 630 bis 750 m. B. Lagerungsverhältnisse in der Trias.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Gesamtmächtigkeit	_	NOUN	NN	_	5	SB	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Trias	_	PROPN	NE	_	2	AG	_	_
-5	ergibt	_	VERB	VVFIN	_	0	--	_	_
-6	sich	_	PRON	PRF	_	5	OA	_	_
-7	in	_	ADP	APPR	_	5	MO	_	_
-8	den	_	DET	ART	_	9	NK	_	_
-9	Bohrungen	_	NOUN	NN	_	7	NK	_	_
-10	bei	_	ADP	APPR	_	9	MNR	_	_
-11	Solgen	_	NOUN	NN	_	10	NK	_	_
-12	zu	_	ADP	APPR	_	11	MNR	_	_
-13	630	_	NUM	CARD	_	16	NK	_	_
-14	bis	_	CONJ	KON	_	13	CD	_	_
-15	750	_	NUM	CARD	_	14	CJ	_	_
-16	m.	_	X	XY	_	18	NK	_	_
-17	B.	_	NOUN	NN	_	16	NK	_	_
-18	Lagerungsverhältnisse	_	NOUN	NN	_	12	NK	_	_
-19	in	_	ADP	APPR	_	5	MO	_	_
-20	der	_	DET	ART	_	21	NK	_	_
-21	Trias	_	PROPN	NE	_	19	NK	_	_
-22	.	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 90
+# sent_id = 55
 # text = Außerdem nehmen Buche und Kiefer stellenweise geräumige Flächen ein.
 1	Außerdem	_	ADV	PROAV	_	2	MO	_	_
 2	nehmen	_	VERB	VVFIN	_	0	--	_	_
@@ -2504,7 +2088,7 @@ Barbatula
 9	ein	_	VERB	PTKVZ	_	2	SVP	_	_
 10	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 91
+# sent_id = 56
 # text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Fichte	_	NOUN	NN	_	5	SB	_	_
@@ -2518,7 +2102,7 @@ Barbatula
 10	Bestände	_	NOUN	NN	_	8	AG	_	_
 11	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 92
+# sent_id = 57
 # text = Hier befinden wir uns im Bereich der Weißtanne.
 1	Hier	_	ADV	ADV	_	2	MO	_	_
 2	befinden	_	VERB	VVFIN	_	0	--	_	_
@@ -2530,7 +2114,7 @@ Barbatula
 8	Weißtanne	_	NOUN	NN	_	6	AG	_	_
 9	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 93
+# sent_id = 58
 # text = Das Dagsburgerland, als die Heimat des Vogesen- oder Buntsandsteins, ist eine ausgesprochene Waldgegend.
 1	Das	_	DET	ART	_	2	NK	_	_
 2	Dagsburgerland	_	NOUN	NN	_	12	SB	_	_
@@ -2549,7 +2133,7 @@ Barbatula
 15	Waldgegend	_	NOUN	NN	_	12	PD	_	_
 16	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 94
+# sent_id = 59
 # text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Fichte	_	NOUN	NN	_	5	SB	_	_
@@ -2563,7 +2147,7 @@ Barbatula
 10	Bestände	_	NOUN	NN	_	8	AG	_	_
 11	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 95
+# sent_id = 60
 # text = Hier befinden wir uns im Bereich der Weißtanne.
 1	Hier	_	ADV	ADV	_	2	MO	_	_
 2	befinden	_	VERB	VVFIN	_	0	--	_	_
@@ -2575,47 +2159,7 @@ Barbatula
 8	Weißtanne	_	NOUN	NN	_	6	AG	_	_
 9	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 96
-# text = Hafer 25% des landwirtschaftlich genutzten Bodens, Weizen 22% , Kleearten 15% , Kartoffeln 5% , Roggen 5% .
-1	Hafer	_	NOUN	NN	_	3	SB	_	_
-2	25	_	NUM	CARD	_	3	NK	_	_
-3	%	_	NOUN	NN	_	0	--	_	_
-4	des	_	DET	ART	_	7	NK	_	_
-5	landwirtschaftlich	_	ADJ	ADJD	_	6	MO	_	_
-6	genutzten	_	ADJ	ADJA	_	7	NK	_	_
-7	Bodens	_	NOUN	NN	_	3	AG	_	_
-8	,	_	PUNCT	$,	_	3	PUNCT	_	_
-9	Weizen	_	NOUN	NN	_	3	CJ	_	_
-10	22	_	NUM	CARD	_	11	NK	_	_
-11	%	_	NOUN	NN	_	9	CJ	_	_
-12	,	_	PUNCT	$,	_	3	PUNCT	_	_
-13	Kleearten	_	NOUN	NN	_	3	CJ	_	_
-14	15	_	NUM	CARD	_	15	NK	_	_
-15	%	_	NOUN	NN	_	13	NK	_	_
-16	,	_	PUNCT	$,	_	3	PUNCT	_	_
-17	Kartoffeln	_	NOUN	NN	_	3	CJ	_	_
-18	5	_	NUM	CARD	_	19	NK	_	_
-19	%	_	NOUN	NN	_	17	NK	_	_
-20	,	_	PUNCT	$,	_	3	PUNCT	_	_
-21	Roggen	_	NOUN	NN	_	3	PAR	_	_
-22	5	_	NUM	CARD	_	23	NK	_	_
-23	%	_	NOUN	NN	_	21	NK	_	_
-24	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 97
-# text = Das Verhältnis des Grünlands zum Ackerland beträgt etwa 1:
-1	Das	_	DET	ART	_	2	NK	_	_
-2	Verhältnis	_	NOUN	NN	_	7	SB	_	_
-3	des	_	DET	ART	_	4	NK	_	_
-4	Grünlands	_	NOUN	NN	_	2	AG	_	_
-5	zum	_	ADP	APPRART	_	2	MNR	_	_
-6	Ackerland	_	NOUN	NN	_	5	NK	_	_
-7	beträgt	_	VERB	VVFIN	_	0	--	_	_
-8	etwa	_	ADV	ADV	_	9	MO	_	_
-9	1	_	NUM	CARD	_	10	DEP	_	_
-10	:	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 98
+# sent_id = 61
 # text = Kiefer und Eiche bilden die übrigen bestandsbildenden Hauptholzarten.
 1	Kiefer	_	PROPN	NE	_	4	SB	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
@@ -2627,7 +2171,7 @@ Barbatula
 8	Hauptholzarten	_	NOUN	NN	_	4	OA	_	_
 9	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 99
+# sent_id = 62
 # text = Hier übernimmt die Buche die Hälfte der Waldung, während die Weißtanne fast ganz verschwindet.
 1	Hier	_	ADV	ADV	_	2	MO	_	_
 2	übernimmt	_	VERB	VVFIN	_	0	--	_	_
@@ -2646,7 +2190,7 @@ Barbatula
 15	verschwindet	_	VERB	VVFIN	_	2	MO	_	_
 16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 100
+# sent_id = 63
 # text = Sandstein bedeckt von dem sich weit und breit hinziehenden Forst Waldeck.
 1	Sandstein	_	NOUN	NN	_	1	ROOT	_	_
 2	bedeckt	_	ADJ	ADJD	_	1	PAR	_	_
@@ -2661,7 +2205,7 @@ Barbatula
 11	Waldeck	_	PROPN	NE	_	10	NK	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 101
+# sent_id = 64
 # text = Auf dem rechten und teilweise linken Moselufer herrschen die Mergel- und Sandsteinbildungen des Lias vor, der sich an die Sandsteine der Trias anschließt.
 1	Auf	_	ADP	APPR	_	8	MO	_	_
 2	dem	_	DET	ART	_	7	NK	_	_
@@ -2689,59 +2233,7 @@ Barbatula
 24	anschließt	_	VERB	VVFIN	_	14	RC	_	_
 25	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 102
-# text = Payot, Paris Les Marches de Lest.
-1	Payot	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	Paris	_	PROPN	NE	_	7	PNC	_	_
-4	Les	_	PROPN	NE	_	7	PNC	_	_
-5	Marches	_	PROPN	NE	_	7	PNC	_	_
-6	de	_	PROPN	NE	_	7	PNC	_	_
-7	Lest	_	PROPN	NE	_	1	APP	_	_
-8	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 103
-# text = 1941. Martonne, E. de: Les Grandes Regions de la France.
-1	1941.	_	NUM	CARD	_	2	PNC	_	_
-2	Martonne	_	NOUN	NN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	E.	_	PROPN	NE	_	5	PNC	_	_
-5	de	_	PROPN	NE	_	2	APP	_	_
-6	:	_	PUNCT	$.	_	2	PUNCT	_	_
-7	Les	_	PROPN	NE	_	12	PNC	_	_
-8	Grandes	_	PROPN	NE	_	12	PNC	_	_
-9	Regions	_	PROPN	NE	_	12	PNC	_	_
-10	de	_	PROPN	NE	_	12	PNC	_	_
-11	la	_	PROPN	NE	_	12	PNC	_	_
-12	France	_	PROPN	NE	_	2	APP	_	_
-13	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 104
-# text = 13.3.
-1	13.3.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 105
-# text = Ich selbst sah am 4. April erstmalig vier Wiedehopfe und zur gleichen Zeit den Kuckuck im Ludwigshain.
-1	Ich	_	PRON	PPER	_	3	SB	_	_
-2	selbst	_	ADV	ADV	_	1	MNR	_	_
-3	sah	_	VERB	VVFIN	_	0	--	_	_
-4	am	_	ADP	APPRART	_	3	MO	_	_
-5	4.	_	ADJ	ADJA	_	6	NK	_	_
-6	April	_	NOUN	NN	_	4	NK	_	_
-7	erstmalig	_	ADJ	ADJD	_	8	MO	_	_
-8	vier	_	NUM	CARD	_	9	NK	_	_
-9	Wiedehopfe	_	NOUN	NN	_	3	OA	_	_
-10	und	_	CONJ	KON	_	3	CD	_	_
-11	zur	_	ADP	APPRART	_	10	CJ	_	_
-12	gleichen	_	ADJ	ADJA	_	13	NK	_	_
-13	Zeit	_	NOUN	NN	_	11	NK	_	_
-14	den	_	DET	ART	_	15	NK	_	_
-15	Kuckuck	_	NOUN	NN	_	3	OA	_	_
-16	im	_	ADP	APPRART	_	15	MNR	_	_
-17	Ludwigshain	_	NOUN	NN	_	16	NK	_	_
-18	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 106
+# sent_id = 65
 # text = Vom Wiedehopf konnte ich 1942 zehn Brutpaare feststellen, doch waren es deren sicher mehr.
 1	Vom	_	ADP	APPRART	_	3	MO	_	_
 2	Wiedehopf	_	NOUN	NN	_	1	NK	_	_
@@ -2760,7 +2252,7 @@ Barbatula
 15	mehr	_	PRON	PIS	_	11	PD	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 107
+# sent_id = 66
 # text = Beide Vogelarten scheinen also tatsächlich gleichzeitig zu kommen.
 1	Beide	_	PRON	PIAT	_	2	NK	_	_
 2	Vogelarten	_	NOUN	NN	_	3	SB	_	_
@@ -2772,7 +2264,7 @@ Barbatula
 8	kommen	_	VERB	VVINF	_	3	OC	_	_
 9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 108
+# sent_id = 67
 # text = In den Gemarkungen Lambsheim, Freinsheim, Großkarlbach konnte ich den Wiedehopf ebenfalls feststellen.
 1	In	_	ADP	APPR	_	9	MO	_	_
 2	den	_	DET	ART	_	4	NK	_	_
@@ -2790,7 +2282,7 @@ Barbatula
 14	feststellen	_	VERB	VVINF	_	9	OC	_	_
 15	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 109
+# sent_id = 68
 # text = Beringte Wiedehopfe konnte ich keine bemerken.
 1	Beringte	_	ADJ	ADJA	_	2	NK	_	_
 2	Wiedehopfe	_	NOUN	NN	_	6	OA	_	_
@@ -2800,7 +2292,7 @@ Barbatula
 6	bemerken	_	NOUN	NN	_	3	OC	_	_
 7	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 110
+# sent_id = 69
 # text = Der Wiedehopf wurde 1942 am 1. April festgestellt.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Wiedehopf	_	NOUN	NN	_	3	SB	_	_
@@ -2812,7 +2304,7 @@ Barbatula
 8	festgestellt	_	VERB	VVPP	_	3	OC	_	_
 9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 111
+# sent_id = 70
 # text = Sie hatten auch 1942 drei Junge.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	hatten	_	VERB	VAFIN	_	0	--	_	_
@@ -2822,58 +2314,7 @@ Barbatula
 6	Junge	_	NOUN	NN	_	2	OA	_	_
 7	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 112
-# text = 1942 kam der erste Storch am 15. März, der zweite einige Tage später.
-1	1942	_	NUM	CARD	_	2	MO	_	_
-2	kam	_	VERB	VVFIN	_	0	--	_	_
-3	der	_	DET	ART	_	5	NK	_	_
-4	erste	_	ADJ	ADJA	_	5	NK	_	_
-5	Storch	_	NOUN	NN	_	2	SB	_	_
-6	am	_	ADP	APPRART	_	5	MNR	_	_
-7	15.	_	ADJ	ADJA	_	8	NK	_	_
-8	März	_	NOUN	NN	_	6	NK	_	_
-9	,	_	PUNCT	$,	_	5	PUNCT	_	_
-10	der	_	DET	ART	_	13	NK	_	_
-11	zweite	_	ADJ	ADJA	_	13	NK	_	_
-12	einige	_	PRON	PIAT	_	13	NK	_	_
-13	Tage	_	NOUN	NN	_	14	AMS	_	_
-14	später	_	ADJ	ADJD	_	2	MO	_	_
-15	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 113
-# text = Werveke, L. van: Erläuterungen zu dem Blatte Saarbrücken der geol.- tekton.
-1	Werveke	_	NOUN	NN	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	L.	_	PROPN	NE	_	4	PNC	_	_
-4	van	_	PROPN	NE	_	1	APP	_	_
-5	:	_	PUNCT	$.	_	1	PUNCT	_	_
-6	Erläuterungen	_	NOUN	NN	_	1	APP	_	_
-7	zu	_	ADP	APPR	_	6	MNR	_	_
-8	dem	_	DET	ART	_	9	NK	_	_
-9	Blatte	_	NOUN	NN	_	7	NK	_	_
-10	Saarbrücken	_	PROPN	NE	_	1	APP	_	_
-11	der	_	DET	ART	_	13	NK	_	_
-12	geol.-	_	NOUN	NN	_	13	PNC	_	_
-13	tekton	_	PROPN	NE	_	10	AG	_	_
-14	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 114
-# text = Maschinenschrift.
-1	Maschinenschrift	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 115
-# text = Bohrverzeichnis.
-1	Bohrverzeichnis	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 116
-# text = (Siviard)
-1	(	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Siviard	_	PROPN	NE	_	0	--	_	_
-3	)	_	PUNCT	$(	_	2	PUNCT	_	_
-
-# sent_id = 117
+# sent_id = 71
 # text = Über das unter der Trias anstehende, ältere Gebirge wird ebenfalls berichtet.
 1	Über	_	ADP	APPR	_	12	OP	_	_
 2	das	_	DET	ART	_	9	NK	_	_
@@ -2889,7 +2330,7 @@ Barbatula
 12	berichtet	_	VERB	VVPP	_	10	OC	_	_
 13	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 118
+# sent_id = 72
 # text = In dem zu betrachtenden Raum kommen von den Schichtenstufen der Trias nur der Buntsandstein und der Muschelkalk, ferner als jüngere Bildung das Alluvium vor.
 1	In	_	ADP	APPR	_	6	MO	_	_
 2	dem	_	DET	ART	_	5	NK	_	_
@@ -2918,7 +2359,7 @@ Barbatula
 25	vor	_	VERB	PTKVZ	_	6	SVP	_	_
 26	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 119
+# sent_id = 73
 # text = Später wurde die Trias in der Pfälzer Mulde durch posthume Wiederholungen in der Tertiärzeit schwach gefaltet (STILLE, 1925, S. 389).
 1	Später	_	NOUN	NN	_	16	MO	_	_
 2	wurde	_	VERB	VAFIN	_	0	--	_	_
@@ -2946,7 +2387,7 @@ Barbatula
 24	)	_	PUNCT	$(	_	18	PUNCT	_	_
 25	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 120
+# sent_id = 74
 # text = Der Muschelkalk, der als nächstjüngeres Schichtenglied der Trias auf den Buntsandstein folgt, gliedert sich unter Beifügung der hauptsächlichsten petrographischen Merkmale von oben nach unten:
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Muschelkalk	_	NOUN	NN	_	15	SB	_	_
@@ -2976,45 +2417,20 @@ Barbatula
 26	unten	_	ADV	ADV	_	25	NK	_	_
 27	:	_	PUNCT	$.	_	15	PUNCT	_	_
 
-# sent_id = 121
-# text = Vorkommen von Ammonshörnern (Ceratites nodosus) Trochitenkalk, 20 m; Nodosuskalk, 40 bis 60 m.
-1	Vorkommen	_	NOUN	NN	_	0	--	_	_
-2	von	_	ADP	APPR	_	1	PG	_	_
-3	Ammonshörnern	_	NOUN	NN	_	2	NK	_	_
-4	(	_	PUNCT	$(	_	5	PUNCT	_	_
-5	Ceratites	_	X	FM	_	3	PAR	_	_
-6	nodosus	_	X	FM	_	5	NK	_	_
-7	)	_	PUNCT	$(	_	5	PUNCT	_	_
-8	Trochitenkalk	_	PROPN	NE	_	1	NK	_	_
-9	,	_	PUNCT	$,	_	1	PUNCT	_	_
-10	20	_	NUM	CARD	_	11	NK	_	_
-11	m	_	NOUN	NN	_	12	DEP	_	_
-12	;	_	X	XY	_	1	PUNCT	_	_
-13	Nodosuskalk	_	PROPN	NE	_	1	CJ	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	40	_	NUM	CARD	_	18	NK	_	_
-16	bis	_	CONJ	KON	_	15	CD	_	_
-17	60	_	NUM	CARD	_	16	CJ	_	_
-18	m.	_	PROPN	NE	_	13	PAR	_	_
-
-# sent_id = 122
+# sent_id = 75
 # text = Kalkbänke und Mergelschichten.
 1	Kalkbänke	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Mergelschichten	_	NOUN	NN	_	2	CJ	_	_
 4	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 123
-# text = 1.
-1	1.	_	ADV	ADV	_	0	--	_	_
-
-# sent_id = 124
+# sent_id = 76
 # text = Oberer Muschelkalk:
 1	Oberer	_	ADJ	ADJA	_	2	NK	_	_
 2	Muschelkalk	_	NOUN	NN	_	0	--	_	_
 3	:	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 125
+# sent_id = 77
 # text = Die Trias (Buntsandstein, Muschelkalk und Keuper) bildet in unserer Gegend eine sehr flache Mulde, Pfälzer Mulde genannt, deren Muldenlinie etwa in der Richtung Kaiserslautern—Zweibrücken—Saargemünd verläuft und auch in dieser Richtung schwach einfällt.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Trias	_	PROPN	NE	_	10	SB	_	_
@@ -3055,7 +2471,7 @@ Barbatula
 37	einfällt	_	VERB	VVFIN	_	31	CJ	_	_
 38	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 126
+# sent_id = 78
 # text = Die jetzige Nordwestgrenze gegen das Steinkohlengebirge und Rotliegende zwischen Saarbrücken und Kaiserslautern ist durch Erosion bedingt (STAESCHE, 1927, S. 54).
 1	Die	_	DET	ART	_	3	NK	_	_
 2	jetzige	_	ADJ	ADJA	_	3	NK	_	_
@@ -3083,82 +2499,7 @@ Barbatula
 24	)	_	PUNCT	$(	_	18	PUNCT	_	_
 25	.	_	PUNCT	$.	_	13	PUNCT	_	_
 
-# sent_id = 127
-# text = Nach SCHUMACHER (1909) fast ganz unverfestigte, sandige Schichten („Streusande"), in den Bohrverzeichnissen „Schwemmsande" genannt, nach SEMMLER (1940)
-1	Nach	_	ADP	APPR	_	24	MO	_	_
-2	SCHUMACHER	_	PROPN	NE	_	1	NK	_	_
-3	(	_	PUNCT	$(	_	4	PUNCT	_	_
-4	1909	_	NUM	CARD	_	2	PAR	_	_
-5	)	_	PUNCT	$(	_	4	PUNCT	_	_
-6	fast	_	ADV	ADV	_	8	MO	_	_
-7	ganz	_	ADV	ADV	_	8	MO	_	_
-8	unverfestigte	_	ADJ	ADJA	_	11	NK	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	sandige	_	ADJ	ADJA	_	11	NK	_	_
-11	Schichten	_	NOUN	NN	_	1	NK	_	_
-12	(	_	PUNCT	$(	_	14	PUNCT	_	_
-13	„	_	PUNCT	$(	_	14	PUNCT	_	_
-14	Streusande	_	NOUN	NN	_	11	PAR	_	_
-15	"	_	PUNCT	$(	_	14	PUNCT	_	_
-16	)	_	PUNCT	$(	_	14	PUNCT	_	_
-17	,	_	PUNCT	$,	_	11	PUNCT	_	_
-18	in	_	ADP	APPR	_	24	MO	_	_
-19	den	_	DET	ART	_	20	NK	_	_
-20	Bohrverzeichnissen	_	NOUN	NN	_	18	NK	_	_
-21	„	_	PUNCT	$(	_	22	PUNCT	_	_
-22	Schwemmsande	_	NOUN	NN	_	20	NK	_	_
-23	"	_	PUNCT	$(	_	22	PUNCT	_	_
-24	genannt	_	VERB	VVPP	_	0	--	_	_
-25	,	_	PUNCT	$,	_	24	PUNCT	_	_
-26	nach	_	ADP	APPR	_	24	MO	_	_
-27	SEMMLER	_	PROPN	NE	_	26	NK	_	_
-28	(	_	PUNCT	$(	_	29	PUNCT	_	_
-29	1940	_	NUM	CARD	_	24	PAR	_	_
-30	)	_	PUNCT	$(	_	29	PUNCT	_	_
-
-# sent_id = 128
-# text = „Schwimmsande", nach LÖFFLER (1929) mangelnder Tongehalt des Bindemittels, was einer hochgradigen Porosität gleichbedeutend ist;
-1	„	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Schwimmsande	_	NOUN	NN	_	0	--	_	_
-3	"	_	PUNCT	$(	_	2	PUNCT	_	_
-4	,	_	PUNCT	$,	_	2	PUNCT	_	_
-5	nach	_	ADP	APPR	_	2	PAR	_	_
-6	LÖFFLER	_	PROPN	NE	_	5	NK	_	_
-7	(	_	PUNCT	$(	_	8	PUNCT	_	_
-8	1929	_	NUM	CARD	_	10	MO	_	_
-9	)	_	PUNCT	$(	_	8	PUNCT	_	_
-10	mangelnder	_	ADJ	ADJA	_	11	NK	_	_
-11	Tongehalt	_	NOUN	NN	_	2	APP	_	_
-12	des	_	DET	ART	_	13	NK	_	_
-13	Bindemittels	_	NOUN	NN	_	11	AG	_	_
-14	,	_	PUNCT	$,	_	2	PUNCT	_	_
-15	was	_	PRON	PRELS	_	20	SB	_	_
-16	einer	_	DET	ART	_	18	NK	_	_
-17	hochgradigen	_	ADJ	ADJA	_	18	NK	_	_
-18	Porosität	_	NOUN	NN	_	19	DA	_	_
-19	gleichbedeutend	_	ADJ	ADJD	_	20	PD	_	_
-20	ist	_	VERB	VAFIN	_	2	RC	_	_
-21	;	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 129
-# text = 19. bis 24. Bohrloch S. Zahlentafel 2, S.24
-1	19.	_	ADJ	ADJA	_	4	NK	_	_
-2	bis	_	ADP	APPR	_	1	CD	_	_
-3	24.	_	ADJ	ADJA	_	2	CJ	_	_
-4	Bohrloch	_	NOUN	NN	_	0	--	_	_
-5	S.	_	NOUN	NN	_	4	NK	_	_
-6	Zahlentafel	_	NOUN	NN	_	4	NK	_	_
-7	2	_	NUM	CARD	_	6	NK	_	_
-8	,	_	PUNCT	$,	_	4	PUNCT	_	_
-9	S.24	_	PROPN	NE	_	4	CJ	_	_
-
-# sent_id = 130
-# text = u.25. Bohrloch Tabak
-1	u.25.	_	NOUN	NN	_	2	NK	_	_
-2	Bohrloch	_	PROPN	NE	_	0	--	_	_
-3	Tabak	_	PROPN	NE	_	2	NK	_	_
-
-# sent_id = 131
+# sent_id = 79
 # text = Die für vorliegende Betrachtung in Frage kommenden Bohrungen sind in der Zahlentafel 2, Seite 24 wiedergegeben.
 1	Die	_	DET	ART	_	8	NK	_	_
 2	für	_	ADP	APPR	_	7	MO	_	_
@@ -3179,7 +2520,7 @@ Barbatula
 17	wiedergegeben	_	VERB	VVPP	_	9	OC	_	_
 18	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 132
+# sent_id = 80
 # text = Der Hauptbuntsandstein fällt, wie die gesamte Trias, nach zwei Richtungen hin ein, nämlich von Nordwesten nach Südosten zur Muldenachse hin (s. S. 14) und von Nordosten nach Südwesten in Richtung der Muldenachse (s. S. 14).
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Hauptbuntsandstein	_	NOUN	NN	_	3	SB	_	_
@@ -3225,81 +2566,7 @@ Barbatula
 42	)	_	PUNCT	$(	_	39	PUNCT	_	_
 43	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 133
-# text = ferner die zahlreichen Bruchnamen: Einsiedlerbruch, Pottelbruch, Spesbacher Bruch, Ramsteiner Bruch, Reichswaldgebrüch (nach LÖFFLER, 1938, S. 1, älterer Sammelname für Landstuhler Bruch), Wolfshecker Bruch (LÖFFLER, 1938, S. 1), Spickelbruch und Lindenschachenbruch bei Eichelscheid, Königsbruch bei Bruchhof, „Torfstich" zwischen Jägersburg und Eichelscheid, „Torf löcher" bei Unterschernau (Ramstein).
-1	ferner	_	ADV	ADV	_	4	MO	_	_
-2	die	_	DET	ART	_	4	NK	_	_
-3	zahlreichen	_	ADJ	ADJA	_	4	NK	_	_
-4	Bruchnamen	_	NOUN	NN	_	0	--	_	_
-5	:	_	PUNCT	$.	_	4	PUNCT	_	_
-6	Einsiedlerbruch	_	NOUN	NN	_	4	APP	_	_
-7	,	_	PUNCT	$,	_	6	PUNCT	_	_
-8	Pottelbruch	_	NOUN	NN	_	6	CJ	_	_
-9	,	_	PUNCT	$,	_	6	PUNCT	_	_
-10	Spesbacher	_	PROPN	NE	_	11	NK	_	_
-11	Bruch	_	PROPN	NE	_	8	CJ	_	_
-12	,	_	PUNCT	$,	_	6	PUNCT	_	_
-13	Ramsteiner	_	PROPN	NE	_	14	NK	_	_
-14	Bruch	_	NOUN	NN	_	11	CJ	_	_
-15	,	_	PUNCT	$,	_	6	PUNCT	_	_
-16	Reichswaldgebrüch	_	NOUN	NN	_	14	CJ	_	_
-17	(	_	PUNCT	$(	_	19	PUNCT	_	_
-18	nach	_	ADP	APPR	_	16	PAR	_	_
-19	LÖFFLER	_	PROPN	NE	_	18	NK	_	_
-20	,	_	PUNCT	$,	_	19	PUNCT	_	_
-21	1938	_	NUM	CARD	_	19	CJ	_	_
-22	,	_	PUNCT	$,	_	19	PUNCT	_	_
-23	S.	_	NOUN	NN	_	21	CJ	_	_
-24	1	_	NUM	CARD	_	23	NK	_	_
-25	,	_	PUNCT	$,	_	19	PUNCT	_	_
-26	älterer	_	ADJ	ADJA	_	27	NK	_	_
-27	Sammelname	_	NOUN	NN	_	19	CJ	_	_
-28	für	_	ADP	APPR	_	27	MNR	_	_
-29	Landstuhler	_	PROPN	NE	_	30	NK	_	_
-30	Bruch	_	NOUN	NN	_	28	NK	_	_
-31	)	_	PUNCT	$(	_	19	PUNCT	_	_
-32	,	_	PUNCT	$,	_	6	PUNCT	_	_
-33	Wolfshecker	_	ADJ	ADJA	_	34	NK	_	_
-34	Bruch	_	NOUN	NN	_	16	CJ	_	_
-35	(	_	PUNCT	$(	_	36	PUNCT	_	_
-36	LÖFFLER	_	PROPN	NE	_	34	PAR	_	_
-37	,	_	PUNCT	$,	_	36	PUNCT	_	_
-38	1938	_	NUM	CARD	_	36	CJ	_	_
-39	,	_	PUNCT	$,	_	36	PUNCT	_	_
-40	S.	_	NOUN	NN	_	38	CJ	_	_
-41	1	_	NUM	CARD	_	40	NK	_	_
-42	)	_	PUNCT	$(	_	36	PUNCT	_	_
-43	,	_	PUNCT	$,	_	6	PUNCT	_	_
-44	Spickelbruch	_	NOUN	NN	_	34	CJ	_	_
-45	und	_	CONJ	KON	_	44	CD	_	_
-46	Lindenschachenbruch	_	NOUN	NN	_	45	CJ	_	_
-47	bei	_	ADP	APPR	_	46	MNR	_	_
-48	Eichelscheid	_	NOUN	NN	_	47	NK	_	_
-49	,	_	PUNCT	$,	_	6	PUNCT	_	_
-50	Königsbruch	_	NOUN	NN	_	46	CJ	_	_
-51	bei	_	ADP	APPR	_	50	MNR	_	_
-52	Bruchhof	_	PROPN	NE	_	51	NK	_	_
-53	,	_	PUNCT	$,	_	6	PUNCT	_	_
-54	„	_	PUNCT	$(	_	55	PUNCT	_	_
-55	Torfstich	_	NOUN	NN	_	50	CJ	_	_
-56	"	_	PUNCT	$(	_	55	PUNCT	_	_
-57	zwischen	_	ADP	APPR	_	55	MNR	_	_
-58	Jägersburg	_	PROPN	NE	_	57	NK	_	_
-59	und	_	CONJ	KON	_	58	CD	_	_
-60	Eichelscheid	_	NOUN	NN	_	59	CJ	_	_
-61	,	_	PUNCT	$,	_	6	PUNCT	_	_
-62	„	_	PUNCT	$(	_	63	PUNCT	_	_
-63	Torf	_	PROPN	NE	_	55	CJ	_	_
-64	löcher	_	PROPN	NE	_	63	NK	_	_
-65	"	_	PUNCT	$(	_	63	PUNCT	_	_
-66	bei	_	ADP	APPR	_	63	MNR	_	_
-67	Unterschernau	_	PROPN	NE	_	66	NK	_	_
-68	(	_	PUNCT	$(	_	69	PUNCT	_	_
-69	Ramstein	_	PROPN	NE	_	67	PAR	_	_
-70	)	_	PUNCT	$(	_	69	PUNCT	_	_
-71	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 134
+# sent_id = 81
 # text = Die Aufschlüsse der Flachbohrungen unterstützen auch, wie wir sehen werden, das geologische Studium des Alluviums und Diluviums, sowie der Trias unseres Gebietes (Buntsandstein und Muschelkalk).
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Aufschlüsse	_	NOUN	NN	_	5	SB	_	_
@@ -3333,42 +2600,7 @@ Barbatula
 30	)	_	PUNCT	$(	_	27	PUNCT	_	_
 31	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 135
-# text = 1892, S. 23 bis 90, Löffler, E.: Die Oberflächengestaltung des Pfälzer Stufenlandes.
-1	1892	_	NUM	CARD	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	S.	_	NOUN	NN	_	1	CJ	_	_
-4	23	_	NUM	CARD	_	3	NK	_	_
-5	bis	_	CONJ	KON	_	4	CD	_	_
-6	90	_	NUM	CARD	_	5	CJ	_	_
-7	,	_	PUNCT	$,	_	3	PUNCT	_	_
-8	Löffler	_	NOUN	NN	_	3	CJ	_	_
-9	,	_	PUNCT	$,	_	3	PUNCT	_	_
-10	E.	_	PROPN	NE	_	8	CJ	_	_
-11	:	_	PUNCT	$.	_	13	PUNCT	_	_
-12	Die	_	DET	ART	_	13	NK	_	_
-13	Oberflächengestaltung	_	NOUN	NN	_	3	CJ	_	_
-14	des	_	DET	ART	_	16	NK	_	_
-15	Pfälzer	_	NOUN	NN	_	16	NK	_	_
-16	Stufenlandes	_	NOUN	NN	_	13	AG	_	_
-17	.	_	PUNCT	$.	_	13	PUNCT	_	_
-
-# sent_id = 136
-# text = Landesanst.geol.d.
-1	Landesanst.geol.d	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 137
-# text = Pollichia.
-1	Pollichia	_	PROPN	NE	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 138
-# text = Mitt.
-1	Mitt	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 139
+# sent_id = 82
 # text = Beobachtungen im Buntsandstein in der Umgebung von Landstuhl.
 1	Beobachtungen	_	NOUN	NN	_	0	--	_	_
 2	im	_	ADP	APPRART	_	1	MNR	_	_
@@ -3380,7 +2612,7 @@ Barbatula
 8	Landstuhl	_	PROPN	NE	_	7	NK	_	_
 9	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 140
+# sent_id = 83
 # text = Während im Ostflügel der Senke, die stark unterm Einfluß des Trockenklimas des Mainzer Beckens steht, kontinentale, trockenheitliebende Pflanzen von der Rheinebene und den Tertiärkalkhügeln der Vorderpfalz westwärts gegen die Barbarossastadt wandern, geht der Wanderstrom im Westflügel der Senke in umgekehrter Richtung.
 1	Während	_	CONJ	KOUS	_	34	CP	_	_
 2	im	_	ADP	APPRART	_	1	MO	_	_
@@ -3429,46 +2661,7 @@ Barbatula
 45	Richtung	_	NOUN	NN	_	43	NK	_	_
 46	.	_	PUNCT	$.	_	36	PUNCT	_	_
 
-# sent_id = 141
-# text = (d. Pollichia 1937) bezeichnete ich Kaiserslautern in pflanzengeographischer Hinsicht als den zentripetalen Mittelpunkt dieses Zentralnervenstrangs der Pfälzer Landschaft und brachte dies durch eine Skizze (S. 97 obiger Arbeit) klar zum Ausdruck.
-1	(	_	PUNCT	$(	_	3	PUNCT	_	_
-2	d.	_	DET	ART	_	3	NK	_	_
-3	Pollichia	_	NOUN	NN	_	6	MO	_	_
-4	1937	_	NUM	CARD	_	3	MO	_	_
-5	)	_	PUNCT	$(	_	3	PUNCT	_	_
-6	bezeichnete	_	VERB	VVFIN	_	0	--	_	_
-7	ich	_	PRON	PPER	_	6	SB	_	_
-8	Kaiserslautern	_	NOUN	NN	_	6	OA	_	_
-9	in	_	ADP	APPR	_	6	MO	_	_
-10	pflanzengeographischer	_	ADJ	ADJA	_	11	NK	_	_
-11	Hinsicht	_	NOUN	NN	_	9	NK	_	_
-12	als	_	CONJ	KOKOM	_	6	MO	_	_
-13	den	_	DET	ART	_	15	NK	_	_
-14	zentripetalen	_	ADJ	ADJA	_	15	NK	_	_
-15	Mittelpunkt	_	NOUN	NN	_	12	NK	_	_
-16	dieses	_	PRON	PDAT	_	17	NK	_	_
-17	Zentralnervenstrangs	_	NOUN	NN	_	15	AG	_	_
-18	der	_	DET	ART	_	20	NK	_	_
-19	Pfälzer	_	NOUN	NN	_	20	NK	_	_
-20	Landschaft	_	NOUN	NN	_	17	AG	_	_
-21	und	_	CONJ	KON	_	6	CD	_	_
-22	brachte	_	VERB	VVFIN	_	21	CJ	_	_
-23	dies	_	PRON	PDS	_	22	OA	_	_
-24	durch	_	ADP	APPR	_	22	MO	_	_
-25	eine	_	DET	ART	_	26	NK	_	_
-26	Skizze	_	NOUN	NN	_	24	NK	_	_
-27	(	_	PUNCT	$(	_	28	PUNCT	_	_
-28	S.	_	NOUN	NN	_	26	PAR	_	_
-29	97	_	NUM	CARD	_	31	NK	_	_
-30	obiger	_	ADJ	ADJA	_	31	NK	_	_
-31	Arbeit	_	NOUN	NN	_	28	NK	_	_
-32	)	_	PUNCT	$(	_	28	PUNCT	_	_
-33	klar	_	ADJ	ADJD	_	22	MO	_	_
-34	zum	_	ADP	APPRART	_	22	MO	_	_
-35	Ausdruck	_	NOUN	NN	_	34	NK	_	_
-36	.	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 142
+# sent_id = 84
 # text = Bei der Pollichia-Wanderung um die Barbarossastadt im Juli 1941 wies ich darauf hin, wie an den Bäumen im Burggraben hinter der Kammgarnspinnerei der Efeu emporkletterte, die Stämme mit üppigem Grün überzog und sich selbst in den Baumkronen breitmachte.
 1	Bei	_	ADP	APPR	_	10	MO	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -3512,7 +2705,7 @@ Barbatula
 40	breitmachte	_	VERB	VVFIN	_	34	CJ	_	_
 41	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 143
+# sent_id = 85
 # text = Wenn bei Kaiserslautern der Efeu an freistehenden Bäumen bis in die Kronen klettert, an einer Kanadischen Pappel im Stadtpark mehr als 20 m hoch, so ist dies ein deutlicher Beweis für ozeanische Beeinflussung des Klimas des Kaiserslauterer Beckens.
 1	Wenn	_	CONJ	KOUS	_	13	CP	_	_
 2	bei	_	ADP	APPR	_	13	MO	_	_
@@ -3556,24 +2749,7 @@ Barbatula
 40	Beckens	_	NOUN	NN	_	37	AG	_	_
 41	.	_	PUNCT	$.	_	28	PUNCT	_	_
 
-# sent_id = 144
-# text = (Ilex), die nicht etwa dort angepflanzt, sondern ursprünglich ist.
-1	(	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Ilex	_	PROPN	NE	_	0	--	_	_
-3	)	_	PUNCT	$(	_	2	PUNCT	_	_
-4	,	_	PUNCT	$,	_	2	PUNCT	_	_
-5	die	_	PRON	PRELS	_	9	SB	_	_
-6	nicht	_	X	PTKNEG	_	9	NG	_	_
-7	etwa	_	ADV	ADV	_	8	MO	_	_
-8	dort	_	ADV	ADV	_	9	MO	_	_
-9	angepflanzt	_	VERB	VVPP	_	2	RC	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	sondern	_	CONJ	KON	_	9	CD	_	_
-12	ursprünglich	_	ADJ	ADJD	_	13	MO	_	_
-13	ist	_	VERB	VAFIN	_	11	CJ	_	_
-14	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 145
+# sent_id = 86
 # text = Die Hauptverbreitung von Efeu und Stechpalme liegt nahe der atlantischen Küste mit ihren reichen Niederschlägen, wo die Warmwasserheizung des Golfstroms für milde Winter sorgt, welche beide Pflanzen mit ihren immergrünen Blättern zur Assimilation ausnützen.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Hauptverbreitung	_	NOUN	NN	_	7	SB	_	_
@@ -3613,7 +2789,7 @@ Barbatula
 36	ausnützen	_	VERB	VVINF	_	24	RC	_	_
 37	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 146
+# sent_id = 87
 # text = Ihm fehlt daher eine so vornehme Erscheinung unserer Pflanzenwelt wie das liebliche Moosglöckchen, Wahlenbergia hederacea, das bei Kaiserslautern vorgeschobene Posten seines Areals besitzt, und der westeuropäische Rote Fingerhut wandert wohl vom St. Instberter Waldeebiet über die Berge des Pfälzer Hauptsattels zum Königsberg bei Wolfstein, wagt sich aber nicht einmal in seine Randgebiete.
 1	Ihm	_	PRON	PPER	_	2	DA	_	_
 2	fehlt	_	VERB	VVFIN	_	0	--	_	_
@@ -3673,63 +2849,7 @@ Barbatula
 56	Randgebiete	_	NOUN	NN	_	54	NK	_	_
 57	.	_	PUNCT	$.	_	49	PUNCT	_	_
 
-# sent_id = 147
-# text = Den Haarigen Ginster, Genista pilosa, der ebenfalls gleich dem Färberginster ein halbimmerg.rüner Strauch ist, sah ich dort hinten überhaupt nicht, auch nicht das im Schmuck seiner blauen Blüten am Boden kriechende Singrün oder Immergrün, Vinca minor, das schon im mittleren Deutschland die Ostgrenze seines Vorkommens findet.
-1	Den	_	DET	ART	_	2	NK	_	_
-2	Haarigen	_	ADJ	ADJA	_	18	OA	_	_
-3	Ginster	_	NOUN	NN	_	2	NK	_	_
-4	,	_	PUNCT	$,	_	3	PUNCT	_	_
-5	Genista	_	PROPN	NE	_	6	PNC	_	_
-6	pilosa	_	PROPN	NE	_	3	APP	_	_
-7	,	_	PUNCT	$,	_	3	PUNCT	_	_
-8	der	_	PRON	PRELS	_	16	SB	_	_
-9	ebenfalls	_	ADV	ADV	_	16	MO	_	_
-10	gleich	_	ADV	ADV	_	12	CM	_	_
-11	dem	_	DET	ART	_	12	NK	_	_
-12	Färberginster	_	NOUN	NN	_	15	CC	_	_
-13	ein	_	DET	ART	_	15	NK	_	_
-14	halbimmerg.rüner	_	ADJ	ADJA	_	15	NK	_	_
-15	Strauch	_	NOUN	NN	_	16	PD	_	_
-16	ist	_	VERB	VAFIN	_	3	RC	_	_
-17	,	_	PUNCT	$,	_	18	PUNCT	_	_
-18	sah	_	VERB	VVFIN	_	0	--	_	_
-19	ich	_	PRON	PPER	_	18	SB	_	_
-20	dort	_	ADV	ADV	_	18	MO	_	_
-21	hinten	_	ADV	ADV	_	20	MO	_	_
-22	überhaupt	_	ADV	ADV	_	23	MO	_	_
-23	nicht	_	X	PTKNEG	_	18	NG	_	_
-24	,	_	PUNCT	$,	_	18	PUNCT	_	_
-25	auch	_	ADV	ADV	_	3	CD	_	_
-26	nicht	_	X	PTKNEG	_	18	NG	_	_
-27	das	_	DET	ART	_	36	NK	_	_
-28	im	_	ADP	APPRART	_	35	MO	_	_
-29	Schmuck	_	NOUN	NN	_	28	NK	_	_
-30	seiner	_	PRON	PPOSAT	_	32	NK	_	_
-31	blauen	_	ADJ	ADJA	_	32	NK	_	_
-32	Blüten	_	NOUN	NN	_	29	AG	_	_
-33	am	_	ADP	APPRART	_	35	MO	_	_
-34	Boden	_	NOUN	NN	_	33	NK	_	_
-35	kriechende	_	ADJ	ADJA	_	36	NK	_	_
-36	Singrün	_	NOUN	NN	_	25	CJ	_	_
-37	oder	_	CONJ	KON	_	36	CD	_	_
-38	Immergrün	_	NOUN	NN	_	37	CJ	_	_
-39	,	_	PUNCT	$,	_	36	PUNCT	_	_
-40	Vinca	_	PROPN	NE	_	41	PNC	_	_
-41	minor	_	PROPN	NE	_	36	APP	_	_
-42	,	_	PUNCT	$,	_	36	PUNCT	_	_
-43	das	_	PRON	PRELS	_	52	SB	_	_
-44	schon	_	ADV	ADV	_	45	MO	_	_
-45	im	_	ADP	APPRART	_	52	MO	_	_
-46	mittleren	_	ADJ	ADJA	_	47	NK	_	_
-47	Deutschland	_	PROPN	NE	_	45	NK	_	_
-48	die	_	DET	ART	_	49	NK	_	_
-49	Ostgrenze	_	NOUN	NN	_	52	OA	_	_
-50	seines	_	PRON	PPOSAT	_	51	NK	_	_
-51	Vorkommens	_	NOUN	NN	_	49	AG	_	_
-52	findet	_	VERB	VVFIN	_	36	RC	_	_
-53	.	_	PUNCT	$.	_	18	PUNCT	_	_
-
-# sent_id = 148
+# sent_id = 88
 # text = Das ist schon daraus zu ersehen, daß der Adlerfarn, Pteridium aquilinum, in geradezu tropisch anmutender Entwicklung dicht geschlossene Bestände von oft über Mannshöhe bildet.
 1	Das	_	PRON	PDS	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -3760,7 +2880,7 @@ Barbatula
 27	bildet	_	VERB	VVFIN	_	4	RE	_	_
 28	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 149
+# sent_id = 89
 # text = Carex elongata ist auch zu streichen, da wir sie in längerer Zeit vergeblich gesucht haben.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	elongata	_	PROPN	NE	_	3	SB	_	_
@@ -3780,7 +2900,7 @@ Barbatula
 16	haben	_	VERB	VAINF	_	6	MO	_	_
 17	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 150
+# sent_id = 90
 # text = Carex teretiuscula bedeckt mit C. paradoxa ganze Strecken bei Sanddorf und bei Maudach.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	teretiuscula	_	PROPN	NE	_	3	SB	_	_
@@ -3797,7 +2917,7 @@ Barbatula
 13	Maudach	_	PROPN	NE	_	12	NK	_	_
 14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 151
+# sent_id = 91
 # text = Carex pulicaris L. bewohnt noch eine nasse Wiese hinter Schönau;
 1	Carex	_	NOUN	NN	_	3	PNC	_	_
 2	pulicaris	_	PROPN	NE	_	3	PNC	_	_
@@ -3811,7 +2931,7 @@ Barbatula
 10	Schönau	_	PROPN	NE	_	9	NK	_	_
 11	;	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 152
+# sent_id = 92
 # text = Wir fanden sie aber in dem großen Sumpf zwischen Wiesloch und Bruchsal, der von der Bahnlinie durchschnitten wird und dies ist wohl der einzige Standort des Gebiets in der Gemarkung Roth-Malsch.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	fanden	_	VERB	VVFIN	_	0	--	_	_
@@ -3847,7 +2967,7 @@ Barbatula
 32	Roth-Malsch	_	PROPN	NE	_	31	NK	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 153
+# sent_id = 93
 # text = Es ist aber eine Verwechslung mit C. distans und es wäre endlich Zeit, daß die Sache richtig gestellt wird.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -3871,7 +2991,7 @@ Barbatula
 20	wird	_	VERB	VAFIN	_	10	RE	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 154
+# sent_id = 94
 # text = Es ist Carex binervis Sm.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -3880,7 +3000,7 @@ Barbatula
 5	Sm	_	PROPN	NE	_	2	PD	_	_
 6	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 155
+# sent_id = 95
 # text = Zum Schluß der Cyperaceen müssen wir noch auf einen Irrtum hinweisen, welcher in manchen Exkursionsfloren immer wieder auftritt.
 1	Zum	_	ADP	APPRART	_	5	MO	_	_
 2	Schluß	_	NOUN	NN	_	1	NK	_	_
@@ -3903,14 +3023,7 @@ Barbatula
 19	auftritt	_	VERB	VVFIN	_	10	RC	_	_
 20	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 156
-# text = Tragus racemosus Desf.
-1	Tragus	_	NOUN	NN	_	0	--	_	_
-2	racemosus	_	PROPN	NE	_	3	NK	_	_
-3	Desf	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 157
+# sent_id = 96
 # text = ist wohl die morphologisch interessanteste Art.
 1	ist	_	VERB	VAFIN	_	0	--	_	_
 2	wohl	_	ADV	ADV	_	1	MO	_	_
@@ -3920,7 +3033,7 @@ Barbatula
 6	Art	_	NOUN	NN	_	1	SB	_	_
 7	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 158
+# sent_id = 97
 # text = Die Familie der Gramineen weist dagegen eine sehr stattliche Anzahl von fremden Arten auf, welche mit Getreide- und Kräutersamen aus allen großen Getreidebauländern der alten und neuen Welt zu uns gelangen.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Familie	_	NOUN	NN	_	5	SB	_	_
@@ -3956,18 +3069,7 @@ Barbatula
 32	gelangen	_	VERB	VVINF	_	13	RC	_	_
 33	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 159
-# text = Panicum miliaceum L. steht auf allen Abfuhr.
-1	Panicum	_	PROPN	NE	_	3	PNC	_	_
-2	miliaceum	_	PROPN	NE	_	3	PNC	_	_
-3	L.	_	PROPN	NE	_	4	SB	_	_
-4	steht	_	VERB	VVFIN	_	0	--	_	_
-5	auf	_	ADP	APPR	_	4	MO	_	_
-6	allen	_	PRON	PIAT	_	7	NK	_	_
-7	Abfuhr	_	NOUN	NN	_	5	NK	_	_
-8	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 160
+# sent_id = 98
 # text = Wie er dorthin kam, kann nicht mehr festgestellt werden, da ihm die früheren Floristen keine Aufmerksamkeit schenkten.
 1	Wie	_	PRON	PWAV	_	4	MO	_	_
 2	er	_	PRON	PPER	_	4	SB	_	_
@@ -3990,7 +3092,7 @@ Barbatula
 19	schenkten	_	VERB	VVFIN	_	6	MO	_	_
 20	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 161
+# sent_id = 99
 # text = Fimbristylis annualis, Teufelsbrücke, fanden wir an einer feuchten Stelle vor den Getreidelagerhäusern eine fremde, sehr zierliche Gyperaceenart.
 1	Fimbristylis	_	NOUN	NN	_	2	PNC	_	_
 2	annualis	_	VERB	VVFIN	_	6	OA	_	_
@@ -4014,7 +3116,7 @@ Barbatula
 20	Gyperaceenart	_	NOUN	NN	_	2	APP	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 162
+# sent_id = 100
 # text = Carex canescens fehlt in der Flora von Heidelberg, trotzdem sie auf der Mausbachwiese gemein ist.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	canescens	_	PROPN	NE	_	3	SB	_	_
@@ -4034,7 +3136,7 @@ Barbatula
 16	ist	_	VERB	VAFIN	_	3	MO	_	_
 17	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 163
+# sent_id = 101
 # text = Leider war es nur eine vorübergehende Erscheinung, da sie keine keimfähigen Samen ansetzte.
 1	Leider	_	ADV	ADV	_	2	MO	_	_
 2	war	_	VERB	VAFIN	_	0	--	_	_
@@ -4052,14 +3154,7 @@ Barbatula
 14	ansetzte	_	VERB	VVFIN	_	2	MO	_	_
 15	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 164
-# text = Alopecurus utriculatus Pers.
-1	Alopecurus	_	PROPN	NE	_	0	--	_	_
-2	utriculatus	_	ADJ	ADJD	_	3	PNC	_	_
-3	Pers	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 165
+# sent_id = 102
 # text = Phalaris canariensis L. ist ebenfalls eine Vogelfutterpflanze und ziemlich stark verbreitet.
 1	Phalaris	_	PROPN	NE	_	3	PNC	_	_
 2	canariensis	_	PROPN	NE	_	3	PNC	_	_
@@ -4074,7 +3169,7 @@ Barbatula
 11	verbreitet	_	VERB	VVPP	_	8	CJ	_	_
 12	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 166
+# sent_id = 103
 # text = Sorghum halepense kommt mit fremdem Getreide zu uns und ist in den Hafenanlagen des Rheins in jedem Jahre zu finden, ebenfalls angesät zu Vogelfutter unter dem Namen Kolbenhirse und daher mögen wohl die Exemplare stammen, die man in der Pfalz auf Kartoffelfeldern nicht all zu selten findet.
 1	Sorghum	_	PROPN	NE	_	2	PNC	_	_
 2	halepense	_	X	FM	_	3	SB	_	_
@@ -4127,7 +3222,7 @@ Barbatula
 49	findet	_	VERB	VVFIN	_	35	RC	_	_
 50	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 167
+# sent_id = 104
 # text = Cynodon ist in manchen Gegenden Deutschlands gar nicht vorhanden, während sie bei uns an Rheindämmen und auf Schuttplätzen selbst der Städte ganz ausgedehnte Flächen besiedelt und alle anderen Pflanzen verdrängt.
 1	Cynodon	_	PROPN	NE	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -4162,7 +3257,7 @@ Barbatula
 31	verdrängt	_	VERB	VVFIN	_	27	CJ	_	_
 32	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 168
+# sent_id = 105
 # text = Phleum arenarium hatte in der Nähe des Stengelhofes, dem heutigen Rheinauhafen, in einer alten Kiesgrube eine ziemlich ausgedehnte Station.
 1	Phleum	_	NOUN	NN	_	2	PNC	_	_
 2	arenarium	_	PROPN	NE	_	3	SB	_	_
@@ -4187,14 +3282,7 @@ Barbatula
 21	Station	_	NOUN	NN	_	3	OA	_	_
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 169
-# text = Setaria italica Beauv.
-1	Setaria	_	PROPN	NE	_	3	PNC	_	_
-2	italica	_	VERB	VVFIN	_	3	NK	_	_
-3	Beauv	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 170
+# sent_id = 106
 # text = Panicuin capillare L. darf wohl als eingebürgert betrachtet werden, da es seit vielen Jahren in jedem Jahre im Hafen von Mannheim und Ludwigs- bafen mit keimfähigen Samen vorkommt.
 1	Panicuin	_	PROPN	NE	_	3	PNC	_	_
 2	capillare	_	PROPN	NE	_	3	PNC	_	_
@@ -4227,7 +3315,7 @@ Barbatula
 29	vorkommt	_	VERB	VVFIN	_	4	MO	_	_
 30	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 171
+# sent_id = 107
 # text = Sorghum halepense kommt mit fremdem Getreide zu uns und ist in den Hafenanlagen des Rheins in jedem Jahre zu finden.
 1	Sorghum	_	PROPN	NE	_	2	PNC	_	_
 2	halepense	_	X	FM	_	3	SB	_	_
@@ -4251,7 +3339,7 @@ Barbatula
 20	finden	_	VERB	VVINF	_	10	OC	_	_
 21	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 172
+# sent_id = 108
 # text = Professor Stiefelhagen fand Coleanthus vor einigen Jahren im großen Teich bei Groß-Hartmannsdorf, 495 Meter s. m. in der Nähe von Freiberg in Schlesien.
 1	Professor	_	NOUN	NN	_	3	SB	_	_
 2	Stiefelhagen	_	NOUN	NN	_	1	NK	_	_
@@ -4279,7 +3367,7 @@ Barbatula
 24	Schlesien	_	PROPN	NE	_	23	NK	_	_
 25	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 173
+# sent_id = 109
 # text = Als Begleitpflanzen stellten wir bei Mannheim Heleocharis acicularis, Limosella aqiiatica, Elatine, Callitriche, Peplis porlula, Polentilla supina und P. Norzoegica, Gnaphalium luteoalbum usw. fest.
 1	Als	_	ADP	APPR	_	3	MO	_	_
 2	Begleitpflanzen	_	NOUN	NN	_	1	NK	_	_
@@ -4312,7 +3400,7 @@ Barbatula
 29	fest	_	VERB	PTKVZ	_	3	SVP	_	_
 30	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 174
+# sent_id = 110
 # text = Im Jahre 1904 war im Hafen'von Ludwigshafen Lagurus ovatus L. vorhanden und zwar in blühenden, schön entwickelten Exemplaren.
 1	Im	_	ADP	APPRART	_	4	MO	_	_
 2	Jahre	_	NOUN	NN	_	1	NK	_	_
@@ -4335,7 +3423,7 @@ Barbatula
 19	Exemplaren	_	NOUN	NN	_	14	NK	_	_
 20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 175
+# sent_id = 111
 # text = Zu unserer größten Verwunderung erkannten wir aber, als es in Blüte stand, als Coleanthus subtilis Seidel.
 1	Zu	_	ADP	APPR	_	5	MO	_	_
 2	unserer	_	PRON	PPOSAT	_	4	NK	_	_
@@ -4357,7 +3445,7 @@ Barbatula
 18	Seidel	_	PROPN	NE	_	17	PNC	_	_
 19	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 176
+# sent_id = 112
 # text = Wir hielten es lange für eine Kümmerform von Poa annua.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	hielten	_	VERB	VVFIN	_	0	--	_	_
@@ -4371,7 +3459,7 @@ Barbatula
 10	annua	_	VERB	VVFIN	_	8	NK	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 177
+# sent_id = 113
 # text = Wir beobachteten schon einige Jahre in dem ausgetrockneten Alluvium des Mannheimer Floßhafens, da wo auch die Wolfia stand, ein kleines, höchst unscheinbares Pflänzchen, Psamma arenaria, sich einfand.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	beobachteten	_	VERB	VVFIN	_	0	--	_	_
@@ -4407,7 +3495,7 @@ Barbatula
 32	einfand	_	VERB	VVFIN	_	26	RC	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 178
+# sent_id = 114
 # text = Apera interrupta P. B. kann in jedem Sommer in der Nähe unserer großen Getreidelagerhäuser in den Häfen gesammelt werden.
 1	Apera	_	NOUN	NN	_	2	PNC	_	_
 2	interrupta	_	X	FM	_	5	SB	_	_
@@ -4430,7 +3518,7 @@ Barbatula
 19	werden	_	VERB	VAINF	_	5	OC	_	_
 20	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 179
+# sent_id = 115
 # text = Eragrostis, früher selten, dehnt sich in E. major u. minor in den Spargelplantagen von Schwetzingen immer mehr aus.
 1	Eragrostis	_	PROPN	NE	_	6	SB	_	_
 2	,	_	PUNCT	$,	_	1	PUNCT	_	_
@@ -4454,48 +3542,7 @@ Barbatula
 20	aus	_	VERB	PTKVZ	_	6	SVP	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 180
-# text = Avena Praecox Echinaria capitata, ein kleines, zierliches Gras aus Südeuropa steht regelmäßig zwischen den Gleisen der Hafenbahn auf der Mühlau und auch im Hafen von Ludwigshafen
-1	Avena	_	NOUN	NN	_	2	PNC	_	_
-2	Praecox	_	NOUN	NN	_	13	SB	_	_
-3	Echinaria	_	PROPN	NE	_	4	PNC	_	_
-4	capitata	_	PROPN	NE	_	2	NK	_	_
-5	,	_	PUNCT	$,	_	2	PUNCT	_	_
-6	ein	_	DET	ART	_	10	NK	_	_
-7	kleines	_	ADJ	ADJA	_	10	NK	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	zierliches	_	ADJ	ADJA	_	7	CJ	_	_
-10	Gras	_	NOUN	NN	_	2	APP	_	_
-11	aus	_	ADP	APPR	_	10	MNR	_	_
-12	Südeuropa	_	PROPN	NE	_	11	NK	_	_
-13	steht	_	VERB	VVFIN	_	0	--	_	_
-14	regelmäßig	_	ADJ	ADJD	_	13	MO	_	_
-15	zwischen	_	ADP	APPR	_	13	MO	_	_
-16	den	_	DET	ART	_	17	NK	_	_
-17	Gleisen	_	NOUN	NN	_	15	NK	_	_
-18	der	_	DET	ART	_	19	NK	_	_
-19	Hafenbahn	_	NOUN	NN	_	17	AG	_	_
-20	auf	_	ADP	APPR	_	19	MNR	_	_
-21	der	_	DET	ART	_	22	NK	_	_
-22	Mühlau	_	NOUN	NN	_	20	NK	_	_
-23	und	_	CONJ	KON	_	15	CD	_	_
-24	auch	_	ADV	ADV	_	25	MO	_	_
-25	im	_	ADP	APPRART	_	23	CJ	_	_
-26	Hafen	_	NOUN	NN	_	25	NK	_	_
-27	von	_	ADP	APPR	_	26	PG	_	_
-28	Ludwigshafen	_	NOUN	NN	_	27	NK	_	_
-
-# sent_id = 181
-# text = haben wir sie schon wiederholt konstatiert.
-1	haben	_	VERB	VAFIN	_	0	--	_	_
-2	wir	_	PRON	PPER	_	1	SB	_	_
-3	sie	_	PRON	PPER	_	6	OA	_	_
-4	schon	_	ADV	ADV	_	6	MO	_	_
-5	wiederholt	_	ADJ	ADJD	_	6	MO	_	_
-6	konstatiert	_	VERB	VVPP	_	1	OC	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 182
+# sent_id = 116
 # text = Durch den Getreidehandel kam Avena capillaris W. et K., die zierlichste Art der Gattung, zu uns und scheint sich das Bürgerrecht zu erwerben.
 1	Durch	_	ADP	APPR	_	4	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -4524,7 +3571,7 @@ Barbatula
 25	erwerben	_	VERB	VVINF	_	20	OC	_	_
 26	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 183
+# sent_id = 117
 # text = Selten dagegen ist Briza minor L.
 Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 1	Selten	_	ADJ	ADJD	_	3	PD	_	_
@@ -4544,7 +3591,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 15	nachgewiesen	_	VERB	VVPP	_	8	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 184
+# sent_id = 118
 # text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
 1	Briza	_	PROPN	NE	_	3	PNC	_	_
 2	maxima	_	PROPN	NE	_	3	PNC	_	_
@@ -4572,7 +3619,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 24	Kolonien	_	NOUN	NN	_	20	NK	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 185
+# sent_id = 119
 # text = Stupa capillata L. steht seit 1876 am Waldrande zwischen Käfertal und Viernheim und hat das Bestreben, sich stark zu vermehren, da ja die Samen mit langen, flugbaren Grannen versehen sind.
 1	Stupa	_	PROPN	NE	_	3	PNC	_	_
 2	capillata	_	PROPN	NE	_	3	PNC	_	_
@@ -4609,7 +3656,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 33	sind	_	VERB	VAFIN	_	21	MO	_	_
 34	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 186
+# sent_id = 120
 # text = Echinaria capitata, ein kleines, zierliches Gras aus Südeuropa steht regelmäßig zwischen den Gleisen der Hafenbahn auf der Mühlau und auch im Hafen von Ludwigshafen haben wir sie schon wiederholt konstatiert.
 1	Echinaria	_	PROPN	NE	_	2	PNC	_	_
 2	capitata	_	PROPN	NE	_	11	SB	_	_
@@ -4645,7 +3692,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 32	konstatiert	_	VERB	VVPP	_	27	OC	_	_
 33	.	_	PUNCT	$.	_	27	PUNCT	_	_
 
-# sent_id = 187
+# sent_id = 121
 # text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
 1	Briza	_	PROPN	NE	_	3	PNC	_	_
 2	maxima	_	PROPN	NE	_	3	PNC	_	_
@@ -4673,7 +3720,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 24	Kolonien	_	NOUN	NN	_	20	NK	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 188
+# sent_id = 122
 # text = Avena caryopliyllea dagegen ist in den Waldungen der Rheinebene gemein und dehnt sich immer weiter aus, während sie noch vor 20 Jahren selten war.
 1	Avena	_	NOUN	NN	_	2	PNC	_	_
 2	caryopliyllea	_	PROPN	NE	_	4	SB	_	_
@@ -4702,7 +3749,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 25	war	_	VERB	VAFIN	_	12	MO	_	_
 26	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 189
+# sent_id = 123
 # text = Eine ungarische Art, Cynosurus echinatus L., war im Sommer 1902 im Hafengebiet von Mannheim schön entwickelt zu sehen;
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	ungarische	_	ADJ	ADJA	_	3	NK	_	_
@@ -4726,7 +3773,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 20	sehen	_	VERB	VVINF	_	9	OC	_	_
 21	;	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 190
+# sent_id = 124
 # text = Eragrostis pilosa dagegen, seit dem Jahre 1899 auf dem Bahnkörper zwischen Oftersheim und Hockenheim vorhanden, ist leider in den letzten Jahren wieder erloschen.
 1	Eragrostis	_	PROPN	NE	_	2	PNC	_	_
 2	pilosa	_	VERB	VVFIN	_	18	SB	_	_
@@ -4755,7 +3802,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 25	erloschen	_	VERB	VVPP	_	18	PD	_	_
 26	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 191
+# sent_id = 125
 # text = Scleropoa dura P. B. hat uns viele Mühe bereitet;
 1	Scleropoa	_	PROPN	NE	_	2	PNC	_	_
 2	dura	_	X	FM	_	5	SB	_	_
@@ -4768,16 +3815,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 9	bereitet	_	VERB	VVPP	_	5	OC	_	_
 10	;	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 192
-# text = Scopoli, Syn.369—378. Poa durapp.
-1	Scopoli	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	Syn.369—378.	_	PROPN	NE	_	4	PNC	_	_
-4	Poa	_	PROPN	NE	_	1	APP	_	_
-5	durapp	_	VERB	PTKVZ	_	1	SVP	_	_
-6	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 193
+# sent_id = 126
 # text = Am großen Getreidelagerhaus in Ludwigshafen war eine andere, sehr zierliche Poa, nämlich Poa loliacea Huds., vorhanden.
 1	Am	_	ADP	APPRART	_	6	MO	_	_
 2	großen	_	ADJ	ADJA	_	3	NK	_	_
@@ -4801,7 +3839,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 20	vorhanden	_	ADJ	ADJD	_	6	PD	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 194
+# sent_id = 127
 # text = Die früheren Standorte am Kanal bei Frankenthal und bei Lampertheim sind heute auch nicht mehr vorhanden.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	früheren	_	ADJ	ADJA	_	3	NK	_	_
@@ -4821,14 +3859,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 16	vorhanden	_	ADJ	ADJD	_	11	PD	_	_
 17	.	_	PUNCT	$.	_	11	PUNCT	_	_
 
-# sent_id = 195
-# text = Glyceria distans Wahlenb.
-1	Glyceria	_	PROPN	NE	_	2	PNC	_	_
-2	distans	_	PROPN	NE	_	3	AG	_	_
-3	Wahlenb	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 196
+# sent_id = 128
 # text = An den Salinen von Dürkheim war früher Poa distans, Syn.
 1	An	_	ADP	APPR	_	6	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -4843,7 +3874,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 11	Syn	_	PROPN	NE	_	9	CJ	_	_
 12	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 197
+# sent_id = 129
 # text = Sie erreicht nur die Länge eines Fingers.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	erreicht	_	VERB	VVFIN	_	0	--	_	_
@@ -4854,7 +3885,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 7	Fingers	_	NOUN	NN	_	5	AG	_	_
 8	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 198
+# sent_id = 130
 # text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
@@ -4884,7 +3915,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 26	finden	_	VERB	VVINF	_	18	OC	_	_
 27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 199
+# sent_id = 131
 # text = Gaudinia fragilis oder Avena fragilis L. war im Jahre 1902 auf einem Kleeacker bei Mutterstadt in der Pfalz in 24 Exemplaren vorhanden.
 1	Gaudinia	_	PROPN	NE	_	2	PNC	_	_
 2	fragilis	_	PROPN	NE	_	7	SB	_	_
@@ -4910,7 +3941,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 22	vorhanden	_	ADJ	ADJD	_	7	PD	_	_
 23	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 200
+# sent_id = 132
 # text = Agropyrum cristatnm P. B. stand mehrere Jahre am Verbindungskanal im Mannheimer Hafen, wurde aber ebenfalls durch Frauen abgeschnitten und als Ziegenfutter verwendet.
 1	Agropyrum	_	NOUN	NN	_	5	SB	_	_
 2	cristatnm	_	PROPN	NE	_	4	PNC	_	_
@@ -4937,19 +3968,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 23	verwendet	_	VERB	VVFIN	_	20	CJ	_	_
 24	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 201
-# text = Auch der von Garke angegebene B. maximus Desf.
-1	Auch	_	ADV	ADV	_	7	MO	_	_
-2	der	_	DET	ART	_	7	NK	_	_
-3	von	_	ADP	APPR	_	5	SBP	_	_
-4	Garke	_	NOUN	NN	_	3	NK	_	_
-5	angegebene	_	ADJ	ADJA	_	7	NK	_	_
-6	B.	_	NOUN	NN	_	7	NK	_	_
-7	maximus	_	NOUN	NN	_	0	--	_	_
-8	Desf	_	PROPN	NE	_	7	NK	_	_
-9	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 202
+# sent_id = 133
 # text = Die Turteltaube besiedelt in geringer Dichte fast ausschließlich den Erzgebirgsnordrand im Südosten von Chemnitz.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -4967,7 +3986,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 14	Chemnitz	_	PROPN	NE	_	13	NK	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 203
+# sent_id = 134
 # text = Sie lebt dort in den Randbereichen der Wälder, an Lichtungsrändern und in Stangenhölzern mit aufgelockerter Gehölzstruktur.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	lebt	_	VERB	VVFIN	_	0	--	_	_
@@ -4988,7 +4007,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 17	Gehölzstruktur	_	NOUN	NN	_	15	NK	_	_
 18	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 204
+# sent_id = 135
 # text = Weitere Vorkommen befinden sich besonders im Eubaer Raum in Feldgehölzen und auf dem ehemaligen TUP Euba, hier in einem lichten Sandbirkenbestand.
 1	Weitere	_	ADJ	ADJA	_	2	NK	_	_
 2	Vorkommen	_	NOUN	NN	_	3	SB	_	_
@@ -5014,7 +4033,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 22	Sandbirkenbestand	_	NOUN	NN	_	19	NK	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 205
+# sent_id = 136
 # text = Aus anderen Wäldern am Siedlungsrand (z. B. Crimmitschauer Wald) liegen nur Einzelbeobachtungen von wahrscheinlich durchziehenden Vögeln vor.
 1	Aus	_	ADP	APPR	_	12	MO	_	_
 2	anderen	_	ADJ	ADJA	_	3	NK	_	_
@@ -5037,7 +4056,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 19	vor	_	VERB	PTKVZ	_	12	SVP	_	_
 20	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 206
+# sent_id = 137
 # text = Auch ein Großteil der halboffenen Feldflur (Draisdorf, Ebersdorf) wie auch der bebaute Bereich ist nicht besiedelt.
 1	Auch	_	ADV	ADV	_	3	MO	_	_
 2	ein	_	DET	ART	_	3	NK	_	_
@@ -5060,7 +4079,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 19	besiedelt	_	VERB	VVPP	_	17	PD	_	_
 20	.	_	PUNCT	$.	_	17	PUNCT	_	_
 
-# sent_id = 207
+# sent_id = 138
 # text = Auffälligerweise lagen die Reviere im Kartierungszeitraum fast nur in Höhenlagen oberhalb 400 m ü. NN.
 1	Auffälligerweise	_	NOUN	NN	_	2	MO	_	_
 2	lagen	_	VERB	VVFIN	_	0	--	_	_
@@ -5079,7 +4098,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 15	NN	_	PROPN	NE	_	14	NK	_	_
 16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 208
+# sent_id = 139
 # text = Ganz im Gegensatz dazu brütete die Turteltaube bis 1950 in Sachsen nur in Lagen bis 300 m ü. NN (Heyder 1952).
 1	Ganz	_	ADV	ADV	_	2	MO	_	_
 2	im	_	ADP	APPRART	_	5	MO	_	_
@@ -5106,14 +4125,14 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 23	)	_	PUNCT	$(	_	21	PUNCT	_	_
 24	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 209
+# sent_id = 140
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 210
+# sent_id = 141
 # text = Die Turteltaube unterliegt jährlich und lokal ziemlichen Bestandsschwankungen (Weise et al. 1998), was eine Einschätzung des Bestandes erschwert.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -5138,7 +4157,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 21	erschwert	_	VERB	VVPP	_	8	RC	_	_
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 211
+# sent_id = 142
 # text = Bereits Henker (1925) zählt sie zu den seltenen Brutvögeln Mittelsachsens.
 1	Bereits	_	ADV	ADV	_	2	MO	_	_
 2	Henker	_	NOUN	NN	_	6	SB	_	_
@@ -5154,7 +4173,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 12	Mittelsachsens	_	NOUN	NN	_	11	AG	_	_
 13	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 212
+# sent_id = 143
 # text = Saemann (1970a) deutet für die 1960er-Jahre lediglich die Möglichkeit des Brütens in Chemnitz an, wobei er dies u. a. auf eine Beobachtung im Schwarzwald bei Adelsberg stützt:
 1	Saemann	_	PROPN	NE	_	5	SB	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -5188,7 +4207,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 30	stützt	_	VERB	VVFIN	_	5	MO	_	_
 31	:	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 213
+# sent_id = 144
 # text = G. RINNHOFER und F. Neubauer verhörten dort am 31.5.1964 ein Ind.
 1	G.	_	PROPN	NE	_	2	PNC	_	_
 2	RINNHOFER	_	PROPN	NE	_	6	SB	_	_
@@ -5203,14 +4222,14 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 11	Ind	_	NOUN	NN	_	6	OA	_	_
 12	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 214
+# sent_id = 145
 # text = in einem Fichtenbestand.
 1	in	_	ADP	APPR	_	0	--	_	_
 2	einem	_	DET	ART	_	3	NK	_	_
 3	Fichtenbestand	_	NOUN	NN	_	1	NK	_	_
 4	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 215
+# sent_id = 146
 # text = Etliche Nachweise rufender Turteltauben wurden Anfang der 1990er-Jahre aus diesem auch im Kartierungszeitraum besiedelten Gebiet erbracht.
 1	Etliche	_	PRON	PIAT	_	2	NK	_	_
 2	Nachweise	_	NOUN	NN	_	5	SB	_	_
@@ -5230,7 +4249,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 16	erbracht	_	VERB	VVPP	_	5	OC	_	_
 17	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 216
+# sent_id = 147
 # text = Wahrscheinlich waren sie in dieser Zeit sogar etwas häufiger.
 1	Wahrscheinlich	_	ADJ	ADJD	_	2	MO	_	_
 2	waren	_	VERB	VAFIN	_	0	--	_	_
@@ -5243,7 +4262,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 9	häufiger	_	ADJ	ADJD	_	2	PD	_	_
 10	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 217
+# sent_id = 148
 # text = Folgende Beobachtung spricht dafür:
 1	Folgende	_	ADJ	ADJA	_	2	NK	_	_
 2	Beobachtung	_	NOUN	NN	_	3	SB	_	_
@@ -5251,32 +4270,14 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 4	dafür	_	ADV	PROAV	_	3	OP	_	_
 5	:	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 218
+# sent_id = 149
 # text = Fünf rufende Ind.
 1	Fünf	_	NUM	CARD	_	3	NK	_	_
 2	rufende	_	ADJ	ADJA	_	3	NK	_	_
 3	Ind	_	NOUN	NN	_	0	--	_	_
 4	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 219
-# text = am 9.7.1993 in lichten Waldflächen nördlich des Hammergrundes im Schwarzwald (E. Flöter).
-1	am	_	ADP	APPRART	_	3	MO	_	_
-2	9.7.1993	_	PROPN	NE	_	1	NK	_	_
-3	in	_	ADP	APPR	_	3	ROOT	_	_
-4	lichten	_	ADJ	ADJA	_	5	NK	_	_
-5	Waldflächen	_	NOUN	NN	_	3	NK	_	_
-6	nördlich	_	ADJ	ADJD	_	5	MO	_	_
-7	des	_	DET	ART	_	8	NK	_	_
-8	Hammergrundes	_	NOUN	NN	_	6	AG	_	_
-9	im	_	ADP	APPRART	_	8	MNR	_	_
-10	Schwarzwald	_	PROPN	NE	_	9	NK	_	_
-11	(	_	PUNCT	$(	_	13	PUNCT	_	_
-12	E.	_	PROPN	NE	_	13	PNC	_	_
-13	Flöter	_	NOUN	NN	_	10	PAR	_	_
-14	)	_	PUNCT	$(	_	13	PUNCT	_	_
-15	.	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 220
+# sent_id = 150
 # text = Auch im Zeisigwald wurde 1993 ein Revier gefunden, im Struthwald waren es am 20.5.1993 sieben (E. Flöter).
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	im	_	ADP	APPRART	_	8	MO	_	_
@@ -5300,7 +4301,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 20	)	_	PUNCT	$(	_	19	PUNCT	_	_
 21	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 221
+# sent_id = 151
 # text = Bis Ende der 1990er-Jahre scheint der Bestand wieder abgenommen zu haben.
 1	Bis	_	ADP	APPR	_	11	MO	_	_
 2	Ende	_	NOUN	NN	_	1	NK	_	_
@@ -5315,7 +4316,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 11	haben	_	VERB	VAINF	_	5	OC	_	_
 12	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 222
+# sent_id = 152
 # text = Auch für den Rabensteiner Wald berichtet J. Frölich nach dem häufigeren Auftreten der Turteltaube in den 1980er- bis Anfang der 1990er-Jahre über ihren Rückgang in der nachfolgenden Zeit.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	für	_	ADP	APPR	_	6	MO	_	_
@@ -5347,39 +4348,14 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 28	Zeit	_	NOUN	NN	_	25	NK	_	_
 29	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 223
+# sent_id = 153
 # text = Gefährdung und Schutz:
 1	Gefährdung	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Schutz	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 224
-# text = Sicherlich kommt es auch bei der Turteltaube durch die Intensivierung der Landwirtschaft zur Beeinträchtigung der Nutzbarkeit der Felder als Nahrungshabi- tat.
-1	Sicherlich	_	ADV	ADV	_	2	MO	_	_
-2	kommt	_	VERB	VVFIN	_	0	--	_	_
-3	es	_	PRON	PPER	_	2	EP	_	_
-4	auch	_	ADV	ADV	_	5	MO	_	_
-5	bei	_	ADP	APPR	_	2	MO	_	_
-6	der	_	DET	ART	_	7	NK	_	_
-7	Turteltaube	_	NOUN	NN	_	5	NK	_	_
-8	durch	_	ADP	APPR	_	7	MNR	_	_
-9	die	_	DET	ART	_	10	NK	_	_
-10	Intensivierung	_	NOUN	NN	_	8	NK	_	_
-11	der	_	DET	ART	_	12	NK	_	_
-12	Landwirtschaft	_	NOUN	NN	_	10	AG	_	_
-13	zur	_	ADP	APPRART	_	10	MNR	_	_
-14	Beeinträchtigung	_	NOUN	NN	_	13	NK	_	_
-15	der	_	DET	ART	_	16	NK	_	_
-16	Nutzbarkeit	_	NOUN	NN	_	14	AG	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Felder	_	NOUN	NN	_	16	AG	_	_
-19	als	_	ADP	APPR	_	21	MO	_	_
-20	Nahrungshabi-	_	X	TRUNC	_	19	NK	_	_
-21	tat	_	VERB	VVFIN	_	2	MO	_	_
-22	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 225
+# sent_id = 154
 # text = Aus diesem Grund fehlt sie vielleicht in den Feldgehölzen im Norden der Stadt, die im Sommer oft von hohen, dicht bewachsenen Feldkulturen (vor allem Raps, Mais, Wintergetreide) umgeben sind.
 1	Aus	_	ADP	APPR	_	4	MO	_	_
 2	diesem	_	PRON	PDAT	_	3	NK	_	_
@@ -5418,7 +4394,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 35	sind	_	VERB	VAFIN	_	9	RC	_	_
 36	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 226
+# sent_id = 155
 # text = Bestandsfördernd würde daher eine extensivere Landbewirtschaftung wirken.
 1	Bestandsfördernd	_	ADJ	ADJD	_	7	MO	_	_
 2	würde	_	VERB	VAFIN	_	0	--	_	_
@@ -5429,7 +4405,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 7	wirken	_	VERB	VVINF	_	2	OC	_	_
 8	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 227
+# sent_id = 156
 # text = Grundsätzlich ist bei dieser Art nur von Revieren zu sprechen, da in der Kartierungsperiode und in den vorangegangenen Jahren kein Nestfund oder anderer D-Nachweis gelang und damit nicht generell auf „Brutpaare" geschlossen werden kann.
 1	Grundsätzlich	_	ADJ	ADJD	_	10	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -5470,59 +4446,14 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 37	kann	_	VERB	VMFIN	_	27	CJ	_	_
 38	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 228
-# text = Qualitative Kartierung: A B C D Gesamt Raster
-1	Qualitative	_	ADJ	ADJA	_	2	NK	_	_
-2	Kartierung	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	A	_	X	XY	_	8	PNC	_	_
-5	B	_	X	XY	_	8	PNC	_	_
-6	C	_	X	XY	_	8	PNC	_	_
-7	D	_	X	XY	_	8	PNC	_	_
-8	Gesamt	_	PROPN	NE	_	2	SB	_	_
-9	Raster	_	NOUN	NN	_	8	NK	_	_
-
-# sent_id = 229
-# text = 4 16 7 0 27 % 2,1 8,5 3,7 0 14,4
-Flöter et al.
-1	4	_	NUM	CARD	_	5	NMC	_	_
-2	16	_	NUM	CARD	_	5	NMC	_	_
-3	7	_	NUM	CARD	_	5	NMC	_	_
-4	0	_	NUM	CARD	_	5	NMC	_	_
-5	27	_	NUM	CARD	_	6	NK	_	_
-6	%	_	NOUN	NN	_	0	--	_	_
-7	2,1	_	NUM	CARD	_	11	NMC	_	_
-8	8,5	_	NUM	CARD	_	10	NMC	_	_
-9	3,7	_	NUM	CARD	_	10	NMC	_	_
-10	0	_	NUM	CARD	_	11	NMC	_	_
-11	14,4	_	NUM	CARD	_	12	NK	_	_
-12	Flöter	_	NOUN	NN	_	6	NK	_	_
-13	et	_	X	FM	_	14	PNC	_	_
-14	al.	_	X	FM	_	12	NK	_	_
-
-# sent_id = 230
-# text = : Brutvogelatlas der Stadt Chemnitz 95 Turteltaube Streptopelia turtur J ;).
-1	:	_	PUNCT	$.	_	2	PUNCT	_	_
-2	Brutvogelatlas	_	NOUN	NN	_	0	--	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Stadt	_	NOUN	NN	_	2	AG	_	_
-5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
-6	95	_	NUM	CARD	_	7	NK	_	_
-7	Turteltaube	_	NOUN	NN	_	2	OA	_	_
-8	Streptopelia	_	PROPN	NE	_	9	AG	_	_
-9	turtur	_	NOUN	NN	_	7	NK	_	_
-10	J	_	X	XY	_	11	PNC	_	_
-11	;)	_	X	XY	_	9	NK	_	_
-12	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 231
+# sent_id = 157
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 232
+# sent_id = 158
 # text = Der Bestand rufender Männchen wurde für den Kartierungszeitraum auf 20-30 Vögel geschätzt.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Bestand	_	NOUN	NN	_	5	SB	_	_
@@ -5540,7 +4471,7 @@ Flöter et al.
 14	geschätzt	_	VERB	VVPP	_	5	OC	_	_
 15	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 233
+# sent_id = 159
 # text = Im Kartierungszeitraum war dies vielleicht der Sumpfrohrsänger, da Kuckucke oft in brenn- nesselreichen Habitaten angetroffen wurden.
 1	Im	_	ADP	APPRART	_	3	MO	_	_
 2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
@@ -5561,7 +4492,7 @@ Flöter et al.
 17	wurden	_	VERB	VAFIN	_	3	MO	_	_
 18	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 234
+# sent_id = 160
 # text = Für die 1960er-Jahre vermutet Saemann (1970a) auf Grund der damaligen Verbreitung des Kuckucks die Bachstelze als Hauptwirtsvogel.
 1	Für	_	ADP	APPR	_	4	MO	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -5584,7 +4515,7 @@ Flöter et al.
 19	Hauptwirtsvogel	_	NOUN	NN	_	18	NK	_	_
 20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 235
+# sent_id = 161
 # text = Im Kartierungszeitraum dürfte er wieder ungefähr dem der 1960er-Jahre entsprechen.
 1	Im	_	ADP	APPRART	_	3	MO	_	_
 2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
@@ -5598,7 +4529,7 @@ Flöter et al.
 10	entsprechen	_	VERB	VVFIN	_	3	OC	_	_
 11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 236
+# sent_id = 162
 # text = Auch das zeitweise Entstehen etlicher Ruderalflächen in den 1990er-Jahren, die den Bestand potenzieller Wirtsvögel begünstigten (z. B. Sumpfrohrsänger), haben wahrscheinlich zur Bestandserholung beigetragen.
 1	Auch	_	ADV	ADV	_	4	MO	_	_
 2	das	_	DET	ART	_	4	NK	_	_
@@ -5629,13 +4560,13 @@ Flöter et al.
 27	beigetragen	_	VERB	VVPP	_	23	OC	_	_
 28	.	_	PUNCT	$.	_	23	PUNCT	_	_
 
-# sent_id = 237
+# sent_id = 163
 # text = Methodische Bemerkungen:
 1	Methodische	_	ADJ	ADJA	_	2	NK	_	_
 2	Bemerkungen	_	NOUN	NN	_	0	--	_	_
 3	:	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 238
+# sent_id = 164
 # text = Der Kuckuck gehört zu den Arten, die im Bestand sehr leicht überschätzt werden.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
@@ -5653,7 +4584,7 @@ Flöter et al.
 14	werden	_	VERB	VAINF	_	6	RC	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 239
+# sent_id = 165
 # text = Generell würde auch dem Kuckuck eine Extensivierung der Landwirtschaft (z. B. Verringerung des Biozideinsatzes, vgl. Bauer & Berthold 1996) helfen.
 1	Generell	_	NOUN	NN	_	23	MO	_	_
 2	würde	_	VERB	VAFIN	_	0	--	_	_
@@ -5680,7 +4611,7 @@ Flöter et al.
 23	helfen	_	VERB	VVINF	_	2	OC	_	_
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 240
+# sent_id = 166
 # text = Der Kuckuck besiedelt in Chemnitz vor allem reich strukturiertes, halboffenes Gelände.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
@@ -5696,67 +4627,7 @@ Flöter et al.
 12	Gelände	_	NOUN	NN	_	3	OA	_	_
 13	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 241
-# text = Weitgehend ohne Vorkommen sind das dichter bebaute Stadtgebiet (z. B. Wohngebiete) und die höheren Lagen des Erzgebirgsnordran- des sowie teilweise die offene Feldflur.
-1	Weitgehend	_	ADJ	ADJD	_	4	MO	_	_
-2	ohne	_	ADP	APPR	_	1	MO	_	_
-3	Vorkommen	_	NOUN	NN	_	2	NK	_	_
-4	sind	_	VERB	VAFIN	_	0	--	_	_
-5	das	_	DET	ART	_	6	NK	_	_
-6	dichter	_	ADJ	ADJA	_	8	NK	_	_
-7	bebaute	_	ADJ	ADJA	_	8	NK	_	_
-8	Stadtgebiet	_	NOUN	NN	_	4	SB	_	_
-9	(	_	PUNCT	$(	_	12	PUNCT	_	_
-10	z.	_	ADP	APPRART	_	12	MO	_	_
-11	B.	_	NOUN	NN	_	10	NK	_	_
-12	Wohngebiete	_	NOUN	NN	_	8	PAR	_	_
-13	)	_	PUNCT	$(	_	12	PUNCT	_	_
-14	und	_	CONJ	KON	_	8	CD	_	_
-15	die	_	DET	ART	_	17	NK	_	_
-16	höheren	_	ADJ	ADJA	_	17	NK	_	_
-17	Lagen	_	NOUN	NN	_	14	CJ	_	_
-18	des	_	DET	ART	_	20	NK	_	_
-19	Erzgebirgsnordran-	_	X	TRUNC	_	20	ADC	_	_
-20	des	_	DET	ART	_	17	AG	_	_
-21	sowie	_	CONJ	KON	_	4	CD	_	_
-22	teilweise	_	ADV	ADV	_	25	MO	_	_
-23	die	_	DET	ART	_	25	NK	_	_
-24	offene	_	ADJ	ADJA	_	25	NK	_	_
-25	Feldflur	_	NOUN	NN	_	21	CJ	_	_
-26	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 242
-# text = Auch das zeitweise Entstehen etlicher Ruderalflächen in den 1990er-Jahren, die den Bestand potenzieller Wirtsvögel begünstigten (z. B. Sumpfrohrsänger), haben wahrscheinlich zur Bestandserholung beigetragen.
-1	Auch	_	ADV	ADV	_	4	MO	_	_
-2	das	_	DET	ART	_	4	NK	_	_
-3	zeitweise	_	ADV	ADV	_	4	MO	_	_
-4	Entstehen	_	NOUN	NN	_	23	SB	_	_
-5	etlicher	_	ADJ	ADJA	_	6	NK	_	_
-6	Ruderalflächen	_	NOUN	NN	_	4	AG	_	_
-7	in	_	ADP	APPR	_	6	MNR	_	_
-8	den	_	DET	ART	_	9	NK	_	_
-9	1990er-Jahren	_	NOUN	NN	_	7	NK	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	die	_	PRON	PRELS	_	16	SB	_	_
-12	den	_	DET	ART	_	13	NK	_	_
-13	Bestand	_	NOUN	NN	_	16	OA	_	_
-14	potenzieller	_	ADJ	ADJA	_	15	NK	_	_
-15	Wirtsvögel	_	NOUN	NN	_	13	AG	_	_
-16	begünstigten	_	VERB	VVFIN	_	9	RC	_	_
-17	(	_	PUNCT	$(	_	20	PUNCT	_	_
-18	z.	_	ADP	APPRART	_	20	MO	_	_
-19	B.	_	NOUN	NN	_	18	NK	_	_
-20	Sumpfrohrsänger	_	NOUN	NN	_	16	PAR	_	_
-21	)	_	PUNCT	$(	_	20	PUNCT	_	_
-22	,	_	PUNCT	$,	_	23	PUNCT	_	_
-23	haben	_	VERB	VAFIN	_	0	--	_	_
-24	wahrscheinlich	_	ADJ	ADJD	_	27	MO	_	_
-25	zur	_	ADP	APPRART	_	27	OP	_	_
-26	Bestandserholung	_	NOUN	NN	_	25	NK	_	_
-27	beigetragen	_	VERB	VVPP	_	23	OC	_	_
-28	.	_	PUNCT	$.	_	23	PUNCT	_	_
-
-# sent_id = 243
+# sent_id = 167
 # text = Schon R. Heyder bezeichnete den Kuckuck als „Herumflieger" und warnte vor überzogenen Siedlungsdichteangaben.
 1	Schon	_	ADV	ADV	_	3	MO	_	_
 2	R.	_	PROPN	NE	_	3	PNC	_	_
@@ -5775,7 +4646,7 @@ Flöter et al.
 15	Siedlungsdichteangaben	_	NOUN	NN	_	13	NK	_	_
 16	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 244
+# sent_id = 168
 # text = Die Kartendarstellung gibt daher eher den besiedelten Lebensraum als den „Brutbestand" wieder.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Kartendarstellung	_	NOUN	NN	_	3	SB	_	_
@@ -5793,22 +4664,7 @@ Flöter et al.
 14	wieder	_	ADV	ADV	_	3	SVP	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 245
-# text = 96 Kuckuck, Cuculus canorus Status: Regelmäßiger, spärlicher Brutvogel.
-1	96	_	NUM	CARD	_	2	NK	_	_
-2	Kuckuck	_	NOUN	NN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	Cuculus	_	PROPN	NE	_	6	PNC	_	_
-5	canorus	_	PROPN	NE	_	6	PNC	_	_
-6	Status	_	NOUN	NN	_	2	CJ	_	_
-7	:	_	PUNCT	$.	_	6	PUNCT	_	_
-8	Regelmäßiger	_	NOUN	NN	_	6	PAR	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	spärlicher	_	ADJ	ADJA	_	11	NK	_	_
-11	Brutvogel	_	NOUN	NN	_	8	CJ	_	_
-12	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 246
+# sent_id = 169
 # text = Einzelne Arten, wie Gladiolus paluster scheinen bereits völlig wegkultiviert zu sein und für einige andere steht das Aussterben nahe bevor.
 1	Einzelne	_	ADJ	ADJA	_	2	NK	_	_
 2	Arten	_	NOUN	NN	_	7	SB	_	_
@@ -5833,7 +4689,7 @@ Flöter et al.
 21	bevor	_	VERB	PTKVZ	_	17	SVP	_	_
 22	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 247
+# sent_id = 170
 # text = Jahrhunderts bemerkt, dass viele seltene Pflanzen, die er noch wenige Jahrzehnte vorher hier und anderwärts zahlreich antraf, damals schon bedenklich zurückgingen;
 1	Jahrhunderts	_	NOUN	NN	_	2	SB	_	_
 2	bemerkt	_	VERB	VVFIN	_	0	--	_	_
@@ -5861,7 +4717,7 @@ Flöter et al.
 24	zurückgingen	_	VERB	VVINF	_	2	OC	_	_
 25	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 248
+# sent_id = 171
 # text = Adonis vernalis, Rosa gallica bilden den Hauptschmuck dieser trockenen Hügel.
 1	Adonis	_	NOUN	NN	_	2	PNC	_	_
 2	vernalis	_	VERB	VVFIN	_	6	SB	_	_
@@ -5876,7 +4732,7 @@ Flöter et al.
 11	Hügel	_	NOUN	NN	_	8	AG	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 249
+# sent_id = 172
 # text = Die Flora derselben ist sehr reich und völlig verschieden von derjenigen der umgebenden feuchten Wiesen:
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Flora	_	NOUN	NN	_	4	SB	_	_
@@ -5895,7 +4751,7 @@ Flöter et al.
 15	Wiesen	_	NOUN	NN	_	11	AG	_	_
 16	:	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 250
+# sent_id = 173
 # text = Auf den feuchten dünn berasten „Naturwiesen" (die früher eine viel grössere Ausdehnung hatten) kamen einst Pflanzen wie Gladiolus paluster, Gentiana utriculosa, Orchis laxiflora, Iris sibirica, Schoenus nigricans, auf etwas trockenen Stellen Anacamptis pyramidalis sowie verschiedene Ophrysarten in Menge vor.
 1	Auf	_	ADP	APPR	_	18	MO	_	_
 2	den	_	DET	ART	_	7	NK	_	_
@@ -5947,7 +4803,7 @@ Flöter et al.
 48	vor	_	VERB	PTKVZ	_	18	SVP	_	_
 49	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 251
+# sent_id = 174
 # text = Auch die seltene Wahlenbergia hederacea wächst in der Nähe.
 1	Auch	_	ADV	ADV	_	4	MO	_	_
 2	die	_	DET	ART	_	4	NK	_	_
@@ -5960,7 +4816,7 @@ Flöter et al.
 9	Nähe	_	NOUN	NN	_	7	NK	_	_
 10	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 252
+# sent_id = 175
 # text = Ein Torfmoor des Pfälzerwaldes, wie z. B. jenes, welches sich oberhalb des Jagdhäusler Weihers (südlich von Kaiserslautern) ausdehnt, wo unter anderm Andromeda polifolia noch ziemlich häufig vorkommt.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Torfmoor	_	NOUN	NN	_	0	--	_	_
@@ -5996,7 +4852,7 @@ Flöter et al.
 32	vorkommt	_	VERB	VVPP	_	16	RC	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 253
+# sent_id = 176
 # text = Mit dem Wegbrechen dieser Felsen würden die letzten Standorte von Hutchinsia petraea, Arabis auriculata, Alsine Jacquini, Potentilla opaca, Trinia glauca, Globularia vulgaris, Sedum dasyphyllum, Stipa pennata etc. wohl für immer aus dem Gebiete unserer Flora verschwinden!
 1	Mit	_	ADP	APPR	_	6	MO	_	_
 2	dem	_	DET	ART	_	3	NK	_	_
@@ -6043,7 +4899,7 @@ Flöter et al.
 43	verschwinden	_	VERB	VVINF	_	6	OC	_	_
 44	!	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 254
+# sent_id = 177
 # text = Ein Stück des charakteristischen felsigen Bergwaldes am Donnersberg mit seinen Ahornen (Acer pseudoplatanus, A. platanoides, A. monspessulanum, der hier noch prächtige, starke Stämme bildet), Ulmen (Ulmus campestris, U. montana), Eschen (Fraxinus excelsior), Hainbuchen (Carpinus betulus), Linden (Tilia ulmifolia), dann mit Sorbus aria, S. aucuparia, S. torminalis, Amelanchier vulgaris, Cotoneaster integerrima
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Stück	_	NOUN	NN	_	0	--	_	_
@@ -6120,16 +4976,7 @@ Flöter et al.
 73	Cotoneaster	_	PROPN	NE	_	74	PNC	_	_
 74	integerrima	_	PROPN	NE	_	71	CJ	_	_
 
-# sent_id = 255
-# text = etc.
-1	etc.	_	ADV	ADV	_	0	--	_	_
-
-# sent_id = 256
-# text = *)
-1	*	_	X	XY	_	0	--	_	_
-2	)	_	PUNCT	$(	_	1	PUNCT	_	_
-
-# sent_id = 257
+# sent_id = 178
 # text = Feuchte quellenreiche Waldschluchten im Pfälzerwald, die Standorte unseres schönsten und stattlichsten Farnes Osmunda regalis.
 1	Feuchte	_	NOUN	NN	_	3	NK	_	_
 2	quellenreiche	_	ADJ	ADJA	_	3	NK	_	_
@@ -6148,7 +4995,7 @@ Flöter et al.
 15	regalis	_	PROPN	NE	_	13	APP	_	_
 16	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 258
+# sent_id = 179
 # text = Es gilt nur für die Hart, jenen klimatisch so sehr begünstigten schmalen Streifen am Ostabfall des Gebirges, wo in der sengenden Sonnenglut die Traube kocht und Edelkastanie und Mandelbaum ihre Früchte reifen, wo Siedelung sich an Siedelung drängt.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	gilt	_	VERB	VVFIN	_	0	--	_	_
@@ -6193,7 +5040,7 @@ Flöter et al.
 41	drängt	_	VERB	VVFIN	_	18	RC	_	_
 42	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 259
+# sent_id = 180
 # text = Buche (Fagus silvatica), Eiche (Quercus sessili- flora) und auf magerem fiachgründigem Boden die Kiefer (Pinus silvestris) bilden gegenwärtig den Hauptbestand dieses Waldes, seltener rein, meist mehr oder weniger gemischt.
 1	Buche	_	NOUN	NN	_	24	SB	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -6235,7 +5082,7 @@ Flöter et al.
 38	gemischt	_	VERB	VVPP	_	24	MO	_	_
 39	.	_	PUNCT	$.	_	24	PUNCT	_	_
 
-# sent_id = 260
+# sent_id = 181
 # text = Dasselbe gilt von der Lärche (Larix larix) und der Weisstanne (Abies alba).
 1	Dasselbe	_	PRON	PDS	_	2	SB	_	_
 2	gilt	_	VERB	VVFIN	_	0	--	_	_
@@ -6255,7 +5102,7 @@ Flöter et al.
 16	)	_	PUNCT	$(	_	15	PUNCT	_	_
 17	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 261
+# sent_id = 182
 # text = Pollich erwähnt sie in seiner 1776—77 erschienenen Flora noch nicht.
 1	Pollich	_	PROPN	NE	_	2	SB	_	_
 2	erwähnt	_	VERB	VVFIN	_	0	--	_	_
@@ -6269,7 +5116,7 @@ Flöter et al.
 10	nicht	_	X	PTKNEG	_	2	NG	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 262
+# sent_id = 183
 # text = Unter ihnen hat vor allen Pinus Strobus, die Weymouthkiefer, bereits forstliche Bedeutung erlangt.
 1	Unter	_	ADP	APPR	_	15	MO	_	_
 2	ihnen	_	PRON	PPER	_	1	NK	_	_
@@ -6288,7 +5135,7 @@ Flöter et al.
 15	erlangt	_	VERB	VVPP	_	3	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 263
+# sent_id = 184
 # text = Auch Bürger fremder Florengebiete nehmen heute Teil an der Zusammensetzung des Pfälzerwaldes.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	Bürger	_	NOUN	NN	_	5	SB	_	_
@@ -6304,39 +5151,7 @@ Flöter et al.
 12	Pfälzerwaldes	_	NOUN	NN	_	10	AG	_	_
 13	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 264
-# text = Die Fichte (Picea excelsa Lmk.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Fichte	_	NOUN	NN	_	0	--	_	_
-3	(	_	PUNCT	$(	_	4	PUNCT	_	_
-4	Picea	_	NOUN	NN	_	2	APP	_	_
-5	excelsa	_	ADJ	ADJA	_	6	NK	_	_
-6	Lmk	_	NOUN	NN	_	4	NK	_	_
-7	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 265
-# text = - 51) leider immer seltener werdend.
-1	-	_	PUNCT	$(	_	2	PUNCT	_	_
-2	51	_	NUM	CARD	_	7	SB	_	_
-3	)	_	PUNCT	$(	_	2	PUNCT	_	_
-4	leider	_	ADV	ADV	_	6	MO	_	_
-5	immer	_	ADV	ADV	_	6	MO	_	_
-6	seltener	_	ADJ	ADJD	_	7	MO	_	_
-7	werdend	_	ADJ	ADJD	_	0	--	_	_
-8	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 266
-# text = Bock genannt Tragus (1498—1554) Hieronymus.
-1	Bock	_	NOUN	NN	_	2	SB	_	_
-2	genannt	_	VERB	VVPP	_	0	--	_	_
-3	Tragus	_	PROPN	NE	_	2	OA	_	_
-4	(	_	PUNCT	$(	_	5	PUNCT	_	_
-5	1498—1554	_	NOUN	NN	_	7	NK	_	_
-6	)	_	PUNCT	$(	_	5	PUNCT	_	_
-7	Hieronymus	_	NOUN	NN	_	2	OA	_	_
-8	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 267
+# sent_id = 185
 # text = Bereits vor mehr als 300 Jahren haben zwei der bedeutendsten Pflanzenkenner ihrer Zeit, welche den Ehrentitel „Väter der Botanik" mit vollem Recht verdienen, auch die Pfalz forschend und sammelnd durchstreift:
 1	Bereits	_	ADV	ADV	_	2	MO	_	_
 2	vor	_	ADP	APPR	_	34	MO	_	_
@@ -6374,7 +5189,7 @@ Flöter et al.
 34	durchstreift	_	VERB	VVFIN	_	7	OC	_	_
 35	:	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 268
+# sent_id = 186
 # text = So wertvoll die aufgeführten botanischen Werke auch zweifellos sind, wenn es gilt, die ehemalige und jetzige Verbreitung bestimmter einzelner Pflanzen zu vergleichen, so wenig leisten sie doch, wenn wir uns ein anschauliches Bild des früheren Vegetationscharakters einer bestimmten Pflanzenformation, in unserem Falle also derjenigen des Naturwaldes, verschaffen wollen.
 1	So	_	ADV	ADV	_	2	MO	_	_
 2	wertvoll	_	ADJ	ADJD	_	9	PD	_	_
@@ -6432,7 +5247,7 @@ Flöter et al.
 54	wollen	_	VERB	VMFIN	_	28	MO	_	_
 55	.	_	PUNCT	$.	_	28	PUNCT	_	_
 
-# sent_id = 269
+# sent_id = 187
 # text = Ich erwähne hier vorzüglich nur dieser beiden Berge, weil sie wahrhaft bas Bild der Vorzeit und des deutschen Urwaldes gaben, und an jene Zeiten erinnerten, wo nach Tacitus Ausdruck Germania silvis horrida noch war.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	erwähne	_	VERB	VVFIN	_	0	--	_	_
@@ -6473,7 +5288,7 @@ Flöter et al.
 37	war	_	VERB	VAFIN	_	26	RC	_	_
 38	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 270
+# sent_id = 188
 # text = Wenn man diefe Bergerde genau durchsuchte, so fand man erst eine Laubdecke von mehreren Schuhen, dann Tangeln oder Nadeln von Kiefern, tiefer eine 4 bis 10 Zoll dicke vegetabiliche, sehr fette Dammerde, Holzerde, ganz und halb verfaultes Eichenholz und oft noch gleichsam versteinerte Holzfasern von Eichen und Hainbuchen, mitunter auch kenntliche Hefte von der Fichte (Pinus picea), welche letztere doch jetzt in jenen Gegenden auf 30 bis 40 Stunben nicht anders mehr, als neu angesäet, zu finden ist.
 1	Wenn	_	CONJ	KOUS	_	6	CP	_	_
 2	man	_	PRON	PIS	_	6	SB	_	_
@@ -6567,7 +5382,7 @@ Flöter et al.
 90	ist	_	VERB	VAFIN	_	62	RC	_	_
 91	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 271
+# sent_id = 189
 # text = Der Hauptbestand war Fichten- und Tannenbildung (Pinus picea unb Pinus abies).
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Hauptbestand	_	NOUN	NN	_	3	SB	_	_
@@ -6584,7 +5399,7 @@ Flöter et al.
 13	)	_	PUNCT	$(	_	12	PUNCT	_	_
 14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 272
+# sent_id = 190
 # text = Ich wiederhole es, daß man noch im Jahr 1793 die qanze schauerliche Pracht einer Urwaldbildung erblicken konnte.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	wiederhole	_	VERB	VVFIN	_	0	--	_	_
@@ -6606,7 +5421,7 @@ Flöter et al.
 18	konnte	_	VERB	VMFIN	_	3	RE	_	_
 19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 273
+# sent_id = 191
 # text = Die Eiche scheint in älteren Zeiten vollkommen prädominirend gewesen zu seyn.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Eiche	_	NOUN	NN	_	3	SB	_	_
@@ -6621,7 +5436,7 @@ Flöter et al.
 11	seyn	_	ADJ	ADJD	_	3	OC	_	_
 12	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 274
+# sent_id = 192
 # text = Den Lerchenbaum fand man auch hie und da.
 1	Den	_	DET	ART	_	2	NK	_	_
 2	Lerchenbaum	_	NOUN	NN	_	3	OA	_	_
@@ -6633,7 +5448,7 @@ Flöter et al.
 8	da	_	ADV	ADV	_	7	CJ	_	_
 9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 275
+# sent_id = 193
 # text = Einige Gegenden hingegen waren ganz unzugänglich, wie z. B. der große Hengst, die Fischbach und die Glashüttenwände u.s.w. Ungeheueres Lagerholz, ganz und halb verfaulte Stämme, Wind- und Schneebrüche, stellenweise undurchdringliche Dickichte, von Fichten und Tannen sumpfigte und ganz ersäufte Stellen, 50 bis 60 Morgen groß, große von den Sommer und Winterstürmen, gleichsam kunstmäßig, angelegte Verhaue, durch welche Anflug und Auffschlag mühsam sich durchgewinden hatten, veranlassten die Forstbeamten, jene Gegenden, welche die zerstörende, aber auch unermüdet reproduzirende Natur in ihrer höchsten Pracht darstellten, völlig unangerührt zu lassen, weil Hauungen und Aufräumungen oder eine regelmäßige Forstbewirtschaftung die großen Auslagen, trotz des Holzverkaufs, nie vergütet haben würden.
 1	Einige	_	PRON	PIAT	_	2	NK	_	_
 2	Gegenden	_	NOUN	NN	_	4	SB	_	_
@@ -6760,7 +5575,7 @@ Flöter et al.
 123	würden	_	VERB	VAFIN	_	102	MO	_	_
 124	.	_	PUNCT	$.	_	77	PUNCT	_	_
 
-# sent_id = 276
+# sent_id = 194
 # text = Pfrimmen—Besenginster (Sarothamnus scoparius).
 1	Pfrimmen—Besenginster	_	NOUN	NN	_	0	--	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -6769,7 +5584,7 @@ Flöter et al.
 5	)	_	PUNCT	$(	_	3	PUNCT	_	_
 6	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 277
+# sent_id = 195
 # text = Am 22. Mai 1901 beobachtete ich auf dem Altrhein bei Neuhofen längere Zeit vier dieser prächtigen Vögel.
 1	Am	_	ADP	APPRART	_	5	MO	_	_
 2	22.	_	ADJ	ADJA	_	3	NK	_	_
@@ -6790,14 +5605,7 @@ Flöter et al.
 17	Vögel	_	NOUN	NN	_	14	AG	_	_
 18	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 278
-# text = Picus leuconotus Bechst.
-1	Picus	_	X	FM	_	0	--	_	_
-2	leuconotus	_	PROPN	NE	_	3	PNC	_	_
-3	Bechst	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 279
+# sent_id = 196
 # text = In folgendem möchte ich nur kurz das Vorkommen von vier seltenen Vögeln feststellen, welche von den Gebrüder Heussler nicht erwähnt werden.
 1	In	_	ADP	APPR	_	3	MO	_	_
 2	folgendem	_	ADV	ADV	_	1	NK	_	_
@@ -6823,7 +5631,7 @@ Flöter et al.
 22	werden	_	VERB	VAINF	_	12	RC	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 280
+# sent_id = 197
 # text = Einen jungen Vogel dieser Art schoss am 17. September 1902 in meinem Beisein Herr Fabrikdirektor J. Schiffer in Grünstadt auf dem "Grünstadter Berg", einem noch reich mit Ödungen und Kalkfelsen bedeckten trockenen Hügel unmittelbar bei der genannten Stadt.
 1	Einen	_	DET	ART	_	3	NK	_	_
 2	jungen	_	ADJ	ADJA	_	3	NK	_	_
@@ -6868,7 +5676,7 @@ Flöter et al.
 41	Stadt	_	NOUN	NN	_	38	NK	_	_
 42	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 281
+# sent_id = 198
 # text = Wir sahen nur dies eine Exemplar, welches mir von dem Schützen zum Geschenke gemacht wurde.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	sahen	_	VERB	VVFIN	_	0	--	_	_
@@ -6888,7 +5696,7 @@ Flöter et al.
 16	wurde	_	VERB	VAFIN	_	6	RC	_	_
 17	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 282
+# sent_id = 199
 # text = Wurde im Januar 1901 bei Johanniskreuz im Pfälzerwald durch Herrn Forstassistenten Jäger erlegt.
 1	Wurde	_	VERB	VAFIN	_	0	--	_	_
 2	im	_	ADP	APPRART	_	13	MO	_	_
@@ -6905,55 +5713,24 @@ Flöter et al.
 13	erlegt	_	VERB	VVFIN	_	1	OC	_	_
 14	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 283
+# sent_id = 200
 # text = Vögel.
 1	Vögel	_	NOUN	NN	_	0	--	_	_
 2	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 284
+# sent_id = 201
 # text = Pelecanus onocrotalus L. —
 1	Pelecanus	_	PROPN	NE	_	2	PNC	_	_
 2	onocrotalus	_	PROPN	NE	_	2	ROOT	_	_
 3	L.	_	PROPN	NE	_	2	PNC	_	_
 4	—	_	PUNCT	$(	_	2	PUNCT	_	_
 
-# sent_id = 285
+# sent_id = 202
 # text = Pelikan.
 1	Pelikan	_	PROPN	NE	_	0	--	_	_
 2	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 286
-# text = In überaus gewandtem Fluge über dem Wasserspiegel und den Rohrfeldern dahinstrichen.
-1	In	_	ADP	APPR	_	11	MO	_	_
-2	überaus	_	ADV	ADV	_	3	MO	_	_
-3	gewandtem	_	ADJ	ADJA	_	4	NK	_	_
-4	Fluge	_	NOUN	NN	_	1	NK	_	_
-5	über	_	ADP	APPR	_	4	MNR	_	_
-6	dem	_	DET	ART	_	7	NK	_	_
-7	Wasserspiegel	_	NOUN	NN	_	5	NK	_	_
-8	und	_	CONJ	KON	_	7	CD	_	_
-9	den	_	DET	ART	_	10	NK	_	_
-10	Rohrfeldern	_	NOUN	NN	_	8	CJ	_	_
-11	dahinstrichen	_	VERB	VVFIN	_	0	--	_	_
-12	.	_	PUNCT	$.	_	11	PUNCT	_	_
-
-# sent_id = 287
-# text = 84 - Fruticicola villosa Drap.
-1	84	_	NUM	CARD	_	3	NK	_	_
-2	-	_	PUNCT	$(	_	3	PUNCT	_	_
-3	Fruticicola	_	PROPN	NE	_	5	SB	_	_
-4	villosa	_	VERB	VVFIN	_	5	NK	_	_
-5	Drap	_	PROPN	NE	_	0	--	_	_
-6	.	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 288
-# text = detritus O. F. M.
-1	detritus	_	PROPN	NE	_	4	PNC	_	_
-2	O.	_	PROPN	NE	_	4	PNC	_	_
-3	F.	_	PROPN	NE	_	4	PNC	_	_
-4	M.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 289
+# sent_id = 203
 # text = Sehr gemein auf den Hügeln des Tertiärkalkes, besonders zwischen Dürkheim und Grünstadt, meist in Gesellschaft von Xerophila ericetorum O. F. M.
 1	Sehr	_	ADV	ADV	_	2	MO	_	_
 2	gemein	_	ADJ	ADJD	_	0	--	_	_
@@ -6979,15 +5756,7 @@ Flöter et al.
 22	F.	_	PROPN	NE	_	23	PNC	_	_
 23	M.	_	PROPN	NE	_	20	PNC	_	_
 
-# sent_id = 290
-# text = Caecilianella acicula O. F. M.
-1	Caecilianella	_	PROPN	NE	_	5	PNC	_	_
-2	acicula	_	PROPN	NE	_	5	PNC	_	_
-3	O.	_	PROPN	NE	_	5	PNC	_	_
-4	F.	_	PROPN	NE	_	5	PNC	_	_
-5	M.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 291
+# sent_id = 204
 # text = Bezüglich des Wohnortes dieser sehr zarten und durchsichtigen Art sagt Clessin*)
 1	Bezüglich	_	NOUN	NN	_	10	MO	_	_
 2	des	_	DET	ART	_	3	NK	_	_
@@ -7003,11 +5772,7 @@ Flöter et al.
 12	*	_	X	XY	_	10	PUNCT	_	_
 13	)	_	PUNCT	$(	_	10	PUNCT	_	_
 
-# sent_id = 292
-# text = :
-1	:	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 293
+# sent_id = 205
 # text = Sehr verborgen im lehmigen Boden (an den Wurzeln von Pflanzen?)
 1	Sehr	_	ADV	ADV	_	2	MO	_	_
 2	verborgen	_	VERB	VVPP	_	0	--	_	_
@@ -7023,7 +5788,7 @@ Flöter et al.
 12	?	_	PUNCT	$.	_	2	PUNCT	_	_
 13	)	_	PUNCT	$(	_	2	PUNCT	_	_
 
-# sent_id = 294
+# sent_id = 206
 # text = von Juni bis in den November hinein meist an den Rasen der Characeen in 1—3 m Tiefe, weniger an Blättern und Stengeln von Nymphaea und Nuphar;
 1	von	_	ADP	APPR	_	1	ROOT	_	_
 2	Juni	_	NOUN	NN	_	1	NK	_	_
@@ -7054,7 +5819,7 @@ Flöter et al.
 27	Nuphar	_	PROPN	NE	_	26	CJ	_	_
 28	;	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 295
+# sent_id = 207
 # text = Bei Maudach in dichten Klumpen an Schilf;
 1	Bei	_	ADP	APPR	_	0	--	_	_
 2	Maudach	_	PROPN	NE	_	1	NK	_	_
@@ -7065,7 +5830,7 @@ Flöter et al.
 7	Schilf	_	NOUN	NN	_	6	NK	_	_
 8	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 296
+# sent_id = 208
 # text = Von ähnlicher Verbreitung wie Cristatella, doch nicht so häufig.
 1	Von	_	ADP	APPR	_	0	--	_	_
 2	ähnlicher	_	ADJ	ADJA	_	3	NK	_	_
@@ -7079,27 +5844,14 @@ Flöter et al.
 10	häufig	_	ADJ	ADJD	_	7	CJ	_	_
 11	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 297
+# sent_id = 209
 # text = Alcyonella fungosa Pallas.
 1	Alcyonella	_	PROPN	NE	_	3	PNC	_	_
 2	fungosa	_	ADJ	ADJA	_	3	PNC	_	_
 3	Pallas	_	NOUN	NN	_	0	--	_	_
 4	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 298
-# text = (Wassertemperatur + 3°
-1	(	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Wassertemperatur	_	NOUN	NN	_	0	--	_	_
-3	+	_	CONJ	KON	_	2	CD	_	_
-4	3	_	NUM	CARD	_	3	CJ	_	_
-5	°	_	PROPN	NE	_	2	PUNCT	_	_
-
-# sent_id = 299
-# text = C.)
-1	C.	_	PROPN	NE	_	0	--	_	_
-2	)	_	PUNCT	$(	_	1	PUNCT	_	_
-
-# sent_id = 300
+# sent_id = 210
 # text = Alle drei Verbreitungsinseln weisen zeitweise größere übersichtliche, vegetationslose Flächen auf, die der Flussregenpfeifer als Sekundärlebensraum besiedelt.
 1	Alle	_	PRON	PIAT	_	3	NK	_	_
 2	drei	_	NUM	CARD	_	3	NK	_	_
@@ -7121,7 +5873,7 @@ Flöter et al.
 18	besiedelt	_	VERB	VVFIN	_	10	RC	_	_
 19	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 301
+# sent_id = 211
 # text = Außer Einzelvorkommen in Ebersdorf und Euba ist das übrige Stadtgebiet gänzlich unbesiedelt.
 1	Außer	_	ADP	APPR	_	7	MO	_	_
 2	Einzelvorkommen	_	NOUN	NN	_	1	NK	_	_
@@ -7137,7 +5889,7 @@ Flöter et al.
 12	unbesiedelt	_	VERB	VVPP	_	7	PD	_	_
 13	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 302
+# sent_id = 212
 # text = Ein kleines Bestandshoch war dann für die Zeit nach 1990 erkennbar, als der Flussregenpfeifer planierte, aber später nicht genutzte Bauflächen annahm (z. B. am Weideweg in Rottluff) und auch aufgelassene Militäranlagen (Munitionslager Euba) zur Brut nutzte.
 1	Ein	_	DET	ART	_	3	NK	_	_
 2	kleines	_	ADJ	ADJA	_	3	NK	_	_
@@ -7183,15 +5935,7 @@ Flöter et al.
 42	nutzte	_	VERB	VVFIN	_	32	CJ	_	_
 43	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 303
-# text = 12 Gefährdung und Schutz:
-1	12	_	NUM	CARD	_	2	NK	_	_
-2	Gefährdung	_	NOUN	NN	_	0	--	_	_
-3	und	_	CONJ	KON	_	2	CD	_	_
-4	Schutz	_	NOUN	NN	_	3	CJ	_	_
-5	:	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 304
+# sent_id = 213
 # text = Der Flussregenpfeifer nutzt in Chemnitz nahezu ausschließlich Sekundärhabitate als Brutstätten und ist somit stark von der menschlichen Bautätigkeit abhängig.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Flussregenpfeifer	_	NOUN	NN	_	3	SB	_	_
@@ -7214,7 +5958,7 @@ Flöter et al.
 19	abhängig	_	ADJ	ADJD	_	12	PD	_	_
 20	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 305
+# sent_id = 214
 # text = Zusammenfassend kann für den Flussregenpfeifer bis 2000 eine Zunahme konstatiert werden.
 1	Zusammenfassend	_	NOUN	NN	_	2	MO	_	_
 2	kann	_	VERB	VMFIN	_	0	--	_	_
@@ -7229,7 +5973,7 @@ Flöter et al.
 11	werden	_	VERB	VAINF	_	2	OC	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 306
+# sent_id = 215
 # text = Die höhere Bestandszahl im Kartierungszeitraum resultierte vor allem aus den in dieser Zeit günstigen Bedingungen im Chemnitztal bei Draisdorf, wo an den Rändern neu angelegter Gewässer drei bis sechs Paare nisteten.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	höhere	_	ADJ	ADJA	_	3	NK	_	_
@@ -7265,72 +6009,7 @@ Flöter et al.
 32	nisteten	_	VERB	VVINF	_	19	RC	_	_
 33	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 307
-# text = 9, 2006, Sonderheft 4 Flussregenpfeifer, Charadrius dubius Status: Regelmäßiger, seltener Brutvogel.
-1	9	_	NUM	CARD	_	7	NK	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	2006	_	NUM	CARD	_	1	CJ	_	_
-4	,	_	PUNCT	$,	_	1	PUNCT	_	_
-5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
-6	4	_	NUM	CARD	_	5	NK	_	_
-7	Flussregenpfeifer	_	NOUN	NN	_	0	--	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	Charadrius	_	PROPN	NE	_	3	CJ	_	_
-10	dubius	_	PROPN	NE	_	11	PNC	_	_
-11	Status	_	PROPN	NE	_	9	NK	_	_
-12	:	_	PUNCT	$.	_	7	PUNCT	_	_
-13	Regelmäßiger	_	ADJ	ADJA	_	7	PAR	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	seltener	_	ADJ	ADJA	_	16	NK	_	_
-16	Brutvogel	_	NOUN	NN	_	13	CJ	_	_
-17	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 308
-# text = Ornithol.
-1	Ornithol	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 309
-# text = Sachs.
-1	Sachs	_	PROPN	NE	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 310
-# text = Ver.
-1	Ver	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 311
-# text = Flöter et al.
-1	Flöter	_	NOUN	NN	_	0	--	_	_
-2	et	_	X	FM	_	3	PNC	_	_
-3	al.	_	X	FM	_	1	NK	_	_
-
-# sent_id = 312
-# text = : Brutvogelatlas der Stadt Chemnitz 85 Flussregenpfeifer p858
-1	:	_	PUNCT	$.	_	2	PUNCT	_	_
-2	Brutvogelatlas	_	NOUN	NN	_	0	--	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Stadt	_	NOUN	NN	_	2	AG	_	_
-5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
-6	85	_	NUM	CARD	_	7	NK	_	_
-7	Flussregenpfeifer	_	NOUN	NN	_	2	OA	_	_
-8	p858	_	NOUN	NN	_	7	NK	_	_
-
-# sent_id = 313
-# text = Brutmöglichkeiten nur noch im geringen Maße zur Verfügung stehen.
-1	Brutmöglichkeiten	_	NOUN	NN	_	9	SB	_	_
-2	nur	_	ADV	ADV	_	4	MO	_	_
-3	noch	_	ADV	ADV	_	2	MO	_	_
-4	im	_	ADP	APPRART	_	9	MO	_	_
-5	geringen	_	ADJ	ADJA	_	6	NK	_	_
-6	Maße	_	NOUN	NN	_	4	NK	_	_
-7	zur	_	ADP	APPRART	_	9	CVC	_	_
-8	Verfügung	_	NOUN	NN	_	7	NK	_	_
-9	stehen	_	VERB	VVINF	_	0	--	_	_
-10	.	_	PUNCT	$.	_	9	PUNCT	_	_
-
-# sent_id = 314
+# sent_id = 216
 # text = Die Anlage einiger neuer Gewässer mit angrenzenden Rohbodenflächen im Chemnitztal (vgl. Börner et al. 1995, Flöter &amp;
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Anlage	_	NOUN	NN	_	0	--	_	_
@@ -7354,22 +6033,7 @@ Flöter et al.
 20	amp	_	VERB	VVFIN	_	19	CJ	_	_
 21	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 315
-# text = Börner 2001) schaffte infolge der Sukzession nur kurzzeitig günstige Lebensbedingungen.
-1	Börner	_	NOUN	NN	_	4	SB	_	_
-2	2001	_	NUM	CARD	_	1	NK	_	_
-3	)	_	PUNCT	$(	_	1	PUNCT	_	_
-4	schaffte	_	VERB	VVFIN	_	0	--	_	_
-5	infolge	_	ADP	APPR	_	4	MO	_	_
-6	der	_	DET	ART	_	7	NK	_	_
-7	Sukzession	_	NOUN	NN	_	5	NK	_	_
-8	nur	_	ADV	ADV	_	9	MO	_	_
-9	kurzzeitig	_	ADJ	ADJD	_	10	MO	_	_
-10	günstige	_	ADJ	ADJA	_	11	NK	_	_
-11	Lebensbedingungen	_	NOUN	NN	_	4	OA	_	_
-12	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 316
+# sent_id = 217
 # text = An unzugänglichen Standorten (Industriebrachen) können Einzelvorkommen übersehen worden sein.
 1	An	_	ADP	APPR	_	11	MO	_	_
 2	unzugänglichen	_	ADJ	ADJA	_	3	NK	_	_
@@ -7384,7 +6048,7 @@ Flöter et al.
 11	sein	_	VERB	VAINF	_	7	OC	_	_
 12	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 317
+# sent_id = 218
 # text = In dieser Zeit war die Hohltaube jedoch im gesamten Erzgebirgsvorland ein sehr seltener Brutvogel, der im Gebiet des Bezirkes Chemnitz in den 1950er- bis 1970er- Jahren einen erheblichen Bestandsrückgang hinnehmen musste (Saemann 1976, Möckel 1981).
 1	In	_	ADP	APPR	_	4	MO	_	_
 2	dieser	_	PRON	PDAT	_	3	NK	_	_
@@ -7427,14 +6091,14 @@ Flöter et al.
 39	)	_	PUNCT	$(	_	34	PUNCT	_	_
 40	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 318
+# sent_id = 219
 # text = Verbreitung und Lebensraum:
 1	Verbreitung	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 319
+# sent_id = 220
 # text = Der Verbreitungsschwerpunkt der Hohltaube liegt in Chemnitz im Zeisigwald.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Verbreitungsschwerpunkt	_	NOUN	NN	_	5	SB	_	_
@@ -7447,30 +6111,7 @@ Flöter et al.
 9	Zeisigwald	_	PROPN	NE	_	8	NK	_	_
 10	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 320
-# text = Sommervogel.9, 2006, Sonderheft 4 Hohltaube, Columba oenas Status: Wahrscheinlich ab 1978 regelmäßiger, seltener Brutvogel.
-1	Sommervogel.9	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	2006	_	NUM	CARD	_	1	CJ	_	_
-4	,	_	PUNCT	$,	_	1	PUNCT	_	_
-5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
-6	4	_	NUM	CARD	_	5	NK	_	_
-7	Hohltaube	_	NOUN	NN	_	3	CJ	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	Columba	_	PROPN	NE	_	11	AG	_	_
-10	oenas	_	PROPN	NE	_	11	AG	_	_
-11	Status	_	PROPN	NE	_	1	APP	_	_
-12	:	_	PUNCT	$.	_	1	PUNCT	_	_
-13	Wahrscheinlich	_	ADJ	ADJD	_	14	MO	_	_
-14	ab	_	ADP	APPR	_	1	PAR	_	_
-15	1978	_	NUM	CARD	_	14	NK	_	_
-16	regelmäßiger	_	ADJ	ADJA	_	19	NK	_	_
-17	,	_	PUNCT	$,	_	16	PUNCT	_	_
-18	seltener	_	ADJ	ADJA	_	16	CJ	_	_
-19	Brutvogel	_	NOUN	NN	_	14	NK	_	_
-20	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 321
+# sent_id = 221
 # text = Die Hohltaube kommt außerdem im östlich die Stadtgrenze berührenden Struthwald vor.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Hohltaube	_	NOUN	NN	_	3	SB	_	_
@@ -7485,19 +6126,7 @@ Flöter et al.
 11	vor	_	VERB	PTKVZ	_	3	SVP	_	_
 12	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 322
-# text = Mehner und J. Börner Brutzeitbeobachtungen aus dem Kartierungszeitraum.
-1	Mehner	_	PROPN	NE	_	5	NK	_	_
-2	und	_	CONJ	KON	_	1	CD	_	_
-3	J.	_	PROPN	NE	_	4	PNC	_	_
-4	Börner	_	PROPN	NE	_	2	CJ	_	_
-5	Brutzeitbeobachtungen	_	NOUN	NN	_	0	--	_	_
-6	aus	_	ADP	APPR	_	5	MNR	_	_
-7	dem	_	DET	ART	_	8	NK	_	_
-8	Kartierungszeitraum	_	NOUN	NN	_	6	NK	_	_
-9	.	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 323
+# sent_id = 222
 # text = Auch Parkanlagen wurden trotz angebotener Nistkästen (innerhalb Axtenhilfsprogramm für die Dohle) nicht besetzt.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	Parkanlagen	_	NOUN	NN	_	3	SB	_	_
@@ -7516,7 +6145,7 @@ Flöter et al.
 15	besetzt	_	VERB	VVPP	_	3	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 324
+# sent_id = 223
 # text = Nach J. Frölich blieb der Rabensteiner Wald bisher ebenfalls unbesiedelt.
 1	Nach	_	ADP	APPR	_	4	MO	_	_
 2	J.	_	PROPN	NE	_	3	PNC	_	_
@@ -7530,7 +6159,7 @@ Flöter et al.
 10	unbesiedelt	_	VERB	VVPP	_	4	OC	_	_
 11	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 325
+# sent_id = 224
 # text = Lediglich 2003 fand J. Zill ein Paar im Zeisigwald in einer Eiche nistend.
 1	Lediglich	_	NOUN	NN	_	2	MO	_	_
 2	2003	_	NUM	CARD	_	3	MO	_	_
@@ -7547,7 +6176,7 @@ Flöter et al.
 13	nistend	_	ADJ	ADJD	_	3	MO	_	_
 14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 326
+# sent_id = 225
 # text = Sie ist fast ausnahmslos an hallenartige Buchenalthölzer gebunden, wo Schwarzspechthöhlen und Nistkästen zur Brut bezogen werden.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -7568,7 +6197,7 @@ Flöter et al.
 17	werden	_	VERB	VAINF	_	7	RC	_	_
 18	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 327
+# sent_id = 226
 # text = Auf dem Städtischen Friedhof bemerkte U. Schuster am 22.5.1977 sowie mehrfach zwischen dem 1.4. und 15-5.1978 ein balzrufendes Männchen, ohne dabei jedoch einen zweiten Vogel zu sehen.
 1	Auf	_	ADP	APPR	_	5	MO	_	_
 2	dem	_	DET	ART	_	4	NK	_	_
@@ -7602,7 +6231,7 @@ Flöter et al.
 30	sehen	_	VERB	VVINF	_	5	MO	_	_
 31	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 328
+# sent_id = 227
 # text = Bereits seit 1995 wird im Zeisigwald der Hohltaubenbestand mit Hilfe von Nistkästen gestützt.
 1	Bereits	_	ADV	ADV	_	2	MO	_	_
 2	seit	_	ADP	APPR	_	13	MO	_	_
@@ -7619,14 +6248,14 @@ Flöter et al.
 13	gestützt	_	VERB	VVPP	_	4	OC	_	_
 14	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 329
+# sent_id = 228
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 330
+# sent_id = 229
 # text = Der Bestand der Hohltaube betrug im Kartierungszeitraum sechs bis acht BR, davon wurden vier bis sechs im Zeisigwald festgestellt.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Bestand	_	NOUN	NN	_	5	SB	_	_
@@ -7650,48 +6279,7 @@ Flöter et al.
 20	festgestellt	_	VERB	VVPP	_	14	OC	_	_
 21	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 331
-# text = 9, 2006, Sonderheft 4 Hohltaube, Columba oenas Status: Wahrscheinlich ab 1978 regelmäßiger, seltener Brutvogel.
-1	9	_	NUM	CARD	_	7	NK	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	2006	_	NUM	CARD	_	1	CJ	_	_
-4	,	_	PUNCT	$,	_	1	PUNCT	_	_
-5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
-6	4	_	NUM	CARD	_	5	NK	_	_
-7	Hohltaube	_	NOUN	NN	_	0	--	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	Columba	_	PROPN	NE	_	11	AG	_	_
-10	oenas	_	PROPN	NE	_	11	AG	_	_
-11	Status	_	PROPN	NE	_	7	APP	_	_
-12	:	_	PUNCT	$.	_	7	PUNCT	_	_
-13	Wahrscheinlich	_	ADJ	ADJD	_	14	MO	_	_
-14	ab	_	ADP	APPR	_	7	PAR	_	_
-15	1978	_	NUM	CARD	_	14	NK	_	_
-16	regelmäßiger	_	ADJ	ADJA	_	19	NK	_	_
-17	,	_	PUNCT	$,	_	16	PUNCT	_	_
-18	seltener	_	ADJ	ADJA	_	16	CJ	_	_
-19	Brutvogel	_	NOUN	NN	_	14	NK	_	_
-20	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 332
-# text = Ornithol.
-1	Ornithol	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 333
-# text = Sachs.
-1	Sachs	_	PROPN	NE	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 334
-# text = Ver
-1	Ver	_	NOUN	NN	_	0	--	_	_
-
-# sent_id = 335
-# text = .
-1	.	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 336
+# sent_id = 230
 # text = Die Ringeltaube bewohnt alle Flächen mit für die Nestanlage geeignetem Baumbestand.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Ringeltaube	_	NOUN	NN	_	3	SB	_	_
@@ -7706,7 +6294,7 @@ Flöter et al.
 11	Baumbestand	_	NOUN	NN	_	6	NK	_	_
 12	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 337
+# sent_id = 231
 # text = Sehr dünn besiedelt ist die gehölzarme Feldflur am Rand der Stadt.
 1	Sehr	_	ADV	ADV	_	2	MO	_	_
 2	dünn	_	ADJ	ADJD	_	3	MO	_	_
@@ -7721,7 +6309,7 @@ Flöter et al.
 11	Stadt	_	NOUN	NN	_	9	AG	_	_
 12	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 338
+# sent_id = 232
 # text = In den 1990er-Jahren hat die Ringeltaube in ihrem Bestand jedoch erheblich zugenommen.
 1	In	_	ADP	APPR	_	12	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -7737,7 +6325,7 @@ Flöter et al.
 12	zugenommen	_	VERB	VVPP	_	4	OC	_	_
 13	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 339
+# sent_id = 233
 # text = Der Bestand der Ringeltaube umfasste im Kartierungs- zeitraum 600-900 BR, wobei davon 100-180 die neuen Stadtteile betrafen.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Bestand	_	NOUN	NN	_	5	SB	_	_
@@ -7763,7 +6351,7 @@ Flöter et al.
 22	betrafen	_	VERB	VVINF	_	5	MO	_	_
 23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 340
+# sent_id = 234
 # text = Ein weiterer möglicher Faktor für ihre Zunahme ist die fehlende Nistplatzkonkurrenz durch die im Bestand stark zurückgegangene Türkentaube.
 1	Ein	_	DET	ART	_	4	NK	_	_
 2	weiterer	_	ADJ	ADJA	_	4	NK	_	_
@@ -7785,21 +6373,7 @@ Flöter et al.
 18	Türkentaube	_	NOUN	NN	_	12	NK	_	_
 19	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 341
-# text = Ausgewählte Siedlungsdichten der Ringeltaube in Chemnitz.15.
-Verbreitung und Lebensraum:
-1	Ausgewählte	_	ADJ	ADJA	_	2	NK	_	_
-2	Siedlungsdichten	_	NOUN	NN	_	0	--	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Ringeltaube	_	NOUN	NN	_	2	AG	_	_
-5	in	_	ADP	APPR	_	4	MNR	_	_
-6	Chemnitz.15.	_	PROPN	NE	_	7	PNC	_	_
-7	Verbreitung	_	NOUN	NN	_	5	NK	_	_
-8	und	_	CONJ	KON	_	7	CD	_	_
-9	Lebensraum	_	NOUN	NN	_	8	CJ	_	_
-10	:	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 342
+# sent_id = 235
 # text = Die Ringeltaube bewohnt fast flächendeckend das gesamte Stadtgebiet.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Ringeltaube	_	NOUN	NN	_	3	SB	_	_
@@ -7811,7 +6385,7 @@ Verbreitung und Lebensraum:
 8	Stadtgebiet	_	NOUN	NN	_	3	OA	_	_
 9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 343
+# sent_id = 236
 # text = Sommervogel, zunehmend Uberwinterungen.
 1	Sommervogel	_	PROPN	NE	_	0	--	_	_
 2	,	_	PUNCT	$,	_	1	PUNCT	_	_
@@ -7819,45 +6393,7 @@ Verbreitung und Lebensraum:
 4	Uberwinterungen	_	NOUN	NN	_	1	CJ	_	_
 5	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 344
-# text = 9, 2006, Sonderheft 4 Ringeltaube, Columba palumbus Status: Regelmäßiger, häufiger Brutvogel.
-1	9	_	NUM	CARD	_	7	NK	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	2006	_	NUM	CARD	_	1	CJ	_	_
-4	,	_	PUNCT	$,	_	5	PUNCT	_	_
-5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
-6	4	_	NUM	CARD	_	5	NK	_	_
-7	Ringeltaube	_	NOUN	NN	_	0	--	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	Columba	_	PROPN	NE	_	11	AG	_	_
-10	palumbus	_	PROPN	NE	_	11	NK	_	_
-11	Status	_	NOUN	NN	_	3	CJ	_	_
-12	:	_	PUNCT	$.	_	11	PUNCT	_	_
-13	Regelmäßiger	_	ADJ	ADJA	_	11	PAR	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	häufiger	_	ADJ	ADJA	_	16	MO	_	_
-16	Brutvogel	_	PROPN	NE	_	13	CJ	_	_
-17	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 345
-# text = Ornithol.
-1	Ornithol	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 346
-# text = Sächs
-1	Sächs	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 347
-# text = .
-1	.	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 348
-# text = Ver.
-1	Ver	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 349
+# sent_id = 237
 # text = Für die 1960er- Jahre zählt Saemann (1970a) die Ringeltaube schon zu den verstädternden Arten, da sie bis in die Wohnblockzone vordrang.
 1	Für	_	ADP	APPR	_	5	MO	_	_
 2	die	_	DET	ART	_	4	NK	_	_
@@ -7885,56 +6421,7 @@ Verbreitung und Lebensraum:
 24	vordrang	_	VERB	VVFIN	_	5	MO	_	_
 25	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 350
-# text = 9, 2006, Sonderheft 4 Türkentaube, Streptopelia decaocto Status: Regelmäßiger, häufiger Brutvogel.
-1	9	_	NUM	CARD	_	7	NK	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	2006	_	NUM	CARD	_	1	CJ	_	_
-4	,	_	PUNCT	$,	_	1	PUNCT	_	_
-5	Sonderheft	_	PROPN	NE	_	3	CJ	_	_
-6	4	_	NUM	CARD	_	5	NK	_	_
-7	Türkentaube	_	NOUN	NN	_	0	--	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	Streptopelia	_	PROPN	NE	_	11	AG	_	_
-10	decaocto	_	X	FM	_	9	MNR	_	_
-11	Status	_	X	FM	_	7	CJ	_	_
-12	:	_	PUNCT	$.	_	11	PUNCT	_	_
-13	Regelmäßiger	_	ADJ	ADJA	_	11	PAR	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	häufiger	_	ADJ	ADJA	_	16	MO	_	_
-16	Brutvogel	_	PROPN	NE	_	13	CJ	_	_
-17	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 351
-# text = Ornithol.
-1	Ornithol	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 352
-# text = Sächs
-1	Sächs	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 353
-# text = .
-1	.	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 354
-# text = Ver.
-1	Ver	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 355
-# text = RLS V, RLD V. Verbreitung und Lebensraum
-1	RLS	_	PROPN	NE	_	2	PNC	_	_
-2	V	_	PROPN	NE	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	RLD	_	PROPN	NE	_	6	PNC	_	_
-5	V.	_	PROPN	NE	_	4	UC	_	_
-6	Verbreitung	_	NOUN	NN	_	2	CJ	_	_
-7	und	_	CONJ	KON	_	6	CD	_	_
-8	Lebensraum	_	NOUN	NN	_	7	CJ	_	_
-
-# sent_id = 356
+# sent_id = 238
 # text = : Die Türkentaube ist fast im gesamten bebauten Stadtgebiet Brutvogel.
 1	:	_	PUNCT	$.	_	4	PUNCT	_	_
 2	Die	_	DET	ART	_	3	NK	_	_
@@ -7948,14 +6435,14 @@ Verbreitung und Lebensraum:
 10	Brutvogel	_	PROPN	NE	_	4	PD	_	_
 11	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 357
+# sent_id = 239
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 358
+# sent_id = 240
 # text = Der Bestand der Türkentaube betrug im Kartierungs- zeitraum 350-520 BR, wobei nur 20-30 BR in den neuen Stadtteilen ermittelt wurden.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Bestand	_	NOUN	NN	_	5	SB	_	_
@@ -7984,38 +6471,7 @@ Verbreitung und Lebensraum:
 25	wurden	_	VERB	VAFIN	_	5	MO	_	_
 26	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 359
-# text = Ausgewählte Siedlungsdichten der Türkentaube in Chemnitz.16. 64,4%
-1	Ausgewählte	_	ADJ	ADJA	_	2	NK	_	_
-2	Siedlungsdichten	_	NOUN	NN	_	0	--	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Türkentaube	_	NOUN	NN	_	2	AG	_	_
-5	in	_	ADP	APPR	_	4	MNR	_	_
-6	Chemnitz.16.	_	PROPN	NE	_	5	NK	_	_
-7	64,4	_	NUM	CARD	_	8	NK	_	_
-8	%	_	NOUN	NN	_	2	PD	_	_
-
-# sent_id = 360
-# text = 2,47 BR/km2
-1	2,47	_	NUM	CARD	_	2	NK	_	_
-2	BR	_	NOUN	NN	_	0	--	_	_
-3	/	_	PUNCT	$(	_	2	PUNCT	_	_
-4	km2	_	PROPN	NE	_	2	CJ	_	_
-
-# sent_id = 361
-# text = Verbreitxmgsgrad besetzte Raster 1997-2000 350-520 BR
-1	Verbreitxmgsgrad	_	PROPN	NE	_	2	SB	_	_
-2	besetzte	_	ADJ	ADJA	_	0	--	_	_
-3	Raster	_	NOUN	NN	_	2	OA	_	_
-4	1997	_	NUM	CARD	_	2	MO	_	_
-5	-	_	NUM	CARD	_	4	PUNCT	_	_
-6	2000	_	NUM	CARD	_	10	NK	_	_
-7	350	_	NUM	CARD	_	10	NK	_	_
-8	-	_	NUM	CARD	_	9	PUNCT	_	_
-9	520	_	NUM	CARD	_	10	NK	_	_
-10	BR	_	NOUN	NN	_	2	OA	_	_
-
-# sent_id = 362
+# sent_id = 241
 # text = Die Turteltaube war im Chemnitzer Raum vermutlich nie besonders häufig.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -8029,7 +6485,7 @@ Verbreitung und Lebensraum:
 10	häufig	_	ADJ	ADJD	_	3	PD	_	_
 11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 363
+# sent_id = 242
 # text = Für den Kartierungszeitraum wurde von 8-14 nicht alljährlich besetzten Revieren ausgegangen.
 1	Für	_	ADP	APPR	_	13	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -8046,7 +6502,7 @@ Verbreitung und Lebensraum:
 13	ausgegangen	_	VERB	VVPP	_	4	OC	_	_
 14	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 364
+# sent_id = 243
 # text = Auffällig ist das fast völlige Fehlen der Turteltaube in einigen stadtnahen Wäldern wie z. B. im Sechsruthenwald und in der Kohlung.
 1	Auffällig	_	ADJ	ADJD	_	2	PD	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -8071,7 +6527,7 @@ Verbreitung und Lebensraum:
 21	Kohlung	_	NOUN	NN	_	19	NK	_	_
 22	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 365
+# sent_id = 244
 # text = Die Turteltaube besiedelt in geringer Dichte fast ausschließlich den Erzgebirgsnordrand im Südosten von Chemnitz.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -8089,30 +6545,7 @@ Verbreitung und Lebensraum:
 14	Chemnitz	_	PROPN	NE	_	13	NK	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 366
-# text = V.
-1	V.	_	ADJ	ADJA	_	0	--	_	_
-
-# sent_id = 367
-# text = Verbreitung und Lebensraum
-9, 2006, Sonderheft 4 Turteltaube, Streptopelia turtur Status:
-1	Verbreitung	_	NOUN	NN	_	0	--	_	_
-2	und	_	CONJ	KON	_	1	CD	_	_
-3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
-4	9	_	NUM	CARD	_	3	PNC	_	_
-5	,	_	PUNCT	$,	_	3	PUNCT	_	_
-6	2006	_	NUM	CARD	_	3	CJ	_	_
-7	,	_	PUNCT	$,	_	3	PUNCT	_	_
-8	Sonderheft	_	PROPN	NE	_	6	CJ	_	_
-9	4	_	NUM	CARD	_	10	NK	_	_
-10	Turteltaube	_	NOUN	NN	_	1	PAR	_	_
-11	,	_	PUNCT	$,	_	1	PUNCT	_	_
-12	Streptopelia	_	PROPN	NE	_	13	PNC	_	_
-13	turtur	_	NOUN	NN	_	1	CJ	_	_
-14	Status	_	NOUN	NN	_	13	NK	_	_
-15	:	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 368
+# sent_id = 245
 # text = Wahrscheinlich regelmäßiger, seltener Brutvogel.
 1	Wahrscheinlich	_	ADJ	ADJD	_	2	MO	_	_
 2	regelmäßiger	_	ADJ	ADJA	_	5	NK	_	_
@@ -8121,20 +6554,7 @@ Verbreitung und Lebensraum:
 5	Brutvogel	_	NOUN	NN	_	0	--	_	_
 6	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 369
-# text = Sommervogel.
-1	Sommervogel	_	PROPN	NE	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 370
-# text = RLD
-1	RLD	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 371
-# text = V.
-1	V.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 372
+# sent_id = 246
 # text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
@@ -8164,7 +6584,7 @@ Verbreitung und Lebensraum:
 26	finden	_	VERB	VVINF	_	18	OC	_	_
 27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 373
+# sent_id = 247
 # text = Hordeum secalinum, die Roggengerste.
 1	Hordeum	_	NOUN	NN	_	2	PNC	_	_
 2	secalinum	_	VERB	VVFIN	_	0	--	_	_
@@ -8173,7 +6593,7 @@ Verbreitung und Lebensraum:
 5	Roggengerste	_	NOUN	NN	_	2	APP	_	_
 6	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 374
+# sent_id = 248
 # text = Dann kommen noch Lepturus incurvatus, L. filiformis und L. cylindricus.
 1	Dann	_	ADV	ADV	_	2	MO	_	_
 2	kommen	_	VERB	VVFIN	_	0	--	_	_
@@ -8188,7 +6608,7 @@ Verbreitung und Lebensraum:
 11	cylindricus	_	PROPN	NE	_	9	CJ	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 375
+# sent_id = 249
 # text = Noch eine in der Pfalz sehr sehr seltene Graminee müssen wir erwähnen.
 1	Noch	_	ADV	ADV	_	2	MO	_	_
 2	eine	_	DET	ART	_	9	NK	_	_
@@ -8204,7 +6624,7 @@ Verbreitung und Lebensraum:
 12	erwähnen	_	VERB	VVINF	_	10	OC	_	_
 13	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 376
+# sent_id = 250
 # text = Wie sie hierher kam, läßt sich nicht einmal vermuten.
 1	Wie	_	PRON	PWAV	_	4	MO	_	_
 2	sie	_	PRON	PPER	_	4	SB	_	_
@@ -8218,7 +6638,7 @@ Verbreitung und Lebensraum:
 10	vermuten	_	VERB	VVINF	_	6	OC	_	_
 11	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 377
+# sent_id = 251
 # text = Polygonum cuspidatum Sieb, et Zucc, der japanische Riesenknöterich, hat sich an manchen Orten fest angesiedelt und scheint sich in unserem Klima sehr wohl zu befinden und dehnt seine Kolonien von Jahr zu Jahr immer weiter aus.
 1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
 2	cuspidatum	_	PROPN	NE	_	3	NK	_	_
@@ -8261,7 +6681,7 @@ Verbreitung und Lebensraum:
 39	aus	_	VERB	PTKVZ	_	30	SVP	_	_
 40	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 378
+# sent_id = 252
 # text = Rumex maritimus ist bei Mundenheim und Maudach in echt typischer Form noch vorhanden, ist aber so selten geworden, daß man schon Glück haben muß, wenn man noch ein Exemplar entdeckt.
 1	Rumex	_	PROPN	NE	_	2	PNC	_	_
 2	maritimus	_	PROPN	NE	_	3	SB	_	_
@@ -8298,7 +6718,7 @@ Verbreitung und Lebensraum:
 33	entdeckt	_	VERB	VVPP	_	26	MO	_	_
 34	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 379
+# sent_id = 253
 # text = Polygonum Bistorta L. in vielen Gegenden, z. B. im Taunus bei Langenschwalbach auf Wiesen gemein, ist bei uns ebenfalls fast vollständig verschwunden und nur im Odenwald ist es an wenigen Standorten noch vorhanden.
 1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
 2	Bistorta	_	PROPN	NE	_	3	PNC	_	_
@@ -8337,7 +6757,7 @@ Verbreitung und Lebensraum:
 35	vorhanden	_	ADJ	ADJD	_	29	PD	_	_
 36	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 380
+# sent_id = 254
 # text = Bei Ketsch am Rhein hat sich Rumex pulcher angesiedelt;
 1	Bei	_	ADP	APPR	_	9	MO	_	_
 2	Ketsch	_	PROPN	NE	_	1	NK	_	_
@@ -8350,7 +6770,7 @@ Verbreitung und Lebensraum:
 9	angesiedelt	_	VERB	VVPP	_	5	OC	_	_
 10	;	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 381
+# sent_id = 255
 # text = An den Schmidt'schen Standorten sind die Thesium- arten fast vollständig erloschen.
 1	An	_	ADP	APPR	_	11	MO	_	_
 2	den	_	DET	ART	_	4	NK	_	_
@@ -8365,30 +6785,7 @@ Verbreitung und Lebensraum:
 11	erloschen	_	VERB	VVPP	_	5	OC	_	_
 12	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 382
-# text = Hab: Kipini (Ostafrica).ala 86;
-1	Hab	_	NOUN	NN	_	0	--	_	_
-2	:	_	PUNCT	$.	_	1	PUNCT	_	_
-3	Kipini	_	PROPN	NE	_	1	SB	_	_
-4	(	_	PUNCT	$(	_	5	PUNCT	_	_
-5	Ostafrica).ala	_	PROPN	NE	_	3	PAR	_	_
-6	86	_	NUM	CARD	_	5	NK	_	_
-7	;	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 383
-# text = cauda 90;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	90	_	NUM	CARD	_	3	DEP	_	_
-3	;	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 384
-# text = rictus 25 Mm.200;
-1	rictus	_	PROPN	NE	_	2	MO	_	_
-2	25	_	NUM	CARD	_	3	NK	_	_
-3	Mm.200	_	NOUN	NN	_	0	--	_	_
-4	;	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 385
+# sent_id = 256
 # text = Sie werden mich nicht fragen, wie Herr Gätke die Zugrichtung bei schwarzer Nacht erkannt hat, denn Sie wissen ebenso gut als ich, dass ein geübter Beobachter dies an den Stimmen der Vögel mit grosser Sicherheit erkennen kann.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	werden	_	VERB	VAFIN	_	0	--	_	_
@@ -8432,7 +6829,7 @@ Verbreitung und Lebensraum:
 40	kann	_	VERB	VMFIN	_	20	OC	_	_
 41	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 386
+# sent_id = 257
 # text = Die Nacht war dick und rabenschwarz, und doch folgten alle Vögel der Richtung, aus der sie vor einigen Wochen gekommen waren.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Nacht	_	NOUN	NN	_	3	SB	_	_

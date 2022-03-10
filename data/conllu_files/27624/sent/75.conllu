@@ -1,17 +1,17 @@
 # sent_id = 75
-# text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
-1	Das	_	_	_	_	4	nsubj	_	_
-2	ist	_	_	_	_	4	cop	_	_
-3	das	_	_	_	_	4	det	_	_
-4	Verdienst	_	_	_	_	0	root	_	_
-5	,	_	_	_	_	12	punct	_	_
-6	das	_	_	_	_	12	obj	_	_
-7	der	_	_	_	_	8	det	_	_
-8	Lloyd	_	_	_	_	12	nsubj	_	_
-9	auf	_	_	_	_	11	case	_	_
-10	die	_	_	_	_	11	det	_	_
-11	Kingsin-Linie	_	_	_	_	12	obl	_	_
-12	ausgeübt	_	_	_	_	4	acl	_	_
-13	hat	_	_	_	_	12	aux	_	_
-14	.	_	_	_	_	4	punct	_	_
+# text = Dort kann bei inneren Unruhen das Militär nur auf Requisition der Zivilbehörden eingreifen.
+1	Dort	_	_	_	_	13	advmod	_	_
+2	kann	_	_	_	_	13	aux	_	_
+3	bei	_	_	_	_	5	case	_	_
+4	inneren	_	_	_	_	5	amod	_	_
+5	Unruhen	_	_	_	_	13	obl	_	_
+6	das	_	_	_	_	7	det	_	_
+7	Militär	_	_	_	_	13	nsubj	_	_
+8	nur	_	_	_	_	10	advmod	_	_
+9	auf	_	_	_	_	10	case	_	_
+10	Requisition	_	_	_	_	13	obl	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Zivilbehörden	_	_	_	_	10	nmod	_	_
+13	eingreifen	_	_	_	_	0	root	_	_
+14	.	_	_	_	_	13	punct	_	_
 

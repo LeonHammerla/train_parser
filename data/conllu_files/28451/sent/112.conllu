@@ -1,18 +1,14 @@
 # sent_id = 112
-# text = 1942 kam der erste Storch am 15. März, der zweite einige Tage später.
-1	1942	_	NUM	CARD	_	2	MO	_	_
-2	kam	_	VERB	VVFIN	_	0	--	_	_
-3	der	_	DET	ART	_	5	NK	_	_
-4	erste	_	ADJ	ADJA	_	5	NK	_	_
-5	Storch	_	NOUN	NN	_	2	SB	_	_
-6	am	_	ADP	APPRART	_	5	MNR	_	_
-7	15.	_	ADJ	ADJA	_	8	NK	_	_
-8	März	_	NOUN	NN	_	6	NK	_	_
-9	,	_	PUNCT	$,	_	5	PUNCT	_	_
-10	der	_	DET	ART	_	13	NK	_	_
-11	zweite	_	ADJ	ADJA	_	13	NK	_	_
-12	einige	_	PRON	PIAT	_	13	NK	_	_
-13	Tage	_	NOUN	NN	_	14	AMS	_	_
-14	später	_	ADJ	ADJD	_	2	MO	_	_
-15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Wir hielten es lange für eine Kümmerform von Poa annua.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	hielten	_	VERB	VVFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	OA	_	_
+4	lange	_	ADV	ADV	_	2	MO	_	_
+5	für	_	ADP	APPR	_	2	OP	_	_
+6	eine	_	DET	ART	_	7	NK	_	_
+7	Kümmerform	_	NOUN	NN	_	5	NK	_	_
+8	von	_	ADP	APPR	_	7	PG	_	_
+9	Poa	_	PROPN	NE	_	10	PNC	_	_
+10	annua	_	VERB	VVFIN	_	8	NK	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

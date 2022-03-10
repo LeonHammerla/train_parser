@@ -1,33 +1,23 @@
 # sent_id = 14
-# text = Ich fand die Larve an Scirpus, Sparaganium, Potamogeton, Nuphar, Nymphaea, im März und April, dann wieder im August, September und im Oktober;
-1	Ich	_	PRON	PPER	_	2	SB	_	_
-2	fand	_	VERB	VVFIN	_	0	--	_	_
-3	die	_	DET	ART	_	4	NK	_	_
-4	Larve	_	NOUN	NN	_	2	OA	_	_
-5	an	_	ADP	APPR	_	2	MO	_	_
-6	Scirpus	_	NOUN	NN	_	5	NK	_	_
-7	,	_	PUNCT	$,	_	6	PUNCT	_	_
-8	Sparaganium	_	NOUN	NN	_	6	CJ	_	_
-9	,	_	PUNCT	$,	_	6	PUNCT	_	_
-10	Potamogeton	_	PROPN	NE	_	8	CJ	_	_
-11	,	_	PUNCT	$,	_	6	PUNCT	_	_
-12	Nuphar	_	PROPN	NE	_	10	CJ	_	_
-13	,	_	PUNCT	$,	_	6	PUNCT	_	_
-14	Nymphaea	_	PROPN	NE	_	12	CJ	_	_
-15	,	_	PUNCT	$,	_	2	PUNCT	_	_
-16	im	_	ADP	APPRART	_	2	MO	_	_
-17	März	_	NOUN	NN	_	16	NK	_	_
-18	und	_	CONJ	KON	_	17	CD	_	_
-19	April	_	NOUN	NN	_	18	CJ	_	_
-20	,	_	PUNCT	$,	_	2	PUNCT	_	_
-21	dann	_	ADV	ADV	_	23	MO	_	_
-22	wieder	_	ADV	ADV	_	23	MO	_	_
-23	im	_	ADP	APPRART	_	2	MO	_	_
-24	August	_	NOUN	NN	_	23	NK	_	_
-25	,	_	PUNCT	$,	_	24	PUNCT	_	_
-26	September	_	NOUN	NN	_	24	CJ	_	_
-27	und	_	CONJ	KON	_	23	CD	_	_
-28	im	_	ADP	APPRART	_	27	CJ	_	_
-29	Oktober	_	NOUN	NN	_	28	NK	_	_
-30	;	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = In einer mir erst jetzt zugänglich gewordenen Arbeit von K.J.Morton (The Larva and case of Ithtyrichia lamellaris Eaton)
+1	In	_	ADP	APPR	_	0	--	_	_
+2	einer	_	DET	ART	_	8	NK	_	_
+3	mir	_	PRON	PPER	_	6	DA	_	_
+4	erst	_	ADV	ADV	_	5	MO	_	_
+5	jetzt	_	ADV	ADV	_	7	MO	_	_
+6	zugänglich	_	ADJ	ADJD	_	7	PD	_	_
+7	gewordenen	_	ADJ	ADJA	_	8	NK	_	_
+8	Arbeit	_	NOUN	NN	_	1	NK	_	_
+9	von	_	ADP	APPR	_	8	PG	_	_
+10	K.J.Morton	_	PROPN	NE	_	9	NK	_	_
+11	(	_	PUNCT	$(	_	19	PUNCT	_	_
+12	The	_	PROPN	NE	_	19	PNC	_	_
+13	Larva	_	PROPN	NE	_	19	PNC	_	_
+14	and	_	PROPN	NE	_	19	PNC	_	_
+15	case	_	PROPN	NE	_	19	PNC	_	_
+16	of	_	PROPN	NE	_	19	PNC	_	_
+17	Ithtyrichia	_	PROPN	NE	_	19	PNC	_	_
+18	lamellaris	_	PROPN	NE	_	19	PNC	_	_
+19	Eaton	_	PROPN	NE	_	8	APP	_	_
+20	)	_	PUNCT	$(	_	19	PUNCT	_	_
 

@@ -1,39 +1,18 @@
 # sent_id = 58
-# text = Der Entwurf geht davon aus, daß diese Höchstgrenze selbst bei ungünstigeren Zeit- und Wirtschaftsverhältnissen ausreichen wird, da ja durch die Beschleunigung der nötigen Gebührenerhöhungen dem ordentlichen Einnahmebedarfe stets rechtzeitig Rechnung getragen werden kann.
-1	Der	_	DET	ART	_	2	NK	_	_
-2	Entwurf	_	NOUN	NN	_	3	SB	_	_
-3	geht	_	VERB	VVFIN	_	0	--	_	_
-4	davon	_	ADV	PROAV	_	3	OP	_	_
-5	aus	_	VERB	PTKVZ	_	3	SVP	_	_
-6	,	_	PUNCT	$,	_	3	PUNCT	_	_
-7	daß	_	CONJ	KOUS	_	17	CP	_	_
-8	diese	_	PRON	PDAT	_	9	NK	_	_
-9	Höchstgrenze	_	NOUN	NN	_	17	SB	_	_
-10	selbst	_	ADV	ADV	_	11	MO	_	_
-11	bei	_	ADP	APPR	_	16	MO	_	_
-12	ungünstigeren	_	ADJ	ADJA	_	15	NK	_	_
-13	Zeit-	_	X	TRUNC	_	14	CJ	_	_
-14	und	_	CONJ	KON	_	15	CD	_	_
-15	Wirtschaftsverhältnissen	_	NOUN	NN	_	11	NK	_	_
-16	ausreichen	_	VERB	VVINF	_	17	OC	_	_
-17	wird	_	VERB	VAFIN	_	4	RE	_	_
-18	,	_	PUNCT	$,	_	17	PUNCT	_	_
-19	da	_	CONJ	KOUS	_	35	CP	_	_
-20	ja	_	ADV	ADV	_	35	MO	_	_
-21	durch	_	ADP	APPR	_	33	SBP	_	_
-22	die	_	DET	ART	_	23	NK	_	_
-23	Beschleunigung	_	NOUN	NN	_	21	NK	_	_
-24	der	_	DET	ART	_	26	NK	_	_
-25	nötigen	_	ADJ	ADJA	_	26	NK	_	_
-26	Gebührenerhöhungen	_	NOUN	NN	_	23	AG	_	_
-27	dem	_	DET	ART	_	29	NK	_	_
-28	ordentlichen	_	ADJ	ADJA	_	29	NK	_	_
-29	Einnahmebedarfe	_	NOUN	NN	_	33	DA	_	_
-30	stets	_	ADV	ADV	_	35	MO	_	_
-31	rechtzeitig	_	ADJ	ADJD	_	35	MO	_	_
-32	Rechnung	_	NOUN	NN	_	35	SB	_	_
-33	getragen	_	VERB	VVPP	_	34	OC	_	_
-34	werden	_	VERB	VAINF	_	35	OC	_	_
-35	kann	_	VERB	VMFIN	_	17	MO	_	_
-36	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
+1	Jetzt	_	ADV	ADV	_	2	MO	_	_
+2	will	_	VERB	VMFIN	_	0	--	_	_
+3	ich	_	PRON	PPER	_	2	SB	_	_
+4	Ihnen	_	PRON	PPER	_	7	DA	_	_
+5	einfach	_	ADV	ADV	_	7	MO	_	_
+6	mathematisch	_	ADJ	ADJD	_	7	MO	_	_
+7	klarmachen	_	VERB	VVINF	_	2	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	was	_	PRON	PWS	_	14	OA	_	_
+10	das	_	PRON	PDS	_	14	SB	_	_
+11	für	_	ADP	APPR	_	14	MO	_	_
+12	den	_	DET	ART	_	13	NK	_	_
+13	Bundeshaushalt	_	NOUN	NN	_	11	NK	_	_
+14	bedeutet	_	VERB	VVFIN	_	7	OC	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

@@ -1,4 +1,4 @@
-# sent_id = 118
+# sent_id = 114
 # text = Ein Beispiel macht deutlich, wie der Minister Wahrheiten verschleiert.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Beispiel	_	NOUN	NN	_	3	SB	_	_
@@ -12,7 +12,7 @@
 10	verschleiert	_	VERB	VVPP	_	3	OC	_	_
 11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 119
+# sent_id = 115
 # text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	sagen	_	VERB	VVFIN	_	0	--	_	_
@@ -26,7 +26,7 @@
 10	voraus	_	VERB	PTKVZ	_	2	SVP	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 120
+# sent_id = 116
 # text = Dem Auftreten der Europäischen Gemeinschaft kommt unserer Ansicht nach große Bedeutung zu.
 1	Dem	_	DET	ART	_	2	NK	_	_
 2	Auftreten	_	NOUN	NN	_	6	DA	_	_
@@ -42,7 +42,7 @@
 12	zu	_	VERB	PTKVZ	_	6	SVP	_	_
 13	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 121
+# sent_id = 117
 # text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	lohnt	_	VERB	VVFIN	_	0	--	_	_
@@ -59,7 +59,7 @@
 13	bekommen	_	VERB	VVFIN	_	8	RC	_	_
 14	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 122
+# sent_id = 118
 # text = Würden Sie mir zugeben, daß die Kilowattstunde aus dem Atomkraftwerk Mülheim-Kärlich über 20 Pf kostet?
 1	Würden	_	VERB	VAFIN	_	0	--	_	_
 2	Sie	_	PRON	PPER	_	1	SB	_	_
@@ -79,7 +79,7 @@
 16	kostet	_	VERB	VVFIN	_	4	OC	_	_
 17	?	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 123
+# sent_id = 119
 # text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen;
 1	Nur	_	ADV	ADV	_	2	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -95,7 +95,7 @@
 12	losgegangen	_	VERB	VVPP	_	2	OC	_	_
 13	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 124
+# sent_id = 120
 # text = das haben Sie ja schon gehört.
 1	das	_	PRON	PDS	_	6	OA	_	_
 2	haben	_	VERB	VAFIN	_	0	--	_	_
@@ -105,7 +105,7 @@
 6	gehört	_	VERB	VVPP	_	2	OC	_	_
 7	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 125
+# sent_id = 121
 # text = Das scheint, wenn es um solche Prinzipien geht, überhaupt keine Rolle zu spielen.
 1	Das	_	PRON	PDS	_	2	SB	_	_
 2	scheint	_	VERB	VVFIN	_	0	--	_	_
@@ -124,7 +124,7 @@
 15	spielen	_	VERB	VVINF	_	2	OC	_	_
 16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 126
+# sent_id = 122
 # text = Ich begrüße es deshalb ganz ausdrücklich, daß die Bundesregierung durch Zuschüsse die Reisemöglichkeit in die DDR fördert.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	begrüße	_	VERB	VVFIN	_	0	--	_	_
@@ -146,7 +146,7 @@
 18	fördert	_	VERB	VVFIN	_	3	RE	_	_
 19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 127
+# sent_id = 123
 # text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
 1	Nun	_	ADV	ADV	_	2	MO	_	_
 2	kommen	_	VERB	VVFIN	_	0	--	_	_
@@ -170,7 +170,7 @@
 20	verwundert	_	VERB	VVFIN	_	16	CJ	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 128
+# sent_id = 124
 # text = Er fährt dann sehr sorgsam fort, daß eben von der Rechtsprechung nur eine einschränkende Auslegung dieses Tatbestandsmerkmals vorgenommen wird.
 1	Er	_	PRON	PPER	_	2	SB	_	_
 2	fährt	_	VERB	VVFIN	_	0	--	_	_
@@ -194,7 +194,7 @@
 20	wird	_	VERB	VAFIN	_	2	OC	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 129
+# sent_id = 125
 # text = Im übrigen kann seit geraumer Zeit vom sogenannten Restdrittel-Erlaß Gebrauch gemacht werden, nämlich dann, wenn sich einer bei der Strafverbüßung wohlverhält.
 1	Im	_	ADP	APPRART	_	3	MO	_	_
 2	übrigen	_	ADJ	ADJA	_	1	NK	_	_
@@ -221,7 +221,7 @@
 23	wohlverhält	_	VERB	VVFIN	_	15	RE	_	_
 24	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 130
+# sent_id = 126
 # text = Wenn es mit der Konjunktur wieder aufwärts geht - Gott sei Dank ist das bei unserer Regierung wieder der Fall -, steigen auch die Anforderungen.
 1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
 2	es	_	PRON	PPER	_	8	EP	_	_
@@ -251,7 +251,7 @@
 26	Anforderungen	_	NOUN	NN	_	23	SB	_	_
 27	.	_	PUNCT	$.	_	23	PUNCT	_	_
 
-# sent_id = 131
+# sent_id = 127
 # text = Mit den Überwachungsgesetzen, auch Sicherheitsgesetze genannt, insbesondere der geplanten Änderung des Straßenverkehrsgesetzes, will die Kohl-Regierung nun die rechtswidrigen Online-Verbindungen von Polizei- und Sicherheitsbehörden legalisieren.
 1	Mit	_	ADP	APPR	_	16	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -282,7 +282,7 @@
 27	legalisieren	_	VERB	VVINF	_	16	OC	_	_
 28	.	_	PUNCT	$.	_	16	PUNCT	_	_
 
-# sent_id = 132
+# sent_id = 128
 # text = Sind Sie mit mir nicht der Meinung, daß ich genau dort ausgeführt habe, daß ich diejenigen meine, die bisher nicht ausgebildet haben?
 1	Sind	_	VERB	VAFIN	_	0	--	_	_
 2	Sie	_	PRON	PPER	_	1	SB	_	_
@@ -311,7 +311,7 @@
 25	haben	_	VERB	VAINF	_	18	RC	_	_
 26	?	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 133
+# sent_id = 129
 # text = Wer bessere Beziehungen zur DDR will, braucht eine klare Konzeption, braucht langen Atem, braucht nüchterne Erkenntnis des Möglichen und des Unmöglichen, um Schritt für Schritt voranzukommen.
 1	Wer	_	PRON	PWS	_	6	SB	_	_
 2	bessere	_	ADJ	ADJA	_	3	NK	_	_
@@ -345,7 +345,7 @@
 30	voranzukommen	_	VERB	VVIZU	_	17	MO	_	_
 31	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 134
+# sent_id = 130
 # text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
 1	Nach	_	ADP	APPR	_	4	MO	_	_
 2	dieser	_	PRON	PDAT	_	3	NK	_	_
@@ -381,7 +381,7 @@
 32	wird	_	VERB	VAFIN	_	20	MO	_	_
 33	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 135
+# sent_id = 131
 # text = Aber selbst die inzwischen schon zum Ritual erhobene Behauptung, man habe einen entscheidenden Schritt - "Durchbruch" heißt es - in der Luftreinhaltung durch die Einführung des schadstoffarmen Autos getan, macht die bedrückende Wirklichkeit nicht besser.
 1	Aber	_	ADV	ADV	_	9	MO	_	_
 2	selbst	_	ADV	ADV	_	9	MO	_	_

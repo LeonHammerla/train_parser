@@ -1,24 +1,15 @@
 # sent_id = 128
-# text = „Schwimmsande", nach LÖFFLER (1929) mangelnder Tongehalt des Bindemittels, was einer hochgradigen Porosität gleichbedeutend ist;
-1	„	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Schwimmsande	_	NOUN	NN	_	0	--	_	_
-3	"	_	PUNCT	$(	_	2	PUNCT	_	_
-4	,	_	PUNCT	$,	_	2	PUNCT	_	_
-5	nach	_	ADP	APPR	_	2	PAR	_	_
-6	LÖFFLER	_	PROPN	NE	_	5	NK	_	_
-7	(	_	PUNCT	$(	_	8	PUNCT	_	_
-8	1929	_	NUM	CARD	_	10	MO	_	_
-9	)	_	PUNCT	$(	_	8	PUNCT	_	_
-10	mangelnder	_	ADJ	ADJA	_	11	NK	_	_
-11	Tongehalt	_	NOUN	NN	_	2	APP	_	_
-12	des	_	DET	ART	_	13	NK	_	_
-13	Bindemittels	_	NOUN	NN	_	11	AG	_	_
-14	,	_	PUNCT	$,	_	2	PUNCT	_	_
-15	was	_	PRON	PRELS	_	20	SB	_	_
-16	einer	_	DET	ART	_	18	NK	_	_
-17	hochgradigen	_	ADJ	ADJA	_	18	NK	_	_
-18	Porosität	_	NOUN	NN	_	19	DA	_	_
-19	gleichbedeutend	_	ADJ	ADJD	_	20	PD	_	_
-20	ist	_	VERB	VAFIN	_	2	RC	_	_
-21	;	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = An den Salinen von Dürkheim war früher Poa distans, Syn.
+1	An	_	ADP	APPR	_	6	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Salinen	_	NOUN	NN	_	1	NK	_	_
+4	von	_	ADP	APPR	_	3	PG	_	_
+5	Dürkheim	_	PROPN	NE	_	4	NK	_	_
+6	war	_	VERB	VAFIN	_	0	--	_	_
+7	früher	_	ADJ	ADJD	_	6	MO	_	_
+8	Poa	_	PROPN	NE	_	9	PNC	_	_
+9	distans	_	PROPN	NE	_	6	SB	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	Syn	_	PROPN	NE	_	9	CJ	_	_
+12	.	_	PUNCT	$.	_	6	PUNCT	_	_
 

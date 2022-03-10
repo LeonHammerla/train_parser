@@ -1,27 +1,32 @@
 # sent_id = 108
-# text = Zur Transparenz in der Ausbildung gehört aber auch - und dies ist mir besonders wichtig -, dass die Berufsschulleistungen angemessen berücksichtigt werden.
-1	Zur	_	ADP	APPRART	_	6	OP	_	_
-2	Transparenz	_	NOUN	NN	_	1	NK	_	_
-3	in	_	ADP	APPR	_	2	MNR	_	_
-4	der	_	DET	ART	_	5	NK	_	_
-5	Ausbildung	_	NOUN	NN	_	3	NK	_	_
-6	gehört	_	VERB	VVFIN	_	0	--	_	_
-7	aber	_	ADV	ADV	_	6	MO	_	_
-8	auch	_	ADV	ADV	_	6	MO	_	_
-9	-	_	PUNCT	$(	_	6	PUNCT	_	_
-10	und	_	CONJ	KON	_	12	JU	_	_
-11	dies	_	PRON	PDS	_	12	SB	_	_
-12	ist	_	VERB	VAFIN	_	6	PAR	_	_
-13	mir	_	PRON	PPER	_	12	DA	_	_
-14	besonders	_	ADV	ADV	_	15	MO	_	_
-15	wichtig	_	ADJ	ADJD	_	12	PD	_	_
-16	-	_	PUNCT	$(	_	6	PUNCT	_	_
-17	,	_	PUNCT	$,	_	6	PUNCT	_	_
-18	dass	_	CONJ	KOUS	_	23	CP	_	_
-19	die	_	DET	ART	_	20	NK	_	_
-20	Berufsschulleistungen	_	NOUN	NN	_	23	SB	_	_
-21	angemessen	_	ADJ	ADJD	_	22	MO	_	_
-22	berücksichtigt	_	VERB	VVPP	_	23	OC	_	_
-23	werden	_	VERB	VAINF	_	6	SB	_	_
-24	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Daneben haben wir mit den neuen Festzuschüssen auch für die Patientinnen und Patienten mehr Wahlfreiheit und Flexibilität in das System gebracht, sodass die neue Struktur vertretbar ist.
+1	Daneben	_	ADV	PROAV	_	21	MO	_	_
+2	haben	_	VERB	VAFIN	_	2	ROOT	_	_
+3	wir	_	PRON	PPER	_	2	SB	_	_
+4	mit	_	ADP	APPR	_	21	MO	_	_
+5	den	_	DET	ART	_	7	NK	_	_
+6	neuen	_	ADJ	ADJA	_	7	NK	_	_
+7	Festzuschüssen	_	NOUN	NN	_	4	NK	_	_
+8	auch	_	ADV	ADV	_	9	MO	_	_
+9	für	_	ADP	APPR	_	21	MO	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Patientinnen	_	NOUN	NN	_	9	NK	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Patienten	_	NOUN	NN	_	12	CJ	_	_
+14	mehr	_	PRON	PIAT	_	15	NK	_	_
+15	Wahlfreiheit	_	NOUN	NN	_	21	OA	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	Flexibilität	_	NOUN	NN	_	16	CJ	_	_
+18	in	_	ADP	APPR	_	21	MO	_	_
+19	das	_	DET	ART	_	20	NK	_	_
+20	System	_	NOUN	NN	_	18	NK	_	_
+21	gebracht	_	VERB	VVPP	_	2	OC	_	_
+22	,	_	PUNCT	$,	_	28	PUNCT	_	_
+23	sodass	_	VERB	VVFIN	_	28	MO	_	_
+24	die	_	DET	ART	_	26	NK	_	_
+25	neue	_	ADJ	ADJA	_	26	NK	_	_
+26	Struktur	_	NOUN	NN	_	28	SB	_	_
+27	vertretbar	_	ADJ	ADJD	_	28	PD	_	_
+28	ist	_	VERB	VAFIN	_	2	MO	_	_
+29	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

@@ -1,16 +1,29 @@
 # sent_id = 240
-# text = Der Kuckuck besiedelt in Chemnitz vor allem reich strukturiertes, halboffenes Gelände.
+# text = Der Bestand der Türkentaube betrug im Kartierungs- zeitraum 350-520 BR, wobei nur 20-30 BR in den neuen Stadtteilen ermittelt wurden.
 1	Der	_	DET	ART	_	2	NK	_	_
-2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
-3	besiedelt	_	VERB	VVFIN	_	0	--	_	_
-4	in	_	ADP	APPR	_	3	MO	_	_
-5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
-6	vor	_	ADP	APPR	_	9	MO	_	_
-7	allem	_	PRON	PIS	_	6	NK	_	_
-8	reich	_	ADJ	ADJD	_	9	MO	_	_
-9	strukturiertes	_	ADJ	ADJA	_	12	NK	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	halboffenes	_	ADJ	ADJA	_	9	CJ	_	_
-12	Gelände	_	NOUN	NN	_	3	OA	_	_
-13	.	_	PUNCT	$.	_	3	PUNCT	_	_
+2	Bestand	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Türkentaube	_	NOUN	NN	_	2	AG	_	_
+5	betrug	_	VERB	VVFIN	_	0	--	_	_
+6	im	_	ADP	APPRART	_	5	MO	_	_
+7	Kartierungs-	_	X	TRUNC	_	8	NK	_	_
+8	zeitraum	_	NOUN	NN	_	6	NK	_	_
+9	350	_	NUM	CARD	_	12	NK	_	_
+10	-	_	PUNCT	$(	_	9	CD	_	_
+11	520	_	NUM	CARD	_	10	CJ	_	_
+12	BR	_	NOUN	NN	_	5	OA	_	_
+13	,	_	PUNCT	$,	_	5	PUNCT	_	_
+14	wobei	_	PRON	PWAV	_	24	MO	_	_
+15	nur	_	ADV	ADV	_	16	MO	_	_
+16	20	_	NUM	CARD	_	19	NK	_	_
+17	-	_	PUNCT	$(	_	16	CD	_	_
+18	30	_	NUM	CARD	_	17	CJ	_	_
+19	BR	_	NOUN	NN	_	25	SB	_	_
+20	in	_	ADP	APPR	_	24	MO	_	_
+21	den	_	DET	ART	_	23	NK	_	_
+22	neuen	_	ADJ	ADJA	_	23	NK	_	_
+23	Stadtteilen	_	NOUN	NN	_	20	NK	_	_
+24	ermittelt	_	VERB	VVPP	_	25	OC	_	_
+25	wurden	_	VERB	VAFIN	_	5	MO	_	_
+26	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

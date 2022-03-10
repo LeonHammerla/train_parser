@@ -1,27 +1,14 @@
 # sent_id = 56
-# text = Die weissen Kopfseiten und der dunkle Augenstrich über der weissen Superciliarlinie unterscheiden diese, auch etwas kleinere Art von der verwandten A. microura.
-1	Die	_	DET	ART	_	3	NK	_	_
-2	weissen	_	ADJ	ADJA	_	3	NK	_	_
-3	Kopfseiten	_	NOUN	NN	_	12	SB	_	_
-4	und	_	CONJ	KON	_	3	CD	_	_
-5	der	_	DET	ART	_	7	NK	_	_
-6	dunkle	_	ADJ	ADJA	_	7	NK	_	_
-7	Augenstrich	_	NOUN	NN	_	4	CJ	_	_
-8	über	_	ADP	APPR	_	7	MNR	_	_
-9	der	_	DET	ART	_	11	NK	_	_
-10	weissen	_	ADJ	ADJA	_	11	NK	_	_
-11	Superciliarlinie	_	NOUN	NN	_	8	NK	_	_
-12	unterscheiden	_	VERB	VVFIN	_	0	--	_	_
-13	diese	_	PRON	PDAT	_	18	NK	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	auch	_	ADV	ADV	_	17	MO	_	_
-16	etwas	_	PRON	PIAT	_	17	MO	_	_
-17	kleinere	_	ADJ	ADJA	_	18	NK	_	_
-18	Art	_	NOUN	NN	_	12	OA	_	_
-19	von	_	ADP	APPR	_	12	OP	_	_
-20	der	_	DET	ART	_	21	NK	_	_
-21	verwandten	_	ADJ	ADJA	_	22	NK	_	_
-22	A.	_	PROPN	NE	_	19	NK	_	_
-23	microura	_	PROPN	NE	_	22	NK	_	_
-24	.	_	PUNCT	$.	_	12	PUNCT	_	_
+# text = Die Fichte oder Rottanne bildet etwa 15% der Bestände.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Fichte	_	NOUN	NN	_	5	SB	_	_
+3	oder	_	CONJ	KON	_	2	CD	_	_
+4	Rottanne	_	NOUN	NN	_	3	CJ	_	_
+5	bildet	_	VERB	VVFIN	_	0	--	_	_
+6	etwa	_	ADV	ADV	_	7	MO	_	_
+7	15	_	NUM	CARD	_	8	NK	_	_
+8	%	_	NOUN	NN	_	5	OA	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Bestände	_	NOUN	NN	_	8	AG	_	_
+11	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

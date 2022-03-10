@@ -1,23 +1,30 @@
 # sent_id = 152
-# text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
-1	Beide	_	_	_	_	2	det	_	_
-2	Herren	_	_	_	_	7	nsubj	_	_
-3	Redner	_	_	_	_	2	flat	_	_
-4	haben	_	_	_	_	7	aux	_	_
-5	darauf	_	_	_	_	7	obl	_	_
-6	aufmerksam	_	_	_	_	7	xcomp	_	_
-7	gemacht	_	_	_	_	0	root	_	_
-8	,	_	_	_	_	19	punct	_	_
-9	daß	_	_	_	_	19	mark	_	_
-10	der	_	_	_	_	12	det	_	_
-11	Deutsche	_	_	_	_	12	amod	_	_
-12	Text	_	_	_	_	19	nsubj	_	_
-13	nicht	_	_	_	_	15	advmod	_	_
-14	überall	_	_	_	_	13	advmod	_	_
-15	vollständig	_	_	_	_	19	advmod	_	_
-16	mit	_	_	_	_	18	case	_	_
-17	dem	_	_	_	_	18	det	_	_
-18	Italienischen	_	_	_	_	19	obl	_	_
-19	übereinstimmt	_	_	_	_	5	advcl	_	_
-20	.	_	_	_	_	7	punct	_	_
+# text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
+1	Die	_	_	_	_	2	det	_	_
+2	meisten	_	_	_	_	14	nsubj	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Punkte	_	_	_	_	2	nmod	_	_
+5	,	_	_	_	_	8	punct	_	_
+6	welche	_	_	_	_	8	obj	_	_
+7	ich	_	_	_	_	8	nsubj	_	_
+8	berühren	_	_	_	_	4	acl	_	_
+9	wollte	_	_	_	_	8	aux	_	_
+10	,	_	_	_	_	2	punct	_	_
+11	sind	_	_	_	_	14	cop	_	_
+12	bereits	_	_	_	_	14	advmod	_	_
+13	so	_	_	_	_	14	advmod	_	_
+14	erschöpft	_	_	_	_	0	root	_	_
+15	,	_	_	_	_	21	punct	_	_
+16	daß	_	_	_	_	21	mark	_	_
+17	ich	_	_	_	_	21	nsubj	_	_
+18	es	_	_	_	_	21	expl	_	_
+19	für	_	_	_	_	21	compound:prt	_	_
+20	überflüssig	_	_	_	_	21	xcomp	_	_
+21	halte	_	_	_	_	14	advcl	_	_
+22	,	_	_	_	_	26	punct	_	_
+23	noch	_	_	_	_	26	advmod	_	_
+24	irgend	_	_	_	_	25	det	_	_
+25	Etwas	_	_	_	_	26	obj	_	_
+26	hinzuzufügen	_	_	_	_	21	xcomp	_	_
+27	.	_	_	_	_	14	punct	_	_
 

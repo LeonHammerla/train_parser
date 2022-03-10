@@ -1,9 +1,12 @@
 # sent_id = 192
-# text = Scopoli, Syn.369—378. Poa durapp.
-1	Scopoli	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	Syn.369—378.	_	PROPN	NE	_	4	PNC	_	_
-4	Poa	_	PROPN	NE	_	1	APP	_	_
-5	durapp	_	VERB	PTKVZ	_	1	SVP	_	_
-6	.	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Den Lerchenbaum fand man auch hie und da.
+1	Den	_	DET	ART	_	2	NK	_	_
+2	Lerchenbaum	_	NOUN	NN	_	3	OA	_	_
+3	fand	_	VERB	VVFIN	_	0	--	_	_
+4	man	_	PRON	PIS	_	3	SB	_	_
+5	auch	_	ADV	ADV	_	3	MO	_	_
+6	hie	_	ADV	ADV	_	3	MO	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	da	_	ADV	ADV	_	7	CJ	_	_
+9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

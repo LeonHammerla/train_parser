@@ -1,18 +1,7 @@
 # sent_id = 219
-# text = am 9.7.1993 in lichten Waldflächen nördlich des Hammergrundes im Schwarzwald (E. Flöter).
-1	am	_	ADP	APPRART	_	3	MO	_	_
-2	9.7.1993	_	PROPN	NE	_	1	NK	_	_
-3	in	_	ADP	APPR	_	3	ROOT	_	_
-4	lichten	_	ADJ	ADJA	_	5	NK	_	_
-5	Waldflächen	_	NOUN	NN	_	3	NK	_	_
-6	nördlich	_	ADJ	ADJD	_	5	MO	_	_
-7	des	_	DET	ART	_	8	NK	_	_
-8	Hammergrundes	_	NOUN	NN	_	6	AG	_	_
-9	im	_	ADP	APPRART	_	8	MNR	_	_
-10	Schwarzwald	_	PROPN	NE	_	9	NK	_	_
-11	(	_	PUNCT	$(	_	13	PUNCT	_	_
-12	E.	_	PROPN	NE	_	13	PNC	_	_
-13	Flöter	_	NOUN	NN	_	10	PAR	_	_
-14	)	_	PUNCT	$(	_	13	PUNCT	_	_
-15	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Verbreitung und Lebensraum:
+1	Verbreitung	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
+4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 

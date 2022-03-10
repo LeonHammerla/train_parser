@@ -1,4 +1,4 @@
-# sent_id = 149
+# sent_id = 89
 # text = Carex elongata ist auch zu streichen, da wir sie in längerer Zeit vergeblich gesucht haben.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	elongata	_	PROPN	NE	_	3	SB	_	_
@@ -18,7 +18,7 @@
 16	haben	_	VERB	VAINF	_	6	MO	_	_
 17	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 150
+# sent_id = 90
 # text = Carex teretiuscula bedeckt mit C. paradoxa ganze Strecken bei Sanddorf und bei Maudach.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	teretiuscula	_	PROPN	NE	_	3	SB	_	_
@@ -35,7 +35,7 @@
 13	Maudach	_	PROPN	NE	_	12	NK	_	_
 14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 151
+# sent_id = 91
 # text = Carex pulicaris L. bewohnt noch eine nasse Wiese hinter Schönau;
 1	Carex	_	NOUN	NN	_	3	PNC	_	_
 2	pulicaris	_	PROPN	NE	_	3	PNC	_	_
@@ -49,7 +49,7 @@
 10	Schönau	_	PROPN	NE	_	9	NK	_	_
 11	;	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 152
+# sent_id = 92
 # text = Wir fanden sie aber in dem großen Sumpf zwischen Wiesloch und Bruchsal, der von der Bahnlinie durchschnitten wird und dies ist wohl der einzige Standort des Gebiets in der Gemarkung Roth-Malsch.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	fanden	_	VERB	VVFIN	_	0	--	_	_
@@ -85,7 +85,7 @@
 32	Roth-Malsch	_	PROPN	NE	_	31	NK	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 153
+# sent_id = 93
 # text = Es ist aber eine Verwechslung mit C. distans und es wäre endlich Zeit, daß die Sache richtig gestellt wird.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -109,7 +109,7 @@
 20	wird	_	VERB	VAFIN	_	10	RE	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 154
+# sent_id = 94
 # text = Es ist Carex binervis Sm.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -118,7 +118,7 @@
 5	Sm	_	PROPN	NE	_	2	PD	_	_
 6	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 155
+# sent_id = 95
 # text = Zum Schluß der Cyperaceen müssen wir noch auf einen Irrtum hinweisen, welcher in manchen Exkursionsfloren immer wieder auftritt.
 1	Zum	_	ADP	APPRART	_	5	MO	_	_
 2	Schluß	_	NOUN	NN	_	1	NK	_	_
@@ -141,14 +141,7 @@
 19	auftritt	_	VERB	VVFIN	_	10	RC	_	_
 20	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 156
-# text = Tragus racemosus Desf.
-1	Tragus	_	NOUN	NN	_	0	--	_	_
-2	racemosus	_	PROPN	NE	_	3	NK	_	_
-3	Desf	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 157
+# sent_id = 96
 # text = ist wohl die morphologisch interessanteste Art.
 1	ist	_	VERB	VAFIN	_	0	--	_	_
 2	wohl	_	ADV	ADV	_	1	MO	_	_
@@ -158,7 +151,7 @@
 6	Art	_	NOUN	NN	_	1	SB	_	_
 7	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 158
+# sent_id = 97
 # text = Die Familie der Gramineen weist dagegen eine sehr stattliche Anzahl von fremden Arten auf, welche mit Getreide- und Kräutersamen aus allen großen Getreidebauländern der alten und neuen Welt zu uns gelangen.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Familie	_	NOUN	NN	_	5	SB	_	_
@@ -194,18 +187,7 @@
 32	gelangen	_	VERB	VVINF	_	13	RC	_	_
 33	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 159
-# text = Panicum miliaceum L. steht auf allen Abfuhr.
-1	Panicum	_	PROPN	NE	_	3	PNC	_	_
-2	miliaceum	_	PROPN	NE	_	3	PNC	_	_
-3	L.	_	PROPN	NE	_	4	SB	_	_
-4	steht	_	VERB	VVFIN	_	0	--	_	_
-5	auf	_	ADP	APPR	_	4	MO	_	_
-6	allen	_	PRON	PIAT	_	7	NK	_	_
-7	Abfuhr	_	NOUN	NN	_	5	NK	_	_
-8	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 160
+# sent_id = 98
 # text = Wie er dorthin kam, kann nicht mehr festgestellt werden, da ihm die früheren Floristen keine Aufmerksamkeit schenkten.
 1	Wie	_	PRON	PWAV	_	4	MO	_	_
 2	er	_	PRON	PPER	_	4	SB	_	_
@@ -228,7 +210,7 @@
 19	schenkten	_	VERB	VVFIN	_	6	MO	_	_
 20	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 161
+# sent_id = 99
 # text = Fimbristylis annualis, Teufelsbrücke, fanden wir an einer feuchten Stelle vor den Getreidelagerhäusern eine fremde, sehr zierliche Gyperaceenart.
 1	Fimbristylis	_	NOUN	NN	_	2	PNC	_	_
 2	annualis	_	VERB	VVFIN	_	6	OA	_	_
@@ -252,7 +234,7 @@
 20	Gyperaceenart	_	NOUN	NN	_	2	APP	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 162
+# sent_id = 100
 # text = Carex canescens fehlt in der Flora von Heidelberg, trotzdem sie auf der Mausbachwiese gemein ist.
 1	Carex	_	PROPN	NE	_	2	PNC	_	_
 2	canescens	_	PROPN	NE	_	3	SB	_	_
@@ -272,7 +254,7 @@
 16	ist	_	VERB	VAFIN	_	3	MO	_	_
 17	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 163
+# sent_id = 101
 # text = Leider war es nur eine vorübergehende Erscheinung, da sie keine keimfähigen Samen ansetzte.
 1	Leider	_	ADV	ADV	_	2	MO	_	_
 2	war	_	VERB	VAFIN	_	0	--	_	_
@@ -290,14 +272,7 @@
 14	ansetzte	_	VERB	VVFIN	_	2	MO	_	_
 15	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 164
-# text = Alopecurus utriculatus Pers.
-1	Alopecurus	_	PROPN	NE	_	0	--	_	_
-2	utriculatus	_	ADJ	ADJD	_	3	PNC	_	_
-3	Pers	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 165
+# sent_id = 102
 # text = Phalaris canariensis L. ist ebenfalls eine Vogelfutterpflanze und ziemlich stark verbreitet.
 1	Phalaris	_	PROPN	NE	_	3	PNC	_	_
 2	canariensis	_	PROPN	NE	_	3	PNC	_	_
@@ -312,7 +287,7 @@
 11	verbreitet	_	VERB	VVPP	_	8	CJ	_	_
 12	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 166
+# sent_id = 103
 # text = Sorghum halepense kommt mit fremdem Getreide zu uns und ist in den Hafenanlagen des Rheins in jedem Jahre zu finden, ebenfalls angesät zu Vogelfutter unter dem Namen Kolbenhirse und daher mögen wohl die Exemplare stammen, die man in der Pfalz auf Kartoffelfeldern nicht all zu selten findet.
 1	Sorghum	_	PROPN	NE	_	2	PNC	_	_
 2	halepense	_	X	FM	_	3	SB	_	_
@@ -365,7 +340,7 @@
 49	findet	_	VERB	VVFIN	_	35	RC	_	_
 50	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 167
+# sent_id = 104
 # text = Cynodon ist in manchen Gegenden Deutschlands gar nicht vorhanden, während sie bei uns an Rheindämmen und auf Schuttplätzen selbst der Städte ganz ausgedehnte Flächen besiedelt und alle anderen Pflanzen verdrängt.
 1	Cynodon	_	PROPN	NE	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -400,7 +375,7 @@
 31	verdrängt	_	VERB	VVFIN	_	27	CJ	_	_
 32	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 168
+# sent_id = 105
 # text = Phleum arenarium hatte in der Nähe des Stengelhofes, dem heutigen Rheinauhafen, in einer alten Kiesgrube eine ziemlich ausgedehnte Station.
 1	Phleum	_	NOUN	NN	_	2	PNC	_	_
 2	arenarium	_	PROPN	NE	_	3	SB	_	_
@@ -425,14 +400,7 @@
 21	Station	_	NOUN	NN	_	3	OA	_	_
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 169
-# text = Setaria italica Beauv.
-1	Setaria	_	PROPN	NE	_	3	PNC	_	_
-2	italica	_	VERB	VVFIN	_	3	NK	_	_
-3	Beauv	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 170
+# sent_id = 106
 # text = Panicuin capillare L. darf wohl als eingebürgert betrachtet werden, da es seit vielen Jahren in jedem Jahre im Hafen von Mannheim und Ludwigs- bafen mit keimfähigen Samen vorkommt.
 1	Panicuin	_	PROPN	NE	_	3	PNC	_	_
 2	capillare	_	PROPN	NE	_	3	PNC	_	_
@@ -465,7 +433,7 @@
 29	vorkommt	_	VERB	VVFIN	_	4	MO	_	_
 30	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 171
+# sent_id = 107
 # text = Sorghum halepense kommt mit fremdem Getreide zu uns und ist in den Hafenanlagen des Rheins in jedem Jahre zu finden.
 1	Sorghum	_	PROPN	NE	_	2	PNC	_	_
 2	halepense	_	X	FM	_	3	SB	_	_
@@ -489,7 +457,7 @@
 20	finden	_	VERB	VVINF	_	10	OC	_	_
 21	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 172
+# sent_id = 108
 # text = Professor Stiefelhagen fand Coleanthus vor einigen Jahren im großen Teich bei Groß-Hartmannsdorf, 495 Meter s. m. in der Nähe von Freiberg in Schlesien.
 1	Professor	_	NOUN	NN	_	3	SB	_	_
 2	Stiefelhagen	_	NOUN	NN	_	1	NK	_	_
@@ -517,7 +485,7 @@
 24	Schlesien	_	PROPN	NE	_	23	NK	_	_
 25	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 173
+# sent_id = 109
 # text = Als Begleitpflanzen stellten wir bei Mannheim Heleocharis acicularis, Limosella aqiiatica, Elatine, Callitriche, Peplis porlula, Polentilla supina und P. Norzoegica, Gnaphalium luteoalbum usw. fest.
 1	Als	_	ADP	APPR	_	3	MO	_	_
 2	Begleitpflanzen	_	NOUN	NN	_	1	NK	_	_
@@ -550,7 +518,7 @@
 29	fest	_	VERB	PTKVZ	_	3	SVP	_	_
 30	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 174
+# sent_id = 110
 # text = Im Jahre 1904 war im Hafen'von Ludwigshafen Lagurus ovatus L. vorhanden und zwar in blühenden, schön entwickelten Exemplaren.
 1	Im	_	ADP	APPRART	_	4	MO	_	_
 2	Jahre	_	NOUN	NN	_	1	NK	_	_
@@ -573,7 +541,7 @@
 19	Exemplaren	_	NOUN	NN	_	14	NK	_	_
 20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 175
+# sent_id = 111
 # text = Zu unserer größten Verwunderung erkannten wir aber, als es in Blüte stand, als Coleanthus subtilis Seidel.
 1	Zu	_	ADP	APPR	_	5	MO	_	_
 2	unserer	_	PRON	PPOSAT	_	4	NK	_	_
@@ -595,7 +563,7 @@
 18	Seidel	_	PROPN	NE	_	17	PNC	_	_
 19	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 176
+# sent_id = 112
 # text = Wir hielten es lange für eine Kümmerform von Poa annua.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	hielten	_	VERB	VVFIN	_	0	--	_	_
@@ -609,7 +577,7 @@
 10	annua	_	VERB	VVFIN	_	8	NK	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 177
+# sent_id = 113
 # text = Wir beobachteten schon einige Jahre in dem ausgetrockneten Alluvium des Mannheimer Floßhafens, da wo auch die Wolfia stand, ein kleines, höchst unscheinbares Pflänzchen, Psamma arenaria, sich einfand.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	beobachteten	_	VERB	VVFIN	_	0	--	_	_
@@ -645,7 +613,7 @@
 32	einfand	_	VERB	VVFIN	_	26	RC	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 178
+# sent_id = 114
 # text = Apera interrupta P. B. kann in jedem Sommer in der Nähe unserer großen Getreidelagerhäuser in den Häfen gesammelt werden.
 1	Apera	_	NOUN	NN	_	2	PNC	_	_
 2	interrupta	_	X	FM	_	5	SB	_	_
@@ -668,7 +636,7 @@
 19	werden	_	VERB	VAINF	_	5	OC	_	_
 20	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 179
+# sent_id = 115
 # text = Eragrostis, früher selten, dehnt sich in E. major u. minor in den Spargelplantagen von Schwetzingen immer mehr aus.
 1	Eragrostis	_	PROPN	NE	_	6	SB	_	_
 2	,	_	PUNCT	$,	_	1	PUNCT	_	_
@@ -692,48 +660,7 @@
 20	aus	_	VERB	PTKVZ	_	6	SVP	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 180
-# text = Avena Praecox Echinaria capitata, ein kleines, zierliches Gras aus Südeuropa steht regelmäßig zwischen den Gleisen der Hafenbahn auf der Mühlau und auch im Hafen von Ludwigshafen
-1	Avena	_	NOUN	NN	_	2	PNC	_	_
-2	Praecox	_	NOUN	NN	_	13	SB	_	_
-3	Echinaria	_	PROPN	NE	_	4	PNC	_	_
-4	capitata	_	PROPN	NE	_	2	NK	_	_
-5	,	_	PUNCT	$,	_	2	PUNCT	_	_
-6	ein	_	DET	ART	_	10	NK	_	_
-7	kleines	_	ADJ	ADJA	_	10	NK	_	_
-8	,	_	PUNCT	$,	_	7	PUNCT	_	_
-9	zierliches	_	ADJ	ADJA	_	7	CJ	_	_
-10	Gras	_	NOUN	NN	_	2	APP	_	_
-11	aus	_	ADP	APPR	_	10	MNR	_	_
-12	Südeuropa	_	PROPN	NE	_	11	NK	_	_
-13	steht	_	VERB	VVFIN	_	0	--	_	_
-14	regelmäßig	_	ADJ	ADJD	_	13	MO	_	_
-15	zwischen	_	ADP	APPR	_	13	MO	_	_
-16	den	_	DET	ART	_	17	NK	_	_
-17	Gleisen	_	NOUN	NN	_	15	NK	_	_
-18	der	_	DET	ART	_	19	NK	_	_
-19	Hafenbahn	_	NOUN	NN	_	17	AG	_	_
-20	auf	_	ADP	APPR	_	19	MNR	_	_
-21	der	_	DET	ART	_	22	NK	_	_
-22	Mühlau	_	NOUN	NN	_	20	NK	_	_
-23	und	_	CONJ	KON	_	15	CD	_	_
-24	auch	_	ADV	ADV	_	25	MO	_	_
-25	im	_	ADP	APPRART	_	23	CJ	_	_
-26	Hafen	_	NOUN	NN	_	25	NK	_	_
-27	von	_	ADP	APPR	_	26	PG	_	_
-28	Ludwigshafen	_	NOUN	NN	_	27	NK	_	_
-
-# sent_id = 181
-# text = haben wir sie schon wiederholt konstatiert.
-1	haben	_	VERB	VAFIN	_	0	--	_	_
-2	wir	_	PRON	PPER	_	1	SB	_	_
-3	sie	_	PRON	PPER	_	6	OA	_	_
-4	schon	_	ADV	ADV	_	6	MO	_	_
-5	wiederholt	_	ADJ	ADJD	_	6	MO	_	_
-6	konstatiert	_	VERB	VVPP	_	1	OC	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 182
+# sent_id = 116
 # text = Durch den Getreidehandel kam Avena capillaris W. et K., die zierlichste Art der Gattung, zu uns und scheint sich das Bürgerrecht zu erwerben.
 1	Durch	_	ADP	APPR	_	4	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -762,7 +689,7 @@
 25	erwerben	_	VERB	VVINF	_	20	OC	_	_
 26	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 183
+# sent_id = 117
 # text = Selten dagegen ist Briza minor L.
 Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 1	Selten	_	ADJ	ADJD	_	3	PD	_	_
@@ -782,7 +709,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 15	nachgewiesen	_	VERB	VVPP	_	8	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 184
+# sent_id = 118
 # text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
 1	Briza	_	PROPN	NE	_	3	PNC	_	_
 2	maxima	_	PROPN	NE	_	3	PNC	_	_
@@ -810,7 +737,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 24	Kolonien	_	NOUN	NN	_	20	NK	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 185
+# sent_id = 119
 # text = Stupa capillata L. steht seit 1876 am Waldrande zwischen Käfertal und Viernheim und hat das Bestreben, sich stark zu vermehren, da ja die Samen mit langen, flugbaren Grannen versehen sind.
 1	Stupa	_	PROPN	NE	_	3	PNC	_	_
 2	capillata	_	PROPN	NE	_	3	PNC	_	_
@@ -847,7 +774,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 33	sind	_	VERB	VAFIN	_	21	MO	_	_
 34	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 186
+# sent_id = 120
 # text = Echinaria capitata, ein kleines, zierliches Gras aus Südeuropa steht regelmäßig zwischen den Gleisen der Hafenbahn auf der Mühlau und auch im Hafen von Ludwigshafen haben wir sie schon wiederholt konstatiert.
 1	Echinaria	_	PROPN	NE	_	2	PNC	_	_
 2	capitata	_	PROPN	NE	_	11	SB	_	_
@@ -883,7 +810,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 32	konstatiert	_	VERB	VVPP	_	27	OC	_	_
 33	.	_	PUNCT	$.	_	27	PUNCT	_	_
 
-# sent_id = 187
+# sent_id = 121
 # text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
 1	Briza	_	PROPN	NE	_	3	PNC	_	_
 2	maxima	_	PROPN	NE	_	3	PNC	_	_
@@ -911,7 +838,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 24	Kolonien	_	NOUN	NN	_	20	NK	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 188
+# sent_id = 122
 # text = Avena caryopliyllea dagegen ist in den Waldungen der Rheinebene gemein und dehnt sich immer weiter aus, während sie noch vor 20 Jahren selten war.
 1	Avena	_	NOUN	NN	_	2	PNC	_	_
 2	caryopliyllea	_	PROPN	NE	_	4	SB	_	_
@@ -940,7 +867,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 25	war	_	VERB	VAFIN	_	12	MO	_	_
 26	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 189
+# sent_id = 123
 # text = Eine ungarische Art, Cynosurus echinatus L., war im Sommer 1902 im Hafengebiet von Mannheim schön entwickelt zu sehen;
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	ungarische	_	ADJ	ADJA	_	3	NK	_	_
@@ -964,7 +891,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 20	sehen	_	VERB	VVINF	_	9	OC	_	_
 21	;	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 190
+# sent_id = 124
 # text = Eragrostis pilosa dagegen, seit dem Jahre 1899 auf dem Bahnkörper zwischen Oftersheim und Hockenheim vorhanden, ist leider in den letzten Jahren wieder erloschen.
 1	Eragrostis	_	PROPN	NE	_	2	PNC	_	_
 2	pilosa	_	VERB	VVFIN	_	18	SB	_	_
@@ -993,7 +920,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 25	erloschen	_	VERB	VVPP	_	18	PD	_	_
 26	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 191
+# sent_id = 125
 # text = Scleropoa dura P. B. hat uns viele Mühe bereitet;
 1	Scleropoa	_	PROPN	NE	_	2	PNC	_	_
 2	dura	_	X	FM	_	5	SB	_	_
@@ -1006,16 +933,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 9	bereitet	_	VERB	VVPP	_	5	OC	_	_
 10	;	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 192
-# text = Scopoli, Syn.369—378. Poa durapp.
-1	Scopoli	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	Syn.369—378.	_	PROPN	NE	_	4	PNC	_	_
-4	Poa	_	PROPN	NE	_	1	APP	_	_
-5	durapp	_	VERB	PTKVZ	_	1	SVP	_	_
-6	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 193
+# sent_id = 126
 # text = Am großen Getreidelagerhaus in Ludwigshafen war eine andere, sehr zierliche Poa, nämlich Poa loliacea Huds., vorhanden.
 1	Am	_	ADP	APPRART	_	6	MO	_	_
 2	großen	_	ADJ	ADJA	_	3	NK	_	_
@@ -1039,7 +957,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 20	vorhanden	_	ADJ	ADJD	_	6	PD	_	_
 21	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 194
+# sent_id = 127
 # text = Die früheren Standorte am Kanal bei Frankenthal und bei Lampertheim sind heute auch nicht mehr vorhanden.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	früheren	_	ADJ	ADJA	_	3	NK	_	_
@@ -1059,14 +977,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 16	vorhanden	_	ADJ	ADJD	_	11	PD	_	_
 17	.	_	PUNCT	$.	_	11	PUNCT	_	_
 
-# sent_id = 195
-# text = Glyceria distans Wahlenb.
-1	Glyceria	_	PROPN	NE	_	2	PNC	_	_
-2	distans	_	PROPN	NE	_	3	AG	_	_
-3	Wahlenb	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 196
+# sent_id = 128
 # text = An den Salinen von Dürkheim war früher Poa distans, Syn.
 1	An	_	ADP	APPR	_	6	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -1081,7 +992,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 11	Syn	_	PROPN	NE	_	9	CJ	_	_
 12	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 197
+# sent_id = 129
 # text = Sie erreicht nur die Länge eines Fingers.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	erreicht	_	VERB	VVFIN	_	0	--	_	_
@@ -1092,7 +1003,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 7	Fingers	_	NOUN	NN	_	5	AG	_	_
 8	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 198
+# sent_id = 130
 # text = Der stattliche Bromus madritensis L. war in den Jahren 1888 und 1889 an zwei Stellen vorhanden, ist aber jetzt nur noch sehr selten zu finden.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	stattliche	_	ADJ	ADJA	_	3	NK	_	_
@@ -1122,7 +1033,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 26	finden	_	VERB	VVINF	_	18	OC	_	_
 27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 199
+# sent_id = 131
 # text = Gaudinia fragilis oder Avena fragilis L. war im Jahre 1902 auf einem Kleeacker bei Mutterstadt in der Pfalz in 24 Exemplaren vorhanden.
 1	Gaudinia	_	PROPN	NE	_	2	PNC	_	_
 2	fragilis	_	PROPN	NE	_	7	SB	_	_
@@ -1148,7 +1059,7 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 22	vorhanden	_	ADJ	ADJD	_	7	PD	_	_
 23	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 200
+# sent_id = 132
 # text = Agropyrum cristatnm P. B. stand mehrere Jahre am Verbindungskanal im Mannheimer Hafen, wurde aber ebenfalls durch Frauen abgeschnitten und als Ziegenfutter verwendet.
 1	Agropyrum	_	NOUN	NN	_	5	SB	_	_
 2	cristatnm	_	PROPN	NE	_	4	PNC	_	_
@@ -1174,16 +1085,4 @@ Wir haben sie im Hafen von Mannheim schon nachgewiesen.
 22	Ziegenfutter	_	NOUN	NN	_	21	NK	_	_
 23	verwendet	_	VERB	VVFIN	_	20	CJ	_	_
 24	.	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 201
-# text = Auch der von Garke angegebene B. maximus Desf.
-1	Auch	_	ADV	ADV	_	7	MO	_	_
-2	der	_	DET	ART	_	7	NK	_	_
-3	von	_	ADP	APPR	_	5	SBP	_	_
-4	Garke	_	NOUN	NN	_	3	NK	_	_
-5	angegebene	_	ADJ	ADJA	_	7	NK	_	_
-6	B.	_	NOUN	NN	_	7	NK	_	_
-7	maximus	_	NOUN	NN	_	0	--	_	_
-8	Desf	_	PROPN	NE	_	7	NK	_	_
-9	.	_	PUNCT	$.	_	7	PUNCT	_	_
 

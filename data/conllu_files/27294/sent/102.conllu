@@ -1,23 +1,28 @@
 # sent_id = 102
-# text = Von besonderer Bedeutung ist für Deutschland neben der Außen- und Sicherheitspolitik im Konvent die bereits angesprochene Reform der Institutionen.
-1	Von	_	ADP	APPR	_	4	MO	_	_
-2	besonderer	_	ADJ	ADJA	_	3	NK	_	_
-3	Bedeutung	_	NOUN	NN	_	1	NK	_	_
-4	ist	_	VERB	VAFIN	_	0	--	_	_
-5	für	_	ADP	APPR	_	3	MNR	_	_
-6	Deutschland	_	PROPN	NE	_	5	NK	_	_
-7	neben	_	ADP	APPR	_	4	MO	_	_
-8	der	_	DET	ART	_	11	NK	_	_
-9	Außen-	_	X	TRUNC	_	10	CJ	_	_
-10	und	_	CONJ	KON	_	11	CD	_	_
-11	Sicherheitspolitik	_	NOUN	NN	_	7	NK	_	_
-12	im	_	ADP	APPRART	_	11	MNR	_	_
-13	Konvent	_	NOUN	NN	_	12	NK	_	_
-14	die	_	DET	ART	_	17	NK	_	_
-15	bereits	_	ADV	ADV	_	16	MO	_	_
-16	angesprochene	_	ADJ	ADJA	_	17	NK	_	_
-17	Reform	_	NOUN	NN	_	4	SB	_	_
-18	der	_	DET	ART	_	19	NK	_	_
-19	Institutionen	_	NOUN	NN	_	17	AG	_	_
-20	.	_	PUNCT	$.	_	4	PUNCT	_	_
+# text = Meine zweite Teilfrage geht dahin, dass die Europäische Union einmal angemahnt hat, dass eine zweite Förderung desselben Unternehmens unter Beihilfegesichtspunkten fragwürdig sei.
+1	Meine	_	PRON	PPOSAT	_	3	NK	_	_
+2	zweite	_	ADJ	ADJA	_	3	NK	_	_
+3	Teilfrage	_	NOUN	NN	_	4	SB	_	_
+4	geht	_	VERB	VVFIN	_	0	--	_	_
+5	dahin	_	ADV	PROAV	_	4	OP	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	dass	_	CONJ	KOUS	_	13	CP	_	_
+8	die	_	DET	ART	_	10	NK	_	_
+9	Europäische	_	ADJ	ADJA	_	10	NK	_	_
+10	Union	_	NOUN	NN	_	13	SB	_	_
+11	einmal	_	ADV	ADV	_	12	MO	_	_
+12	angemahnt	_	VERB	VVPP	_	13	OC	_	_
+13	hat	_	VERB	VAFIN	_	5	RE	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	dass	_	CONJ	KOUS	_	24	CP	_	_
+16	eine	_	DET	ART	_	18	NK	_	_
+17	zweite	_	ADJ	ADJA	_	18	NK	_	_
+18	Förderung	_	NOUN	NN	_	24	SB	_	_
+19	desselben	_	PRON	PDAT	_	20	NK	_	_
+20	Unternehmens	_	NOUN	NN	_	18	AG	_	_
+21	unter	_	ADP	APPR	_	18	MNR	_	_
+22	Beihilfegesichtspunkten	_	NOUN	NN	_	21	NK	_	_
+23	fragwürdig	_	ADJ	ADJD	_	24	PD	_	_
+24	sei	_	VERB	VAFIN	_	12	OC	_	_
+25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

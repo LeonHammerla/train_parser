@@ -1,20 +1,30 @@
 # sent_id = 158
-# text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
-1	Ich	_	PRON	PPER	_	2	SB	_	_
-2	bitte	_	VERB	VVFIN	_	0	--	_	_
-3	die	_	DET	ART	_	4	NK	_	_
-4	Herren	_	NOUN	NN	_	2	OA	_	_
-5	aufzustehen	_	VERB	VVINF	_	2	OC	_	_
-6	,	_	PUNCT	$,	_	2	PUNCT	_	_
-7	oder	_	CONJ	KON	_	5	CD	_	_
-8	stehen	_	VERB	VVINF	_	10	OC	_	_
-9	zu	_	X	PTKZU	_	10	PM	_	_
-10	bleiben	_	VERB	VVINF	_	7	CJ	_	_
-11	,	_	PUNCT	$,	_	10	PUNCT	_	_
-12	welche	_	PRON	PRELS	_	16	SB	_	_
-13	den	_	DET	ART	_	14	NK	_	_
-14	Schlußantrag	_	NOUN	NN	_	15	OA	_	_
-15	annehmen	_	VERB	VVINF	_	16	OC	_	_
-16	wollen	_	VERB	VMINF	_	4	RC	_	_
-17	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	meisten	_	PRON	PIS	_	11	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Punkte	_	NOUN	NN	_	2	AG	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	welche	_	PRON	PRELS	_	8	OA	_	_
+7	ich	_	PRON	PPER	_	9	SB	_	_
+8	berühren	_	VERB	VVINF	_	9	OC	_	_
+9	wollte	_	VERB	VMFIN	_	4	RC	_	_
+10	,	_	PUNCT	$,	_	11	PUNCT	_	_
+11	sind	_	VERB	VAFIN	_	0	--	_	_
+12	bereits	_	ADV	ADV	_	14	MO	_	_
+13	so	_	ADV	ADV	_	14	MO	_	_
+14	erschöpft	_	VERB	VVPP	_	11	PD	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	daß	_	CONJ	KOUS	_	21	CP	_	_
+17	ich	_	PRON	PPER	_	21	SB	_	_
+18	es	_	PRON	PPER	_	21	OA	_	_
+19	für	_	ADP	APPR	_	21	MO	_	_
+20	überflüssig	_	ADJ	ADJD	_	19	NK	_	_
+21	halte	_	VERB	VVFIN	_	13	CC	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	noch	_	ADV	ADV	_	26	MO	_	_
+24	irgend	_	ADV	ADV	_	25	MO	_	_
+25	Etwas	_	PRON	PIS	_	26	OA	_	_
+26	hinzuzufügen	_	VERB	VVIZU	_	18	RE	_	_
+27	.	_	PUNCT	$.	_	11	PUNCT	_	_
 

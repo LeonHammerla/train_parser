@@ -1,4 +1,4 @@
-# sent_id = 41
+# sent_id = 39
 # text = Das Anlehen ist aus den nächsten drei Etats zu tilgen.
 1	Das	_	DET	ART	_	2	NK	_	_
 2	Anlehen	_	NOUN	NN	_	3	SB	_	_
@@ -12,7 +12,7 @@
 10	tilgen	_	VERB	VVINF	_	3	OC	_	_
 11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 42
+# sent_id = 40
 # text = Das werde eine sehr starke Belastung der Neichsanstalt zur Folge haben.
 1	Das	_	PRON	PDS	_	2	SB	_	_
 2	werde	_	VERB	VAFIN	_	0	--	_	_
@@ -27,7 +27,7 @@
 11	haben	_	VERB	VAINF	_	2	OC	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 43
+# sent_id = 41
 # text = Der Rechnungshof soll sich zur Erfüllung dieser Aufgabe der Mitwirkung einer von ihm gewählten Treuhandgesellschaft bedienen können.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Rechnungshof	_	NOUN	NN	_	3	SB	_	_
@@ -48,7 +48,7 @@
 17	können	_	VERB	VMINF	_	3	OC	_	_
 18	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 44
+# sent_id = 42
 # text = Bei den Hinterbliebenen ergibt sich, wenn die Ergebnisse der beiden Zählungen verglichen werden, kein einheitliches Bild.
 1	Bei	_	ADP	APPR	_	4	MO	_	_
 2	den	_	DET	ART	_	3	NK	_	_
@@ -70,7 +70,7 @@
 18	Bild	_	NOUN	NN	_	4	OA	_	_
 19	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 45
+# sent_id = 43
 # text = Ich bitte die Damen und Herren, die das beschließen wollen, sich zu erheben.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	bitte	_	VERB	VVFIN	_	0	--	_	_
@@ -89,7 +89,7 @@
 15	erheben	_	VERB	VVINF	_	2	OC	_	_
 16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 46
+# sent_id = 44
 # text = Entfernung der Besatzung aus den Bade- und Luftkurorten des besetzten Gebiets, insbesondere von Kreuznach und Königstein.
 1	Entfernung	_	NOUN	NN	_	0	--	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -110,7 +110,7 @@
 17	Königstein	_	PROPN	NE	_	16	CJ	_	_
 18	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 47
+# sent_id = 45
 # text = Hier gilt nicht das besondere Recht des § 84;
 1	Hier	_	ADV	ADV	_	2	MO	_	_
 2	gilt	_	VERB	VVFIN	_	0	--	_	_
@@ -123,7 +123,7 @@
 9	84	_	NUM	CARD	_	8	NK	_	_
 10	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 48
+# sent_id = 46
 # text = sie sind aber Mitglieder der allgemeinen Ortskrankenkasse nach § 82.
 1	sie	_	PRON	PPER	_	2	SB	_	_
 2	sind	_	VERB	VAFIN	_	0	--	_	_
@@ -136,7 +136,7 @@
 9	§	_	NOUN	NN	_	8	NK	_	_
 10	82.	_	ADJ	ADJA	_	9	NK	_	_
 
-# sent_id = 49
+# sent_id = 47
 # text = Gegen Sträflinge, die das achtzehnte Lebensjahr nicht vollendet haben, sind auch die in der Schule anwendbaren Züchtigungsmittel zulässig.
 1	Gegen	_	ADP	APPR	_	12	MO	_	_
 2	Sträflinge	_	NOUN	NN	_	1	NK	_	_
@@ -160,7 +160,7 @@
 20	zulässig	_	ADJ	ADJD	_	12	PD	_	_
 21	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 50
+# sent_id = 48
 # text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	bitte	_	VERB	VVFIN	_	0	--	_	_
@@ -185,7 +185,7 @@
 21	erheben	_	VERB	VVINF	_	2	OC	_	_
 22	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 51
+# sent_id = 49
 # text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Kampf	_	NOUN	NN	_	6	SB	_	_
@@ -215,7 +215,7 @@
 26	aufbauen	_	VERB	VVINF	_	17	RC	_	_
 27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 52
+# sent_id = 50
 # text = Ob der Entwurf, der die Mittel flüssig machen will, um der Presse Hilfe zu bringen, diese Hilfe wirklich in umfangreicher Weise bringen wird, erscheint fraglich.
 1	Ob	_	CONJ	KOUS	_	26	CP	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -248,7 +248,7 @@
 29	fraglich	_	ADJ	ADJD	_	28	MO	_	_
 30	.	_	PUNCT	$.	_	28	PUNCT	_	_
 
-# sent_id = 53
+# sent_id = 51
 # text = Aber ich betone schon heute, daß es nicht angeht, daß wieder in der Hauptsache durch die Gewerkschaften die Verteilung und Durchführung dieser Fonds vorgenommen wird.
 1	Aber	_	CONJ	KON	_	3	JU	_	_
 2	ich	_	PRON	PPER	_	3	SB	_	_
@@ -279,7 +279,7 @@
 27	wird	_	VERB	VAFIN	_	10	OC	_	_
 28	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 54
+# sent_id = 52
 # text = Das Briandsche Memorandum, der Briandsche Paneuropa-Plan will augenscheinlich diese Gefahr endgültig beseitigen, den letzten Schimmer, den letzten Schatten dieser Gefahr verschwinden lassen.
 1	Das	_	DET	ART	_	3	NK	_	_
 2	Briandsche	_	NOUN	NN	_	3	NK	_	_
@@ -308,7 +308,7 @@
 25	lassen	_	VERB	VVINF	_	8	OC	_	_
 26	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 55
+# sent_id = 53
 # text = Die Stellungnahme meiner politischen Freunde zu allen diesen Fragen war - das muß ich nachdrücklichst betonen und dem Herrn Minister für die Anerkennung, die er uns in dieser Hinsicht ausgesprochen hat, speziell Dank sagen - von jeher nicht von kleinlichen oder gar von partikularistischen Gesichtspunkten geleitet.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Stellungnahme	_	NOUN	NN	_	10	SB	_	_
@@ -360,7 +360,7 @@
 48	geleitet	_	VERB	VVPP	_	10	OC	_	_
 49	.	_	PUNCT	$.	_	13	PUNCT	_	_
 
-# sent_id = 56
+# sent_id = 54
 # text = Soweit die hiernach in Kraft getretenen Vorschriften nach Entscheidung des Reichsverwaltungsgerichts oder des Schiedsgerichts nicht zulässig sind, sind die Länder, Gemeinden und sonstigen öffentlichen Körperschaften verpflichtet, die Vorschriften mit rückwirkender Kraft nach Maßgabe der Entscheidung zu ändern.
 1	Soweit	_	CONJ	KOUS	_	17	CP	_	_
 2	die	_	DET	ART	_	7	NK	_	_
@@ -404,7 +404,7 @@
 40	ändern	_	VERB	VVINF	_	28	OC	_	_
 41	.	_	PUNCT	$.	_	19	PUNCT	_	_
 
-# sent_id = 57
+# sent_id = 55
 # text = Die sich überstürzenden Verhältnisse, die fortwährenden Neuaufstellungen und Umformierungen, die Verwendung der Formationen an verschiedenen Orten, vielfacher Personalwechsel und die häufigen, dazu meist rückwirkenden Änderungen der Gebührnisvorschriften haben eine ordnungsmäßige Rechnungslegung behindert.
 1	Die	_	DET	ART	_	4	NK	_	_
 2	sich	_	PRON	PRF	_	3	OA	_	_
@@ -444,7 +444,7 @@
 36	behindert	_	VERB	VVPP	_	32	OC	_	_
 37	.	_	PUNCT	$.	_	32	PUNCT	_	_
 
-# sent_id = 58
+# sent_id = 56
 # text = Der Entwurf geht davon aus, daß diese Höchstgrenze selbst bei ungünstigeren Zeit- und Wirtschaftsverhältnissen ausreichen wird, da ja durch die Beschleunigung der nötigen Gebührenerhöhungen dem ordentlichen Einnahmebedarfe stets rechtzeitig Rechnung getragen werden kann.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Entwurf	_	NOUN	NN	_	3	SB	_	_

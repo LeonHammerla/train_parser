@@ -1,24 +1,34 @@
 # sent_id = 161
-# text = Dringen wir auf Vereinfachung, dringen wir darauf, daß das Geld verwendet wird, eine tüchtige Marine zu schaffen.
-1	Dringen	_	VERB	VVFIN	_	1	ROOT	_	_
-2	wir	_	PRON	PPER	_	1	SB	_	_
-3	auf	_	ADP	APPR	_	1	OP	_	_
-4	Vereinfachung	_	NOUN	NN	_	3	NK	_	_
-5	,	_	PUNCT	$,	_	6	PUNCT	_	_
-6	dringen	_	VERB	VVFIN	_	1	CJ	_	_
-7	wir	_	PRON	PPER	_	6	SB	_	_
-8	darauf	_	ADV	PROAV	_	6	OP	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	daß	_	CONJ	KOUS	_	14	CP	_	_
-11	das	_	DET	ART	_	12	NK	_	_
-12	Geld	_	NOUN	NN	_	14	SB	_	_
-13	verwendet	_	VERB	VVPP	_	14	OC	_	_
-14	wird	_	VERB	VAFIN	_	8	RE	_	_
-15	,	_	PUNCT	$,	_	14	PUNCT	_	_
-16	eine	_	DET	ART	_	18	NK	_	_
-17	tüchtige	_	ADJ	ADJA	_	18	NK	_	_
-18	Marine	_	NOUN	NN	_	20	OA	_	_
-19	zu	_	X	PTKZU	_	20	PM	_	_
-20	schaffen	_	VERB	VVINF	_	13	OC	_	_
-21	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Reichsverwaltung	_	NOUN	NN	_	3	SB	_	_
+3	verpflichtete	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	dagegen	_	ADV	PROAV	_	3	MO	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	für	_	ADP	APPR	_	19	MO	_	_
+8	Benutzung	_	NOUN	NN	_	7	NK	_	_
+9	des	_	DET	ART	_	10	NK	_	_
+10	Kabels	_	NOUN	NN	_	8	AG	_	_
+11	jährlich	_	ADJ	ADJD	_	19	MO	_	_
+12	eine	_	DET	ART	_	14	NK	_	_
+13	feste	_	ADJ	ADJA	_	14	NK	_	_
+14	Entschädigung	_	NOUN	NN	_	19	OA	_	_
+15	von	_	ADP	APPR	_	14	MNR	_	_
+16	140000	_	NUM	CARD	_	17	NK	_	_
+17	Mark	_	NOUN	NN	_	15	NK	_	_
+18	zu	_	X	PTKZU	_	19	PM	_	_
+19	geben	_	VERB	VVINF	_	5	RE	_	_
+20	ohne	_	ADP	APPR	_	19	MO	_	_
+21	Rücksicht	_	NOUN	NN	_	20	NK	_	_
+22	auf	_	ADP	APPR	_	21	MNR	_	_
+23	die	_	DET	ART	_	24	NK	_	_
+24	Zahl	_	NOUN	NN	_	22	NK	_	_
+25	der	_	DET	ART	_	26	NK	_	_
+26	Depeschen	_	NOUN	NN	_	24	AG	_	_
+27	,	_	PUNCT	$,	_	24	PUNCT	_	_
+28	welche	_	PRON	PRELS	_	30	SB	_	_
+29	befördert	_	VERB	VVPP	_	30	OC	_	_
+30	werden	_	VERB	VAINF	_	24	RC	_	_
+31	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

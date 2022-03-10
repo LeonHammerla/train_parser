@@ -1,17 +1,22 @@
 # sent_id = 99
-# text = Sie sollten sich einmal mit den Erkenntnissen der Amerikaner in diesem Bereich beschäftigen.
-1	Sie	_	PRON	PPER	_	2	SB	_	_
-2	sollten	_	VERB	VMFIN	_	0	--	_	_
-3	sich	_	PRON	PRF	_	13	OA	_	_
-4	einmal	_	ADV	ADV	_	3	MO	_	_
-5	mit	_	ADP	APPR	_	13	OP	_	_
-6	den	_	DET	ART	_	7	NK	_	_
-7	Erkenntnissen	_	NOUN	NN	_	5	NK	_	_
-8	der	_	DET	ART	_	9	NK	_	_
-9	Amerikaner	_	NOUN	NN	_	7	AG	_	_
-10	in	_	ADP	APPR	_	7	MNR	_	_
-11	diesem	_	PRON	PDAT	_	12	NK	_	_
-12	Bereich	_	NOUN	NN	_	10	NK	_	_
-13	beschäftigen	_	VERB	VVINF	_	2	OC	_	_
-14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Wir schlagen vor - dies war auch Teil unseres Wahl programms -, die Subventionen pauschal zu kürzen.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	schlagen	_	VERB	VVFIN	_	0	--	_	_
+3	vor	_	VERB	PTKVZ	_	2	SVP	_	_
+4	-	_	PUNCT	$(	_	2	PUNCT	_	_
+5	dies	_	PRON	PDS	_	6	SB	_	_
+6	war	_	VERB	VAFIN	_	2	PAR	_	_
+7	auch	_	ADV	ADV	_	8	MO	_	_
+8	Teil	_	NOUN	NN	_	6	PD	_	_
+9	unseres	_	PRON	PPOSAT	_	10	NK	_	_
+10	Wahl	_	NOUN	NN	_	8	AG	_	_
+11	programms	_	VERB	VVFIN	_	10	NK	_	_
+12	-	_	PUNCT	$(	_	2	PUNCT	_	_
+13	,	_	PUNCT	$,	_	2	PUNCT	_	_
+14	die	_	DET	ART	_	15	NK	_	_
+15	Subventionen	_	NOUN	NN	_	18	OA	_	_
+16	pauschal	_	ADJ	ADJD	_	18	MO	_	_
+17	zu	_	X	PTKZU	_	18	PM	_	_
+18	kürzen	_	VERB	VVINF	_	2	OC	_	_
+19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

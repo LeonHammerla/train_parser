@@ -31,6 +31,10 @@ def create_conllu_files_for_data(save_corpus: bool = True,
     in dirs-variable.
     :return:
     """
+    # --> Creating Log-file:
+    logfile = os.path.join(ROOT_DIR, "data", "conllu_files", "log.txt")
+    with open(logfile, "w") as f:
+        f.write("This is a automatically created log-file:\n\n")
     # --> Getting Typesystem:
     typesystem = load_typesystem_from_path(os.path.join(ROOT_DIR, "data/TypeSystem.xml"))
     # --> Different directories:
@@ -49,7 +53,7 @@ def create_conllu_files_for_data(save_corpus: bool = True,
         tokenlists = []
         # --> Collecting all Lists of Tokenlists for each xmi-path:
         for file_path in paths_for_corpora[corpus_idx]:
-            res, sent_id = extract_cas_information(ids[corpus_idx], file_path, typesystem, sent_id)
+            res, sent_id = extract_cas_information(ids[corpus_idx], file_path, typesystem, logfile, sent_id)
             tokenlists.append(res)
 
         if save_corpus:
@@ -114,11 +118,13 @@ def find_all_caspaths_per_corpus(dirs: List[str]) -> Tuple[List[str], ...]:
 def extract_cas_information(corpus_id: str,
                             caspath: str,
                             typesystem: cassis.TypeSystem,
+                            logfile: str,
                             sent_id: int = 0) -> Tuple[Optional[List[TokenList]], int]:
     """
     Function returns a list of TokenLists. Every TokenList is one sentence from the cas
     object.
 
+    :param logfile:
     :param sent_id:
     :param caspath:
     :param typesystem:
@@ -140,86 +146,105 @@ def extract_cas_information(corpus_id: str,
         # --> Collecting all Information needed for each Sentence:
         c = sent_id
         for sentence in sentences:
+            # --> Getting Status Annotation:
+            status_annotation = view.select_covered("org.texttechnologylab.annotation.administration.AnnotationStatus", sentence)
+            correct_status = True
             try:
-                # --> Tokens:
-                token = select_tokens_of_sentence_from_cas(cas=view,
-                                                           sentence=sentence)
-                token_indices = [idx for idx in range(1, len(token) + 1)]
-                token_index_identifier = [(tok["begin"], tok["end"]) for tok in token]
-                # --> Dependencies:
-                dependencies = []
-                dependencies_unordered = select_dependencies_from_sentence(cas=view,
-                                                                           sentence=sentence)
-                for tok in token:
-                    for dep in dependencies_unordered:
-                        if tok["begin"] == dep["Dependent"]["begin"] and tok["end"] == dep["Dependent"]["end"]:
-                            dependencies.append(dep)
-                            break
-                # --> Part of Speech:
+                assert len(status_annotation) == 1
+            except:
+                correct_status = False
+                with open(logfile, "a") as f:
+                    if len(status_annotation) > 1:
+                        f.write(f"{caspath}: Error--More than one status-annotations for sent\n")
+                    else:
+                        f.write(f"{caspath}: Error--Less than one status-annotations for sent\n")
+            # --> Checking if Sentence is "Processed":
+            if correct_status and status_annotation[0]["status"] == "Processed":
                 try:
-                    pos = select_pos_from_tokenlist(cas=view,
-                                                    tokens=token)
-                    # --> Morphological Annotation:
-                    upos = [p["coarseValue"] for p in pos]
-                    xpos = [p["PosValue"] for p in pos]
-                except:
-                    pos = ["_" for pp in token]
-                    # --> Morphological Annotation:
-                    upos = ["_" for p in pos]
-                    xpos = ["_" for p in pos]
-                # --> Metadata:
-                text = sentence.get_covered_text().strip()
-                sent_id = c
-                # --> Syntactic Annotation:
-                heads = []
-                deprels = []
-                for dep in dependencies:
-                    deprel = dep["DependencyType"]
-                    if deprel == "--":
-                        if corpus_id == "tiger":
-                            deprels.append("--")
+                    # --> Tokens:
+                    token = select_tokens_of_sentence_from_cas(cas=view,
+                                                               sentence=sentence)
+                    token_indices = [idx for idx in range(1, len(token) + 1)]
+                    token_index_identifier = [(tok["begin"], tok["end"]) for tok in token]
+                    # --> Dependencies:
+                    dependencies = []
+                    dependencies_unordered = select_dependencies_from_sentence(cas=view,
+                                                                               sentence=sentence)
+                    for tok in token:
+                        for dep in dependencies_unordered:
+                            if tok["begin"] == dep["Dependent"]["begin"] and tok["end"] == dep["Dependent"]["end"]:
+                                dependencies.append(dep)
+                                break
+                    # --> Part of Speech:
+                    try:
+                        pos = select_pos_from_tokenlist(cas=view,
+                                                        tokens=token)
+                        # --> Morphological Annotation:
+                        upos = [p["coarseValue"] for p in pos]
+                        xpos = [p["PosValue"] for p in pos]
+                    except:
+                        pos = ["_" for pp in token]
+                        # --> Morphological Annotation:
+                        upos = ["_" for p in pos]
+                        xpos = ["_" for p in pos]
+                    # --> Metadata:
+                    text = sentence.get_covered_text().strip()
+                    sent_id = c
+                    # --> Syntactic Annotation:
+                    heads = []
+                    deprels = []
+                    for dep in dependencies:
+                        deprel = dep["DependencyType"]
+                        if deprel == "--":
+                            if corpus_id == "tiger":
+                                deprels.append("--")
+                            else:
+                                deprels.append("root")
+                            heads.append(0)
                         else:
-                            deprels.append("root")
-                        heads.append(0)
+                            #if corpus_id != "tiger":
+                            deprels.append(deprel)
+                            heads.append(token_index_identifier.index((dep["Governor"]["begin"], dep["Governor"]["end"])) + 1)
+                    # --> Checking if everything makes sense, else sent gets discarded:
+                    if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) and text != "":
+                        c += 1
+                        keep = True
                     else:
-                        #if corpus_id != "tiger":
-                        deprels.append(deprel)
-                        heads.append(token_index_identifier.index((dep["Governor"]["begin"], dep["Governor"]["end"])) + 1)
-                # --> Checking if everything makes sense, else sent gets discarded:
-                if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) and text != "":
-                    c += 1
-                    keep = True
-                else:
-                    keep = False
-                    if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) == 0:
-                        pass
-                    else:
-                        print(f"============{caspath}=================")
-                        print(f"Length: upos:{len(upos)}, xpos:{len(xpos)},heads:{len(heads)},deprels:{len(deprels)},token:{len(token)}")
-                        print(text)
-                        print("========================================================================================================")
+                        keep = False
+                        if len(upos) == len(xpos) == len(heads) == len(deprels) == len(token) == 0:
+                            with open(logfile, "a") as f:
+                                f.write(f"{caspath}: Error--Sentence-length is zero\n")
+                        else:
+                            print(f"============{caspath}=================")
+                            print(f"Length: upos:{len(upos)}, xpos:{len(xpos)},heads:{len(heads)},deprels:{len(deprels)},token:{len(token)}")
+                            print(text)
+                            print("========================================================================================================")
+                            with open(logfile, "a") as f:
+                                f.write(f"{caspath}: Error--Sentence-has uneven annotations?\n")
 
-                if keep:
-                    # --> Creating TokenList for conllu:
-                    compiled_toks = TokenList()
-                    # --> Filling in Metadata:
-                    compiled_toks.metadata = {"sent_id": str(sent_id), "text": text}
-                    # --> Filling in Token Information for each token in sent:
-                    for i in range(0, len(token)):
-                        compiled_toks.append({'id': token_indices[i],
-                                              'form': token[i].get_covered_text(),
-                                              'lemma': '_',
-                                              'upostag': upos[i],
-                                              'xpostag': xpos[i],
-                                              'feats': '_',
-                                              'head': heads[i],
-                                              'deprel': deprels[i],
-                                              'deps': '_',
-                                              'misc': '_'})
+                    if keep:
+                        # --> Creating TokenList for conllu:
+                        compiled_toks = TokenList()
+                        # --> Filling in Metadata:
+                        compiled_toks.metadata = {"sent_id": str(sent_id), "text": text}
+                        # --> Filling in Token Information for each token in sent:
+                        for i in range(0, len(token)):
+                            compiled_toks.append({'id': token_indices[i],
+                                                  'form': token[i].get_covered_text(),
+                                                  'lemma': '_',
+                                                  'upostag': upos[i],
+                                                  'xpostag': xpos[i],
+                                                  'feats': '_',
+                                                  'head': heads[i],
+                                                  'deprel': deprels[i],
+                                                  'deps': '_',
+                                                  'misc': '_'})
 
-                    cas_tokenlist_list.append(compiled_toks)
-            except Exception as e:
-                print(e, caspath)
+                        cas_tokenlist_list.append(compiled_toks)
+                except Exception as e:
+                    print(e, caspath)
+                    with open(logfile, "a") as f:
+                        f.write(f"{caspath}: Error--{e}")
 
         return cas_tokenlist_list, c
 

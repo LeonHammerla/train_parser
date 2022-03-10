@@ -1,25 +1,17 @@
 # sent_id = 224
-# text = Sicherlich kommt es auch bei der Turteltaube durch die Intensivierung der Landwirtschaft zur Beeinträchtigung der Nutzbarkeit der Felder als Nahrungshabi- tat.
-1	Sicherlich	_	ADV	ADV	_	2	MO	_	_
-2	kommt	_	VERB	VVFIN	_	0	--	_	_
-3	es	_	PRON	PPER	_	2	EP	_	_
-4	auch	_	ADV	ADV	_	5	MO	_	_
-5	bei	_	ADP	APPR	_	2	MO	_	_
-6	der	_	DET	ART	_	7	NK	_	_
-7	Turteltaube	_	NOUN	NN	_	5	NK	_	_
-8	durch	_	ADP	APPR	_	7	MNR	_	_
-9	die	_	DET	ART	_	10	NK	_	_
-10	Intensivierung	_	NOUN	NN	_	8	NK	_	_
-11	der	_	DET	ART	_	12	NK	_	_
-12	Landwirtschaft	_	NOUN	NN	_	10	AG	_	_
-13	zur	_	ADP	APPRART	_	10	MNR	_	_
-14	Beeinträchtigung	_	NOUN	NN	_	13	NK	_	_
-15	der	_	DET	ART	_	16	NK	_	_
-16	Nutzbarkeit	_	NOUN	NN	_	14	AG	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Felder	_	NOUN	NN	_	16	AG	_	_
-19	als	_	ADP	APPR	_	21	MO	_	_
-20	Nahrungshabi-	_	X	TRUNC	_	19	NK	_	_
-21	tat	_	VERB	VVFIN	_	2	MO	_	_
-22	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Lediglich 2003 fand J. Zill ein Paar im Zeisigwald in einer Eiche nistend.
+1	Lediglich	_	NOUN	NN	_	2	MO	_	_
+2	2003	_	NUM	CARD	_	3	MO	_	_
+3	fand	_	VERB	VVFIN	_	0	--	_	_
+4	J.	_	PROPN	NE	_	5	PNC	_	_
+5	Zill	_	PROPN	NE	_	3	SB	_	_
+6	ein	_	DET	ART	_	7	NK	_	_
+7	Paar	_	NOUN	NN	_	3	OA	_	_
+8	im	_	ADP	APPRART	_	7	MNR	_	_
+9	Zeisigwald	_	NOUN	NN	_	8	NK	_	_
+10	in	_	ADP	APPR	_	13	MO	_	_
+11	einer	_	DET	ART	_	12	NK	_	_
+12	Eiche	_	NOUN	NN	_	10	NK	_	_
+13	nistend	_	ADJ	ADJD	_	3	MO	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

@@ -1,27 +1,28 @@
 # sent_id = 81
-# text = Nun hat gestern der Herr Abgeordnete Graf v. Posadowsky ausgesprochen, das einzige, was helfen könne, sei eine großherzige Wohnungspolitik.
-1	Nun	_	_	_	_	11	advmod	_	_
-2	hat	_	_	_	_	11	aux	_	_
-3	gestern	_	_	_	_	11	advmod	_	_
-4	der	_	_	_	_	5	det	_	_
-5	Herr	_	_	_	_	11	nsubj	_	_
-6	Abgeordnete	_	_	_	_	5	flat	_	_
-7	Graf	_	_	_	_	6	appos	_	_
-8	v	_	_	_	_	7	flat	_	_
-9	.	_	_	_	_	10	punct	_	_
-10	Posadowsky	_	_	_	_	7	flat	_	_
-11	ausgesprochen	_	_	_	_	0	root	_	_
-12	,	_	_	_	_	23	punct	_	_
-13	das	_	_	_	_	14	det	_	_
-14	einzige	_	_	_	_	23	nsubj	_	_
-15	,	_	_	_	_	17	punct	_	_
-16	was	_	_	_	_	17	nsubj	_	_
-17	helfen	_	_	_	_	14	acl	_	_
-18	könne	_	_	_	_	17	aux	_	_
-19	,	_	_	_	_	17	punct	_	_
-20	sei	_	_	_	_	23	cop	_	_
-21	eine	_	_	_	_	23	det	_	_
-22	großherzige	_	_	_	_	23	amod	_	_
-23	Wohnungspolitik	_	_	_	_	11	ccomp	_	_
-24	.	_	_	_	_	11	punct	_	_
+# text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
+1	So	_	_	_	_	2	advmod	_	_
+2	verteilen	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Oberpostdirektionen	_	_	_	_	2	nsubj	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Gratifikationen	_	_	_	_	2	obj	_	_
+7	für	_	_	_	_	9	case	_	_
+8	geleistete	_	_	_	_	9	amod	_	_
+9	überstunden	_	_	_	_	6	nmod	_	_
+10	immer	_	_	_	_	12	advmod	_	_
+11	nach	_	_	_	_	12	case	_	_
+12	oben	_	_	_	_	2	advmod	_	_
+13	,	_	_	_	_	21	punct	_	_
+14	da	_	_	_	_	21	advmod	_	_
+15	ist	_	_	_	_	21	cop	_	_
+16	es	_	_	_	_	21	nsubj	_	_
+17	nach	_	_	_	_	19	case	_	_
+18	ihrer	_	_	_	_	19	det:poss	_	_
+19	Ansicht	_	_	_	_	21	amod	_	_
+20	weit	_	_	_	_	21	advmod	_	_
+21	notwendiger	_	_	_	_	2	advcl	_	_
+22	als	_	_	_	_	24	case	_	_
+23	nach	_	_	_	_	24	case	_	_
+24	unten	_	_	_	_	21	advmod	_	_
+25	.	_	_	_	_	2	punct	_	_
 

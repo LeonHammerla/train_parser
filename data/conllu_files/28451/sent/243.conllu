@@ -1,19 +1,25 @@
 # sent_id = 243
-# text = Schon R. Heyder bezeichnete den Kuckuck als „Herumflieger" und warnte vor überzogenen Siedlungsdichteangaben.
-1	Schon	_	ADV	ADV	_	3	MO	_	_
-2	R.	_	PROPN	NE	_	3	PNC	_	_
-3	Heyder	_	PROPN	NE	_	4	SB	_	_
-4	bezeichnete	_	VERB	VVFIN	_	0	--	_	_
-5	den	_	DET	ART	_	6	NK	_	_
-6	Kuckuck	_	NOUN	NN	_	4	OA	_	_
-7	als	_	ADP	APPR	_	4	OP	_	_
-8	„	_	PUNCT	$(	_	9	PUNCT	_	_
-9	Herumflieger	_	NOUN	NN	_	7	NK	_	_
-10	"	_	PUNCT	$(	_	9	PUNCT	_	_
-11	und	_	CONJ	KON	_	4	CD	_	_
-12	warnte	_	VERB	VVFIN	_	11	CJ	_	_
-13	vor	_	ADP	APPR	_	12	OP	_	_
-14	überzogenen	_	ADJ	ADJA	_	15	NK	_	_
-15	Siedlungsdichteangaben	_	NOUN	NN	_	13	NK	_	_
-16	.	_	PUNCT	$.	_	4	PUNCT	_	_
+# text = Auffällig ist das fast völlige Fehlen der Turteltaube in einigen stadtnahen Wäldern wie z. B. im Sechsruthenwald und in der Kohlung.
+1	Auffällig	_	ADJ	ADJD	_	2	PD	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	das	_	DET	ART	_	6	NK	_	_
+4	fast	_	ADV	ADV	_	5	MO	_	_
+5	völlige	_	ADJ	ADJA	_	6	NK	_	_
+6	Fehlen	_	NOUN	NN	_	2	PD	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Turteltaube	_	NOUN	NN	_	6	AG	_	_
+9	in	_	ADP	APPR	_	6	MNR	_	_
+10	einigen	_	PRON	PIAT	_	12	NK	_	_
+11	stadtnahen	_	ADJ	ADJA	_	12	NK	_	_
+12	Wäldern	_	NOUN	NN	_	9	NK	_	_
+13	wie	_	CONJ	KOKOM	_	16	CM	_	_
+14	z.	_	ADP	APPRART	_	16	MO	_	_
+15	B.	_	NOUN	NN	_	14	NK	_	_
+16	im	_	ADP	APPRART	_	6	MNR	_	_
+17	Sechsruthenwald	_	NOUN	NN	_	16	NK	_	_
+18	und	_	CONJ	KON	_	16	CD	_	_
+19	in	_	ADP	APPR	_	18	CJ	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Kohlung	_	NOUN	NN	_	19	NK	_	_
+22	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

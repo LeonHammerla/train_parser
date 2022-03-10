@@ -1,19 +1,16 @@
 # sent_id = 249
-# text = Die Flora derselben ist sehr reich und völlig verschieden von derjenigen der umgebenden feuchten Wiesen:
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Flora	_	NOUN	NN	_	4	SB	_	_
-3	derselben	_	PRON	PDS	_	2	AG	_	_
-4	ist	_	VERB	VAFIN	_	0	--	_	_
-5	sehr	_	ADV	ADV	_	6	MO	_	_
-6	reich	_	ADJ	ADJD	_	4	PD	_	_
-7	und	_	CONJ	KON	_	6	CD	_	_
-8	völlig	_	ADJ	ADJD	_	9	MO	_	_
-9	verschieden	_	VERB	VVPP	_	7	CJ	_	_
-10	von	_	ADP	APPR	_	9	OP	_	_
-11	derjenigen	_	PRON	PDS	_	10	NK	_	_
-12	der	_	DET	ART	_	15	NK	_	_
-13	umgebenden	_	ADJ	ADJA	_	15	NK	_	_
-14	feuchten	_	ADJ	ADJA	_	15	NK	_	_
-15	Wiesen	_	NOUN	NN	_	11	AG	_	_
-16	:	_	PUNCT	$.	_	4	PUNCT	_	_
+# text = Noch eine in der Pfalz sehr sehr seltene Graminee müssen wir erwähnen.
+1	Noch	_	ADV	ADV	_	2	MO	_	_
+2	eine	_	DET	ART	_	9	NK	_	_
+3	in	_	ADP	APPR	_	8	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Pfalz	_	PROPN	NE	_	3	NK	_	_
+6	sehr	_	ADV	ADV	_	7	MO	_	_
+7	sehr	_	ADV	ADV	_	8	MO	_	_
+8	seltene	_	ADJ	ADJA	_	9	NK	_	_
+9	Graminee	_	NOUN	NN	_	12	OA	_	_
+10	müssen	_	VERB	VMFIN	_	0	--	_	_
+11	wir	_	PRON	PPER	_	10	SB	_	_
+12	erwähnen	_	VERB	VVINF	_	10	OC	_	_
+13	.	_	PUNCT	$.	_	10	PUNCT	_	_
 

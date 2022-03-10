@@ -1,22 +1,24 @@
 # sent_id = 25
-# text = Es wird ihm dann ergehen wie einst Altum, als Krüper ihn zuerst zu einer meckernden Bekassine führte:
-1	Es	_	PRON	PPER	_	2	EP	_	_
+# text = Er wird die Bekassine so nahe haben, dass er über die Natur des Meckerns zur vollständigen Gewissheit gelangen kann.
+1	Er	_	PRON	PPER	_	2	SB	_	_
 2	wird	_	VERB	VAFIN	_	0	--	_	_
-3	ihm	_	PRON	PPER	_	5	DA	_	_
-4	dann	_	ADV	ADV	_	5	MO	_	_
-5	ergehen	_	VERB	VVINF	_	2	OC	_	_
-6	wie	_	CONJ	KOKOM	_	8	CM	_	_
-7	einst	_	ADV	ADV	_	8	MO	_	_
-8	Altum	_	NOUN	NN	_	3	CC	_	_
-9	,	_	PUNCT	$,	_	2	PUNCT	_	_
-10	als	_	CONJ	KOUS	_	18	CP	_	_
-11	Krüper	_	NOUN	NN	_	18	SB	_	_
-12	ihn	_	PRON	PPER	_	18	OA	_	_
-13	zuerst	_	ADV	ADV	_	18	MO	_	_
-14	zu	_	ADP	APPR	_	18	OP	_	_
-15	einer	_	DET	ART	_	17	NK	_	_
-16	meckernden	_	ADJ	ADJA	_	17	NK	_	_
-17	Bekassine	_	NOUN	NN	_	14	NK	_	_
-18	führte	_	VERB	VVFIN	_	5	MO	_	_
-19	:	_	PUNCT	$.	_	2	PUNCT	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Bekassine	_	NOUN	NN	_	7	OA	_	_
+5	so	_	ADV	ADV	_	6	MO	_	_
+6	nahe	_	ADJ	ADJD	_	7	MO	_	_
+7	haben	_	VERB	VAINF	_	2	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	dass	_	CONJ	KOUS	_	20	CP	_	_
+10	er	_	PRON	PPER	_	20	SB	_	_
+11	über	_	ADP	APPR	_	19	MO	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Natur	_	NOUN	NN	_	11	NK	_	_
+14	des	_	DET	ART	_	15	NK	_	_
+15	Meckerns	_	NOUN	NN	_	13	AG	_	_
+16	zur	_	ADP	APPRART	_	19	OP	_	_
+17	vollständigen	_	ADJ	ADJA	_	18	NK	_	_
+18	Gewissheit	_	NOUN	NN	_	16	NK	_	_
+19	gelangen	_	VERB	VVINF	_	20	OC	_	_
+20	kann	_	VERB	VMFIN	_	5	RE	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

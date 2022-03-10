@@ -1,25 +1,22 @@
 # sent_id = 210
-# text = Die Turteltaube unterliegt jährlich und lokal ziemlichen Bestandsschwankungen (Weise et al. 1998), was eine Einschätzung des Bestandes erschwert.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
-3	unterliegt	_	VERB	VVFIN	_	0	--	_	_
-4	jährlich	_	ADJ	ADJD	_	3	MO	_	_
-5	und	_	CONJ	KON	_	4	CD	_	_
-6	lokal	_	ADJ	ADJD	_	5	CJ	_	_
-7	ziemlichen	_	ADJ	ADJA	_	8	NK	_	_
-8	Bestandsschwankungen	_	NOUN	NN	_	3	DA	_	_
-9	(	_	PUNCT	$(	_	10	PUNCT	_	_
-10	Weise	_	NOUN	NN	_	8	PAR	_	_
-11	et	_	X	FM	_	10	UC	_	_
-12	al.	_	X	FM	_	10	UC	_	_
-13	1998	_	NUM	CARD	_	10	NK	_	_
-14	)	_	PUNCT	$(	_	10	PUNCT	_	_
-15	,	_	PUNCT	$,	_	8	PUNCT	_	_
-16	was	_	PRON	PWS	_	21	SB	_	_
-17	eine	_	DET	ART	_	18	NK	_	_
-18	Einschätzung	_	NOUN	NN	_	21	OA	_	_
-19	des	_	DET	ART	_	20	NK	_	_
-20	Bestandes	_	NOUN	NN	_	18	AG	_	_
-21	erschwert	_	VERB	VVPP	_	8	RC	_	_
-22	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Alle drei Verbreitungsinseln weisen zeitweise größere übersichtliche, vegetationslose Flächen auf, die der Flussregenpfeifer als Sekundärlebensraum besiedelt.
+1	Alle	_	PRON	PIAT	_	3	NK	_	_
+2	drei	_	NUM	CARD	_	3	NK	_	_
+3	Verbreitungsinseln	_	NOUN	NN	_	4	SB	_	_
+4	weisen	_	VERB	VVFIN	_	0	--	_	_
+5	zeitweise	_	ADV	ADV	_	4	MO	_	_
+6	größere	_	ADJ	ADJA	_	10	NK	_	_
+7	übersichtliche	_	ADJ	ADJA	_	10	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	vegetationslose	_	ADJ	ADJA	_	7	CJ	_	_
+10	Flächen	_	NOUN	NN	_	4	OA	_	_
+11	auf	_	VERB	PTKVZ	_	4	SVP	_	_
+12	,	_	PUNCT	$,	_	4	PUNCT	_	_
+13	die	_	PRON	PRELS	_	18	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Flussregenpfeifer	_	NOUN	NN	_	18	SB	_	_
+16	als	_	ADP	APPR	_	18	MO	_	_
+17	Sekundärlebensraum	_	NOUN	NN	_	16	NK	_	_
+18	besiedelt	_	VERB	VVFIN	_	10	RC	_	_
+19	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

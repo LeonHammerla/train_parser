@@ -1,21 +1,23 @@
 # sent_id = 78
-# text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
-1	Auch	_	_	_	_	4	advmod	_	_
-2	in	_	_	_	_	4	case	_	_
-3	der	_	_	_	_	4	det	_	_
-4	Budgetkommission	_	_	_	_	16	obl	_	_
-5	ist	_	_	_	_	16	aux	_	_
-6	diese	_	_	_	_	7	det	_	_
-7	Petition	_	_	_	_	16	nsubj:pass	_	_
-8	im	_	_	_	_	9	case	_	_
-9	Anschluß	_	_	_	_	16	obl	_	_
-10	an	_	_	_	_	12	case	_	_
-11	die	_	_	_	_	12	det	_	_
-12	Verhandlungen	_	_	_	_	9	nmod	_	_
-13	über	_	_	_	_	15	punct	_	_
-14	jene	_	_	_	_	15	det	_	_
-15	Etatsposition	_	_	_	_	12	nmod	_	_
-16	erledigt	_	_	_	_	0	root	_	_
-17	worden	_	_	_	_	16	aux:pass	_	_
-18	.	_	_	_	_	16	punct	_	_
+# text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
+1	Die	_	_	_	_	2	det	_	_
+2	Feststellung	_	_	_	_	3	nsubj	_	_
+3	beschränkt	_	_	_	_	0	root	_	_
+4	sich	_	_	_	_	3	obj	_	_
+5	auf	_	_	_	_	7	case	_	_
+6	die	_	_	_	_	7	det	_	_
+7	Ermittlung	_	_	_	_	3	obl	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Art	_	_	_	_	7	nmod	_	_
+10	und	_	_	_	_	12	cc	_	_
+11	des	_	_	_	_	12	det	_	_
+12	Nennwerts	_	_	_	_	9	conj	_	_
+13	der	_	_	_	_	14	det	_	_
+14	Wertpapiere	_	_	_	_	12	nmod	_	_
+15	sowie	_	_	_	_	17	cc	_	_
+16	des	_	_	_	_	17	det	_	_
+17	Zeitpunkts	_	_	_	_	9	conj	_	_
+18	ihres	_	_	_	_	19	det:poss	_	_
+19	Verlustes	_	_	_	_	17	nmod	_	_
+20	.	_	_	_	_	3	punct	_	_
 

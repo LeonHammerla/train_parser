@@ -1,8 +1,15 @@
 # sent_id = 26
-# text = 31st May this year.
-1	31st	_	ADJ	JJ	_	2	nummod	_	_
-2	May	_	VERB	MD	_	0	root	_	_
-3	this	_	DET	DT	_	4	det	_	_
-4	year	_	NOUN	NN	_	2	nmod:tmod	_	_
-5	.	_	PUNCT	.	_	2	punct	_	_
+# text = Gentleman claim that that gap was being filled by private buildings.
+1	Gentleman	_	PROPN	NNP	_	2	nsubj	_	_
+2	claim	_	VERB	VBP	_	0	root	_	_
+3	that	_	ADP	IN	_	8	mark	_	_
+4	that	_	DET	DT	_	5	det	_	_
+5	gap	_	NOUN	NN	_	8	nsubj:pass	_	_
+6	was	_	VERB	VBD	_	8	aux	_	_
+7	being	_	VERB	VBG	_	8	aux:pass	_	_
+8	filled	_	VERB	VBN	_	2	ccomp	_	_
+9	by	_	ADP	IN	_	11	case	_	_
+10	private	_	ADJ	JJ	_	11	amod	_	_
+11	buildings	_	NOUN	NNS	_	8	obl	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
 

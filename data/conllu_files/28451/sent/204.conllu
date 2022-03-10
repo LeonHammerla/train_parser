@@ -1,26 +1,16 @@
 # sent_id = 204
-# text = Weitere Vorkommen befinden sich besonders im Eubaer Raum in Feldgehölzen und auf dem ehemaligen TUP Euba, hier in einem lichten Sandbirkenbestand.
-1	Weitere	_	ADJ	ADJA	_	2	NK	_	_
-2	Vorkommen	_	NOUN	NN	_	3	SB	_	_
-3	befinden	_	VERB	VVFIN	_	0	--	_	_
-4	sich	_	PRON	PRF	_	3	OA	_	_
-5	besonders	_	ADV	ADV	_	6	MO	_	_
-6	im	_	ADP	APPRART	_	3	OP	_	_
-7	Eubaer	_	ADJ	ADJA	_	8	AG	_	_
-8	Raum	_	NOUN	NN	_	6	NK	_	_
-9	in	_	ADP	APPR	_	3	MO	_	_
-10	Feldgehölzen	_	NOUN	NN	_	9	NK	_	_
-11	und	_	CONJ	KON	_	9	CD	_	_
-12	auf	_	ADP	APPR	_	11	CJ	_	_
-13	dem	_	DET	ART	_	15	NK	_	_
-14	ehemaligen	_	ADJ	ADJA	_	15	NK	_	_
-15	TUP	_	PROPN	NE	_	12	NK	_	_
-16	Euba	_	PROPN	NE	_	15	NK	_	_
-17	,	_	PUNCT	$,	_	3	PUNCT	_	_
-18	hier	_	ADV	ADV	_	19	MO	_	_
-19	in	_	ADP	APPR	_	3	MO	_	_
-20	einem	_	DET	ART	_	22	NK	_	_
-21	lichten	_	ADJ	ADJA	_	22	NK	_	_
-22	Sandbirkenbestand	_	NOUN	NN	_	19	NK	_	_
-23	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Bezüglich des Wohnortes dieser sehr zarten und durchsichtigen Art sagt Clessin*)
+1	Bezüglich	_	NOUN	NN	_	10	MO	_	_
+2	des	_	DET	ART	_	3	NK	_	_
+3	Wohnortes	_	NOUN	NN	_	1	OG	_	_
+4	dieser	_	PRON	PDAT	_	9	NK	_	_
+5	sehr	_	ADV	ADV	_	6	MO	_	_
+6	zarten	_	ADJ	ADJA	_	9	NK	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	durchsichtigen	_	ADJ	ADJA	_	7	CJ	_	_
+9	Art	_	NOUN	NN	_	3	AG	_	_
+10	sagt	_	VERB	VVFIN	_	0	--	_	_
+11	Clessin	_	PROPN	NE	_	10	SB	_	_
+12	*	_	X	XY	_	10	PUNCT	_	_
+13	)	_	PUNCT	$(	_	10	PUNCT	_	_
 

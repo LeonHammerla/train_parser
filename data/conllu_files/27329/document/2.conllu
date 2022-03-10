@@ -1,4 +1,4 @@
-# sent_id = 20
+# sent_id = 19
 # text = For estates over that value the rates were last fixed in 1949.
 1	For	_	ADP	IN	_	2	case	_	_
 2	estates	_	NOUN	NNS	_	10	obl	_	_
@@ -14,7 +14,7 @@
 12	1949	_	NUM	CD	_	10	obl	_	_
 13	.	_	PUNCT	.	_	10	punct	_	_
 
-# sent_id = 21
+# sent_id = 20
 # text = As he knows, there has been a regular ten-yearly census since 1801 except for one year, 1941, which was missed, but we shall consider very carefully what he said.
 1	As	_	ADP	IN	_	3	mark	_	_
 2	he	_	PRON	PRP	_	3	nsubj	_	_
@@ -53,7 +53,7 @@
 35	said	_	VERB	VBD	_	30	ccomp	_	_
 36	.	_	PUNCT	.	_	7	punct	_	_
 
-# sent_id = 22
+# sent_id = 21
 # text = I was startled to find that two of the large burghs are not building at this moment.
 1	I	_	PRON	PRP	_	3	nsubj:pass	_	_
 2	was	_	VERB	VBD	_	3	aux:pass	_	_
@@ -74,7 +74,7 @@
 17	moment	_	NOUN	NN	_	14	obl	_	_
 18	.	_	PUNCT	.	_	3	punct	_	_
 
-# sent_id = 23
+# sent_id = 22
 # text = I should imagine that since 1945—I have not worked out the figures, but, roughly, I should imagine—nearly 80,000 have been killed and millions injured in road accidents in this country, far more than the casualties caused by air raids on this country between 1939 and 1945.
 1	I	_	PRON	PRP	_	3	nsubj	_	_
 2	should	_	VERB	MD	_	3	aux	_	_
@@ -132,7 +132,7 @@
 54	1945	_	NUM	CD	_	52	conj	_	_
 55	.	_	PUNCT	.	_	3	punct	_	_
 
-# sent_id = 24
+# sent_id = 23
 # text = This is a very splendid development, and one which I want to see, because the development of this new product, radioactive isotopes, will help our industry immensely.
 1	This	_	DET	DT	_	6	nsubj	_	_
 2	is	_	VERB	VBZ	_	6	cop	_	_
@@ -167,7 +167,7 @@
 31	immensely	_	ADV	RB	_	28	advmod	_	_
 32	.	_	PUNCT	.	_	6	punct	_	_
 
-# sent_id = 25
+# sent_id = 24
 # text = The response in the United Kingdom at present is most gratifying, but we are dealing with a problem which has touched so many people's hearts that I feel that Her Majesty's Government should at least make some additional contribution towards alleviating the plight of these people before the World Refugee Year comes to an end, on, I believe,
 1	The	_	DET	DT	_	2	det	_	_
 2	response	_	NOUN	NN	_	11	nsubj	_	_
@@ -234,7 +234,7 @@
 63	believe	_	VERB	VBP	_	55	parataxis	_	_
 64	,	_	PUNCT	,	_	63	punct	_	_
 
-# sent_id = 26
+# sent_id = 25
 # text = 31st May this year.
 1	31st	_	ADJ	JJ	_	2	nummod	_	_
 2	May	_	VERB	MD	_	0	root	_	_
@@ -242,7 +242,7 @@
 4	year	_	NOUN	NN	_	2	nmod:tmod	_	_
 5	.	_	PUNCT	.	_	2	punct	_	_
 
-# sent_id = 27
+# sent_id = 26
 # text = Gentleman claim that that gap was being filled by private buildings.
 1	Gentleman	_	PROPN	NNP	_	2	nsubj	_	_
 2	claim	_	VERB	VBP	_	0	root	_	_
@@ -257,7 +257,7 @@
 11	buildings	_	NOUN	NNS	_	8	obl	_	_
 12	.	_	PUNCT	.	_	2	punct	_	_
 
-# sent_id = 28
+# sent_id = 27
 # text = Friends have referred to their size.
 1	Friends	_	NOUN	NNS	_	3	nsubj	_	_
 2	have	_	VERB	VBP	_	3	aux	_	_
@@ -267,7 +267,7 @@
 6	size	_	NOUN	NN	_	3	obl	_	_
 7	.	_	PUNCT	.	_	3	punct	_	_
 
-# sent_id = 29
+# sent_id = 28
 # text = Throughout the recommendations one gets the impression that there should be a radical approach to this problem; that something new should be created.
 1	Throughout	_	ADP	IN	_	3	case	_	_
 2	the	_	DET	DT	_	3	det	_	_
@@ -295,7 +295,7 @@
 24	created	_	VERB	VBN	_	11	parataxis	_	_
 25	.	_	PUNCT	.	_	5	punct	_	_
 
-# sent_id = 30
+# sent_id = 29
 # text = I think that I have been reasonably fair.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	think	_	VERB	VBP	_	0	root	_	_

@@ -1,11 +1,43 @@
 # sent_id = 51
-# text = affords Hab: Ualimi (Ostafrica).ala 135;
-1	affords	_	ADP	APPR	_	2	PNC	_	_
-2	Hab	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	Ualimi	_	PROPN	NE	_	2	PD	_	_
-5	(	_	PUNCT	$(	_	6	PUNCT	_	_
-6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
-7	135	_	NUM	CARD	_	6	NK	_	_
-8	;	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Dieses Behalten des derben Laubes zur Winterszeit weist stets auf ozeanischen Einschlag hin, gibt es doch zu erkennen, daß die Pflanzen milderen Gegenden entstammen, wo ihnen die Ausnützung der Wintertage zur Assimilation zur Erbanlage geworden ist.
+1	Dieses	_	PRON	PDAT	_	2	NK	_	_
+2	Behalten	_	NOUN	NN	_	8	SB	_	_
+3	des	_	DET	ART	_	4	NK	_	_
+4	derben	_	ADJ	ADJA	_	5	NK	_	_
+5	Laubes	_	NOUN	NN	_	2	AG	_	_
+6	zur	_	ADP	APPRART	_	2	MNR	_	_
+7	Winterszeit	_	NOUN	NN	_	6	NK	_	_
+8	weist	_	VERB	VVFIN	_	0	--	_	_
+9	stets	_	ADV	ADV	_	8	MO	_	_
+10	auf	_	ADP	APPR	_	8	OP	_	_
+11	ozeanischen	_	ADJ	ADJA	_	12	NK	_	_
+12	Einschlag	_	NOUN	NN	_	10	NK	_	_
+13	hin	_	VERB	PTKVZ	_	8	SVP	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	gibt	_	VERB	VVFIN	_	8	CJ	_	_
+16	es	_	PRON	PPER	_	15	SB	_	_
+17	doch	_	ADV	ADV	_	15	MO	_	_
+18	zu	_	X	PTKZU	_	19	PM	_	_
+19	erkennen	_	VERB	VVINF	_	15	OC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	daß	_	CONJ	KOUS	_	26	CP	_	_
+22	die	_	DET	ART	_	23	NK	_	_
+23	Pflanzen	_	NOUN	NN	_	26	SB	_	_
+24	milderen	_	ADJ	ADJA	_	25	NK	_	_
+25	Gegenden	_	NOUN	NN	_	26	DA	_	_
+26	entstammen	_	VERB	VVFIN	_	19	OC	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	wo	_	PRON	PWAV	_	38	MO	_	_
+29	ihnen	_	PRON	PPER	_	38	DA	_	_
+30	die	_	DET	ART	_	31	NK	_	_
+31	Ausnützung	_	NOUN	NN	_	39	SB	_	_
+32	der	_	DET	ART	_	33	NK	_	_
+33	Wintertage	_	NOUN	NN	_	31	AG	_	_
+34	zur	_	ADP	APPRART	_	31	MNR	_	_
+35	Assimilation	_	NOUN	NN	_	34	NK	_	_
+36	zur	_	ADP	APPRART	_	38	MO	_	_
+37	Erbanlage	_	NOUN	NN	_	36	NK	_	_
+38	geworden	_	VERB	VAPP	_	39	OC	_	_
+39	ist	_	VERB	VAFIN	_	25	RC	_	_
+40	.	_	PUNCT	$.	_	8	PUNCT	_	_
 

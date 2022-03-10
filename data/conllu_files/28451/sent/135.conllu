@@ -1,20 +1,26 @@
 # sent_id = 135
-# text = 1892, S. 23 bis 90, Löffler, E.: Die Oberflächengestaltung des Pfälzer Stufenlandes.
-1	1892	_	NUM	CARD	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	S.	_	NOUN	NN	_	1	CJ	_	_
-4	23	_	NUM	CARD	_	3	NK	_	_
-5	bis	_	CONJ	KON	_	4	CD	_	_
-6	90	_	NUM	CARD	_	5	CJ	_	_
-7	,	_	PUNCT	$,	_	3	PUNCT	_	_
-8	Löffler	_	NOUN	NN	_	3	CJ	_	_
-9	,	_	PUNCT	$,	_	3	PUNCT	_	_
-10	E.	_	PROPN	NE	_	8	CJ	_	_
-11	:	_	PUNCT	$.	_	13	PUNCT	_	_
-12	Die	_	DET	ART	_	13	NK	_	_
-13	Oberflächengestaltung	_	NOUN	NN	_	3	CJ	_	_
-14	des	_	DET	ART	_	16	NK	_	_
-15	Pfälzer	_	NOUN	NN	_	16	NK	_	_
-16	Stufenlandes	_	NOUN	NN	_	13	AG	_	_
-17	.	_	PUNCT	$.	_	13	PUNCT	_	_
+# text = Weitere Vorkommen befinden sich besonders im Eubaer Raum in Feldgehölzen und auf dem ehemaligen TUP Euba, hier in einem lichten Sandbirkenbestand.
+1	Weitere	_	ADJ	ADJA	_	2	NK	_	_
+2	Vorkommen	_	NOUN	NN	_	3	SB	_	_
+3	befinden	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	besonders	_	ADV	ADV	_	6	MO	_	_
+6	im	_	ADP	APPRART	_	3	OP	_	_
+7	Eubaer	_	ADJ	ADJA	_	8	AG	_	_
+8	Raum	_	NOUN	NN	_	6	NK	_	_
+9	in	_	ADP	APPR	_	3	MO	_	_
+10	Feldgehölzen	_	NOUN	NN	_	9	NK	_	_
+11	und	_	CONJ	KON	_	9	CD	_	_
+12	auf	_	ADP	APPR	_	11	CJ	_	_
+13	dem	_	DET	ART	_	15	NK	_	_
+14	ehemaligen	_	ADJ	ADJA	_	15	NK	_	_
+15	TUP	_	PROPN	NE	_	12	NK	_	_
+16	Euba	_	PROPN	NE	_	15	NK	_	_
+17	,	_	PUNCT	$,	_	3	PUNCT	_	_
+18	hier	_	ADV	ADV	_	19	MO	_	_
+19	in	_	ADP	APPR	_	3	MO	_	_
+20	einem	_	DET	ART	_	22	NK	_	_
+21	lichten	_	ADJ	ADJA	_	22	NK	_	_
+22	Sandbirkenbestand	_	NOUN	NN	_	19	NK	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

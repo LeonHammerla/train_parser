@@ -1,35 +1,15 @@
 # sent_id = 150
-# text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
-1	Sie	_	PRON	PPER	_	2	SB	_	_
-2	hat	_	VERB	VAFIN	_	0	--	_	_
-3	damit	_	ADV	PROAV	_	9	MO	_	_
-4	zum	_	ADP	APPRART	_	9	MO	_	_
-5	dritten	_	ADJ	ADJA	_	6	NK	_	_
-6	Male	_	NOUN	NN	_	4	NK	_	_
-7	unter	_	ADP	APPR	_	9	CVC	_	_
-8	Beweis	_	NOUN	NN	_	7	NK	_	_
-9	gestellt	_	VERB	VVPP	_	2	OC	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	daß	_	CONJ	KOUS	_	14	CP	_	_
-12	sie	_	PRON	PPER	_	14	SB	_	_
-13	mein	_	VERB	VAINF	_	14	PD	_	_
-14	ist	_	VERB	VAFIN	_	9	OC	_	_
-15	,	_	PUNCT	$,	_	14	PUNCT	_	_
-16	genau	_	ADJ	ADJD	_	17	MO	_	_
-17	so	_	ADV	ADV	_	14	MO	_	_
-18	wie	_	CONJ	KOKOM	_	25	CM	_	_
-19	ich	_	PRON	PPER	_	25	SB	_	_
-20	es	_	PRON	PPER	_	24	OA	_	_
-21	jederzeit	_	ADV	ADV	_	24	MO	_	_
-22	unter	_	ADP	APPR	_	24	CVC	_	_
-23	Beweis	_	NOUN	NN	_	22	NK	_	_
-24	stellen	_	VERB	VVINF	_	25	OC	_	_
-25	werde	_	VERB	VAFIN	_	17	CC	_	_
-26	,	_	PUNCT	$,	_	25	PUNCT	_	_
-27	daß	_	CONJ	KOUS	_	31	CP	_	_
-28	ich	_	PRON	PPER	_	31	SB	_	_
-29	meinen	_	PRON	PPOSAT	_	30	NK	_	_
-30	SA-Männern	_	NOUN	NN	_	31	DA	_	_
-31	gehöre	_	VERB	VVFIN	_	24	OC	_	_
-32	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
+1	Wer	_	PRON	PWS	_	2	SB	_	_
+2	hilft	_	VERB	VVFIN	_	0	--	_	_
+3	denn	_	ADV	ADV	_	2	MO	_	_
+4	den	_	DET	ART	_	5	NK	_	_
+5	Leuten	_	NOUN	NN	_	2	DA	_	_
+6	dazu	_	ADV	PROAV	_	2	MO	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	11	CP	_	_
+9	sie	_	PRON	PPER	_	11	SB	_	_
+10	selbstständig	_	ADJ	ADJD	_	11	PD	_	_
+11	werden	_	VERB	VAFIN	_	6	RE	_	_
+12	?	_	PUNCT	$.	_	2	PUNCT	_	_
 

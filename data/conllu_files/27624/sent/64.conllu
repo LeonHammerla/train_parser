@@ -1,25 +1,25 @@
 # sent_id = 64
-# text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
-1	Der	_	_	_	_	2	det	_	_
-2	Staat	_	_	_	_	6	nsubj	_	_
-3	und	_	_	_	_	5	cc	_	_
-4	die	_	_	_	_	5	det	_	_
-5	Politik	_	_	_	_	2	conj	_	_
-6	setzen	_	_	_	_	0	root	_	_
-7	die	_	_	_	_	8	det	_	_
-8	Rahmenbedingungen	_	_	_	_	6	obj	_	_
-9	dafür	_	_	_	_	6	obl	_	_
-10	,	_	_	_	_	20	punct	_	_
-11	dass	_	_	_	_	20	mark	_	_
-12	die	_	_	_	_	13	det	_	_
-13	Gewerkschaften	_	_	_	_	20	nsubj	_	_
-14	und	_	_	_	_	16	cc	_	_
-15	die	_	_	_	_	16	det	_	_
-16	Arbeitgeberverbände	_	_	_	_	13	conj	_	_
-17	diese	_	_	_	_	18	det	_	_
-18	Aufgabe	_	_	_	_	20	obj	_	_
-19	auch	_	_	_	_	20	advmod	_	_
-20	umsetzen	_	_	_	_	9	advcl	_	_
-21	können	_	_	_	_	20	aux	_	_
-22	.	_	_	_	_	6	punct	_	_
+# text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
+1	Der	_	_	_	_	3	det	_	_
+2	entscheidende	_	_	_	_	3	amod	_	_
+3	Punkt	_	_	_	_	0	root	_	_
+4	muss	_	_	_	_	3	aux	_	_
+5	doch	_	_	_	_	3	advmod	_	_
+6	sein	_	_	_	_	3	cop	_	_
+7	,	_	_	_	_	21	punct	_	_
+8	dass	_	_	_	_	21	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Personen	_	_	_	_	21	nsubj	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	die	_	_	_	_	15	nsubj	_	_
+13	jahrzehntelang	_	_	_	_	15	advmod	_	_
+14	Versicherungsansprüche	_	_	_	_	15	obj	_	_
+15	aufgebaut	_	_	_	_	10	acl	_	_
+16	haben	_	_	_	_	15	aux	_	_
+17	,	_	_	_	_	10	punct	_	_
+18	aus	_	_	_	_	20	case	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Grundsicherung	_	_	_	_	21	obl	_	_
+21	herauskommen	_	_	_	_	3	csubj	_	_
+22	.	_	_	_	_	3	punct	_	_
 

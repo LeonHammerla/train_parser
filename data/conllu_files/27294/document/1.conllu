@@ -260,39 +260,6 @@
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
 # sent_id = 32
-# text = Stimmen
-1	Stimmen	_	NOUN	NN	_	0	--	_	_
-
-# sent_id = 33
-# text = Sie heute der Behandlung zu, dann ist dies auch eine Vorentscheidung für die Annahme des Generalvertrages der Geheimverhandlungen, die Dr. Adenauer geführt hat.
-1	Sie	_	PRON	PPER	_	8	PD	_	_
-2	heute	_	ADV	ADV	_	1	MO	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Behandlung	_	NOUN	NN	_	1	DA	_	_
-5	zu	_	VERB	PTKVZ	_	1	SVP	_	_
-6	,	_	PUNCT	$,	_	7	PUNCT	_	_
-7	dann	_	ADV	ADV	_	8	MO	_	_
-8	ist	_	VERB	VAFIN	_	0	--	_	_
-9	dies	_	PRON	PDS	_	8	SB	_	_
-10	auch	_	ADV	ADV	_	12	MO	_	_
-11	eine	_	DET	ART	_	12	NK	_	_
-12	Vorentscheidung	_	NOUN	NN	_	8	PD	_	_
-13	für	_	ADP	APPR	_	12	MNR	_	_
-14	die	_	DET	ART	_	15	NK	_	_
-15	Annahme	_	NOUN	NN	_	13	NK	_	_
-16	des	_	DET	ART	_	17	NK	_	_
-17	Generalvertrages	_	NOUN	NN	_	15	AG	_	_
-18	der	_	DET	ART	_	19	NK	_	_
-19	Geheimverhandlungen	_	NOUN	NN	_	17	AG	_	_
-20	,	_	PUNCT	$,	_	17	PUNCT	_	_
-21	die	_	PRON	PRELS	_	24	OA	_	_
-22	Dr.	_	NOUN	NN	_	25	SB	_	_
-23	Adenauer	_	PROPN	NE	_	22	NK	_	_
-24	geführt	_	VERB	VVPP	_	25	OC	_	_
-25	hat	_	VERB	VAFIN	_	17	RC	_	_
-26	.	_	PUNCT	$.	_	8	PUNCT	_	_
-
-# sent_id = 34
 # text = Wir haben den Wunsch, daß das Selbstverwaltungsgesetz und die Novelle zum Selbstverwaltungsgesetz wie jedes andere Gesetz, das von diesem Hause beschlossen wird, auch die Berlin-Klausel enthält.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	haben	_	VERB	VAFIN	_	0	--	_	_
@@ -325,7 +292,7 @@
 29	enthält	_	VERB	VVFIN	_	4	OC	_	_
 30	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 35
+# sent_id = 33
 # text = Kein Problem eignet sich weniger dazu, irgend jemand etwas zu versprechen, was man sowieso nicht halten kann, als etwa die gegenwärtige Not unserer Landwirtschaft.
 1	Kein	_	PRON	PIAT	_	2	NK	_	_
 2	Problem	_	NOUN	NN	_	3	SB	_	_
@@ -356,7 +323,7 @@
 27	Landwirtschaft	_	NOUN	NN	_	25	AG	_	_
 28	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 36
+# sent_id = 34
 # text = Es ist aber wohl anzunehmen, daß dieser Vorbehalt nur deshalb nicht ausdrücklich aufgenommen ist, weil er der Sache nach als selbstverständlich betrachtet wurde.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -385,7 +352,7 @@
 25	wurde	_	VERB	VAFIN	_	14	MO	_	_
 26	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 37
+# sent_id = 35
 # text = Es konnte weiter für den Ausschuß keinem Zweifel unterliegen, daß auch jede Begrenzung der Stahlkapazität wie auch der Stahlproduktion vom Augenblick des Inkrafttretens der Hohen Behörde an beseitigt ist, daß sich also dann so bedauerliche Entscheidungen, wie sie kürzlich hinsichtlich der August-Thyssen-Hütte und Watenstedt-Salzgitters noch getroffen werden konnten, einfach nicht mehr wiederholen können.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	konnte	_	VERB	VMFIN	_	0	--	_	_
@@ -446,7 +413,7 @@
 57	können	_	VERB	VMINF	_	30	CJ	_	_
 58	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 38
+# sent_id = 36
 # text = Man kann hier nicht lediglich von den Dienstgruppen in der britischen Besatzungszone sprechen,  sondern muß zum Vergleich - die Dienstgruppen in der britischen Zone gehen schon diesen Weg - auf die Verhältnisse in der amerikanisch besetzten Zone eingehen.
 1	Man	_	PRON	PIS	_	2	SB	_	_
 2	kann	_	VERB	VMFIN	_	0	--	_	_
@@ -489,7 +456,7 @@
 39	eingehen	_	VERB	VVINF	_	16	OC	_	_
 40	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 39
+# sent_id = 37
 # text = Wir haben uns immer in einem starken Maße für die Jugend eingesetzt, weil wir wußten und wissen, daß sie im Ablauf der Generationen immer wieder jenes Element ist, das von der einen zur anderen Generation Brücken schlägt und zugleich eine Entwicklung trägt.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	haben	_	VERB	VAFIN	_	0	--	_	_
@@ -538,7 +505,7 @@
 45	trägt	_	VERB	VVFIN	_	41	CJ	_	_
 46	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 40
+# sent_id = 38
 # text = Sie werden sehr viel Mühe haben, den durch Vorfinanzierung an Sie gelangenden Betrag der Bank deutscher Länder in Höhe von 350 Millionen DM im Laufe des restlichen Jahres und im Anfang des nächsten bis zur Mitte des nächsten Jahres wieder abzudecken.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	werden	_	VERB	VAFIN	_	0	--	_	_

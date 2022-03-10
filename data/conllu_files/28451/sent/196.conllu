@@ -1,15 +1,26 @@
 # sent_id = 196
-# text = An den Salinen von Dürkheim war früher Poa distans, Syn.
-1	An	_	ADP	APPR	_	6	MO	_	_
-2	den	_	DET	ART	_	3	NK	_	_
-3	Salinen	_	NOUN	NN	_	1	NK	_	_
-4	von	_	ADP	APPR	_	3	PG	_	_
-5	Dürkheim	_	PROPN	NE	_	4	NK	_	_
-6	war	_	VERB	VAFIN	_	0	--	_	_
-7	früher	_	ADJ	ADJD	_	6	MO	_	_
-8	Poa	_	PROPN	NE	_	9	PNC	_	_
-9	distans	_	PROPN	NE	_	6	SB	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	Syn	_	PROPN	NE	_	9	CJ	_	_
-12	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = In folgendem möchte ich nur kurz das Vorkommen von vier seltenen Vögeln feststellen, welche von den Gebrüder Heussler nicht erwähnt werden.
+1	In	_	ADP	APPR	_	3	MO	_	_
+2	folgendem	_	ADV	ADV	_	1	NK	_	_
+3	möchte	_	VERB	VMFIN	_	0	--	_	_
+4	ich	_	PRON	PPER	_	3	SB	_	_
+5	nur	_	ADV	ADV	_	6	MO	_	_
+6	kurz	_	ADJ	ADJD	_	3	MO	_	_
+7	das	_	DET	ART	_	8	NK	_	_
+8	Vorkommen	_	NOUN	NN	_	13	OA	_	_
+9	von	_	ADP	APPR	_	8	PG	_	_
+10	vier	_	NUM	CARD	_	12	NK	_	_
+11	seltenen	_	ADJ	ADJA	_	12	NK	_	_
+12	Vögeln	_	NOUN	NN	_	9	NK	_	_
+13	feststellen	_	VERB	VVINF	_	3	OC	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	welche	_	PRON	PRELS	_	22	SB	_	_
+16	von	_	ADP	APPR	_	21	SBP	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Gebrüder	_	NOUN	NN	_	16	NK	_	_
+19	Heussler	_	PROPN	NE	_	18	NK	_	_
+20	nicht	_	X	PTKNEG	_	21	NG	_	_
+21	erwähnt	_	VERB	VVPP	_	22	OC	_	_
+22	werden	_	VERB	VAINF	_	12	RC	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

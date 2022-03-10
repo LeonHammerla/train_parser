@@ -1,7 +1,21 @@
 # sent_id = 195
-# text = Glyceria distans Wahlenb.
-1	Glyceria	_	PROPN	NE	_	2	PNC	_	_
-2	distans	_	PROPN	NE	_	3	AG	_	_
-3	Wahlenb	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Am 22. Mai 1901 beobachtete ich auf dem Altrhein bei Neuhofen längere Zeit vier dieser prächtigen Vögel.
+1	Am	_	ADP	APPRART	_	5	MO	_	_
+2	22.	_	ADJ	ADJA	_	3	NK	_	_
+3	Mai	_	NOUN	NN	_	1	NK	_	_
+4	1901	_	NUM	CARD	_	3	NK	_	_
+5	beobachtete	_	VERB	VVFIN	_	0	--	_	_
+6	ich	_	PRON	PPER	_	5	SB	_	_
+7	auf	_	ADP	APPR	_	5	MO	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Altrhein	_	NOUN	NN	_	7	NK	_	_
+10	bei	_	ADP	APPR	_	9	MNR	_	_
+11	Neuhofen	_	NOUN	NN	_	10	NK	_	_
+12	längere	_	ADJ	ADJA	_	5	MO	_	_
+13	Zeit	_	NOUN	NN	_	12	NK	_	_
+14	vier	_	NUM	CARD	_	5	OA	_	_
+15	dieser	_	PRON	PDAT	_	17	NK	_	_
+16	prächtigen	_	ADJ	ADJA	_	17	NK	_	_
+17	Vögel	_	NOUN	NN	_	14	AG	_	_
+18	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

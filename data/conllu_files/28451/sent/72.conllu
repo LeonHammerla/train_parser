@@ -1,6 +1,29 @@
 # sent_id = 72
-# text = cauda 60;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	60	_	NUM	CARD	_	0	--	_	_
-3	;	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = In dem zu betrachtenden Raum kommen von den Schichtenstufen der Trias nur der Buntsandstein und der Muschelkalk, ferner als jüngere Bildung das Alluvium vor.
+1	In	_	ADP	APPR	_	6	MO	_	_
+2	dem	_	DET	ART	_	5	NK	_	_
+3	zu	_	X	PTKZU	_	4	PM	_	_
+4	betrachtenden	_	ADJ	ADJA	_	5	NK	_	_
+5	Raum	_	NOUN	NN	_	1	NK	_	_
+6	kommen	_	VERB	VVFIN	_	0	--	_	_
+7	von	_	ADP	APPR	_	6	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Schichtenstufen	_	NOUN	NN	_	7	NK	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Trias	_	PROPN	NE	_	9	AG	_	_
+12	nur	_	ADV	ADV	_	14	MO	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Buntsandstein	_	NOUN	NN	_	6	SB	_	_
+15	und	_	CONJ	KON	_	14	CD	_	_
+16	der	_	DET	ART	_	17	NK	_	_
+17	Muschelkalk	_	NOUN	NN	_	15	CJ	_	_
+18	,	_	PUNCT	$,	_	6	PUNCT	_	_
+19	ferner	_	ADV	ADV	_	17	CD	_	_
+20	als	_	ADP	APPR	_	6	MO	_	_
+21	jüngere	_	ADJ	ADJA	_	22	NK	_	_
+22	Bildung	_	NOUN	NN	_	20	NK	_	_
+23	das	_	DET	ART	_	24	NK	_	_
+24	Alluvium	_	NOUN	NN	_	19	CJ	_	_
+25	vor	_	VERB	PTKVZ	_	6	SVP	_	_
+26	.	_	PUNCT	$.	_	6	PUNCT	_	_
 

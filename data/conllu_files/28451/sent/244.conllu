@@ -1,18 +1,18 @@
 # sent_id = 244
-# text = Die Kartendarstellung gibt daher eher den besiedelten Lebensraum als den „Brutbestand" wieder.
+# text = Die Turteltaube besiedelt in geringer Dichte fast ausschließlich den Erzgebirgsnordrand im Südosten von Chemnitz.
 1	Die	_	DET	ART	_	2	NK	_	_
-2	Kartendarstellung	_	NOUN	NN	_	3	SB	_	_
-3	gibt	_	VERB	VVFIN	_	0	--	_	_
-4	daher	_	ADV	PROAV	_	3	MO	_	_
-5	eher	_	ADV	ADV	_	8	MO	_	_
-6	den	_	DET	ART	_	8	NK	_	_
-7	besiedelten	_	ADJ	ADJA	_	8	NK	_	_
-8	Lebensraum	_	NOUN	NN	_	3	OA	_	_
-9	als	_	CONJ	KOKOM	_	12	CM	_	_
-10	den	_	DET	ART	_	12	NK	_	_
-11	„	_	PUNCT	$(	_	12	PUNCT	_	_
-12	Brutbestand	_	NOUN	NN	_	8	CC	_	_
-13	"	_	PUNCT	$(	_	12	PUNCT	_	_
-14	wieder	_	ADV	ADV	_	3	SVP	_	_
+2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
+3	besiedelt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	geringer	_	ADJ	ADJA	_	6	NK	_	_
+6	Dichte	_	NOUN	NN	_	4	NK	_	_
+7	fast	_	ADV	ADV	_	8	MO	_	_
+8	ausschließlich	_	ADV	ADV	_	10	MO	_	_
+9	den	_	DET	ART	_	10	NK	_	_
+10	Erzgebirgsnordrand	_	NOUN	NN	_	3	OA	_	_
+11	im	_	ADP	APPRART	_	10	MNR	_	_
+12	Südosten	_	NOUN	NN	_	11	NK	_	_
+13	von	_	ADP	APPR	_	12	PG	_	_
+14	Chemnitz	_	PROPN	NE	_	13	NK	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

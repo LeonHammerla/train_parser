@@ -1,24 +1,25 @@
 # sent_id = 46
-# text = Gegen Sträflinge, die das achtzehnte Lebensjahr nicht vollendet haben, sind auch die in der Schule anwendbaren Züchtigungsmittel zulässig.
-1	Gegen	_	_	_	_	2	case	_	_
-2	Sträflinge	_	_	_	_	20	obl	_	_
-3	,	_	_	_	_	9	punct	_	_
-4	die	_	_	_	_	9	nsubj	_	_
-5	das	_	_	_	_	7	det	_	_
-6	achtzehnte	_	_	_	_	7	amod	_	_
-7	Lebensjahr	_	_	_	_	9	obj	_	_
-8	nicht	_	_	_	_	9	advmod	_	_
-9	vollendet	_	_	_	_	2	acl	_	_
-10	haben	_	_	_	_	9	aux	_	_
-11	,	_	_	_	_	9	punct	_	_
-12	sind	_	_	_	_	20	cop	_	_
-13	auch	_	_	_	_	19	advmod	_	_
-14	die	_	_	_	_	19	det	_	_
-15	in	_	_	_	_	17	case	_	_
-16	der	_	_	_	_	17	det	_	_
-17	Schule	_	_	_	_	18	obl	_	_
-18	anwendbaren	_	_	_	_	19	amod	_	_
-19	Züchtigungsmittel	_	_	_	_	20	nsubj	_	_
-20	zulässig	_	_	_	_	0	root	_	_
-21	.	_	_	_	_	20	punct	_	_
+# text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bitte	_	_	_	_	0	root	_	_
+3	diejenigen	_	_	_	_	4	det	_	_
+4	Abgeordneten	_	_	_	_	2	obj	_	_
+5	,	_	_	_	_	13	punct	_	_
+6	die	_	_	_	_	13	nsubj	_	_
+7	den	_	_	_	_	8	det	_	_
+8	Antrag	_	_	_	_	13	obj	_	_
+9	morgen	_	_	_	_	13	advmod	_	_
+10	auf	_	_	_	_	12	case	_	_
+11	die	_	_	_	_	12	det	_	_
+12	Tagesordnung	_	_	_	_	13	obl	_	_
+13	setzen	_	_	_	_	4	acl	_	_
+14	wollen	_	_	_	_	13	aux	_	_
+15	,	_	_	_	_	13	punct	_	_
+16	sich	_	_	_	_	21	obj	_	_
+17	von	_	_	_	_	19	case	_	_
+18	den	_	_	_	_	19	det	_	_
+19	Plätzen	_	_	_	_	21	obl	_	_
+20	zu	_	_	_	_	21	mark	_	_
+21	erheben	_	_	_	_	2	xcomp	_	_
+22	.	_	_	_	_	2	punct	_	_
 

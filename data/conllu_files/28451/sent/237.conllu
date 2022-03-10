@@ -1,6 +1,28 @@
 # sent_id = 237
-# text = Methodische Bemerkungen:
-1	Methodische	_	ADJ	ADJA	_	2	NK	_	_
-2	Bemerkungen	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Für die 1960er- Jahre zählt Saemann (1970a) die Ringeltaube schon zu den verstädternden Arten, da sie bis in die Wohnblockzone vordrang.
+1	Für	_	ADP	APPR	_	5	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	1960er-	_	NUM	CARD	_	4	NK	_	_
+4	Jahre	_	NOUN	NN	_	1	NK	_	_
+5	zählt	_	VERB	VVFIN	_	0	--	_	_
+6	Saemann	_	PROPN	NE	_	5	SB	_	_
+7	(	_	PUNCT	$(	_	8	PUNCT	_	_
+8	1970a	_	PROPN	NE	_	6	APP	_	_
+9	)	_	PUNCT	$(	_	8	PUNCT	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Ringeltaube	_	NOUN	NN	_	5	OA	_	_
+12	schon	_	ADV	ADV	_	5	MO	_	_
+13	zu	_	ADP	APPR	_	5	OP	_	_
+14	den	_	DET	ART	_	16	NK	_	_
+15	verstädternden	_	ADJ	ADJA	_	16	NK	_	_
+16	Arten	_	NOUN	NN	_	13	NK	_	_
+17	,	_	PUNCT	$,	_	5	PUNCT	_	_
+18	da	_	CONJ	KOUS	_	24	CP	_	_
+19	sie	_	PRON	PPER	_	24	SB	_	_
+20	bis	_	ADP	APPR	_	21	AC	_	_
+21	in	_	ADP	APPR	_	24	OP	_	_
+22	die	_	DET	ART	_	23	NK	_	_
+23	Wohnblockzone	_	NOUN	NN	_	21	NK	_	_
+24	vordrang	_	VERB	VVFIN	_	5	MO	_	_
+25	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

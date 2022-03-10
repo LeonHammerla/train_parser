@@ -1,24 +1,14 @@
 # sent_id = 161
-# text = Fimbristylis annualis, Teufelsbrücke, fanden wir an einer feuchten Stelle vor den Getreidelagerhäusern eine fremde, sehr zierliche Gyperaceenart.
-1	Fimbristylis	_	NOUN	NN	_	2	PNC	_	_
-2	annualis	_	VERB	VVFIN	_	6	OA	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	Teufelsbrücke	_	NOUN	NN	_	2	APP	_	_
-5	,	_	PUNCT	$,	_	6	PUNCT	_	_
-6	fanden	_	VERB	VVFIN	_	0	--	_	_
-7	wir	_	PRON	PPER	_	6	SB	_	_
-8	an	_	ADP	APPR	_	6	MO	_	_
-9	einer	_	DET	ART	_	11	NK	_	_
-10	feuchten	_	ADJ	ADJA	_	11	NK	_	_
-11	Stelle	_	NOUN	NN	_	8	NK	_	_
-12	vor	_	ADP	APPR	_	11	MNR	_	_
-13	den	_	DET	ART	_	14	NK	_	_
-14	Getreidelagerhäusern	_	NOUN	NN	_	12	NK	_	_
-15	eine	_	DET	ART	_	20	NK	_	_
-16	fremde	_	ADJ	ADJA	_	20	NK	_	_
-17	,	_	PUNCT	$,	_	16	PUNCT	_	_
-18	sehr	_	ADV	ADV	_	19	MO	_	_
-19	zierliche	_	ADJ	ADJA	_	16	CJ	_	_
-20	Gyperaceenart	_	NOUN	NN	_	2	APP	_	_
-21	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Im Kartierungszeitraum dürfte er wieder ungefähr dem der 1960er-Jahre entsprechen.
+1	Im	_	ADP	APPRART	_	3	MO	_	_
+2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
+3	dürfte	_	VERB	VMFIN	_	0	--	_	_
+4	er	_	PRON	PPER	_	3	SB	_	_
+5	wieder	_	ADV	ADV	_	3	MO	_	_
+6	ungefähr	_	ADJ	ADJD	_	10	MO	_	_
+7	dem	_	PRON	PDS	_	10	DA	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	1960er-Jahre	_	NOUN	NN	_	7	AG	_	_
+10	entsprechen	_	VERB	VVFIN	_	3	OC	_	_
+11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

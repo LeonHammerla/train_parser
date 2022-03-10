@@ -1,4 +1,4 @@
-# sent_id = 246
+# sent_id = 169
 # text = Einzelne Arten, wie Gladiolus paluster scheinen bereits völlig wegkultiviert zu sein und für einige andere steht das Aussterben nahe bevor.
 1	Einzelne	_	ADJ	ADJA	_	2	NK	_	_
 2	Arten	_	NOUN	NN	_	7	SB	_	_
@@ -23,7 +23,7 @@
 21	bevor	_	VERB	PTKVZ	_	17	SVP	_	_
 22	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 247
+# sent_id = 170
 # text = Jahrhunderts bemerkt, dass viele seltene Pflanzen, die er noch wenige Jahrzehnte vorher hier und anderwärts zahlreich antraf, damals schon bedenklich zurückgingen;
 1	Jahrhunderts	_	NOUN	NN	_	2	SB	_	_
 2	bemerkt	_	VERB	VVFIN	_	0	--	_	_
@@ -51,7 +51,7 @@
 24	zurückgingen	_	VERB	VVINF	_	2	OC	_	_
 25	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 248
+# sent_id = 171
 # text = Adonis vernalis, Rosa gallica bilden den Hauptschmuck dieser trockenen Hügel.
 1	Adonis	_	NOUN	NN	_	2	PNC	_	_
 2	vernalis	_	VERB	VVFIN	_	6	SB	_	_
@@ -66,7 +66,7 @@
 11	Hügel	_	NOUN	NN	_	8	AG	_	_
 12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 249
+# sent_id = 172
 # text = Die Flora derselben ist sehr reich und völlig verschieden von derjenigen der umgebenden feuchten Wiesen:
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Flora	_	NOUN	NN	_	4	SB	_	_
@@ -85,7 +85,7 @@
 15	Wiesen	_	NOUN	NN	_	11	AG	_	_
 16	:	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 250
+# sent_id = 173
 # text = Auf den feuchten dünn berasten „Naturwiesen" (die früher eine viel grössere Ausdehnung hatten) kamen einst Pflanzen wie Gladiolus paluster, Gentiana utriculosa, Orchis laxiflora, Iris sibirica, Schoenus nigricans, auf etwas trockenen Stellen Anacamptis pyramidalis sowie verschiedene Ophrysarten in Menge vor.
 1	Auf	_	ADP	APPR	_	18	MO	_	_
 2	den	_	DET	ART	_	7	NK	_	_
@@ -137,7 +137,7 @@
 48	vor	_	VERB	PTKVZ	_	18	SVP	_	_
 49	.	_	PUNCT	$.	_	18	PUNCT	_	_
 
-# sent_id = 251
+# sent_id = 174
 # text = Auch die seltene Wahlenbergia hederacea wächst in der Nähe.
 1	Auch	_	ADV	ADV	_	4	MO	_	_
 2	die	_	DET	ART	_	4	NK	_	_
@@ -150,7 +150,7 @@
 9	Nähe	_	NOUN	NN	_	7	NK	_	_
 10	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 252
+# sent_id = 175
 # text = Ein Torfmoor des Pfälzerwaldes, wie z. B. jenes, welches sich oberhalb des Jagdhäusler Weihers (südlich von Kaiserslautern) ausdehnt, wo unter anderm Andromeda polifolia noch ziemlich häufig vorkommt.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Torfmoor	_	NOUN	NN	_	0	--	_	_
@@ -186,7 +186,7 @@
 32	vorkommt	_	VERB	VVPP	_	16	RC	_	_
 33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 253
+# sent_id = 176
 # text = Mit dem Wegbrechen dieser Felsen würden die letzten Standorte von Hutchinsia petraea, Arabis auriculata, Alsine Jacquini, Potentilla opaca, Trinia glauca, Globularia vulgaris, Sedum dasyphyllum, Stipa pennata etc. wohl für immer aus dem Gebiete unserer Flora verschwinden!
 1	Mit	_	ADP	APPR	_	6	MO	_	_
 2	dem	_	DET	ART	_	3	NK	_	_
@@ -233,7 +233,7 @@
 43	verschwinden	_	VERB	VVINF	_	6	OC	_	_
 44	!	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 254
+# sent_id = 177
 # text = Ein Stück des charakteristischen felsigen Bergwaldes am Donnersberg mit seinen Ahornen (Acer pseudoplatanus, A. platanoides, A. monspessulanum, der hier noch prächtige, starke Stämme bildet), Ulmen (Ulmus campestris, U. montana), Eschen (Fraxinus excelsior), Hainbuchen (Carpinus betulus), Linden (Tilia ulmifolia), dann mit Sorbus aria, S. aucuparia, S. torminalis, Amelanchier vulgaris, Cotoneaster integerrima
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Stück	_	NOUN	NN	_	0	--	_	_
@@ -310,16 +310,7 @@
 73	Cotoneaster	_	PROPN	NE	_	74	PNC	_	_
 74	integerrima	_	PROPN	NE	_	71	CJ	_	_
 
-# sent_id = 255
-# text = etc.
-1	etc.	_	ADV	ADV	_	0	--	_	_
-
-# sent_id = 256
-# text = *)
-1	*	_	X	XY	_	0	--	_	_
-2	)	_	PUNCT	$(	_	1	PUNCT	_	_
-
-# sent_id = 257
+# sent_id = 178
 # text = Feuchte quellenreiche Waldschluchten im Pfälzerwald, die Standorte unseres schönsten und stattlichsten Farnes Osmunda regalis.
 1	Feuchte	_	NOUN	NN	_	3	NK	_	_
 2	quellenreiche	_	ADJ	ADJA	_	3	NK	_	_
@@ -338,7 +329,7 @@
 15	regalis	_	PROPN	NE	_	13	APP	_	_
 16	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 258
+# sent_id = 179
 # text = Es gilt nur für die Hart, jenen klimatisch so sehr begünstigten schmalen Streifen am Ostabfall des Gebirges, wo in der sengenden Sonnenglut die Traube kocht und Edelkastanie und Mandelbaum ihre Früchte reifen, wo Siedelung sich an Siedelung drängt.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	gilt	_	VERB	VVFIN	_	0	--	_	_
@@ -383,7 +374,7 @@
 41	drängt	_	VERB	VVFIN	_	18	RC	_	_
 42	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 259
+# sent_id = 180
 # text = Buche (Fagus silvatica), Eiche (Quercus sessili- flora) und auf magerem fiachgründigem Boden die Kiefer (Pinus silvestris) bilden gegenwärtig den Hauptbestand dieses Waldes, seltener rein, meist mehr oder weniger gemischt.
 1	Buche	_	NOUN	NN	_	24	SB	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -425,7 +416,7 @@
 38	gemischt	_	VERB	VVPP	_	24	MO	_	_
 39	.	_	PUNCT	$.	_	24	PUNCT	_	_
 
-# sent_id = 260
+# sent_id = 181
 # text = Dasselbe gilt von der Lärche (Larix larix) und der Weisstanne (Abies alba).
 1	Dasselbe	_	PRON	PDS	_	2	SB	_	_
 2	gilt	_	VERB	VVFIN	_	0	--	_	_
@@ -445,7 +436,7 @@
 16	)	_	PUNCT	$(	_	15	PUNCT	_	_
 17	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 261
+# sent_id = 182
 # text = Pollich erwähnt sie in seiner 1776—77 erschienenen Flora noch nicht.
 1	Pollich	_	PROPN	NE	_	2	SB	_	_
 2	erwähnt	_	VERB	VVFIN	_	0	--	_	_
@@ -459,7 +450,7 @@
 10	nicht	_	X	PTKNEG	_	2	NG	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 262
+# sent_id = 183
 # text = Unter ihnen hat vor allen Pinus Strobus, die Weymouthkiefer, bereits forstliche Bedeutung erlangt.
 1	Unter	_	ADP	APPR	_	15	MO	_	_
 2	ihnen	_	PRON	PPER	_	1	NK	_	_
@@ -478,7 +469,7 @@
 15	erlangt	_	VERB	VVPP	_	3	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 263
+# sent_id = 184
 # text = Auch Bürger fremder Florengebiete nehmen heute Teil an der Zusammensetzung des Pfälzerwaldes.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	Bürger	_	NOUN	NN	_	5	SB	_	_
@@ -494,39 +485,7 @@
 12	Pfälzerwaldes	_	NOUN	NN	_	10	AG	_	_
 13	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 264
-# text = Die Fichte (Picea excelsa Lmk.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Fichte	_	NOUN	NN	_	0	--	_	_
-3	(	_	PUNCT	$(	_	4	PUNCT	_	_
-4	Picea	_	NOUN	NN	_	2	APP	_	_
-5	excelsa	_	ADJ	ADJA	_	6	NK	_	_
-6	Lmk	_	NOUN	NN	_	4	NK	_	_
-7	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 265
-# text = - 51) leider immer seltener werdend.
-1	-	_	PUNCT	$(	_	2	PUNCT	_	_
-2	51	_	NUM	CARD	_	7	SB	_	_
-3	)	_	PUNCT	$(	_	2	PUNCT	_	_
-4	leider	_	ADV	ADV	_	6	MO	_	_
-5	immer	_	ADV	ADV	_	6	MO	_	_
-6	seltener	_	ADJ	ADJD	_	7	MO	_	_
-7	werdend	_	ADJ	ADJD	_	0	--	_	_
-8	.	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 266
-# text = Bock genannt Tragus (1498—1554) Hieronymus.
-1	Bock	_	NOUN	NN	_	2	SB	_	_
-2	genannt	_	VERB	VVPP	_	0	--	_	_
-3	Tragus	_	PROPN	NE	_	2	OA	_	_
-4	(	_	PUNCT	$(	_	5	PUNCT	_	_
-5	1498—1554	_	NOUN	NN	_	7	NK	_	_
-6	)	_	PUNCT	$(	_	5	PUNCT	_	_
-7	Hieronymus	_	NOUN	NN	_	2	OA	_	_
-8	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 267
+# sent_id = 185
 # text = Bereits vor mehr als 300 Jahren haben zwei der bedeutendsten Pflanzenkenner ihrer Zeit, welche den Ehrentitel „Väter der Botanik" mit vollem Recht verdienen, auch die Pfalz forschend und sammelnd durchstreift:
 1	Bereits	_	ADV	ADV	_	2	MO	_	_
 2	vor	_	ADP	APPR	_	34	MO	_	_
@@ -564,7 +523,7 @@
 34	durchstreift	_	VERB	VVFIN	_	7	OC	_	_
 35	:	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 268
+# sent_id = 186
 # text = So wertvoll die aufgeführten botanischen Werke auch zweifellos sind, wenn es gilt, die ehemalige und jetzige Verbreitung bestimmter einzelner Pflanzen zu vergleichen, so wenig leisten sie doch, wenn wir uns ein anschauliches Bild des früheren Vegetationscharakters einer bestimmten Pflanzenformation, in unserem Falle also derjenigen des Naturwaldes, verschaffen wollen.
 1	So	_	ADV	ADV	_	2	MO	_	_
 2	wertvoll	_	ADJ	ADJD	_	9	PD	_	_
@@ -622,7 +581,7 @@
 54	wollen	_	VERB	VMFIN	_	28	MO	_	_
 55	.	_	PUNCT	$.	_	28	PUNCT	_	_
 
-# sent_id = 269
+# sent_id = 187
 # text = Ich erwähne hier vorzüglich nur dieser beiden Berge, weil sie wahrhaft bas Bild der Vorzeit und des deutschen Urwaldes gaben, und an jene Zeiten erinnerten, wo nach Tacitus Ausdruck Germania silvis horrida noch war.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	erwähne	_	VERB	VVFIN	_	0	--	_	_
@@ -663,7 +622,7 @@
 37	war	_	VERB	VAFIN	_	26	RC	_	_
 38	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 270
+# sent_id = 188
 # text = Wenn man diefe Bergerde genau durchsuchte, so fand man erst eine Laubdecke von mehreren Schuhen, dann Tangeln oder Nadeln von Kiefern, tiefer eine 4 bis 10 Zoll dicke vegetabiliche, sehr fette Dammerde, Holzerde, ganz und halb verfaultes Eichenholz und oft noch gleichsam versteinerte Holzfasern von Eichen und Hainbuchen, mitunter auch kenntliche Hefte von der Fichte (Pinus picea), welche letztere doch jetzt in jenen Gegenden auf 30 bis 40 Stunben nicht anders mehr, als neu angesäet, zu finden ist.
 1	Wenn	_	CONJ	KOUS	_	6	CP	_	_
 2	man	_	PRON	PIS	_	6	SB	_	_
@@ -757,7 +716,7 @@
 90	ist	_	VERB	VAFIN	_	62	RC	_	_
 91	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 271
+# sent_id = 189
 # text = Der Hauptbestand war Fichten- und Tannenbildung (Pinus picea unb Pinus abies).
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Hauptbestand	_	NOUN	NN	_	3	SB	_	_
@@ -774,7 +733,7 @@
 13	)	_	PUNCT	$(	_	12	PUNCT	_	_
 14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 272
+# sent_id = 190
 # text = Ich wiederhole es, daß man noch im Jahr 1793 die qanze schauerliche Pracht einer Urwaldbildung erblicken konnte.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	wiederhole	_	VERB	VVFIN	_	0	--	_	_
@@ -796,7 +755,7 @@
 18	konnte	_	VERB	VMFIN	_	3	RE	_	_
 19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 273
+# sent_id = 191
 # text = Die Eiche scheint in älteren Zeiten vollkommen prädominirend gewesen zu seyn.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Eiche	_	NOUN	NN	_	3	SB	_	_
@@ -811,7 +770,7 @@
 11	seyn	_	ADJ	ADJD	_	3	OC	_	_
 12	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 274
+# sent_id = 192
 # text = Den Lerchenbaum fand man auch hie und da.
 1	Den	_	DET	ART	_	2	NK	_	_
 2	Lerchenbaum	_	NOUN	NN	_	3	OA	_	_
@@ -823,7 +782,7 @@
 8	da	_	ADV	ADV	_	7	CJ	_	_
 9	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 275
+# sent_id = 193
 # text = Einige Gegenden hingegen waren ganz unzugänglich, wie z. B. der große Hengst, die Fischbach und die Glashüttenwände u.s.w. Ungeheueres Lagerholz, ganz und halb verfaulte Stämme, Wind- und Schneebrüche, stellenweise undurchdringliche Dickichte, von Fichten und Tannen sumpfigte und ganz ersäufte Stellen, 50 bis 60 Morgen groß, große von den Sommer und Winterstürmen, gleichsam kunstmäßig, angelegte Verhaue, durch welche Anflug und Auffschlag mühsam sich durchgewinden hatten, veranlassten die Forstbeamten, jene Gegenden, welche die zerstörende, aber auch unermüdet reproduzirende Natur in ihrer höchsten Pracht darstellten, völlig unangerührt zu lassen, weil Hauungen und Aufräumungen oder eine regelmäßige Forstbewirtschaftung die großen Auslagen, trotz des Holzverkaufs, nie vergütet haben würden.
 1	Einige	_	PRON	PIAT	_	2	NK	_	_
 2	Gegenden	_	NOUN	NN	_	4	SB	_	_
@@ -950,7 +909,7 @@
 123	würden	_	VERB	VAFIN	_	102	MO	_	_
 124	.	_	PUNCT	$.	_	77	PUNCT	_	_
 
-# sent_id = 276
+# sent_id = 194
 # text = Pfrimmen—Besenginster (Sarothamnus scoparius).
 1	Pfrimmen—Besenginster	_	NOUN	NN	_	0	--	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -959,7 +918,7 @@
 5	)	_	PUNCT	$(	_	3	PUNCT	_	_
 6	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 277
+# sent_id = 195
 # text = Am 22. Mai 1901 beobachtete ich auf dem Altrhein bei Neuhofen längere Zeit vier dieser prächtigen Vögel.
 1	Am	_	ADP	APPRART	_	5	MO	_	_
 2	22.	_	ADJ	ADJA	_	3	NK	_	_
@@ -980,14 +939,7 @@
 17	Vögel	_	NOUN	NN	_	14	AG	_	_
 18	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 278
-# text = Picus leuconotus Bechst.
-1	Picus	_	X	FM	_	0	--	_	_
-2	leuconotus	_	PROPN	NE	_	3	PNC	_	_
-3	Bechst	_	PROPN	NE	_	1	NK	_	_
-4	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 279
+# sent_id = 196
 # text = In folgendem möchte ich nur kurz das Vorkommen von vier seltenen Vögeln feststellen, welche von den Gebrüder Heussler nicht erwähnt werden.
 1	In	_	ADP	APPR	_	3	MO	_	_
 2	folgendem	_	ADV	ADV	_	1	NK	_	_
@@ -1013,7 +965,7 @@
 22	werden	_	VERB	VAINF	_	12	RC	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 280
+# sent_id = 197
 # text = Einen jungen Vogel dieser Art schoss am 17. September 1902 in meinem Beisein Herr Fabrikdirektor J. Schiffer in Grünstadt auf dem "Grünstadter Berg", einem noch reich mit Ödungen und Kalkfelsen bedeckten trockenen Hügel unmittelbar bei der genannten Stadt.
 1	Einen	_	DET	ART	_	3	NK	_	_
 2	jungen	_	ADJ	ADJA	_	3	NK	_	_
@@ -1058,7 +1010,7 @@
 41	Stadt	_	NOUN	NN	_	38	NK	_	_
 42	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 281
+# sent_id = 198
 # text = Wir sahen nur dies eine Exemplar, welches mir von dem Schützen zum Geschenke gemacht wurde.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	sahen	_	VERB	VVFIN	_	0	--	_	_
@@ -1078,7 +1030,7 @@
 16	wurde	_	VERB	VAFIN	_	6	RC	_	_
 17	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 282
+# sent_id = 199
 # text = Wurde im Januar 1901 bei Johanniskreuz im Pfälzerwald durch Herrn Forstassistenten Jäger erlegt.
 1	Wurde	_	VERB	VAFIN	_	0	--	_	_
 2	im	_	ADP	APPRART	_	13	MO	_	_
@@ -1095,55 +1047,24 @@
 13	erlegt	_	VERB	VVFIN	_	1	OC	_	_
 14	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 283
+# sent_id = 200
 # text = Vögel.
 1	Vögel	_	NOUN	NN	_	0	--	_	_
 2	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 284
+# sent_id = 201
 # text = Pelecanus onocrotalus L. —
 1	Pelecanus	_	PROPN	NE	_	2	PNC	_	_
 2	onocrotalus	_	PROPN	NE	_	2	ROOT	_	_
 3	L.	_	PROPN	NE	_	2	PNC	_	_
 4	—	_	PUNCT	$(	_	2	PUNCT	_	_
 
-# sent_id = 285
+# sent_id = 202
 # text = Pelikan.
 1	Pelikan	_	PROPN	NE	_	0	--	_	_
 2	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 286
-# text = In überaus gewandtem Fluge über dem Wasserspiegel und den Rohrfeldern dahinstrichen.
-1	In	_	ADP	APPR	_	11	MO	_	_
-2	überaus	_	ADV	ADV	_	3	MO	_	_
-3	gewandtem	_	ADJ	ADJA	_	4	NK	_	_
-4	Fluge	_	NOUN	NN	_	1	NK	_	_
-5	über	_	ADP	APPR	_	4	MNR	_	_
-6	dem	_	DET	ART	_	7	NK	_	_
-7	Wasserspiegel	_	NOUN	NN	_	5	NK	_	_
-8	und	_	CONJ	KON	_	7	CD	_	_
-9	den	_	DET	ART	_	10	NK	_	_
-10	Rohrfeldern	_	NOUN	NN	_	8	CJ	_	_
-11	dahinstrichen	_	VERB	VVFIN	_	0	--	_	_
-12	.	_	PUNCT	$.	_	11	PUNCT	_	_
-
-# sent_id = 287
-# text = 84 - Fruticicola villosa Drap.
-1	84	_	NUM	CARD	_	3	NK	_	_
-2	-	_	PUNCT	$(	_	3	PUNCT	_	_
-3	Fruticicola	_	PROPN	NE	_	5	SB	_	_
-4	villosa	_	VERB	VVFIN	_	5	NK	_	_
-5	Drap	_	PROPN	NE	_	0	--	_	_
-6	.	_	PUNCT	$.	_	5	PUNCT	_	_
-
-# sent_id = 288
-# text = detritus O. F. M.
-1	detritus	_	PROPN	NE	_	4	PNC	_	_
-2	O.	_	PROPN	NE	_	4	PNC	_	_
-3	F.	_	PROPN	NE	_	4	PNC	_	_
-4	M.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 289
+# sent_id = 203
 # text = Sehr gemein auf den Hügeln des Tertiärkalkes, besonders zwischen Dürkheim und Grünstadt, meist in Gesellschaft von Xerophila ericetorum O. F. M.
 1	Sehr	_	ADV	ADV	_	2	MO	_	_
 2	gemein	_	ADJ	ADJD	_	0	--	_	_
@@ -1169,15 +1090,7 @@
 22	F.	_	PROPN	NE	_	23	PNC	_	_
 23	M.	_	PROPN	NE	_	20	PNC	_	_
 
-# sent_id = 290
-# text = Caecilianella acicula O. F. M.
-1	Caecilianella	_	PROPN	NE	_	5	PNC	_	_
-2	acicula	_	PROPN	NE	_	5	PNC	_	_
-3	O.	_	PROPN	NE	_	5	PNC	_	_
-4	F.	_	PROPN	NE	_	5	PNC	_	_
-5	M.	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 291
+# sent_id = 204
 # text = Bezüglich des Wohnortes dieser sehr zarten und durchsichtigen Art sagt Clessin*)
 1	Bezüglich	_	NOUN	NN	_	10	MO	_	_
 2	des	_	DET	ART	_	3	NK	_	_
@@ -1193,11 +1106,7 @@
 12	*	_	X	XY	_	10	PUNCT	_	_
 13	)	_	PUNCT	$(	_	10	PUNCT	_	_
 
-# sent_id = 292
-# text = :
-1	:	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 293
+# sent_id = 205
 # text = Sehr verborgen im lehmigen Boden (an den Wurzeln von Pflanzen?)
 1	Sehr	_	ADV	ADV	_	2	MO	_	_
 2	verborgen	_	VERB	VVPP	_	0	--	_	_
@@ -1213,7 +1122,7 @@
 12	?	_	PUNCT	$.	_	2	PUNCT	_	_
 13	)	_	PUNCT	$(	_	2	PUNCT	_	_
 
-# sent_id = 294
+# sent_id = 206
 # text = von Juni bis in den November hinein meist an den Rasen der Characeen in 1—3 m Tiefe, weniger an Blättern und Stengeln von Nymphaea und Nuphar;
 1	von	_	ADP	APPR	_	1	ROOT	_	_
 2	Juni	_	NOUN	NN	_	1	NK	_	_
@@ -1244,7 +1153,7 @@
 27	Nuphar	_	PROPN	NE	_	26	CJ	_	_
 28	;	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 295
+# sent_id = 207
 # text = Bei Maudach in dichten Klumpen an Schilf;
 1	Bei	_	ADP	APPR	_	0	--	_	_
 2	Maudach	_	PROPN	NE	_	1	NK	_	_
@@ -1255,7 +1164,7 @@
 7	Schilf	_	NOUN	NN	_	6	NK	_	_
 8	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 296
+# sent_id = 208
 # text = Von ähnlicher Verbreitung wie Cristatella, doch nicht so häufig.
 1	Von	_	ADP	APPR	_	0	--	_	_
 2	ähnlicher	_	ADJ	ADJA	_	3	NK	_	_
@@ -1269,23 +1178,10 @@
 10	häufig	_	ADJ	ADJD	_	7	CJ	_	_
 11	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 297
+# sent_id = 209
 # text = Alcyonella fungosa Pallas.
 1	Alcyonella	_	PROPN	NE	_	3	PNC	_	_
 2	fungosa	_	ADJ	ADJA	_	3	PNC	_	_
 3	Pallas	_	NOUN	NN	_	0	--	_	_
 4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 298
-# text = (Wassertemperatur + 3°
-1	(	_	PUNCT	$(	_	2	PUNCT	_	_
-2	Wassertemperatur	_	NOUN	NN	_	0	--	_	_
-3	+	_	CONJ	KON	_	2	CD	_	_
-4	3	_	NUM	CARD	_	3	CJ	_	_
-5	°	_	PROPN	NE	_	2	PUNCT	_	_
-
-# sent_id = 299
-# text = C.)
-1	C.	_	PROPN	NE	_	0	--	_	_
-2	)	_	PUNCT	$(	_	1	PUNCT	_	_
 

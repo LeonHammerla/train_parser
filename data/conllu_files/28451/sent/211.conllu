@@ -1,16 +1,16 @@
 # sent_id = 211
-# text = Bereits Henker (1925) zählt sie zu den seltenen Brutvögeln Mittelsachsens.
-1	Bereits	_	ADV	ADV	_	2	MO	_	_
-2	Henker	_	NOUN	NN	_	6	SB	_	_
-3	(	_	PUNCT	$(	_	4	PUNCT	_	_
-4	1925	_	NUM	CARD	_	2	PAR	_	_
-5	)	_	PUNCT	$(	_	4	PUNCT	_	_
-6	zählt	_	VERB	VVFIN	_	0	--	_	_
-7	sie	_	PRON	PPER	_	6	OA	_	_
-8	zu	_	ADP	APPR	_	6	OP	_	_
-9	den	_	DET	ART	_	11	NK	_	_
-10	seltenen	_	ADJ	ADJA	_	11	NK	_	_
-11	Brutvögeln	_	NOUN	NN	_	8	NK	_	_
-12	Mittelsachsens	_	NOUN	NN	_	11	AG	_	_
-13	.	_	PUNCT	$.	_	6	PUNCT	_	_
+# text = Außer Einzelvorkommen in Ebersdorf und Euba ist das übrige Stadtgebiet gänzlich unbesiedelt.
+1	Außer	_	ADP	APPR	_	7	MO	_	_
+2	Einzelvorkommen	_	NOUN	NN	_	1	NK	_	_
+3	in	_	ADP	APPR	_	2	MNR	_	_
+4	Ebersdorf	_	PROPN	NE	_	3	NK	_	_
+5	und	_	CONJ	KON	_	4	CD	_	_
+6	Euba	_	PROPN	NE	_	5	CJ	_	_
+7	ist	_	VERB	VAFIN	_	0	--	_	_
+8	das	_	DET	ART	_	10	NK	_	_
+9	übrige	_	ADJ	ADJA	_	10	NK	_	_
+10	Stadtgebiet	_	NOUN	NN	_	7	SB	_	_
+11	gänzlich	_	ADJ	ADJD	_	12	MO	_	_
+12	unbesiedelt	_	VERB	VVPP	_	7	PD	_	_
+13	.	_	PUNCT	$.	_	7	PUNCT	_	_
 

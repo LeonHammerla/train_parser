@@ -1,23 +1,31 @@
 # sent_id = 206
-# text = Auch ein Großteil der halboffenen Feldflur (Draisdorf, Ebersdorf) wie auch der bebaute Bereich ist nicht besiedelt.
-1	Auch	_	ADV	ADV	_	3	MO	_	_
-2	ein	_	DET	ART	_	3	NK	_	_
-3	Großteil	_	NOUN	NN	_	17	SB	_	_
-4	der	_	DET	ART	_	6	NK	_	_
-5	halboffenen	_	ADJ	ADJA	_	6	NK	_	_
-6	Feldflur	_	NOUN	NN	_	3	AG	_	_
-7	(	_	PUNCT	$(	_	8	PUNCT	_	_
-8	Draisdorf	_	PROPN	NE	_	6	APP	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	Ebersdorf	_	PROPN	NE	_	8	CJ	_	_
-11	)	_	PUNCT	$(	_	8	PUNCT	_	_
-12	wie	_	CONJ	KON	_	3	CD	_	_
-13	auch	_	ADV	ADV	_	16	MO	_	_
-14	der	_	DET	ART	_	16	NK	_	_
-15	bebaute	_	ADJ	ADJA	_	16	NK	_	_
-16	Bereich	_	NOUN	NN	_	12	CJ	_	_
-17	ist	_	VERB	VAFIN	_	0	--	_	_
-18	nicht	_	X	PTKNEG	_	19	NG	_	_
-19	besiedelt	_	VERB	VVPP	_	17	PD	_	_
-20	.	_	PUNCT	$.	_	17	PUNCT	_	_
+# text = von Juni bis in den November hinein meist an den Rasen der Characeen in 1—3 m Tiefe, weniger an Blättern und Stengeln von Nymphaea und Nuphar;
+1	von	_	ADP	APPR	_	1	ROOT	_	_
+2	Juni	_	NOUN	NN	_	1	NK	_	_
+3	bis	_	ADP	APPR	_	1	CD	_	_
+4	in	_	ADP	APPR	_	3	CJ	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	November	_	NOUN	NN	_	4	NK	_	_
+7	hinein	_	ADP	APZR	_	6	NK	_	_
+8	meist	_	ADV	ADV	_	9	MO	_	_
+9	an	_	ADP	APPR	_	1	MO	_	_
+10	den	_	DET	ART	_	11	NK	_	_
+11	Rasen	_	NOUN	NN	_	9	NK	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Characeen	_	NOUN	NN	_	11	AG	_	_
+14	in	_	ADP	APPR	_	11	MNR	_	_
+15	1—3	_	NOUN	NN	_	16	NMC	_	_
+16	m	_	PROPN	NE	_	17	NK	_	_
+17	Tiefe	_	PROPN	NE	_	14	NK	_	_
+18	,	_	PUNCT	$,	_	9	PUNCT	_	_
+19	weniger	_	ADV	ADV	_	20	MO	_	_
+20	an	_	ADP	APPR	_	9	CJ	_	_
+21	Blättern	_	NOUN	NN	_	20	NK	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	Stengeln	_	NOUN	NN	_	22	CJ	_	_
+24	von	_	ADP	APPR	_	23	PG	_	_
+25	Nymphaea	_	PROPN	NE	_	24	NK	_	_
+26	und	_	CONJ	KON	_	25	CD	_	_
+27	Nuphar	_	PROPN	NE	_	26	CJ	_	_
+28	;	_	PUNCT	$.	_	4	PUNCT	_	_
 

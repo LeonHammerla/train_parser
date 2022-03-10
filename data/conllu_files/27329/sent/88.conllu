@@ -1,27 +1,28 @@
 # sent_id = 88
-# text = He seemed to consider that the record of his Government in industrial relations was very much better than that of the present Government.
-1	He	_	PRON	PRP	_	2	nsubj	_	_
-2	seemed	_	VERB	VBD	_	0	root	_	_
-3	to	_	ADP	TO	_	4	mark	_	_
-4	consider	_	VERB	VB	_	2	xcomp	_	_
-5	that	_	ADP	IN	_	17	mark	_	_
-6	the	_	DET	DT	_	7	det	_	_
-7	record	_	NOUN	NN	_	17	nsubj	_	_
-8	of	_	ADP	IN	_	10	case	_	_
-9	his	_	PRON	PRP$	_	10	nmod:poss	_	_
-10	Government	_	PROPN	NNP	_	7	nmod	_	_
-11	in	_	ADP	IN	_	13	case	_	_
-12	industrial	_	ADJ	JJ	_	13	amod	_	_
-13	relations	_	NOUN	NNS	_	7	nmod	_	_
-14	was	_	VERB	VBD	_	17	cop	_	_
-15	very	_	ADV	RB	_	16	advmod	_	_
-16	much	_	ADV	RB	_	17	advmod	_	_
-17	better	_	ADJ	JJR	_	4	ccomp	_	_
-18	than	_	ADP	IN	_	19	case	_	_
-19	that	_	DET	DT	_	17	obl	_	_
-20	of	_	ADP	IN	_	23	case	_	_
-21	the	_	DET	DT	_	23	det	_	_
-22	present	_	ADJ	JJ	_	23	amod	_	_
-23	Government	_	PROPN	NNP	_	19	nmod	_	_
-24	.	_	PUNCT	.	_	2	punct	_	_
+# text = I noted to-day that the right hon Gentleman, in introducing his Amendment, dealt with two different aspects of the question.
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	noted	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	IN	_	2	advmod	_	_
+4	-	_	_	HYPH	_	5	punct	_	_
+5	day	_	NOUN	NN	_	3	goeswith	_	_
+6	that	_	ADP	IN	_	17	mark	_	_
+7	the	_	DET	DT	_	10	det	_	_
+8	right	_	ADJ	JJ	_	9	compound	_	_
+9	hon	_	PROPN	NNP	_	10	amod	_	_
+10	Gentleman	_	PROPN	NNP	_	17	nsubj	_	_
+11	,	_	PUNCT	,	_	17	punct	_	_
+12	in	_	ADP	IN	_	13	mark	_	_
+13	introducing	_	VERB	VBG	_	17	advcl	_	_
+14	his	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	Amendment	_	PROPN	NNP	_	13	obj	_	_
+16	,	_	PUNCT	,	_	17	punct	_	_
+17	dealt	_	VERB	VBD	_	2	ccomp	_	_
+18	with	_	ADP	IN	_	21	case	_	_
+19	two	_	NUM	CD	_	21	nummod	_	_
+20	different	_	ADJ	JJ	_	21	amod	_	_
+21	aspects	_	NOUN	NNS	_	17	obl	_	_
+22	of	_	ADP	IN	_	24	case	_	_
+23	the	_	DET	DT	_	24	det	_	_
+24	question	_	NOUN	NN	_	21	nmod	_	_
+25	.	_	PUNCT	.	_	2	punct	_	_
 

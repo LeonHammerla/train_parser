@@ -1,15 +1,38 @@
 # sent_id = 49
-# text = Sylviella leucopsis Hab : Kipini (Ostafrica).ala 77; cauda 73;
-1	Sylviella	_	PROPN	NE	_	3	PNC	_	_
-2	leucopsis	_	VERB	VVFIN	_	3	PNC	_	_
-3	Hab	_	NOUN	NN	_	0	--	_	_
-4	:	_	PUNCT	$.	_	3	PUNCT	_	_
-5	Kipini	_	PROPN	NE	_	3	APP	_	_
-6	(	_	PUNCT	$(	_	7	PUNCT	_	_
-7	Ostafrica).ala	_	PROPN	NE	_	5	PAR	_	_
-8	77	_	NUM	CARD	_	7	PNC	_	_
-9	;	_	PUNCT	$.	_	7	PUNCT	_	_
-10	cauda	_	PROPN	NE	_	11	PNC	_	_
-11	73	_	NUM	CARD	_	7	NK	_	_
-12	;	_	PUNCT	$.	_	7	PUNCT	_	_
+# text = Bei Kaiserslautern überzieht es eine größere Fläche am Weg hinter der Eselsfürth nach dem Daubornerhof und in der Eifel, darüber pfeifender Wind feuchtigkeitsschwangere Luftmassen treibt, ist das Immergrün als Buchenbegleiter stark verbreitet.
+1	Bei	_	ADP	APPR	_	3	MO	_	_
+2	Kaiserslautern	_	NOUN	NN	_	1	NK	_	_
+3	überzieht	_	VERB	VVFIN	_	0	--	_	_
+4	es	_	PRON	PPER	_	3	SB	_	_
+5	eine	_	DET	ART	_	7	NK	_	_
+6	größere	_	ADJ	ADJA	_	7	NK	_	_
+7	Fläche	_	NOUN	NN	_	3	OA	_	_
+8	am	_	ADP	APPRART	_	7	MNR	_	_
+9	Weg	_	NOUN	NN	_	8	NK	_	_
+10	hinter	_	ADP	APPR	_	9	MNR	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Eselsfürth	_	NOUN	NN	_	10	NK	_	_
+13	nach	_	ADP	APPR	_	12	MNR	_	_
+14	dem	_	DET	ART	_	15	NK	_	_
+15	Daubornerhof	_	NOUN	NN	_	13	NK	_	_
+16	und	_	CONJ	KON	_	3	CD	_	_
+17	in	_	ADP	APPR	_	28	MO	_	_
+18	der	_	DET	ART	_	19	NK	_	_
+19	Eifel	_	NOUN	NN	_	17	NK	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	darüber	_	ADV	PROAV	_	23	MO	_	_
+22	pfeifender	_	ADJ	ADJA	_	23	NK	_	_
+23	Wind	_	NOUN	NN	_	26	SB	_	_
+24	feuchtigkeitsschwangere	_	ADJ	ADJA	_	25	NK	_	_
+25	Luftmassen	_	NOUN	NN	_	26	OA	_	_
+26	treibt	_	VERB	VVFIN	_	19	RC	_	_
+27	,	_	PUNCT	$,	_	28	PUNCT	_	_
+28	ist	_	VERB	VAFIN	_	16	CJ	_	_
+29	das	_	DET	ART	_	30	NK	_	_
+30	Immergrün	_	NOUN	NN	_	28	SB	_	_
+31	als	_	ADP	APPR	_	34	MO	_	_
+32	Buchenbegleiter	_	NOUN	NN	_	31	NK	_	_
+33	stark	_	ADJ	ADJD	_	34	MO	_	_
+34	verbreitet	_	VERB	VVPP	_	28	PD	_	_
+35	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

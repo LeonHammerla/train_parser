@@ -1,14 +1,21 @@
 # sent_id = 41
-# text = Das Anlehen ist aus den nächsten drei Etats zu tilgen.
-1	Das	_	DET	ART	_	2	NK	_	_
-2	Anlehen	_	NOUN	NN	_	3	SB	_	_
-3	ist	_	VERB	VAFIN	_	0	--	_	_
-4	aus	_	ADP	APPR	_	10	MO	_	_
-5	den	_	DET	ART	_	8	NK	_	_
-6	nächsten	_	ADJ	ADJA	_	8	NK	_	_
-7	drei	_	NUM	CARD	_	8	NK	_	_
-8	Etats	_	NOUN	NN	_	4	NK	_	_
-9	zu	_	X	PTKZU	_	10	PM	_	_
-10	tilgen	_	VERB	VVINF	_	3	OC	_	_
-11	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Der Rechnungshof soll sich zur Erfüllung dieser Aufgabe der Mitwirkung einer von ihm gewählten Treuhandgesellschaft bedienen können.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Rechnungshof	_	NOUN	NN	_	3	SB	_	_
+3	soll	_	VERB	VMFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	16	OA	_	_
+5	zur	_	ADP	APPRART	_	16	MO	_	_
+6	Erfüllung	_	NOUN	NN	_	5	NK	_	_
+7	dieser	_	PRON	PDAT	_	8	NK	_	_
+8	Aufgabe	_	NOUN	NN	_	6	AG	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Mitwirkung	_	NOUN	NN	_	16	OG	_	_
+11	einer	_	DET	ART	_	15	NK	_	_
+12	von	_	ADP	APPR	_	14	SBP	_	_
+13	ihm	_	PRON	PPER	_	12	NK	_	_
+14	gewählten	_	ADJ	ADJA	_	15	NK	_	_
+15	Treuhandgesellschaft	_	NOUN	NN	_	10	AG	_	_
+16	bedienen	_	VERB	VVINF	_	17	OC	_	_
+17	können	_	VERB	VMINF	_	3	OC	_	_
+18	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

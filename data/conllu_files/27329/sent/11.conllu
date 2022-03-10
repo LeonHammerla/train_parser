@@ -1,15 +1,26 @@
 # sent_id = 11
-# text = As Christians they could have no part in such a proceeding.
-1	As	_	ADP	IN	_	2	case	_	_
-2	Christians	_	PROPN	NNPS	_	5	obl	_	_
-3	they	_	PRON	PRP	_	5	nsubj	_	_
-4	could	_	VERB	MD	_	5	aux	_	_
-5	have	_	VERB	VB	_	0	root	_	_
-6	no	_	DET	DT	_	7	det	_	_
-7	part	_	NOUN	NN	_	5	obj	_	_
+# text = They would all come back refreshed and in much better spirits, and prepared to sit until 7 o'clock in the morning.
+1	They	_	PRON	PRP	_	4	nsubj	_	_
+2	would	_	VERB	MD	_	4	aux	_	_
+3	all	_	ADV	RB	_	4	advmod	_	_
+4	come	_	VERB	VB	_	0	root	_	_
+5	back	_	ADV	RB	_	4	advmod	_	_
+6	refreshed	_	VERB	VBN	_	4	xcomp	_	_
+7	and	_	CONJ	CC	_	11	cc	_	_
 8	in	_	ADP	IN	_	11	case	_	_
-9	such	_	DET	PDT	_	11	det:predet	_	_
-10	a	_	DET	DT	_	11	det	_	_
-11	proceeding	_	NOUN	NN	_	7	nmod	_	_
-12	.	_	PUNCT	.	_	5	punct	_	_
+9	much	_	ADV	RB	_	10	advmod	_	_
+10	better	_	ADJ	JJR	_	11	amod	_	_
+11	spirits	_	NOUN	NNS	_	6	conj	_	_
+12	,	_	PUNCT	,	_	14	punct	_	_
+13	and	_	CONJ	CC	_	14	cc	_	_
+14	prepared	_	VERB	VBD	_	6	conj	_	_
+15	to	_	ADP	TO	_	16	mark	_	_
+16	sit	_	VERB	VB	_	14	xcomp	_	_
+17	until	_	ADP	IN	_	19	case	_	_
+18	7	_	NUM	CD	_	19	nummod	_	_
+19	o'clock	_	NOUN	NN	_	16	obl	_	_
+20	in	_	ADP	IN	_	22	case	_	_
+21	the	_	DET	DT	_	22	det	_	_
+22	morning	_	NOUN	NN	_	19	nmod	_	_
+23	.	_	PUNCT	.	_	4	punct	_	_
 

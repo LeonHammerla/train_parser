@@ -1,13 +1,19 @@
 # sent_id = 58
-# text = Nur durch die verlängerten Schwanzfedern von Hypochera ultramarina unterschieden.
-1	Nur	_	ADV	ADV	_	2	MO	_	_
-2	durch	_	ADP	APPR	_	9	MO	_	_
-3	die	_	DET	ART	_	5	NK	_	_
-4	verlängerten	_	ADJ	ADJA	_	5	NK	_	_
-5	Schwanzfedern	_	NOUN	NN	_	2	NK	_	_
-6	von	_	ADP	APPR	_	9	OP	_	_
-7	Hypochera	_	PROPN	NE	_	6	NK	_	_
-8	ultramarina	_	ADJ	ADJD	_	7	NK	_	_
-9	unterschieden	_	VERB	VVPP	_	0	--	_	_
-10	.	_	PUNCT	$.	_	9	PUNCT	_	_
+# text = Das Dagsburgerland, als die Heimat des Vogesen- oder Buntsandsteins, ist eine ausgesprochene Waldgegend.
+1	Das	_	DET	ART	_	2	NK	_	_
+2	Dagsburgerland	_	NOUN	NN	_	12	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	als	_	CONJ	KOUS	_	6	CM	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Heimat	_	NOUN	NN	_	2	CC	_	_
+7	des	_	DET	ART	_	10	NK	_	_
+8	Vogesen-	_	X	TRUNC	_	9	CJ	_	_
+9	oder	_	CONJ	KON	_	10	CD	_	_
+10	Buntsandsteins	_	NOUN	NN	_	6	AG	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	ist	_	VERB	VAFIN	_	0	--	_	_
+13	eine	_	DET	ART	_	15	NK	_	_
+14	ausgesprochene	_	ADJ	ADJA	_	15	NK	_	_
+15	Waldgegend	_	NOUN	NN	_	12	PD	_	_
+16	.	_	PUNCT	$.	_	12	PUNCT	_	_
 

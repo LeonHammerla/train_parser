@@ -1,4 +1,4 @@
-# sent_id = 130
+# sent_id = 127
 # text = Gedenkworte des Präsidenten für die in Orioge gefallenen 810 Soldaten.
 1	Gedenkworte	_	_	_	_	0	root	_	_
 2	des	_	_	_	_	3	det	_	_
@@ -12,7 +12,7 @@
 10	Soldaten	_	_	_	_	1	nmod	_	_
 11	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 131
+# sent_id = 128
 # text = Ich habe in Ihrem Namen auch das Mitgefühl des Deutschen Reichstags dort aussprechen können.
 1	Ich	_	_	_	_	13	nsubj	_	_
 2	habe	_	_	_	_	13	aux	_	_
@@ -30,7 +30,7 @@
 14	können	_	_	_	_	13	aux	_	_
 15	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 132
+# sent_id = 129
 # text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
 1	Von	_	_	_	_	2	case	_	_
 2	1925	_	_	_	_	3	nmod	_	_
@@ -47,7 +47,7 @@
 13	Bezirksleiter	_	_	_	_	11	conj	_	_
 14	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 133
+# sent_id = 130
 # text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str.
 Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;  Hamburg,  Moltkestr.
 1	Hauptschriftleiter	_	_	_	_	0	root	_	_
@@ -83,7 +83,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	Moltkestr	_	_	_	_	29	flat	_	_
 32	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 134
+# sent_id = 131
 # text = Man mußte in die wichtigsten Rohstoffgebiete einbrechen und sie, wenn nötig, dem eigenen Einfluß unterstellen.
 1	Man	_	_	_	_	7	nsubj	_	_
 2	mußte	_	_	_	_	7	aux	_	_
@@ -104,7 +104,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 17	unterstellen	_	_	_	_	7	conj	_	_
 18	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 135
+# sent_id = 132
 # text = Die Schande,  die vor 22 Jahren im Wald von Compiegne ihren Ausgang nahm, ist an dieser gleichen Stelle für immer gelöscht.
 1	Die	_	_	_	_	2	det	_	_
 2	Schande	_	_	_	_	23	nsubj:pass	_	_
@@ -131,7 +131,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 23	gelöscht	_	_	_	_	0	root	_	_
 24	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 136
+# sent_id = 133
 # text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
 1	Man	_	_	_	_	2	nsubj	_	_
 2	sieht	_	_	_	_	0	root	_	_
@@ -158,7 +158,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 23	Fortschrittes	_	_	_	_	17	conj	_	_
 24	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 137
+# sent_id = 134
 # text = Ich habe damals zugleich einen Appell an die Einsicht der verantwortlichen Männer in den feindlichen Staaten gerichtet und an die Völker selbst.
 1	Ich	_	_	_	_	17	nsubj	_	_
 2	habe	_	_	_	_	17	aux	_	_
@@ -184,37 +184,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 22	selbst	_	_	_	_	21	advmod	_	_
 23	.	_	_	_	_	17	punct	_	_
 
-# sent_id = 138
-# text = Im Weltkrieg als Kriegsfreiwilliger 1915 an die italienische Front ausgerückt, im Verbände der Tiroler Standschützen vom Juni 1915 bis Mai 1917 als Mannschaftsperson im Schützengraben.
-1	Im	_	_	_	_	2	case	_	_
-2	Weltkrieg	_	_	_	_	10	obl	_	_
-3	als	_	_	_	_	4	case	_	_
-4	Kriegsfreiwilliger	_	_	_	_	10	obl	_	_
-5	1915	_	_	_	_	10	obl	_	_
-6	an	_	_	_	_	9	case	_	_
-7	die	_	_	_	_	9	det	_	_
-8	italienische	_	_	_	_	9	amod	_	_
-9	Front	_	_	_	_	10	obl	_	_
-10	ausgerückt	_	_	_	_	0	root	_	_
-11	,	_	_	_	_	13	punct	_	_
-12	im	_	_	_	_	13	case	_	_
-13	Verbände	_	_	_	_	26	nmod	_	_
-14	der	_	_	_	_	16	det	_	_
-15	Tiroler	_	_	_	_	16	amod	_	_
-16	Standschützen	_	_	_	_	13	nmod	_	_
-17	vom	_	_	_	_	18	case	_	_
-18	Juni	_	_	_	_	26	nmod	_	_
-19	1915	_	_	_	_	18	nmod	_	_
-20	bis	_	_	_	_	21	case	_	_
-21	Mai	_	_	_	_	26	nmod	_	_
-22	1917	_	_	_	_	21	nmod	_	_
-23	als	_	_	_	_	24	case	_	_
-24	Mannschaftsperson	_	_	_	_	26	nmod	_	_
-25	im	_	_	_	_	26	case	_	_
-26	Schützengraben	_	_	_	_	10	orphan	_	_
-27	.	_	_	_	_	10	punct	_	_
-
-# sent_id = 139
+# sent_id = 135
 # text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
 1	In	_	_	_	_	3	case	_	_
 2	blutigen	_	_	_	_	3	amod	_	_
@@ -246,7 +216,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 28	versunken	_	_	_	_	22	conj	_	_
 29	.	_	_	_	_	22	punct	_	_
 
-# sent_id = 140
+# sent_id = 136
 # text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	wies	_	_	_	_	0	root	_	_
@@ -277,7 +247,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 27	müßte	_	_	_	_	25	aux	_	_
 28	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 141
+# sent_id = 137
 # text = Ich erklärte ihm weiter, daß mir auch Gerüchte zu Ohren gekommen seien über die Absicht, die Armee in den Kreis dieser Pläne einzubeziehen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	erklärte	_	_	_	_	0	root	_	_
@@ -306,7 +276,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 25	einzubeziehen	_	_	_	_	16	acl	_	_
 26	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 142
+# sent_id = 138
 # text = Ich glaube, niemals konnte man ergriffener sein als heute, wo wir die Worte hörten, die aus Schmach und Not heraus wieder zur Größe und zur Ehre führen sollen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	glaube	_	_	_	_	0	root	_	_
@@ -341,7 +311,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	sollen	_	_	_	_	30	aux	_	_
 32	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 143
+# sent_id = 139
 # text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
 1	Sie	_	_	_	_	9	nsubj	_	_
 2	hat	_	_	_	_	9	aux	_	_
@@ -376,7 +346,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	gehöre	_	_	_	_	24	ccomp	_	_
 32	.	_	_	_	_	9	punct	_	_
 
-# sent_id = 144
+# sent_id = 140
 # text = Ich halte es für unmöglich, eine dauernde Freundschaft zwischen dem deutschen und dem angelsächsischen Volk herzustellen, wenn nicht auch auf der anderen Seite die Erkenntnis vorhanden ist, daß es nicht nur britische, sondern auch deutsche Interessen gibt, daß nicht nur die Erhaltung des Britischen Weltreichs für die britischen Männer Lebensinhalt und Lebenszweck ist, sondern für die deutschen Männer die Freiheit und Erhaltung des Deutschen Reiches!
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	halte	_	_	_	_	0	root	_	_
@@ -451,7 +421,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 71	Reiches	_	_	_	_	68	nmod	_	_
 72	!	_	_	_	_	2	punct	_	_
 
-# sent_id = 145
+# sent_id = 141
 # text = Beide, die Front in der Heimat und vor allem aber die Front draußen, haben soeben die Anerkennung und den Dank des Führers in einer Weise gesagt bekommen, wie sie schöner und größer nicht ausgesprochen werden konnten.
 1	Beide	_	_	_	_	29	nsubj	_	_
 2	,	_	_	_	_	4	punct	_	_

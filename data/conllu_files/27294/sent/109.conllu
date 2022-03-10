@@ -1,27 +1,30 @@
 # sent_id = 109
-# text = Es ist, wie ich schon sagte, ein Instrument, mit dem der Verbraucher angeregt werden soll, sich kundig zu machen.
-1	Es	_	PRON	PPER	_	2	SB	_	_
-2	ist	_	VERB	VAFIN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	wie	_	PRON	PWAV	_	7	MO	_	_
-5	ich	_	PRON	PPER	_	7	SB	_	_
-6	schon	_	ADV	ADV	_	7	MO	_	_
-7	sagte	_	VERB	VVFIN	_	2	MO	_	_
-8	,	_	PUNCT	$,	_	2	PUNCT	_	_
-9	ein	_	DET	ART	_	10	NK	_	_
-10	Instrument	_	NOUN	NN	_	2	PD	_	_
-11	,	_	PUNCT	$,	_	10	PUNCT	_	_
-12	mit	_	ADP	APPR	_	16	MO	_	_
-13	dem	_	PRON	PRELS	_	12	NK	_	_
-14	der	_	DET	ART	_	15	NK	_	_
-15	Verbraucher	_	NOUN	NN	_	18	SB	_	_
-16	angeregt	_	VERB	VVPP	_	17	OC	_	_
-17	werden	_	VERB	VAINF	_	18	OC	_	_
-18	soll	_	VERB	VMFIN	_	10	RC	_	_
-19	,	_	PUNCT	$,	_	2	PUNCT	_	_
-20	sich	_	PRON	PRF	_	23	OA	_	_
-21	kundig	_	ADJ	ADJD	_	23	MO	_	_
-22	zu	_	X	PTKZU	_	23	PM	_	_
-23	machen	_	VERB	VVINF	_	16	OC	_	_
-24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Die französische Regierung will das reproduktive Klonen als Verbrechen nicht nur gegen die Menschlichkeit, sondern auch gegen die Menschheit ahnden und dafür drakonische Strafen verhängen.
+1	Die	_	DET	ART	_	3	NK	_	_
+2	französische	_	ADJ	ADJA	_	3	NK	_	_
+3	Regierung	_	NOUN	NN	_	4	SB	_	_
+4	will	_	VERB	VMFIN	_	0	--	_	_
+5	das	_	DET	ART	_	7	NK	_	_
+6	reproduktive	_	ADJ	ADJA	_	7	NK	_	_
+7	Klonen	_	NOUN	NN	_	21	OA	_	_
+8	als	_	ADP	APPR	_	21	OP	_	_
+9	Verbrechen	_	NOUN	NN	_	8	NK	_	_
+10	nicht	_	X	PTKNEG	_	11	NG	_	_
+11	nur	_	ADV	ADV	_	12	MO	_	_
+12	gegen	_	ADP	APPR	_	9	MNR	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Menschlichkeit	_	NOUN	NN	_	12	NK	_	_
+15	,	_	PUNCT	$,	_	12	PUNCT	_	_
+16	sondern	_	CONJ	KON	_	12	CD	_	_
+17	auch	_	ADV	ADV	_	18	MO	_	_
+18	gegen	_	ADP	APPR	_	16	CJ	_	_
+19	die	_	DET	ART	_	20	NK	_	_
+20	Menschheit	_	NOUN	NN	_	18	NK	_	_
+21	ahnden	_	VERB	VVINF	_	4	OC	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	dafür	_	ADV	PROAV	_	26	MO	_	_
+24	drakonische	_	ADJ	ADJA	_	25	NK	_	_
+25	Strafen	_	NOUN	NN	_	26	OA	_	_
+26	verhängen	_	VERB	VVFIN	_	22	CJ	_	_
+27	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

@@ -1,12 +1,4 @@
-# sent_id = 16
-# text = Speculipastor bicolor, sp.
-1	Speculipastor	_	NOUN	NN	_	2	SB	_	_
-2	bicolor	_	VERB	VVFIN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	sp	_	X	XY	_	2	CJ	_	_
-5	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 17
+# sent_id = 15
 # text = Die während vieler Jahre durch Beobachtungen von Ornithologen aller Länder und der verschiedensten Richtungen angesammelten Beweise scheinen zuletzt zu dem Schlüsse zu nöthigen, dass kein spezifischer Unterschied zwischen den wissenschaftlich lang bekannten Vögeln Corvus corone und Gorvus cornix (Raben- und Nebelkrähe) besteht.
 1	Die	_	DET	ART	_	16	NK	_	_
 2	während	_	ADP	APPR	_	15	MO	_	_
@@ -55,7 +47,7 @@
 45	besteht	_	VERB	VVFIN	_	21	OC	_	_
 46	.	_	PUNCT	$.	_	17	PUNCT	_	_
 
-# sent_id = 18
+# sent_id = 16
 # text = Aehnliche Fälle der Verbastadirung sind bei Fasanen vom Himalaya, Coracias indica und affinis und bei nordamerikanischen Spechten (Colaptes) beobachtet.
 1	Aehnliche	_	ADJ	ADJA	_	2	NK	_	_
 2	Fälle	_	NOUN	NN	_	5	SB	_	_
@@ -81,7 +73,7 @@
 22	beobachtet	_	VERB	VVPP	_	5	OC	_	_
 23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 19
+# sent_id = 17
 # text = Sie baut ihr Nest, gleichviel ob an den stürmisch bewegten Klippen Schottlands oder auf den Palmen des sonnigen Egyptens.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	baut	_	VERB	VVFIN	_	0	--	_	_
@@ -105,7 +97,7 @@
 20	Egyptens	_	NOUN	NN	_	17	AG	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 20
+# sent_id = 18
 # text = Jenseits dieser Grenze aber ändert sich die Sachlage und beinahe auf einmal wird die graue Krähe die allgemeinere Art, denn obgleich die schwarze Krähe noch vorkommt, allenfalls in den niedrig gelegenen Gegenden, sogar weit nördlich, hält doch ihre Zahl keinen Vergleich mit der der ersteren in ganz Schottland aus, wo beide Arten ganz allgemein „Huddies“ genannt werden, ein corrumpirter Name von „Hooded Crow“ und darum eigentlich auf die theilweise schwarzen Vögel sich beziehend, während die ganz schwarzen Vögel als „Black Huddies“ unterschieden sind.
 1	Jenseits	_	ADP	APPR	_	5	MO	_	_
 2	dieser	_	PRON	PDAT	_	3	NK	_	_
@@ -205,7 +197,7 @@
 96	sind	_	VERB	VAFIN	_	83	MO	_	_
 97	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 21
+# sent_id = 19
 # text = In der nördlichen Hemisphäre sind alle Vögel diesem Einflüsse unterworfen und ziehen oder streichen in südlicher Bichtung, sobald der Sommer geschieden.
 1	In	_	ADP	APPR	_	5	MO	_	_
 2	der	_	DET	ART	_	4	NK	_	_
@@ -231,7 +223,7 @@
 22	geschieden	_	VERB	VVPP	_	12	MO	_	_
 23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 22
+# sent_id = 20
 # text = Dagegen ist die schwarze Form verhältnissmässig selten, daher kommt es wahrscheinlich, dass frühere Schriftsteller, welche über irische Vögel schreiben, als Payne im Jahre 1589 und Moryson 1617, ihr Vorkommen dort leugnen.
 1	Dagegen	_	ADV	PROAV	_	2	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -271,7 +263,7 @@
 36	leugnen	_	VERB	VVINF	_	11	RE	_	_
 37	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 23
+# sent_id = 21
 # text = Alle diese Einwände beweisen nur, dass das Verhalten der Bekassine beim Meckern noch immer Vielen, auch Ornithologen, nicht genügend bekannt ist.
 1	Alle	_	PRON	PIAT	_	3	NK	_	_
 2	diese	_	PRON	PDAT	_	3	NK	_	_
@@ -299,7 +291,7 @@
 24	ist	_	VERB	VAFIN	_	4	OC	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 24
+# sent_id = 22
 # text = Charles Smith, im Jahre 1750, ist augenscheinlich der Erste, der sie unter die Vögel von County-Cork aufnimmt.
 1	Charles	_	PROPN	NE	_	2	PNC	_	_
 2	Smith	_	PROPN	NE	_	8	SB	_	_
@@ -323,7 +315,7 @@
 20	aufnimmt	_	VERB	VVFIN	_	11	RC	_	_
 21	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 25
+# sent_id = 23
 # text = Es wird ihm dann ergehen wie einst Altum, als Krüper ihn zuerst zu einer meckernden Bekassine führte:
 1	Es	_	PRON	PPER	_	2	EP	_	_
 2	wird	_	VERB	VAFIN	_	0	--	_	_
@@ -345,25 +337,7 @@
 18	führte	_	VERB	VVFIN	_	5	MO	_	_
 19	:	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 26
-# text = Noch einmal das Meckern der Bekassine.
-1	Noch	_	ADV	ADV	_	2	MO	_	_
-2	einmal	_	ADV	ADV	_	4	MO	_	_
-3	das	_	DET	ART	_	4	NK	_	_
-4	Meckern	_	NOUN	NN	_	0	--	_	_
-5	der	_	DET	ART	_	6	NK	_	_
-6	Bekassine	_	NOUN	NN	_	4	AG	_	_
-7	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 27
-# text = (Schluss folgt.)
-1	(	_	PUNCT	$(	_	3	PUNCT	_	_
-2	Schluss	_	PROPN	NE	_	3	SB	_	_
-3	folgt	_	VERB	VVFIN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-5	)	_	PUNCT	$(	_	3	PUNCT	_	_
-
-# sent_id = 28
+# sent_id = 24
 # text = Die letztere also bewohnt Syrien und den Süden von Palästina, freilich scheint sie hier örtlich zu sein in ihrer Ausbreitung, aber sie ist ein gut bekannter Vogel in Aegypten und eben so erscheint sie in Nubien.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	letztere	_	PRON	PIS	_	4	SB	_	_
@@ -405,7 +379,7 @@
 38	Nubien	_	PROPN	NE	_	37	NK	_	_
 39	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 29
+# sent_id = 25
 # text = Er wird die Bekassine so nahe haben, dass er über die Natur des Meckerns zur vollständigen Gewissheit gelangen kann.
 1	Er	_	PRON	PPER	_	2	SB	_	_
 2	wird	_	VERB	VAFIN	_	0	--	_	_
@@ -429,7 +403,7 @@
 20	kann	_	VERB	VMFIN	_	5	RE	_	_
 21	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 30
+# sent_id = 26
 # text = Ferner ist gegen die Altum’sche und Meves’sche Theorie, das Meckern werde durch die Schwanzfedern bewirkt, der Einwurf erhoben, es sei ganz unmöglich, dass die Bekassine „im langsam gleitenden“ Fluge den Schwanz derartig halte, dass die Steuerfedern eine solche Lage erhielten, wie beim Experiment des Herrn Meves (durch welches dieser den versammelten Ornithologen das Meckern versinnlichte), ganz abgesehen davon, dass die Schwanzfedern durch die dichten Deckfedern vollständig verhüllt würden.
 1	Ferner	_	ADV	ADV	_	2	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -517,7 +491,7 @@
 84	würden	_	VERB	VAFIN	_	73	RE	_	_
 85	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 31
+# sent_id = 27
 # text = Inmitten des Kreises der meckernden Bekassine in einem vorher dazu hergerichteten Wachholderbusche, oder auch in einem selbst bereiteten „Jagdschirm“ in der richtigen Balzzeit, etwa im letzten Drittel des März bis zur Mitte April, wohlgedeckt stehend (das balzende Bekassinen-Männchen umfliegt meist während der ganzen Balzzeit nahezu in einem Kreise den zum Nisten ausersehenen Platz), wird es dem Zweifler vielleicht ebenso gelingen, wie es mir mehrfach geglückt ist, das meckernde Bekassinen-Männchen während seines Absturzes herunter zu schiessen.
 1	Inmitten	_	ADP	APPR	_	40	MO	_	_
 2	des	_	DET	ART	_	3	NK	_	_
@@ -606,7 +580,7 @@
 85	schiessen	_	VERB	VVINF	_	63	RE	_	_
 86	.	_	PUNCT	$.	_	39	PUNCT	_	_
 
-# sent_id = 32
+# sent_id = 28
 # text = Eine einzelne Bekassine trieb sich längere Zeit gleichfalls in sehr massiger Höhe über uns umher, in Liebesübermuth die ausgelassensten Kapriolen ausführend.
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	einzelne	_	ADJ	ADJA	_	3	NK	_	_
@@ -632,7 +606,7 @@
 22	ausführend	_	ADJ	ADJD	_	4	MO	_	_
 23	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 33
+# sent_id = 29
 # text = Die Bekassine legt sich dabei auf die Seite, so dass die Flügel, in ganz absonderlicher Weise gegen den Körper verkürzt, heftig vibrirend, fast senkrecht über einander stehen, die Schwanzfedern aber krampfhaft starren.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Bekassine	_	NOUN	NN	_	3	SB	_	_
@@ -673,23 +647,7 @@
 37	starren	_	VERB	VVINF	_	35	CJ	_	_
 38	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 34
-# text = Er sagt in der Naumannia 1852, Heft I, S. 26:
-1	Er	_	PRON	PPER	_	2	SB	_	_
-2	sagt	_	VERB	VVFIN	_	0	--	_	_
-3	in	_	ADP	APPR	_	2	MO	_	_
-4	der	_	DET	ART	_	5	NK	_	_
-5	Naumannia	_	NOUN	NN	_	3	NK	_	_
-6	1852	_	NUM	CARD	_	5	NK	_	_
-7	,	_	PUNCT	$,	_	6	PUNCT	_	_
-8	Heft	_	PROPN	NE	_	6	CJ	_	_
-9	I	_	NUM	CARD	_	8	NK	_	_
-10	,	_	PUNCT	$,	_	5	PUNCT	_	_
-11	S.	_	NOUN	NN	_	2	OA	_	_
-12	26	_	NUM	CARD	_	11	NK	_	_
-13	:	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 35
+# sent_id = 30
 # text = „Am 24. März 1846 gegen Mittag habe ich auf ganz freiem Moore, und zwar nach kurzem Zwischenräume zweimal von einer fliegenden Bekassine, die ich etwa während einer halben Stunde beobachtete, den ungefähr wie Jick— jack, jick—jack klingenden Gesang, wenn ich mich so ausdrücken darf, und das Meckern zu gleicher Zeit vernommen, d. h. das Meckern begann schon, ehe das diesem sonst vorhergehende Singen ganz beendigt war.
 1	„	_	PUNCT	$(	_	8	PUNCT	_	_
 2	Am	_	ADP	APPRART	_	8	MO	_	_
@@ -768,7 +726,7 @@
 75	war	_	VERB	VAFIN	_	64	MO	_	_
 76	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 36
+# sent_id = 31
 # text = Sowie die Bekassine sich wieder in eine horizontale Lage bringt, ist das Meckern augenblicklich vorbei.
 1	Sowie	_	CONJ	KON	_	10	CP	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -788,7 +746,7 @@
 16	vorbei	_	VERB	PTKVZ	_	12	MO	_	_
 17	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 37
+# sent_id = 32
 # text = Die Deckfedern können selbstverständlich bei dieser schrägen, seitlich beinah senkrechten Stellung der Schwanzfedern gar nicht in Frage kommen.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Deckfedern	_	NOUN	NN	_	3	SB	_	_
@@ -811,7 +769,7 @@
 19	kommen	_	VERB	VVINF	_	3	OC	_	_
 20	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 38
+# sent_id = 33
 # text = Immerhin erscheint es auffallend, dass nicht allein Jäger, welche zur Zeit dem Kehlmeckern wieder das Wort reden, sondern auch „Ornithologen von Fach“ von den oben erwähnten, in der Naumannia niedergelegten Beobachtungen gar keine Notiz nehmen.
 1	Immerhin	_	ADV	ADV	_	2	MO	_	_
 2	erscheint	_	VERB	VVFIN	_	0	--	_	_
@@ -856,7 +814,7 @@
 41	nehmen	_	VERB	VVINF	_	3	RE	_	_
 42	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 39
+# sent_id = 34
 # text = Am 25. März 1851, ebenfalls gegen Mittag, habe ich meine frühere Beobachtung auf das unzweifelhafteste bestätigt gefunden, indem ich den Gesang während des meckernden Schnurrens und auch noch nach demselben von einer und derselben sich gaukelnd umhertummelnden Bekassine ununterbrochen vernahm.
 1	Am	_	ADP	APPRART	_	19	MO	_	_
 2	25.	_	ADJ	ADJA	_	3	NK	_	_
@@ -903,72 +861,7 @@
 43	vernahm	_	VERB	VVFIN	_	19	MO	_	_
 44	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 40
-# text = Pralle hat auf Anregung des von Louis Ziegler in dessen Federwildjagd über das Schnurren der Bekassine Gesagten, dass es nämlich der Mühe werth wäre, wenn Jäger in bekassinenreichen Gegenden hierüber noch mehr gründliche Beobachtungen machten,, in einem kurzen Aufsatze seine eigenen Erfahrungen veröffentlicht, welche der Bechstein’schen Erklärungsweise widersprechen und die Naumann’sche bestätigen.
-1	Pralle	_	NOUN	NN	_	2	SB	_	_
-2	hat	_	VERB	VAFIN	_	0	--	_	_
-3	auf	_	ADP	APPR	_	47	MO	_	_
-4	Anregung	_	NOUN	NN	_	3	NK	_	_
-5	des	_	DET	ART	_	4	NK	_	_
-6	von	_	ADP	APPR	_	5	PG	_	_
-7	Louis	_	PROPN	NE	_	8	PNC	_	_
-8	Ziegler	_	PROPN	NE	_	6	NK	_	_
-9	in	_	ADP	APPR	_	5	MNR	_	_
-10	dessen	_	PRON	PDS	_	11	AG	_	_
-11	Federwildjagd	_	NOUN	NN	_	9	NK	_	_
-12	über	_	ADP	APPR	_	5	MNR	_	_
-13	das	_	DET	ART	_	14	NK	_	_
-14	Schnurren	_	NOUN	NN	_	12	NK	_	_
-15	der	_	DET	ART	_	17	NK	_	_
-16	Bekassine	_	NOUN	NN	_	17	NK	_	_
-17	Gesagten	_	NOUN	NN	_	14	AG	_	_
-18	,	_	PUNCT	$,	_	5	PUNCT	_	_
-19	dass	_	CONJ	KOUS	_	25	CP	_	_
-20	es	_	PRON	PPER	_	25	SB	_	_
-21	nämlich	_	ADV	ADV	_	25	MO	_	_
-22	der	_	DET	ART	_	23	NK	_	_
-23	Mühe	_	NOUN	NN	_	24	DA	_	_
-24	werth	_	ADJ	ADJD	_	25	PD	_	_
-25	wäre	_	VERB	VAFIN	_	5	CC	_	_
-26	,	_	PUNCT	$,	_	25	PUNCT	_	_
-27	wenn	_	CONJ	KOUS	_	37	CP	_	_
-28	Jäger	_	NOUN	NN	_	37	SB	_	_
-29	in	_	ADP	APPR	_	37	MO	_	_
-30	bekassinenreichen	_	ADJ	ADJA	_	31	NK	_	_
-31	Gegenden	_	NOUN	NN	_	29	NK	_	_
-32	hierüber	_	ADV	PROAV	_	37	MO	_	_
-33	noch	_	ADV	ADV	_	34	MO	_	_
-34	mehr	_	PRON	PIAT	_	36	NK	_	_
-35	gründliche	_	ADJ	ADJA	_	36	NK	_	_
-36	Beobachtungen	_	NOUN	NN	_	37	OA	_	_
-37	machten	_	VERB	VVFIN	_	25	MO	_	_
-38	,	_	PUNCT	$,	_	5	PUNCT	_	_
-39	,	_	PUNCT	$,	_	47	PUNCT	_	_
-40	in	_	ADP	APPR	_	47	MO	_	_
-41	einem	_	DET	ART	_	43	NK	_	_
-42	kurzen	_	ADJ	ADJA	_	43	NK	_	_
-43	Aufsatze	_	NOUN	NN	_	40	NK	_	_
-44	seine	_	PRON	PPOSAT	_	46	NK	_	_
-45	eigenen	_	ADJ	ADJA	_	46	NK	_	_
-46	Erfahrungen	_	NOUN	NN	_	47	OA	_	_
-47	veröffentlicht	_	VERB	VVPP	_	2	OC	_	_
-48	,	_	PUNCT	$,	_	47	PUNCT	_	_
-49	welche	_	PRON	PRELS	_	55	OA	_	_
-50	der	_	DET	ART	_	51	NK	_	_
-51	Bechstein	_	NOUN	NN	_	55	SB	_	_
-52	’	_	NOUN	NN	_	51	NK	_	_
-53	schen	_	ADJ	ADJA	_	54	NK	_	_
-54	Erklärungsweise	_	NOUN	NN	_	55	OA	_	_
-55	widersprechen	_	VERB	VVINF	_	4	RC	_	_
-56	und	_	CONJ	KON	_	55	CD	_	_
-57	die	_	DET	ART	_	58	NK	_	_
-58	Naumann	_	PROPN	NE	_	61	OA	_	_
-59	’	_	PROPN	NE	_	58	NK	_	_
-60	sche	_	ADJ	ADJA	_	61	OA	_	_
-61	bestätigen	_	VERB	VVINF	_	56	CJ	_	_
-62	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 41
+# sent_id = 35
 # text = So nahe der meckernden Bekassine, wird er ferner gewahr werden, dass das Meckern niemals im horizontalen, noch viel weniger „im langsam gleitenden“ Fluge erfolgt, sondern stets nur im beinah senkrechten (mehr oder weniger in einem Winkel von 80 Graden) mit grosser Vehemenz stattfindenden Absturze.
 1	So	_	ADV	ADV	_	2	MO	_	_
 2	nahe	_	ADP	APPR	_	7	MO	_	_
@@ -1024,16 +917,7 @@
 52	Absturze	_	NOUN	NN	_	34	NK	_	_
 53	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 42
-# text = denn:
-1	denn	_	ADV	ADV	_	0	--	_	_
-2	:	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 43
-# text = 1.
-1	1.	_	ADV	ADV	_	0	--	_	_
-
-# sent_id = 44
+# sent_id = 36
 # text = „Die Vögel konnten unmöglich nach Norden streichen, grade in das nachwinterliche Wetter hinein, welches mit Ost- und Hordwind dort eintrat.“
 1	„	_	PUNCT	$(	_	4	PUNCT	_	_
 2	Die	_	DET	ART	_	3	NK	_	_
@@ -1061,7 +945,7 @@
 24	.	_	PUNCT	$.	_	4	PUNCT	_	_
 25	“	_	PUNCT	$(	_	4	PUNCT	_	_
 
-# sent_id = 45
+# sent_id = 37
 # text = Ihr luftiger Circus erstreckte sich beiläufig zu 8 Theilen über einen grossen Weiher hin, was ich deshalb ausdrücklich erwähne, weil dadurch doch wohl der Gedanke an eine Täuschung und die Annahme, es könnte während des Schnurrens das auf der Erde sitzende Weibchen Tikküp gerufen haben, von selbst wegfällt.
 1	Ihr	_	PRON	PPOSAT	_	3	NK	_	_
 2	luftiger	_	ADJ	ADJA	_	3	NK	_	_
@@ -1117,7 +1001,7 @@
 52	wegfällt	_	VERB	VVPP	_	20	MO	_	_
 53	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 46
+# sent_id = 38
 # text = Aehnliche Beobachtungen habe ich bei verschiedenen andern Vögeln gemacht, doch nicht in allen Jahren, und es ist mir nicht klar, warum Vögel oft hartnäckig bleiben und vor Kälte und Hunger umkommen, während dieselben zu andern Zeiten sich in wenig Stunden in ein milderes Klima begeben.
 1	Aehnliche	_	ADJ	ADJA	_	2	NK	_	_
 2	Beobachtungen	_	NOUN	NN	_	9	OA	_	_
@@ -1170,7 +1054,7 @@
 49	begeben	_	VERB	VVPP	_	34	MO	_	_
 50	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 47
+# sent_id = 39
 # text = „Sie fragen mich nach meiner Ansicht über den Bückzug der Vögel bei Eintritt vor schlechtem Wetter, und da muss ich Ihnen sagen, dass derselbe wohl keine Regel bildet, aber öfters doch von mir mit voller Entschiedenheit beobachtet ist, namentlich bei Lerchen und Gänsen.
 1	„	_	PUNCT	$(	_	3	PUNCT	_	_
 2	Sie	_	PRON	PPER	_	3	SB	_	_
@@ -1222,7 +1106,7 @@
 48	Gänsen	_	NOUN	NN	_	47	CJ	_	_
 49	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 48
+# sent_id = 40
 # text = Von Anser arvensis kann man einen solchen Bückzug von Hordost nach Südwest fast in jedem Frühjahr beobachten, da selten ein Jahr vergeht, wo derselbe nicht stattfindet.
 1	Von	_	ADP	APPR	_	4	MO	_	_
 2	Anser	_	PROPN	NE	_	3	PNC	_	_
@@ -1254,57 +1138,7 @@
 28	stattfindet	_	VERB	VVFIN	_	22	RC	_	_
 29	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 49
-# text = Sylviella leucopsis Hab : Kipini (Ostafrica).ala 77; cauda 73;
-1	Sylviella	_	PROPN	NE	_	3	PNC	_	_
-2	leucopsis	_	VERB	VVFIN	_	3	PNC	_	_
-3	Hab	_	NOUN	NN	_	0	--	_	_
-4	:	_	PUNCT	$.	_	3	PUNCT	_	_
-5	Kipini	_	PROPN	NE	_	3	APP	_	_
-6	(	_	PUNCT	$(	_	7	PUNCT	_	_
-7	Ostafrica).ala	_	PROPN	NE	_	5	PAR	_	_
-8	77	_	NUM	CARD	_	7	PNC	_	_
-9	;	_	PUNCT	$.	_	7	PUNCT	_	_
-10	cauda	_	PROPN	NE	_	11	PNC	_	_
-11	73	_	NUM	CARD	_	7	NK	_	_
-12	;	_	PUNCT	$.	_	7	PUNCT	_	_
-
-# sent_id = 50
-# text = rictus 19 Mm.150 —155;
-Barbatula
-1	rictus	_	NOUN	NN	_	3	MO	_	_
-2	19	_	NUM	CARD	_	3	NMC	_	_
-3	Mm.150	_	NOUN	NN	_	4	DEP	_	_
-4	—	_	PUNCT	$(	_	5	DEP	_	_
-5	155	_	NUM	CARD	_	6	DEP	_	_
-6	;	_	PUNCT	$.	_	7	PUNCT	_	_
-7	Barbatula	_	PROPN	NE	_	0	--	_	_
-
-# sent_id = 51
-# text = affords Hab: Ualimi (Ostafrica).ala 135;
-1	affords	_	ADP	APPR	_	2	PNC	_	_
-2	Hab	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	Ualimi	_	PROPN	NE	_	2	PD	_	_
-5	(	_	PUNCT	$(	_	6	PUNCT	_	_
-6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
-7	135	_	NUM	CARD	_	6	NK	_	_
-8	;	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 52
-# text = cauda 50;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	50	_	NUM	CARD	_	3	DEP	_	_
-3	;	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 53
-# text = rictus 16 Mm.135;
-1	rictus	_	NOUN	NN	_	2	MO	_	_
-2	16	_	NUM	CARD	_	3	NK	_	_
-3	Mm.135	_	PROPN	NE	_	0	--	_	_
-4	;	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 54
+# sent_id = 41
 # text = Diese Beobachtung ist nach meiner Ueberzeugung so schlagend, dass alle Beispiele, wo Vögel anders gehandelt haben, nichts dagegen beweisen.
 1	Diese	_	PRON	PDAT	_	2	NK	_	_
 2	Beobachtung	_	NOUN	NN	_	3	SB	_	_
@@ -1330,12 +1164,7 @@ Barbatula
 22	beweisen	_	VERB	VVINF	_	7	CC	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 55
-# text = Apalis ehariessa
-1	Apalis	_	PROPN	NE	_	0	--	_	_
-2	ehariessa	_	VERB	VVFIN	_	1	MNR	_	_
-
-# sent_id = 56
+# sent_id = 42
 # text = Die weissen Kopfseiten und der dunkle Augenstrich über der weissen Superciliarlinie unterscheiden diese, auch etwas kleinere Art von der verwandten A. microura.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	weissen	_	ADJ	ADJA	_	3	NK	_	_
@@ -1362,12 +1191,7 @@ Barbatula
 23	microura	_	PROPN	NE	_	22	NK	_	_
 24	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 57
-# text = Uraeginthus ianthinogaster
-1	Uraeginthus	_	PROPN	NE	_	0	--	_	_
-2	ianthinogaster	_	ADJ	ADJA	_	1	MNR	_	_
-
-# sent_id = 58
+# sent_id = 43
 # text = Nur durch die verlängerten Schwanzfedern von Hypochera ultramarina unterschieden.
 1	Nur	_	ADV	ADV	_	2	MO	_	_
 2	durch	_	ADP	APPR	_	9	MO	_	_
@@ -1380,106 +1204,11 @@ Barbatula
 9	unterschieden	_	VERB	VVPP	_	0	--	_	_
 10	.	_	PUNCT	$.	_	9	PUNCT	_	_
 
-# sent_id = 59
-# text = Hab: Kibaradja (Ostafrika).10 Mm.
-1	Hab	_	NOUN	NN	_	0	--	_	_
-2	:	_	PUNCT	$.	_	1	PUNCT	_	_
-3	Kibaradja	_	PROPN	NE	_	1	APP	_	_
-4	(	_	PUNCT	$(	_	6	PUNCT	_	_
-5	Ostafrika).10	_	PROPN	NE	_	6	PNC	_	_
-6	Mm	_	NOUN	NN	_	3	PAR	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 60
+# sent_id = 44
 # text = Neue Vögel aus Ostafrika.
 1	Neue	_	ADJ	ADJA	_	2	NK	_	_
 2	Vögel	_	NOUN	NN	_	0	--	_	_
 3	aus	_	ADP	APPR	_	2	MNR	_	_
 4	Ostafrika	_	PROPN	NE	_	3	NK	_	_
 5	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 61
-# text = 1879. J. Rohwedee.
-1	1879.	_	NUM	CARD	_	3	PNC	_	_
-2	J.	_	X	XY	_	3	PNC	_	_
-3	Rohwedee	_	PROPN	NE	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 62
-# text = Husum, d. 28. Junimitgetheilten stimmt.
-1	Husum	_	PROPN	NE	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	d.	_	DET	ART	_	5	NK	_	_
-4	28.	_	ADJ	ADJA	_	5	NK	_	_
-5	Junimitgetheilten	_	NOUN	NN	_	6	DA	_	_
-6	stimmt	_	VERB	VVFIN	_	1	RC	_	_
-7	.	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 63
-# text = Colins leucocephalusHab: Kipini (Ostafrica).ala 50;
-1	Colins	_	PROPN	NE	_	2	AG	_	_
-2	leucocephalusHab	_	PROPN	NE	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	Kipini	_	PROPN	NE	_	2	APP	_	_
-5	(	_	PUNCT	$(	_	6	PUNCT	_	_
-6	Ostafrica).ala	_	PROPN	NE	_	4	PAR	_	_
-7	50	_	NUM	CARD	_	6	NK	_	_
-8	;	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 64
-# text = cauda 32;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	32	_	NUM	CARD	_	0	--	_	_
-3	;	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 65
-# text = rictus 15 Mm.
-1	rictus	_	VERB	VVFIN	_	3	MO	_	_
-2	15	_	NUM	CARD	_	3	NK	_	_
-3	Mm	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 66
-# text = ;
-1	;	_	PUNCT	$.	_	0	--	_	_
-
-# sent_id = 67
-# text = Thamnobia quadrivirgata
-1	Thamnobia	_	NOUN	NN	_	0	--	_	_
-2	quadrivirgata	_	VERB	VVFIN	_	1	PD	_	_
-
-# sent_id = 68
-# text = 108.
-1	108.	_	NUM	CARD	_	0	--	_	_
-
-# sent_id = 69
-# text = Dryoscopus nigerrimus
-1	Dryoscopus	_	NOUN	NN	_	0	--	_	_
-2	nigerrimus	_	NOUN	NN	_	1	NK	_	_
-
-# sent_id = 70
-# text = 9
-1	9	_	NUM	CARD	_	0	--	_	_
-
-# sent_id = 71
-# text = Mm.ala 52;
-1	Mm.ala	_	PROPN	NE	_	0	--	_	_
-2	52	_	NUM	CARD	_	3	DEP	_	_
-3	;	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 72
-# text = cauda 60;
-1	cauda	_	PROPN	NE	_	2	PNC	_	_
-2	60	_	NUM	CARD	_	0	--	_	_
-3	;	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 73
-# text = rictus110;
-1	rictus110	_	VERB	VVFIN	_	0	--	_	_
-2	;	_	PUNCT	$.	_	1	PUNCT	_	_
-
-# sent_id = 74
-# text = Cypselus stictilaemus
-1	Cypselus	_	NOUN	NN	_	2	SB	_	_
-2	stictilaemus	_	NOUN	NN	_	0	--	_	_
 

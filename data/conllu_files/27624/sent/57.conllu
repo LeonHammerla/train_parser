@@ -1,18 +1,20 @@
 # sent_id = 57
-# text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
-1	Jetzt	_	_	_	_	7	advmod	_	_
-2	will	_	_	_	_	7	aux	_	_
-3	ich	_	_	_	_	7	nsubj	_	_
-4	Ihnen	_	_	_	_	7	iobj	_	_
-5	einfach	_	_	_	_	6	advmod	_	_
-6	mathematisch	_	_	_	_	7	advmod	_	_
-7	klarmachen	_	_	_	_	0	root	_	_
-8	,	_	_	_	_	14	punct	_	_
-9	was	_	_	_	_	14	obj	_	_
-10	das	_	_	_	_	14	nsubj	_	_
-11	für	_	_	_	_	13	case	_	_
-12	den	_	_	_	_	13	det	_	_
-13	Bundeshaushalt	_	_	_	_	14	obl	_	_
-14	bedeutet	_	_	_	_	7	ccomp	_	_
-15	.	_	_	_	_	7	punct	_	_
+# text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
+1	Auch	_	_	_	_	3	advmod	_	_
+2	langzeitarbeitslose	_	_	_	_	3	amod	_	_
+3	Menschen	_	_	_	_	8	nsubj	_	_
+4	müssen	_	_	_	_	8	aux	_	_
+5	natürlich	_	_	_	_	8	advmod	_	_
+6	das	_	_	_	_	7	det	_	_
+7	Recht	_	_	_	_	8	obj	_	_
+8	haben	_	_	_	_	0	root	_	_
+9	,	_	_	_	_	16	punct	_	_
+10	sich	_	_	_	_	16	iobj	_	_
+11	selbstbestimmt	_	_	_	_	16	advmod	_	_
+12	und	_	_	_	_	13	cc	_	_
+13	frei	_	_	_	_	11	conj	_	_
+14	einen	_	_	_	_	15	det	_	_
+15	Arbeitsplatz	_	_	_	_	16	obj	_	_
+16	auszusuchen	_	_	_	_	7	acl	_	_
+17	.	_	_	_	_	8	punct	_	_
 

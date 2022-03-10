@@ -1,36 +1,17 @@
 # sent_id = 134
-# text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
-1	Nach	_	ADP	APPR	_	4	MO	_	_
-2	dieser	_	PRON	PDAT	_	3	NK	_	_
-3	Nahrungsmittelstrategie	_	NOUN	NN	_	1	NK	_	_
-4	müssen	_	VERB	VMFIN	_	0	--	_	_
-5	wir	_	PRON	PPER	_	4	SB	_	_
-6	gemeinsam	_	ADJ	ADJD	_	7	MO	_	_
-7	mit	_	ADP	APPR	_	5	MO	_	_
-8	allen	_	PRON	PIAT	_	10	NK	_	_
-9	betroffenen	_	ADJ	ADJA	_	10	NK	_	_
-10	Staaten	_	NOUN	NN	_	7	NK	_	_
-11	eine	_	DET	ART	_	14	NK	_	_
-12	international	_	ADJ	ADJD	_	13	MO	_	_
-13	getragene	_	ADJ	ADJA	_	14	NK	_	_
-14	Entwicklungshilfestrategie	_	NOUN	NN	_	15	OA	_	_
-15	entwickeln	_	VERB	VVINF	_	4	OC	_	_
-16	und	_	CONJ	KON	_	15	CD	_	_
-17	in	_	ADP	APPR	_	20	CVC	_	_
-18	die	_	DET	ART	_	19	NK	_	_
-19	Wege	_	NOUN	NN	_	17	NK	_	_
-20	leiten	_	VERB	VVINF	_	16	CJ	_	_
-21	,	_	PUNCT	$,	_	20	PUNCT	_	_
-22	damit	_	CONJ	KOUS	_	25	MO	_	_
-23	auf	_	ADP	APPR	_	25	MO	_	_
-24	Dauer	_	NOUN	NN	_	23	NK	_	_
-25	gesehen	_	VERB	VVFIN	_	32	MO	_	_
-26	unsere	_	PRON	PPOSAT	_	27	NK	_	_
-27	Hilfe	_	NOUN	NN	_	32	SB	_	_
-28	dort	_	ADV	ADV	_	32	MO	_	_
-29	zur	_	ADP	APPRART	_	32	MO	_	_
-30	wirklichen	_	ADJ	ADJA	_	31	NK	_	_
-31	Selbsthilfe	_	NOUN	NN	_	29	NK	_	_
-32	wird	_	VERB	VAFIN	_	20	MO	_	_
-33	.	_	PUNCT	$.	_	4	PUNCT	_	_
+# text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
+1	Von	_	ADP	APPR	_	0	--	_	_
+2	1925	_	NUM	CARD	_	1	NK	_	_
+3	Ortsgruppenleiter	_	NOUN	NN	_	1	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	NSDAP	_	PROPN	NE	_	3	AG	_	_
+6	,	_	PUNCT	$,	_	3	PUNCT	_	_
+7	in	_	ADP	APPR	_	3	MNR	_	_
+8	Neuwied	_	PROPN	NE	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	dann	_	ADV	ADV	_	11	MO	_	_
+11	Kreisleiter	_	NOUN	NN	_	3	CJ	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Bezirksleiter	_	NOUN	NN	_	12	CJ	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

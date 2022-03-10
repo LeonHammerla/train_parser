@@ -1,23 +1,28 @@
 # sent_id = 84
-# text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
-1	Aber	_	CONJ	KON	_	10	JU	_	_
-2	beim	_	ADP	APPRART	_	10	MO	_	_
-3	Kleinhandel	_	NOUN	NN	_	2	NK	_	_
-4	,	_	PUNCT	$,	_	10	PUNCT	_	_
-5	beim	_	ADP	APPRART	_	10	MO	_	_
-6	Verkauf	_	NOUN	NN	_	5	NK	_	_
-7	an	_	ADP	APPR	_	6	MNR	_	_
-8	den	_	DET	ART	_	9	NK	_	_
-9	Konsumenten	_	NOUN	NN	_	7	NK	_	_
-10	herrschen	_	VERB	VVFIN	_	0	--	_	_
-11	große	_	ADJ	ADJA	_	12	NK	_	_
-12	Mißstände	_	NOUN	NN	_	10	SB	_	_
-13	,	_	PUNCT	$,	_	10	PUNCT	_	_
-14	wie	_	PRON	PWAV	_	19	CP	_	_
-15	ich	_	PRON	PPER	_	19	SB	_	_
-16	zu	_	ADP	APPR	_	19	MO	_	_
-17	Anfang	_	NOUN	NN	_	16	NK	_	_
-18	bereits	_	ADV	ADV	_	19	MO	_	_
-19	andeutete	_	VERB	VVFIN	_	10	MO	_	_
-20	.	_	PUNCT	$.	_	10	PUNCT	_	_
+# text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
+1	So	_	ADV	ADV	_	2	MO	_	_
+2	verteilen	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Oberpostdirektionen	_	NOUN	NN	_	2	SB	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Gratifikationen	_	NOUN	NN	_	2	OA	_	_
+7	für	_	ADP	APPR	_	6	MNR	_	_
+8	geleistete	_	ADJ	ADJA	_	9	NK	_	_
+9	überstunden	_	NOUN	NN	_	7	NK	_	_
+10	immer	_	ADV	ADV	_	2	MO	_	_
+11	nach	_	ADP	APPR	_	2	MO	_	_
+12	oben	_	ADV	ADV	_	11	NK	_	_
+13	,	_	PUNCT	$,	_	2	PUNCT	_	_
+14	da	_	ADV	ADV	_	15	MO	_	_
+15	ist	_	VERB	VAFIN	_	2	MO	_	_
+16	es	_	PRON	PPER	_	15	SB	_	_
+17	nach	_	ADP	APPR	_	15	MO	_	_
+18	ihrer	_	PRON	PPOSAT	_	19	NK	_	_
+19	Ansicht	_	NOUN	NN	_	17	NK	_	_
+20	weit	_	ADJ	ADJD	_	21	MO	_	_
+21	notwendiger	_	ADJ	ADJD	_	15	PD	_	_
+22	als	_	CONJ	KOKOM	_	23	CM	_	_
+23	nach	_	ADP	APPR	_	21	CC	_	_
+24	unten	_	ADV	ADV	_	23	NK	_	_
+25	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

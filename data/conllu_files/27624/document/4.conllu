@@ -1,4 +1,4 @@
-# sent_id = 75
+# sent_id = 73
 # text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
 1	Das	_	_	_	_	4	nsubj	_	_
 2	ist	_	_	_	_	4	cop	_	_
@@ -15,7 +15,7 @@
 13	hat	_	_	_	_	12	aux	_	_
 14	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 76
+# sent_id = 74
 # text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
 1	Für	_	_	_	_	4	case	_	_
 2	die	_	_	_	_	4	det	_	_
@@ -30,7 +30,7 @@
 11	Strafgesetzbuchs	_	_	_	_	9	nmod	_	_
 12	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 77
+# sent_id = 75
 # text = Dort kann bei inneren Unruhen das Militär nur auf Requisition der Zivilbehörden eingreifen.
 1	Dort	_	_	_	_	13	advmod	_	_
 2	kann	_	_	_	_	13	aux	_	_
@@ -47,7 +47,7 @@
 13	eingreifen	_	_	_	_	0	root	_	_
 14	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 78
+# sent_id = 76
 # text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
 1	Auch	_	_	_	_	4	advmod	_	_
 2	in	_	_	_	_	4	case	_	_
@@ -68,7 +68,7 @@
 17	worden	_	_	_	_	16	aux:pass	_	_
 18	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 79
+# sent_id = 77
 # text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
 1	Aber	_	_	_	_	10	cc	_	_
 2	beim	_	_	_	_	3	case	_	_
@@ -91,7 +91,7 @@
 19	andeutete	_	_	_	_	10	advcl	_	_
 20	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 80
+# sent_id = 78
 # text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
 1	Die	_	_	_	_	2	det	_	_
 2	Feststellung	_	_	_	_	3	nsubj	_	_
@@ -114,7 +114,7 @@
 19	Verlustes	_	_	_	_	17	nmod	_	_
 20	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 81
+# sent_id = 79
 # text = Nun hat gestern der Herr Abgeordnete Graf v. Posadowsky ausgesprochen, das einzige, was helfen könne, sei eine großherzige Wohnungspolitik.
 1	Nun	_	_	_	_	11	advmod	_	_
 2	hat	_	_	_	_	11	aux	_	_
@@ -141,7 +141,7 @@
 23	Wohnungspolitik	_	_	_	_	11	ccomp	_	_
 24	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 82
+# sent_id = 80
 # text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
 1	Die	_	_	_	_	2	det	_	_
 2	Reichs-Gewerbeordnung	_	_	_	_	3	nsubj	_	_
@@ -165,7 +165,7 @@
 20	verlange	_	_	_	_	3	advcl	_	_
 21	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 83
+# sent_id = 81
 # text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
 1	So	_	_	_	_	2	advmod	_	_
 2	verteilen	_	_	_	_	0	root	_	_
@@ -193,7 +193,7 @@
 24	unten	_	_	_	_	21	advmod	_	_
 25	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 84
+# sent_id = 82
 # text = Es ist da auf Seite 174 aus dem Inspektionsbezirk Breslau eine Kritik über die Porzellanarbeiter und die unter ihnen auftretenden ansteckenden Krankheiten vorhanden.
 1	Es	_	_	_	_	23	expl	_	_
 2	ist	_	_	_	_	23	cop	_	_
@@ -220,7 +220,7 @@
 23	vorhanden	_	_	_	_	0	root	_	_
 24	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 85
+# sent_id = 83
 # text = Es sei unmöglich, sich nach Jahr und Tag ein zutreffendes Urteil darüber zu bilden, ob in einem weiter zurückliegenden Zeitpunkt Erziehungs- und Besserungsmaßregeln am Platze gewesen wären.
 1	Es	_	_	_	_	3	expl	_	_
 2	sei	_	_	_	_	3	cop	_	_
@@ -253,7 +253,7 @@
 29	wären	_	_	_	_	28	aux	_	_
 30	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 86
+# sent_id = 84
 # text = Ich bedaure, daß die Reichsregierung meiner Anregung keine Folge geleistet hat, da fortgesetzt der deutsche Markt in ganz erheblichem Umfange von ausländischen Geldsuchern in Anspruch genommen wird.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bedaure	_	_	_	_	0	root	_	_
@@ -286,7 +286,7 @@
 29	wird	_	_	_	_	28	aux:pass	_	_
 30	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 87
+# sent_id = 85
 # text = Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers am Leistungsorte versteigern lassen und den Erlös hinterlegen.
 1	Ist	_	_	_	_	9	cop	_	_
 2	die	_	_	_	_	5	det	_	_
@@ -319,37 +319,7 @@
 29	hinterlegen	_	_	_	_	24	conj	_	_
 30	.	_	_	_	_	25	punct	_	_
 
-# sent_id = 88
-# text = Auch die Zuständigkeit des zukünftigen Kolontalgerichtshofes ist in der neuen Vorlage besser umgrenzt und genauer präzisiert worden, als das in der früheren Vorlage geschehen war.
-1	Auch	_	_	_	_	3	advmod	_	_
-2	die	_	_	_	_	3	det	_	_
-3	Zuständigkeit	_	_	_	_	13	nsubj:pass	_	_
-4	des	_	_	_	_	6	det	_	_
-5	zukünftigen	_	_	_	_	6	amod	_	_
-6	Kolontalgerichtshofes	_	_	_	_	3	nmod	_	_
-7	ist	_	_	_	_	13	aux	_	_
-8	in	_	_	_	_	11	case	_	_
-9	der	_	_	_	_	11	det	_	_
-10	neuen	_	_	_	_	11	amod	_	_
-11	Vorlage	_	_	_	_	13	obl	_	_
-12	besser	_	_	_	_	13	advmod	_	_
-13	umgrenzt	_	_	_	_	0	root	_	_
-14	und	_	_	_	_	16	cc	_	_
-15	genauer	_	_	_	_	16	advmod	_	_
-16	präzisiert	_	_	_	_	13	conj	_	_
-17	worden	_	_	_	_	13	aux:pass	_	_
-18	,	_	_	_	_	25	punct	_	_
-19	als	_	_	_	_	25	mark	_	_
-20	das	_	_	_	_	25	nsubj	_	_
-21	in	_	_	_	_	24	case	_	_
-22	der	_	_	_	_	24	det	_	_
-23	früheren	_	_	_	_	24	amod	_	_
-24	Vorlage	_	_	_	_	25	obl	_	_
-25	geschehen	_	_	_	_	13	advcl	_	_
-26	war	_	_	_	_	25	aux	_	_
-27	.	_	_	_	_	13	punct	_	_
-
-# sent_id = 89
+# sent_id = 86
 # text = Zur Zeit ist diese ganze Angelegenheit abhängig von der Landesgesetzgebung, und während in den meisten deutschen Staaten mehr oder weniger strenge Bestimmungen über das Versicherungswesen vorhanden sind, giebt es andererseits einige Staaten, in denen derartige Bestimmungen vollständig fehlen.
 1	Zur	_	_	_	_	2	case	_	_
 2	Zeit	_	_	_	_	7	obl	_	_
@@ -394,7 +364,7 @@
 41	fehlen	_	_	_	_	34	acl	_	_
 42	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 90
+# sent_id = 87
 # text = Ich glaube, wenn die Bürgerschaft der Stadt, wie es mit Recht verlangt wird, Vertrauen zur Staatsregierung haben soll, kann auch die Staatsregierung der Bürgerschaft Vertrauen entgegenbringen, daß sie den Mann wählen wird, der für das Amt geeignet ist.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	glaube	_	_	_	_	0	root	_	_
@@ -442,7 +412,7 @@
 44	ist	_	_	_	_	43	cop	_	_
 45	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 91
+# sent_id = 88
 # text = Vielleicht denkt der Herr Reichskanzler auch daran, daß er als leitender Staatsmann in Preußen eine wichtige Pflicht zu erfüllen hat, die auf dem Gebiete des Ausbaues der Volksrechte liegt, daß er die Wahlreform durchzusetzen hat, die von dem Träger der Krone seinerzeit feierlich in Aussicht gestellt worden ist.
 1	Vielleicht	_	_	_	_	2	advmod	_	_
 2	denkt	_	_	_	_	0	root	_	_
@@ -498,7 +468,7 @@
 52	ist	_	_	_	_	50	aux	_	_
 53	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 92
+# sent_id = 89
 # text = Die Gegenseitigkeitsverträge zwischen verschiedenen Knappschaftsvereinen und die Rückversicherungsverbände, welche man jetzt als Heilmittel zur Gesundung des Knappschaftswesens betrachtet, werden die Mißstände und Ungleichheiten der Leistungen, welche in den Knappschaftsvereinen bestehen, nicht aufheben können, da ihnen hierzu jedes gesetzliche Machtmittel fehlt.
 1	Die	_	_	_	_	2	det	_	_
 2	Gegenseitigkeitsverträge	_	_	_	_	36	nsubj	_	_

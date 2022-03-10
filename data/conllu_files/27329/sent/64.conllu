@@ -1,30 +1,21 @@
 # sent_id = 64
-# text = They did not ask of the noble Lord, the Secretary for the Colonies, to concede any opinion, but he had conceded open questions.
-1	They	_	PRON	PRP	_	4	nsubj	_	_
-2	did	_	VERB	VBD	_	4	aux	_	_
-3	not	_	ADV	RB	_	4	advmod	_	_
-4	ask	_	VERB	VB	_	0	root	_	_
-5	of	_	ADP	IN	_	8	case	_	_
-6	the	_	DET	DT	_	8	det	_	_
-7	noble	_	ADJ	JJ	_	8	amod	_	_
-8	Lord	_	PROPN	NNP	_	4	obl	_	_
-9	,	_	PUNCT	,	_	8	punct	_	_
-10	the	_	DET	DT	_	11	det	_	_
-11	Secretary	_	PROPN	NNP	_	8	appos	_	_
-12	for	_	ADP	IN	_	14	case	_	_
-13	the	_	DET	DT	_	14	det	_	_
-14	Colonies	_	PROPN	NNPS	_	11	nmod	_	_
-15	,	_	PUNCT	,	_	4	punct	_	_
-16	to	_	ADP	TO	_	17	mark	_	_
-17	concede	_	VERB	VB	_	4	xcomp	_	_
-18	any	_	DET	DT	_	19	det	_	_
-19	opinion	_	NOUN	NN	_	17	obj	_	_
-20	,	_	PUNCT	,	_	24	punct	_	_
-21	but	_	CONJ	CC	_	24	cc	_	_
-22	he	_	PRON	PRP	_	24	nsubj	_	_
-23	had	_	VERB	VBD	_	24	aux	_	_
-24	conceded	_	VERB	VBN	_	4	conj	_	_
-25	open	_	ADJ	JJ	_	26	amod	_	_
-26	questions	_	NOUN	NNS	_	24	obj	_	_
-27	.	_	PUNCT	.	_	4	punct	_	_
+# text = I think they justly merit the thanks of Parliament, and I therefore propose the following resolution.
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	think	_	VERB	VBP	_	0	root	_	_
+3	they	_	PRON	PRP	_	5	nsubj	_	_
+4	justly	_	ADV	RB	_	5	advmod	_	_
+5	merit	_	VERB	VBP	_	2	ccomp	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	thanks	_	NOUN	NNS	_	5	obj	_	_
+8	of	_	ADP	IN	_	9	case	_	_
+9	Parliament	_	PROPN	NNP	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	14	punct	_	_
+11	and	_	CONJ	CC	_	14	cc	_	_
+12	I	_	PRON	PRP	_	14	nsubj	_	_
+13	therefore	_	ADV	RB	_	14	advmod	_	_
+14	propose	_	VERB	VBP	_	2	conj	_	_
+15	the	_	DET	DT	_	17	det	_	_
+16	following	_	VERB	VBG	_	17	amod	_	_
+17	resolution	_	NOUN	NN	_	14	obj	_	_
+18	.	_	PUNCT	.	_	2	punct	_	_
 

@@ -1,20 +1,20 @@
 # sent_id = 64
-# text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
-1	Auch	_	ADV	ADV	_	3	MO	_	_
-2	langzeitarbeitslose	_	ADJ	ADJA	_	3	NK	_	_
-3	Menschen	_	NOUN	NN	_	4	SB	_	_
-4	müssen	_	VERB	VMFIN	_	0	--	_	_
-5	natürlich	_	ADV	ADV	_	4	MO	_	_
-6	das	_	DET	ART	_	7	NK	_	_
-7	Recht	_	NOUN	NN	_	8	OA	_	_
-8	haben	_	VERB	VAINF	_	4	OC	_	_
-9	,	_	PUNCT	$,	_	4	PUNCT	_	_
-10	sich	_	PRON	PRF	_	16	DA	_	_
-11	selbstbestimmt	_	ADJ	ADJD	_	16	MO	_	_
-12	und	_	CONJ	KON	_	11	CD	_	_
-13	frei	_	ADJ	ADJD	_	12	CJ	_	_
-14	einen	_	DET	ART	_	15	NK	_	_
-15	Arbeitsplatz	_	NOUN	NN	_	16	OA	_	_
-16	auszusuchen	_	VERB	VVIZU	_	7	OC	_	_
-17	.	_	PUNCT	$.	_	4	PUNCT	_	_
+# text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
+1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
+2	es	_	PRON	PPER	_	8	EP	_	_
+3	um	_	ADP	APPR	_	8	OP	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Zukunftsfragen	_	NOUN	NN	_	3	NK	_	_
+6	unseres	_	PRON	PPOSAT	_	7	NK	_	_
+7	Landes	_	NOUN	NN	_	5	AG	_	_
+8	geht	_	VERB	VVFIN	_	10	RE	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	dann	_	ADV	ADV	_	11	MO	_	_
+11	führt	_	VERB	VVFIN	_	0	--	_	_
+12	kein	_	PRON	PIAT	_	13	NK	_	_
+13	Weg	_	NOUN	NN	_	11	SB	_	_
+14	am	_	ADP	APPRART	_	11	OP	_	_
+15	Handwerk	_	NOUN	NN	_	14	NK	_	_
+16	vorbei	_	VERB	PTKVZ	_	11	SVP	_	_
+17	.	_	PUNCT	$.	_	11	PUNCT	_	_
 

@@ -1,22 +1,33 @@
 # sent_id = 46
-# text = The petitioner stated, that to his astonishment no bill was presented to the grand jury against him.
+# text = The answer to this was, that they could not secure a supply at home in time of war unless by imposing some tax on corn of foreign growth.
 1	The	_	DET	DT	_	2	det	_	_
-2	petitioner	_	NOUN	NN	_	3	nsubj	_	_
-3	stated	_	VERB	VBD	_	0	root	_	_
-4	,	_	PUNCT	,	_	3	punct	_	_
-5	that	_	ADP	IN	_	12	mark	_	_
-6	to	_	ADP	IN	_	8	case	_	_
-7	his	_	PRON	PRP$	_	8	nmod:poss	_	_
-8	astonishment	_	NOUN	NN	_	12	obl	_	_
-9	no	_	DET	DT	_	10	det	_	_
-10	bill	_	NOUN	NN	_	12	nsubj:pass	_	_
-11	was	_	VERB	VBD	_	12	aux:pass	_	_
-12	presented	_	VERB	VBN	_	3	ccomp	_	_
-13	to	_	ADP	IN	_	16	case	_	_
-14	the	_	DET	DT	_	16	det	_	_
-15	grand	_	ADJ	JJ	_	16	amod	_	_
-16	jury	_	NOUN	NN	_	12	obl	_	_
-17	against	_	ADP	IN	_	18	case	_	_
-18	him	_	PRON	PRP	_	12	obl	_	_
-19	.	_	PUNCT	.	_	3	punct	_	_
+2	answer	_	NOUN	NN	_	2	root	_	_
+3	to	_	ADP	IN	_	4	case	_	_
+4	this	_	DET	DT	_	2	nmod	_	_
+5	was	_	VERB	VBD	_	2	cop	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	that	_	ADP	IN	_	11	mark	_	_
+8	they	_	PRON	PRP	_	11	nsubj	_	_
+9	could	_	VERB	MD	_	11	aux	_	_
+10	not	_	ADV	RB	_	11	advmod	_	_
+11	secure	_	VERB	VB	_	2	nsubj	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	supply	_	NOUN	NN	_	11	obj	_	_
+14	at	_	ADP	IN	_	15	case	_	_
+15	home	_	NOUN	NN	_	13	nmod	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	time	_	NOUN	NN	_	11	obl	_	_
+18	of	_	ADP	IN	_	19	case	_	_
+19	war	_	NOUN	NN	_	17	nmod	_	_
+20	unless	_	ADP	IN	_	22	mark	_	_
+21	by	_	ADP	IN	_	22	mark	_	_
+22	imposing	_	VERB	VBG	_	11	advcl	_	_
+23	some	_	DET	DT	_	24	det	_	_
+24	tax	_	NOUN	NN	_	22	obj	_	_
+25	on	_	ADP	IN	_	26	case	_	_
+26	corn	_	NOUN	NN	_	24	nmod	_	_
+27	of	_	ADP	IN	_	29	case	_	_
+28	foreign	_	ADJ	JJ	_	29	amod	_	_
+29	growth	_	NOUN	NN	_	26	nmod	_	_
+30	.	_	PUNCT	.	_	5	punct	_	_
 

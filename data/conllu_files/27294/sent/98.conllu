@@ -1,0 +1,23 @@
+# sent_id = 98
+# text = Von besonderer Bedeutung ist für Deutschland neben der Außen- und Sicherheitspolitik im Konvent die bereits angesprochene Reform der Institutionen.
+1	Von	_	ADP	APPR	_	4	MO	_	_
+2	besonderer	_	ADJ	ADJA	_	3	NK	_	_
+3	Bedeutung	_	NOUN	NN	_	1	NK	_	_
+4	ist	_	VERB	VAFIN	_	0	--	_	_
+5	für	_	ADP	APPR	_	3	MNR	_	_
+6	Deutschland	_	PROPN	NE	_	5	NK	_	_
+7	neben	_	ADP	APPR	_	4	MO	_	_
+8	der	_	DET	ART	_	11	NK	_	_
+9	Außen-	_	X	TRUNC	_	10	CJ	_	_
+10	und	_	CONJ	KON	_	11	CD	_	_
+11	Sicherheitspolitik	_	NOUN	NN	_	7	NK	_	_
+12	im	_	ADP	APPRART	_	11	MNR	_	_
+13	Konvent	_	NOUN	NN	_	12	NK	_	_
+14	die	_	DET	ART	_	17	NK	_	_
+15	bereits	_	ADV	ADV	_	16	MO	_	_
+16	angesprochene	_	ADJ	ADJA	_	17	NK	_	_
+17	Reform	_	NOUN	NN	_	4	SB	_	_
+18	der	_	DET	ART	_	19	NK	_	_
+19	Institutionen	_	NOUN	NN	_	17	AG	_	_
+20	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

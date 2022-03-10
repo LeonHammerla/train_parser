@@ -1,8 +1,15 @@
 # sent_id = 217
-# text = Folgende Beobachtung spricht dafür:
-1	Folgende	_	ADJ	ADJA	_	2	NK	_	_
-2	Beobachtung	_	NOUN	NN	_	3	SB	_	_
-3	spricht	_	VERB	VVFIN	_	0	--	_	_
-4	dafür	_	ADV	PROAV	_	3	OP	_	_
-5	:	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = An unzugänglichen Standorten (Industriebrachen) können Einzelvorkommen übersehen worden sein.
+1	An	_	ADP	APPR	_	11	MO	_	_
+2	unzugänglichen	_	ADJ	ADJA	_	3	NK	_	_
+3	Standorten	_	NOUN	NN	_	1	NK	_	_
+4	(	_	PUNCT	$(	_	5	PUNCT	_	_
+5	Industriebrachen	_	NOUN	NN	_	3	APP	_	_
+6	)	_	PUNCT	$(	_	5	PUNCT	_	_
+7	können	_	VERB	VMFIN	_	0	--	_	_
+8	Einzelvorkommen	_	NOUN	NN	_	7	SB	_	_
+9	übersehen	_	VERB	VVPP	_	10	OC	_	_
+10	worden	_	VERB	VAPP	_	11	OC	_	_
+11	sein	_	VERB	VAINF	_	7	OC	_	_
+12	.	_	PUNCT	$.	_	7	PUNCT	_	_
 

@@ -1,8 +1,26 @@
 # sent_id = 16
-# text = Speculipastor bicolor, sp.
-1	Speculipastor	_	NOUN	NN	_	2	SB	_	_
-2	bicolor	_	VERB	VVFIN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	sp	_	X	XY	_	2	CJ	_	_
-5	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Aehnliche Fälle der Verbastadirung sind bei Fasanen vom Himalaya, Coracias indica und affinis und bei nordamerikanischen Spechten (Colaptes) beobachtet.
+1	Aehnliche	_	ADJ	ADJA	_	2	NK	_	_
+2	Fälle	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Verbastadirung	_	NOUN	NN	_	2	AG	_	_
+5	sind	_	VERB	VAFIN	_	0	--	_	_
+6	bei	_	ADP	APPR	_	22	MO	_	_
+7	Fasanen	_	NOUN	NN	_	6	NK	_	_
+8	vom	_	ADP	APPRART	_	7	PG	_	_
+9	Himalaya	_	NOUN	NN	_	8	NK	_	_
+10	,	_	PUNCT	$,	_	7	PUNCT	_	_
+11	Coracias	_	PROPN	NE	_	12	PNC	_	_
+12	indica	_	PROPN	NE	_	7	APP	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	affinis	_	PROPN	NE	_	13	CJ	_	_
+15	und	_	CONJ	KON	_	7	CD	_	_
+16	bei	_	ADP	APPR	_	15	CJ	_	_
+17	nordamerikanischen	_	ADJ	ADJA	_	18	NK	_	_
+18	Spechten	_	NOUN	NN	_	16	NK	_	_
+19	(	_	PUNCT	$(	_	20	PUNCT	_	_
+20	Colaptes	_	PROPN	NE	_	18	APP	_	_
+21	)	_	PUNCT	$(	_	20	PUNCT	_	_
+22	beobachtet	_	VERB	VVPP	_	5	OC	_	_
+23	.	_	PUNCT	$.	_	5	PUNCT	_	_
 

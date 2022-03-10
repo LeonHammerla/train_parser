@@ -1,40 +1,7 @@
 # sent_id = 145
-# text = Die Hauptverbreitung von Efeu und Stechpalme liegt nahe der atlantischen Küste mit ihren reichen Niederschlägen, wo die Warmwasserheizung des Golfstroms für milde Winter sorgt, welche beide Pflanzen mit ihren immergrünen Blättern zur Assimilation ausnützen.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Hauptverbreitung	_	NOUN	NN	_	7	SB	_	_
-3	von	_	ADP	APPR	_	2	PG	_	_
-4	Efeu	_	NOUN	NN	_	3	NK	_	_
-5	und	_	CONJ	KON	_	4	CD	_	_
-6	Stechpalme	_	NOUN	NN	_	5	CJ	_	_
-7	liegt	_	VERB	VVFIN	_	0	--	_	_
-8	nahe	_	ADP	APPR	_	7	MO	_	_
-9	der	_	DET	ART	_	11	NK	_	_
-10	atlantischen	_	ADJ	ADJA	_	11	NK	_	_
-11	Küste	_	NOUN	NN	_	8	NK	_	_
-12	mit	_	ADP	APPR	_	11	MNR	_	_
-13	ihren	_	PRON	PPOSAT	_	15	NK	_	_
-14	reichen	_	ADJ	ADJA	_	15	NK	_	_
-15	Niederschlägen	_	NOUN	NN	_	12	NK	_	_
-16	,	_	PUNCT	$,	_	15	PUNCT	_	_
-17	wo	_	PRON	PWAV	_	25	MO	_	_
-18	die	_	DET	ART	_	19	NK	_	_
-19	Warmwasserheizung	_	NOUN	NN	_	25	SB	_	_
-20	des	_	DET	ART	_	21	NK	_	_
-21	Golfstroms	_	NOUN	NN	_	19	AG	_	_
-22	für	_	ADP	APPR	_	25	OP	_	_
-23	milde	_	ADJ	ADJA	_	24	NK	_	_
-24	Winter	_	NOUN	NN	_	22	NK	_	_
-25	sorgt	_	VERB	VVFIN	_	11	RC	_	_
-26	,	_	PUNCT	$,	_	25	PUNCT	_	_
-27	welche	_	PRON	PRELS	_	36	OA	_	_
-28	beide	_	PRON	PIAT	_	29	NK	_	_
-29	Pflanzen	_	NOUN	NN	_	36	SB	_	_
-30	mit	_	ADP	APPR	_	36	MO	_	_
-31	ihren	_	PRON	PPOSAT	_	33	NK	_	_
-32	immergrünen	_	ADJ	ADJA	_	33	NK	_	_
-33	Blättern	_	NOUN	NN	_	30	NK	_	_
-34	zur	_	ADP	APPRART	_	36	MO	_	_
-35	Assimilation	_	NOUN	NN	_	34	NK	_	_
-36	ausnützen	_	VERB	VVINF	_	24	RC	_	_
-37	.	_	PUNCT	$.	_	7	PUNCT	_	_
+# text = in einem Fichtenbestand.
+1	in	_	ADP	APPR	_	0	--	_	_
+2	einem	_	DET	ART	_	3	NK	_	_
+3	Fichtenbestand	_	NOUN	NN	_	1	NK	_	_
+4	.	_	PUNCT	$.	_	1	PUNCT	_	_
 

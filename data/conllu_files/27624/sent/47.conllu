@@ -1,25 +1,30 @@
 # sent_id = 47
-# text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
-1	Ich	_	_	_	_	2	nsubj	_	_
-2	bitte	_	_	_	_	0	root	_	_
-3	diejenigen	_	_	_	_	4	det	_	_
-4	Abgeordneten	_	_	_	_	2	obj	_	_
-5	,	_	_	_	_	13	punct	_	_
-6	die	_	_	_	_	13	nsubj	_	_
-7	den	_	_	_	_	8	det	_	_
-8	Antrag	_	_	_	_	13	obj	_	_
-9	morgen	_	_	_	_	13	advmod	_	_
-10	auf	_	_	_	_	12	case	_	_
-11	die	_	_	_	_	12	det	_	_
-12	Tagesordnung	_	_	_	_	13	obl	_	_
-13	setzen	_	_	_	_	4	acl	_	_
-14	wollen	_	_	_	_	13	aux	_	_
-15	,	_	_	_	_	13	punct	_	_
-16	sich	_	_	_	_	21	obj	_	_
-17	von	_	_	_	_	19	case	_	_
-18	den	_	_	_	_	19	det	_	_
-19	Plätzen	_	_	_	_	21	obl	_	_
-20	zu	_	_	_	_	21	mark	_	_
-21	erheben	_	_	_	_	2	xcomp	_	_
-22	.	_	_	_	_	2	punct	_	_
+# text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
+1	Der	_	_	_	_	2	det	_	_
+2	Kampf	_	_	_	_	6	nsubj	_	_
+3	an	_	_	_	_	5	case	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Ruhr	_	_	_	_	2	nmod	_	_
+6	zeigt	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	17	punct	_	_
+8	daß	_	_	_	_	17	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Masse	_	_	_	_	17	nsubj	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Arbeiter	_	_	_	_	10	nmod	_	_
+13	und	_	_	_	_	14	cc	_	_
+14	Beamten	_	_	_	_	12	conj	_	_
+15	die	_	_	_	_	17	det	_	_
+16	breite	_	_	_	_	17	amod	_	_
+17	Grundlage	_	_	_	_	6	ccomp	_	_
+18	ist	_	_	_	_	17	cop	_	_
+19	,	_	_	_	_	26	punct	_	_
+20	auf	_	_	_	_	21	case	_	_
+21	der	_	_	_	_	26	obl	_	_
+22	Wirtschaft	_	_	_	_	26	nsubj	_	_
+23	und	_	_	_	_	24	cc	_	_
+24	Staat	_	_	_	_	22	conj	_	_
+25	sich	_	_	_	_	26	obj	_	_
+26	aufbauen	_	_	_	_	17	acl	_	_
+27	.	_	_	_	_	6	punct	_	_
 

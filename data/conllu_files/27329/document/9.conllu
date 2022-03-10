@@ -1,4 +1,4 @@
-# sent_id = 91
+# sent_id = 85
 # text = I think it is a very serious responsibility if the Government, after all the debates in the House, and the reports backed by such authority as I have indicated, do not yield to what I think is the almost unanimous wish of the House, that these committees should be set up this year.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	think	_	VERB	VBP	_	0	root	_	_
@@ -59,7 +59,7 @@
 57	year	_	NOUN	NN	_	54	obl:tmod	_	_
 58	.	_	PUNCT	.	_	2	punct	_	_
 
-# sent_id = 92
+# sent_id = 86
 # text = At by-elections, which are fairly frequent, it is always told the people by a certain section of candidates and their supporters that every increase in the cost of living, and every difficulty in procuring what is necessary for carrying on one's life, is due to the mismanagement of the Government in our finances.
 1	At	_	ADP	IN	_	4	case	_	_
 2	by	_	ADP	IN	_	4	compound	_	_
@@ -123,7 +123,7 @@
 60	finances	_	NOUN	NNS	_	54	nmod	_	_
 61	.	_	PUNCT	.	_	14	punct	_	_
 
-# sent_id = 93
+# sent_id = 87
 # text = Yet I venture to say, and I think everyone in this House will agree with me, that practically every man and woman throughout this country if they were asked would say that the real reform for which they were most anxious was a reduction in the cost of living and a decent assurance that it was not going to reach a yet higher level.
 1	Yet	_	ADV	RB	_	3	cc	_	_
 2	I	_	PRON	PRP	_	3	nsubj	_	_
@@ -193,7 +193,7 @@
 66	level	_	NOUN	NN	_	62	obj	_	_
 67	.	_	PUNCT	.	_	3	punct	_	_
 
-# sent_id = 94
+# sent_id = 88
 # text = I noted to-day that the right hon Gentleman, in introducing his Amendment, dealt with two different aspects of the question.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	noted	_	VERB	VBD	_	0	root	_	_
@@ -221,7 +221,7 @@
 24	question	_	NOUN	NN	_	21	nmod	_	_
 25	.	_	PUNCT	.	_	2	punct	_	_
 
-# sent_id = 95
+# sent_id = 89
 # text = They explain that they intend to set up District Mining Councils to be composed of 21 members.
 1	They	_	PRON	PRP	_	2	nsubj	_	_
 2	explain	_	VERB	VBP	_	0	root	_	_
@@ -242,7 +242,7 @@
 17	members	_	NOUN	NNS	_	14	obl	_	_
 18	.	_	PUNCT	.	_	2	punct	_	_
 
-# sent_id = 96
+# sent_id = 90
 # text = These rates will be given effect as from the 1st April last, and will be subject to review in two years' time.
 1	These	_	DET	DT	_	2	det	_	_
 2	rates	_	NOUN	NNS	_	5	nsubj:pass	_	_
@@ -270,7 +270,7 @@
 24	time	_	NOUN	NN	_	17	nmod	_	_
 25	.	_	PUNCT	.	_	5	punct	_	_
 
-# sent_id = 97
+# sent_id = 91
 # text = Friend is right, he will be doubly fortified.
 1	Friend	_	NOUN	NN	_	3	nsubj	_	_
 2	is	_	VERB	VBZ	_	3	cop	_	_
@@ -283,7 +283,7 @@
 9	fortified	_	ADJ	JJ	_	3	parataxis	_	_
 10	.	_	PUNCT	.	_	3	punct	_	_
 
-# sent_id = 98
+# sent_id = 92
 # text = The object of these schemes would be to prevent unemployment by those engaged in an industry, and, of course, that unemployment might in some cases be preventible.
 1	The	_	DET	DT	_	2	det	_	_
 2	object	_	NOUN	NN	_	7	nsubj	_	_
@@ -317,7 +317,7 @@
 30	preventible	_	ADJ	JJ	_	9	conj	_	_
 31	.	_	PUNCT	.	_	7	punct	_	_
 
-# sent_id = 99
+# sent_id = 93
 # text = In the case of these official receivers it is for them to make their own arrangements as to the number and pay of any assistants they may require.
 1	In	_	ADP	IN	_	3	case	_	_
 2	the	_	DET	DT	_	3	det	_	_
@@ -349,7 +349,7 @@
 28	require	_	VERB	VB	_	25	acl:relcl	_	_
 29	.	_	PUNCT	.	_	9	punct	_	_
 
-# sent_id = 100
+# sent_id = 94
 # text = I make a present to the Minister of Labour of the suggestion that he might carefully train a lot of demobilised officers for the legal and medical professions.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	make	_	VERB	VBP	_	0	root	_	_

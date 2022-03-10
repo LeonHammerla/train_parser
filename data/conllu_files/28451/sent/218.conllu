@@ -1,7 +1,43 @@
 # sent_id = 218
-# text = Fünf rufende Ind.
-1	Fünf	_	NUM	CARD	_	3	NK	_	_
-2	rufende	_	ADJ	ADJA	_	3	NK	_	_
-3	Ind	_	NOUN	NN	_	0	--	_	_
-4	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = In dieser Zeit war die Hohltaube jedoch im gesamten Erzgebirgsvorland ein sehr seltener Brutvogel, der im Gebiet des Bezirkes Chemnitz in den 1950er- bis 1970er- Jahren einen erheblichen Bestandsrückgang hinnehmen musste (Saemann 1976, Möckel 1981).
+1	In	_	ADP	APPR	_	4	MO	_	_
+2	dieser	_	PRON	PDAT	_	3	NK	_	_
+3	Zeit	_	NOUN	NN	_	1	NK	_	_
+4	war	_	VERB	VAFIN	_	0	--	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hohltaube	_	NOUN	NN	_	4	SB	_	_
+7	jedoch	_	ADV	ADV	_	4	MO	_	_
+8	im	_	ADP	APPRART	_	4	MO	_	_
+9	gesamten	_	ADJ	ADJA	_	10	NK	_	_
+10	Erzgebirgsvorland	_	NOUN	NN	_	8	NK	_	_
+11	ein	_	DET	ART	_	14	NK	_	_
+12	sehr	_	ADV	ADV	_	13	MO	_	_
+13	seltener	_	ADJ	ADJA	_	14	NK	_	_
+14	Brutvogel	_	NOUN	NN	_	4	PD	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	der	_	PRON	PRELS	_	32	SB	_	_
+17	im	_	ADP	APPRART	_	31	MO	_	_
+18	Gebiet	_	NOUN	NN	_	17	NK	_	_
+19	des	_	DET	ART	_	20	NK	_	_
+20	Bezirkes	_	NOUN	NN	_	18	AG	_	_
+21	Chemnitz	_	PROPN	NE	_	20	NK	_	_
+22	in	_	ADP	APPR	_	31	MO	_	_
+23	den	_	DET	ART	_	24	NK	_	_
+24	1950er-	_	NOUN	NN	_	22	NK	_	_
+25	bis	_	ADP	APPR	_	31	MO	_	_
+26	1970er-	_	NUM	CARD	_	25	NK	_	_
+27	Jahren	_	NOUN	NN	_	25	NK	_	_
+28	einen	_	DET	ART	_	30	NK	_	_
+29	erheblichen	_	ADJ	ADJA	_	30	NK	_	_
+30	Bestandsrückgang	_	NOUN	NN	_	31	OA	_	_
+31	hinnehmen	_	VERB	VVFIN	_	32	OC	_	_
+32	musste	_	ADJ	ADJA	_	14	RC	_	_
+33	(	_	PUNCT	$(	_	34	PUNCT	_	_
+34	Saemann	_	PROPN	NE	_	32	PAR	_	_
+35	1976	_	NUM	CARD	_	34	NK	_	_
+36	,	_	PUNCT	$,	_	34	PUNCT	_	_
+37	Möckel	_	NOUN	NN	_	34	CJ	_	_
+38	1981	_	NUM	CARD	_	37	NK	_	_
+39	)	_	PUNCT	$(	_	34	PUNCT	_	_
+40	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

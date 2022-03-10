@@ -1,29 +1,22 @@
 # sent_id = 190
-# text = Eragrostis pilosa dagegen, seit dem Jahre 1899 auf dem Bahnkörper zwischen Oftersheim und Hockenheim vorhanden, ist leider in den letzten Jahren wieder erloschen.
-1	Eragrostis	_	PROPN	NE	_	2	PNC	_	_
-2	pilosa	_	VERB	VVFIN	_	18	SB	_	_
-3	dagegen	_	ADV	PROAV	_	18	MO	_	_
+# text = Ich wiederhole es, daß man noch im Jahr 1793 die qanze schauerliche Pracht einer Urwaldbildung erblicken konnte.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	wiederhole	_	VERB	VVFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	OA	_	_
 4	,	_	PUNCT	$,	_	3	PUNCT	_	_
-5	seit	_	CONJ	KOUS	_	16	MO	_	_
-6	dem	_	DET	ART	_	7	NK	_	_
-7	Jahre	_	NOUN	NN	_	5	NK	_	_
-8	1899	_	NUM	CARD	_	7	NK	_	_
-9	auf	_	ADP	APPR	_	16	MO	_	_
-10	dem	_	DET	ART	_	11	NK	_	_
-11	Bahnkörper	_	NOUN	NN	_	9	NK	_	_
-12	zwischen	_	ADP	APPR	_	11	MNR	_	_
-13	Oftersheim	_	PROPN	NE	_	12	NK	_	_
-14	und	_	CONJ	KON	_	13	CD	_	_
-15	Hockenheim	_	PROPN	NE	_	14	CJ	_	_
-16	vorhanden	_	ADJ	ADJD	_	2	PAR	_	_
-17	,	_	PUNCT	$,	_	18	PUNCT	_	_
-18	ist	_	VERB	VAFIN	_	0	--	_	_
-19	leider	_	ADV	ADV	_	25	MO	_	_
-20	in	_	ADP	APPR	_	25	MO	_	_
-21	den	_	DET	ART	_	23	NK	_	_
-22	letzten	_	ADJ	ADJA	_	23	NK	_	_
-23	Jahren	_	NOUN	NN	_	20	NK	_	_
-24	wieder	_	ADV	ADV	_	25	MO	_	_
-25	erloschen	_	VERB	VVPP	_	18	PD	_	_
-26	.	_	PUNCT	$.	_	18	PUNCT	_	_
+5	daß	_	CONJ	KOUS	_	18	CP	_	_
+6	man	_	PRON	PIS	_	18	SB	_	_
+7	noch	_	ADV	ADV	_	8	MO	_	_
+8	im	_	ADP	APPRART	_	18	MO	_	_
+9	Jahr	_	NOUN	NN	_	8	NK	_	_
+10	1793	_	NUM	CARD	_	9	NK	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	qanze	_	ADJ	ADJA	_	14	NK	_	_
+13	schauerliche	_	ADJ	ADJA	_	14	NK	_	_
+14	Pracht	_	NOUN	NN	_	17	OA	_	_
+15	einer	_	DET	ART	_	16	NK	_	_
+16	Urwaldbildung	_	NOUN	NN	_	14	AG	_	_
+17	erblicken	_	VERB	VVINF	_	18	OC	_	_
+18	konnte	_	VERB	VMFIN	_	3	RE	_	_
+19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

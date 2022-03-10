@@ -1,5 +1,30 @@
 # sent_id = 74
-# text = Cypselus stictilaemus
-1	Cypselus	_	NOUN	NN	_	2	SB	_	_
-2	stictilaemus	_	NOUN	NN	_	0	--	_	_
+# text = Der Muschelkalk, der als nächstjüngeres Schichtenglied der Trias auf den Buntsandstein folgt, gliedert sich unter Beifügung der hauptsächlichsten petrographischen Merkmale von oben nach unten:
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Muschelkalk	_	NOUN	NN	_	15	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	der	_	PRON	PRELS	_	13	SB	_	_
+5	als	_	ADP	APPR	_	13	MO	_	_
+6	nächstjüngeres	_	ADJ	ADJA	_	7	NK	_	_
+7	Schichtenglied	_	NOUN	NN	_	5	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Trias	_	PROPN	NE	_	7	AG	_	_
+10	auf	_	ADP	APPR	_	13	OP	_	_
+11	den	_	DET	ART	_	12	NK	_	_
+12	Buntsandstein	_	NOUN	NN	_	10	NK	_	_
+13	folgt	_	VERB	VVFIN	_	2	RC	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	gliedert	_	VERB	VVFIN	_	0	--	_	_
+16	sich	_	PRON	PRF	_	15	OA	_	_
+17	unter	_	ADP	APPR	_	15	MO	_	_
+18	Beifügung	_	NOUN	NN	_	17	NK	_	_
+19	der	_	DET	ART	_	22	NK	_	_
+20	hauptsächlichsten	_	ADJ	ADJA	_	22	NK	_	_
+21	petrographischen	_	ADJ	ADJA	_	22	NK	_	_
+22	Merkmale	_	NOUN	NN	_	18	AG	_	_
+23	von	_	ADP	APPR	_	15	MO	_	_
+24	oben	_	ADV	ADV	_	23	NK	_	_
+25	nach	_	ADP	APPR	_	15	MO	_	_
+26	unten	_	ADV	ADV	_	25	NK	_	_
+27	:	_	PUNCT	$.	_	15	PUNCT	_	_
 

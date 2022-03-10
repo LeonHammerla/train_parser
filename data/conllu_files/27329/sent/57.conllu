@@ -1,34 +1,10 @@
 # sent_id = 57
-# text = Now we not only see the power but the use that is made of it; and events have shown that our neighbour can say one thing and mean another.
-1	Now	_	ADV	RB	_	5	advmod	_	_
-2	we	_	PRON	PRP	_	5	nsubj	_	_
-3	not	_	ADV	RB	_	4	advmod	_	_
-4	only	_	ADV	RB	_	5	cc:preconj	_	_
-5	see	_	VERB	VBP	_	0	root	_	_
-6	the	_	DET	DT	_	7	det	_	_
-7	power	_	NOUN	NN	_	5	obj	_	_
-8	but	_	CONJ	CC	_	10	cc	_	_
-9	the	_	DET	DT	_	10	det	_	_
-10	use	_	NOUN	NN	_	7	conj	_	_
-11	that	_	DET	WDT	_	13	nsubj:pass	_	_
-12	is	_	VERB	VBZ	_	13	aux:pass	_	_
-13	made	_	VERB	VBN	_	10	acl:relcl	_	_
-14	of	_	ADP	IN	_	15	case	_	_
-15	it	_	PRON	PRP	_	13	obl	_	_
-16	;	_	PUNCT	:	_	5	punct	_	_
-17	and	_	CONJ	CC	_	20	cc	_	_
-18	events	_	NOUN	NNS	_	20	nsubj	_	_
-19	have	_	VERB	VBP	_	20	aux	_	_
-20	shown	_	VERB	VBN	_	5	conj	_	_
-21	that	_	ADP	IN	_	25	mark	_	_
-22	our	_	PRON	PRP$	_	23	nmod:poss	_	_
-23	neighbour	_	NOUN	NN	_	25	nsubj	_	_
-24	can	_	VERB	MD	_	25	aux	_	_
-25	say	_	VERB	VB	_	20	ccomp	_	_
-26	one	_	NUM	CD	_	27	nummod	_	_
-27	thing	_	NOUN	NN	_	25	obj	_	_
-28	and	_	CONJ	CC	_	29	cc	_	_
-29	mean	_	VERB	VB	_	25	conj	_	_
-30	another	_	DET	DT	_	29	obj	_	_
-31	.	_	PUNCT	.	_	5	punct	_	_
+# text = Gentleman was held in the House.
+1	Gentleman	_	PROPN	NNP	_	3	nsubj:pass	_	_
+2	was	_	VERB	VBD	_	3	aux:pass	_	_
+3	held	_	VERB	VBN	_	0	root	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	House	_	PROPN	NNP	_	3	obl	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
 

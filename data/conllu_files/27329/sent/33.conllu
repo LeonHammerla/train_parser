@@ -1,20 +1,23 @@
 # sent_id = 33
-# text = You are striking a blow at a very admirable feature of working-class home life.
-1	You	_	PRON	PRP	_	3	nsubj	_	_
-2	are	_	VERB	VBP	_	3	aux	_	_
-3	striking	_	VERB	VBG	_	0	root	_	_
-4	a	_	DET	DT	_	5	det	_	_
-5	blow	_	NOUN	NN	_	3	obj	_	_
-6	at	_	ADP	IN	_	10	case	_	_
-7	a	_	DET	DT	_	10	det	_	_
-8	very	_	ADV	RB	_	9	advmod	_	_
-9	admirable	_	ADJ	JJ	_	10	amod	_	_
-10	feature	_	NOUN	NN	_	3	obl	_	_
-11	of	_	ADP	IN	_	16	case	_	_
-12	working	_	VERB	VBG	_	14	compound	_	_
-13	-	_	_	HYPH	_	14	punct	_	_
-14	class	_	NOUN	NN	_	15	nmod	_	_
-15	home	_	NOUN	NN	_	16	compound	_	_
-16	life	_	NOUN	NN	_	10	nmod	_	_
-17	.	_	PUNCT	.	_	3	punct	_	_
+# text = With regard to bread, nutrition experts have stressed the importance of wholemeal bread as compared with white bread.
+1	With	_	ADP	IN	_	2	case	_	_
+2	regard	_	NOUN	NN	_	9	obl	_	_
+3	to	_	ADP	IN	_	4	case	_	_
+4	bread	_	NOUN	NN	_	2	nmod	_	_
+5	,	_	PUNCT	,	_	9	punct	_	_
+6	nutrition	_	NOUN	NN	_	7	compound	_	_
+7	experts	_	NOUN	NNS	_	9	nsubj	_	_
+8	have	_	VERB	VBP	_	9	aux	_	_
+9	stressed	_	VERB	VBN	_	0	root	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	importance	_	NOUN	NN	_	9	obj	_	_
+12	of	_	ADP	IN	_	14	case	_	_
+13	wholemeal	_	NOUN	NN	_	14	amod	_	_
+14	bread	_	NOUN	NN	_	11	nmod	_	_
+15	as	_	ADP	IN	_	16	mark	_	_
+16	compared	_	VERB	VBN	_	14	acl	_	_
+17	with	_	ADP	IN	_	19	case	_	_
+18	white	_	ADJ	JJ	_	19	amod	_	_
+19	bread	_	NOUN	NN	_	16	obl	_	_
+20	.	_	PUNCT	.	_	9	punct	_	_
 

@@ -1,41 +1,14 @@
 # sent_id = 114
-# text = Nur die Kommunen selber haben die Kenntnis über die Machbarkeit von konkreten und den Einblick in die kommunalen Bedürfnisse, mit denen garantiert werden kann, dass die Eurodistrikte im Dienste der Bürgerinnen und Bürgern entwickelt werden.
-1	Nur	_	ADV	ADV	_	3	MO	_	_
-2	die	_	DET	ART	_	3	NK	_	_
-3	Kommunen	_	NOUN	NN	_	5	SB	_	_
-4	selber	_	ADV	ADV	_	3	MNR	_	_
-5	haben	_	VERB	VAFIN	_	0	--	_	_
-6	die	_	DET	ART	_	7	NK	_	_
-7	Kenntnis	_	NOUN	NN	_	5	OA	_	_
-8	über	_	ADP	APPR	_	7	OP	_	_
-9	die	_	DET	ART	_	10	NK	_	_
-10	Machbarkeit	_	NOUN	NN	_	8	NK	_	_
-11	von	_	ADP	APPR	_	10	PG	_	_
-12	konkreten	_	ADJ	ADJA	_	11	NK	_	_
-13	und	_	CONJ	KON	_	7	CD	_	_
-14	den	_	DET	ART	_	15	NK	_	_
-15	Einblick	_	NOUN	NN	_	13	CJ	_	_
-16	in	_	ADP	APPR	_	15	MNR	_	_
-17	die	_	DET	ART	_	19	NK	_	_
-18	kommunalen	_	ADJ	ADJA	_	19	NK	_	_
-19	Bedürfnisse	_	NOUN	NN	_	16	NK	_	_
-20	,	_	PUNCT	$,	_	10	PUNCT	_	_
-21	mit	_	ADP	APPR	_	23	MO	_	_
-22	denen	_	PRON	PRELS	_	21	NK	_	_
-23	garantiert	_	VERB	VVPP	_	24	OC	_	_
-24	werden	_	VERB	VAINF	_	25	OC	_	_
-25	kann	_	VERB	VMFIN	_	19	RC	_	_
-26	,	_	PUNCT	$,	_	25	PUNCT	_	_
-27	dass	_	CONJ	KOUS	_	37	CP	_	_
-28	die	_	DET	ART	_	29	NK	_	_
-29	Eurodistrikte	_	NOUN	NN	_	37	SB	_	_
-30	im	_	ADP	APPRART	_	36	MO	_	_
-31	Dienste	_	NOUN	NN	_	30	NK	_	_
-32	der	_	DET	ART	_	33	NK	_	_
-33	Bürgerinnen	_	NOUN	NN	_	31	AG	_	_
-34	und	_	CONJ	KON	_	33	CD	_	_
-35	Bürgern	_	NOUN	NN	_	34	CJ	_	_
-36	entwickelt	_	VERB	VVPP	_	37	OC	_	_
-37	werden	_	VERB	VAINF	_	23	OC	_	_
-38	.	_	PUNCT	$.	_	5	PUNCT	_	_
+# text = Ein Beispiel macht deutlich, wie der Minister Wahrheiten verschleiert.
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Beispiel	_	NOUN	NN	_	3	SB	_	_
+3	macht	_	VERB	VVFIN	_	0	--	_	_
+4	deutlich	_	ADJ	ADJD	_	3	MO	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	wie	_	PRON	PWAV	_	10	MO	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Minister	_	NOUN	NN	_	10	SB	_	_
+9	Wahrheiten	_	NOUN	NN	_	10	OA	_	_
+10	verschleiert	_	VERB	VVPP	_	3	OC	_	_
+11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

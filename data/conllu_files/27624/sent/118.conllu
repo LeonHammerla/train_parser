@@ -1,23 +1,24 @@
 # sent_id = 118
-# text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen; das haben Sie ja schon gehört.
-1	Nur	_	_	_	_	12	advmod	_	_
-2	ist	_	_	_	_	12	aux	_	_
-3	bei	_	_	_	_	5	case	_	_
-4	dieser	_	_	_	_	5	det	_	_
-5	Anfrage	_	_	_	_	12	obl	_	_
-6	der	_	_	_	_	7	det	_	_
-7	Schuß	_	_	_	_	12	nsubj	_	_
-8	für	_	_	_	_	9	case	_	_
-9	Sie	_	_	_	_	12	obl	_	_
-10	nach	_	_	_	_	11	case	_	_
-11	hinten	_	_	_	_	12	obl	_	_
-12	losgegangen	_	_	_	_	0	root	_	_
-13	;	_	_	_	_	19	punct	_	_
-14	das	_	_	_	_	19	obj	_	_
-15	haben	_	_	_	_	19	aux	_	_
-16	Sie	_	_	_	_	19	nsubj	_	_
-17	ja	_	_	_	_	18	advmod	_	_
-18	schon	_	_	_	_	19	advmod	_	_
-19	gehört	_	_	_	_	12	parataxis	_	_
-20	.	_	_	_	_	12	punct	_	_
+# text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
+1	Nun	_	_	_	_	2	advmod	_	_
+2	kommen	_	_	_	_	0	root	_	_
+3	Sie	_	_	_	_	2	nsubj	_	_
+4	mit	_	_	_	_	6	case	_	_
+5	einem	_	_	_	_	6	det	_	_
+6	Argument	_	_	_	_	2	obl	_	_
+7	,	_	_	_	_	15	punct	_	_
+8	das	_	_	_	_	15	obj	_	_
+9	man	_	_	_	_	15	nsubj	_	_
+10	in	_	_	_	_	12	case	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Öffentlichkeit	_	_	_	_	15	obl	_	_
+13	immer	_	_	_	_	14	advmod	_	_
+14	wieder	_	_	_	_	15	advmod	_	_
+15	hört	_	_	_	_	6	acl	_	_
+16	und	_	_	_	_	20	cc	_	_
+17	das	_	_	_	_	20	nsubj	_	_
+18	mich	_	_	_	_	20	obj	_	_
+19	eigentlich	_	_	_	_	20	advmod	_	_
+20	verwundert	_	_	_	_	15	conj	_	_
+21	.	_	_	_	_	2	punct	_	_
 

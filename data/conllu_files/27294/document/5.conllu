@@ -1,4 +1,4 @@
-# sent_id = 98
+# sent_id = 94
 # text = Der 17. Juni war früher der Tag der Deutschen Einheit.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	17.	_	ADJ	ADJA	_	3	NK	_	_
@@ -12,7 +12,7 @@
 10	Einheit	_	NOUN	NN	_	7	AG	_	_
 11	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 99
+# sent_id = 95
 # text = Sie sollten sich einmal mit den Erkenntnissen der Amerikaner in diesem Bereich beschäftigen.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	sollten	_	VERB	VMFIN	_	0	--	_	_
@@ -29,7 +29,7 @@
 13	beschäftigen	_	VERB	VVINF	_	2	OC	_	_
 14	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 100
+# sent_id = 96
 # text = Dieses müssen wir in Zukunft bei der Haushaltspolitik auch berücksichtigen.
 1	Dieses	_	PRON	PDS	_	10	OA	_	_
 2	müssen	_	VERB	VMFIN	_	0	--	_	_
@@ -43,7 +43,7 @@
 10	berücksichtigen	_	VERB	VVINF	_	2	OC	_	_
 11	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 101
+# sent_id = 97
 # text = Ihre Umsetzung wird auf europäischer Ebene durch das Visumsinformationssystem vorbereitet bzw. erfolgt bereits jetzt.
 1	Ihre	_	PRON	PPOSAT	_	2	NK	_	_
 2	Umsetzung	_	NOUN	NN	_	3	SB	_	_
@@ -61,7 +61,7 @@
 14	jetzt	_	ADV	ADV	_	12	MO	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 102
+# sent_id = 98
 # text = Von besonderer Bedeutung ist für Deutschland neben der Außen- und Sicherheitspolitik im Konvent die bereits angesprochene Reform der Institutionen.
 1	Von	_	ADP	APPR	_	4	MO	_	_
 2	besonderer	_	ADJ	ADJA	_	3	NK	_	_
@@ -84,7 +84,7 @@
 19	Institutionen	_	NOUN	NN	_	17	AG	_	_
 20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 103
+# sent_id = 99
 # text = Wir schlagen vor - dies war auch Teil unseres Wahl programms -, die Subventionen pauschal zu kürzen.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	schlagen	_	VERB	VVFIN	_	0	--	_	_
@@ -106,7 +106,7 @@
 18	kürzen	_	VERB	VVINF	_	2	OC	_	_
 19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 104
+# sent_id = 100
 # text = Wer wirklich Sorgen hat, arbeitslos ist oder eine Lehrstelle sucht, konnte sich dort vortrefflich wundern.
 1	Wer	_	PRON	PWS	_	4	SB	_	_
 2	wirklich	_	ADJ	ADJD	_	4	MO	_	_
@@ -127,7 +127,7 @@
 17	wundern	_	VERB	VVINF	_	13	OC	_	_
 18	.	_	PUNCT	$.	_	13	PUNCT	_	_
 
-# sent_id = 105
+# sent_id = 101
 # text = Für mich ist der Prototyp eines freiberuflich Tätigen ein sehr enger Freund von mir, der als Architekt arbeitet.
 1	Für	_	ADP	APPR	_	3	MO	_	_
 2	mich	_	PRON	PPER	_	1	NK	_	_
@@ -150,7 +150,7 @@
 19	arbeitet	_	VERB	VVFIN	_	12	RC	_	_
 20	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 106
+# sent_id = 102
 # text = Meine zweite Teilfrage geht dahin, dass die Europäische Union einmal angemahnt hat, dass eine zweite Förderung desselben Unternehmens unter Beihilfegesichtspunkten fragwürdig sei.
 1	Meine	_	PRON	PPOSAT	_	3	NK	_	_
 2	zweite	_	ADJ	ADJA	_	3	NK	_	_
@@ -178,7 +178,7 @@
 24	sei	_	VERB	VAFIN	_	12	OC	_	_
 25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 107
+# sent_id = 103
 # text = Es gewährt seinen Trägern Schutz gegen unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe der auf sie bezogenen, individualisierten oder individualisierbaren Daten.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	gewährt	_	VERB	VVFIN	_	0	--	_	_
@@ -205,7 +205,7 @@
 23	Daten	_	NOUN	NN	_	8	AG	_	_
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 108
+# sent_id = 104
 # text = Zur Transparenz in der Ausbildung gehört aber auch - und dies ist mir besonders wichtig -, dass die Berufsschulleistungen angemessen berücksichtigt werden.
 1	Zur	_	ADP	APPRART	_	6	OP	_	_
 2	Transparenz	_	NOUN	NN	_	1	NK	_	_
@@ -232,7 +232,7 @@
 23	werden	_	VERB	VAINF	_	6	SB	_	_
 24	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 109
+# sent_id = 105
 # text = Es ist, wie ich schon sagte, ein Instrument, mit dem der Verbraucher angeregt werden soll, sich kundig zu machen.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -259,7 +259,7 @@
 23	machen	_	VERB	VVINF	_	16	OC	_	_
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 110
+# sent_id = 106
 # text = Denn Auslandserfahrung, Austausch und Zusammenarbeit zwischen Studierenden aus den verschiedenen europäischen Ländern - das sage ich ausdrücklich - sind wichtige Faktoren für die Entwicklung eines Europas des Wissens.
 1	Denn	_	CONJ	KON	_	20	JU	_	_
 2	Auslandserfahrung	_	NOUN	NN	_	20	SB	_	_
@@ -292,7 +292,7 @@
 29	Wissens	_	NOUN	NN	_	27	AG	_	_
 30	.	_	PUNCT	$.	_	16	PUNCT	_	_
 
-# sent_id = 111
+# sent_id = 107
 # text = Die längeren Ladenöffnungszeiten werden von einem großen Teil der Kunden vor allem am Donnerstag und am Freitag angenommen, jedoch nur von einem kleinen Teil der Unternehmen.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	längeren	_	ADJ	ADJA	_	3	NK	_	_
@@ -323,7 +323,7 @@
 27	Unternehmen	_	NOUN	NN	_	25	AG	_	_
 28	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 112
+# sent_id = 108
 # text = Daneben haben wir mit den neuen Festzuschüssen auch für die Patientinnen und Patienten mehr Wahlfreiheit und Flexibilität in das System gebracht, sodass die neue Struktur vertretbar ist.
 1	Daneben	_	ADV	PROAV	_	21	MO	_	_
 2	haben	_	VERB	VAFIN	_	2	ROOT	_	_
@@ -355,7 +355,7 @@
 28	ist	_	VERB	VAFIN	_	2	MO	_	_
 29	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 113
+# sent_id = 109
 # text = Die französische Regierung will das reproduktive Klonen als Verbrechen nicht nur gegen die Menschlichkeit, sondern auch gegen die Menschheit ahnden und dafür drakonische Strafen verhängen.
 1	Die	_	DET	ART	_	3	NK	_	_
 2	französische	_	ADJ	ADJA	_	3	NK	_	_
@@ -385,7 +385,7 @@
 26	verhängen	_	VERB	VVFIN	_	22	CJ	_	_
 27	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 114
+# sent_id = 110
 # text = Nur die Kommunen selber haben die Kenntnis über die Machbarkeit von konkreten und den Einblick in die kommunalen Bedürfnisse, mit denen garantiert werden kann, dass die Eurodistrikte im Dienste der Bürgerinnen und Bürgern entwickelt werden.
 1	Nur	_	ADV	ADV	_	3	MO	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -426,7 +426,7 @@
 37	werden	_	VERB	VAINF	_	23	OC	_	_
 38	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 115
+# sent_id = 111
 # text = Spätestens seit dieser Kanzlerrede, seitdem in allen Kommentaren stand, dass alles das, was in diesem Land jetzt so mühsam hervorgebracht wird, eigentlich schon 1998 als richtig erkannt worden war, sollten Sie ruhig sein und uns nicht weiter beschimpfen.
 1	Spätestens	_	ADV	ADV	_	2	MO	_	_
 2	seit	_	ADP	APPR	_	35	MO	_	_
@@ -473,7 +473,7 @@
 43	beschimpfen	_	VERB	VVPP	_	39	CJ	_	_
 44	.	_	PUNCT	$.	_	35	PUNCT	_	_
 
-# sent_id = 116
+# sent_id = 112
 # text = Unter Buchstabe b empfiehlt der Ausschuss die Ablehnung des Antrags der Fraktion der FDP auf Drucksache 15 / 5477 mit dem Titel "Prekärer Haushaltslage entgegentreten - Nachtragshaushalt und Haushaltssicherungsgesetz vorlegen".
 1	Unter	_	ADP	APPR	_	4	MO	_	_
 2	Buchstabe	_	NOUN	NN	_	1	NK	_	_
@@ -509,7 +509,7 @@
 32	"	_	PUNCT	$(	_	31	PUNCT	_	_
 33	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 117
+# sent_id = 113
 # text = Diese Maßnahmen werden getroffen, aber die Entscheidung darüber, ob und, wenn ja, in welcher Form es weitergehen wird, wird erst getroffen, wenn validierte Ergebnisse vorliegen.
 1	Diese	_	PRON	PDAT	_	2	NK	_	_
 2	Maßnahmen	_	NOUN	NN	_	3	SB	_	_

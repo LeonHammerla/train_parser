@@ -1,24 +1,33 @@
 # sent_id = 87
-# text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Reichs-Gewerbeordnung	_	NOUN	NN	_	3	SB	_	_
-3	ermögliche	_	VERB	VVFIN	_	0	--	_	_
-4	dies	_	PRON	PDS	_	3	OA	_	_
-5	,	_	PUNCT	$,	_	3	PUNCT	_	_
-6	da	_	CONJ	KOUS	_	20	CP	_	_
-7	sie	_	PRON	PPER	_	20	SB	_	_
-8	keinerlei	_	PRON	PIAT	_	9	NK	_	_
-9	Befähigungsnachweis	_	NOUN	NN	_	20	OA	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	nicht	_	X	PTKNEG	_	13	NG	_	_
-12	einmal	_	ADV	ADV	_	11	MO	_	_
-13	Erlaubnis	_	NOUN	NN	_	20	OA	_	_
-14	der	_	DET	ART	_	15	NK	_	_
-15	Behörde	_	NOUN	NN	_	13	AG	_	_
-16	vor	_	ADP	APPR	_	20	MO	_	_
-17	Ausübung	_	NOUN	NN	_	16	NK	_	_
-18	des	_	DET	ART	_	19	NK	_	_
-19	Berufs	_	NOUN	NN	_	17	AG	_	_
-20	verlange	_	VERB	VVFIN	_	3	MO	_	_
-21	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Ich bedaure, daß die Reichsregierung meiner Anregung keine Folge geleistet hat, da fortgesetzt der deutsche Markt in ganz erheblichem Umfange von ausländischen Geldsuchern in Anspruch genommen wird.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	bedaure	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	daß	_	CONJ	KOUS	_	12	CP	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Reichsregierung	_	NOUN	NN	_	12	SB	_	_
+7	meiner	_	PRON	PPOSAT	_	8	NK	_	_
+8	Anregung	_	NOUN	NN	_	11	DA	_	_
+9	keine	_	PRON	PIAT	_	10	NK	_	_
+10	Folge	_	NOUN	NN	_	11	OA	_	_
+11	geleistet	_	VERB	VVPP	_	2	OC	_	_
+12	hat	_	VERB	VAFIN	_	2	OC	_	_
+13	,	_	PUNCT	$,	_	14	PUNCT	_	_
+14	da	_	CONJ	KOUS	_	29	CP	_	_
+15	fortgesetzt	_	VERB	VVPP	_	28	MO	_	_
+16	der	_	DET	ART	_	18	NK	_	_
+17	deutsche	_	ADJ	ADJA	_	18	NK	_	_
+18	Markt	_	NOUN	NN	_	29	SB	_	_
+19	in	_	ADP	APPR	_	28	MO	_	_
+20	ganz	_	ADV	ADV	_	21	MO	_	_
+21	erheblichem	_	ADJ	ADJA	_	22	NK	_	_
+22	Umfange	_	NOUN	NN	_	19	NK	_	_
+23	von	_	ADP	APPR	_	28	SBP	_	_
+24	ausländischen	_	ADJ	ADJA	_	25	NK	_	_
+25	Geldsuchern	_	NOUN	NN	_	23	NK	_	_
+26	in	_	ADP	APPR	_	28	CVC	_	_
+27	Anspruch	_	NOUN	NN	_	26	NK	_	_
+28	genommen	_	VERB	VVPP	_	29	OC	_	_
+29	wird	_	VERB	VAFIN	_	11	MO	_	_
+30	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

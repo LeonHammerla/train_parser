@@ -1,17 +1,19 @@
 # sent_id = 121
-# text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
-1	Es	_	PRON	PPER	_	2	SB	_	_
-2	lohnt	_	VERB	VVFIN	_	0	--	_	_
-3	sich	_	PRON	PRF	_	2	OA	_	_
-4	zweifellos	_	ADJ	ADJD	_	2	MO	_	_
-5	für	_	ADP	APPR	_	2	MO	_	_
-6	die	_	DET	ART	_	7	NK	_	_
-7	paar	_	PRON	PIAT	_	8	NK	_	_
-8	Raumfahrtunternehmen	_	NOUN	NN	_	5	NK	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	die	_	PRON	PRELS	_	13	SB	_	_
-11	die	_	DET	ART	_	12	NK	_	_
-12	Millionen-Aufträge	_	NOUN	NN	_	13	OA	_	_
-13	bekommen	_	VERB	VVFIN	_	8	RC	_	_
-14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Das scheint, wenn es um solche Prinzipien geht, überhaupt keine Rolle zu spielen.
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	scheint	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	wenn	_	CONJ	KOUS	_	9	CP	_	_
+5	es	_	PRON	PPER	_	9	EP	_	_
+6	um	_	ADP	APPR	_	9	OP	_	_
+7	solche	_	PRON	PIAT	_	8	NK	_	_
+8	Prinzipien	_	NOUN	NN	_	6	NK	_	_
+9	geht	_	VERB	VVFIN	_	2	MO	_	_
+10	,	_	PUNCT	$,	_	2	PUNCT	_	_
+11	überhaupt	_	ADV	ADV	_	13	MO	_	_
+12	keine	_	PRON	PIAT	_	13	NK	_	_
+13	Rolle	_	NOUN	NN	_	15	OA	_	_
+14	zu	_	X	PTKZU	_	15	PM	_	_
+15	spielen	_	VERB	VVINF	_	2	OC	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

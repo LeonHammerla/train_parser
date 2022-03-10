@@ -1,4 +1,4 @@
-# sent_id = 80
+# sent_id = 76
 # text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
 1	Das	_	PRON	PDS	_	2	SB	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -15,7 +15,7 @@
 13	hat	_	VERB	VAFIN	_	4	RC	_	_
 14	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 81
+# sent_id = 77
 # text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
 1	Für	_	ADP	APPR	_	7	MO	_	_
 2	die	_	DET	ART	_	4	NK	_	_
@@ -30,7 +30,7 @@
 11	Strafgesetzbuchs	_	NOUN	NN	_	9	AG	_	_
 12	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 82
+# sent_id = 78
 # text = Dort kann bei inneren Unruhen das Militär nur auf Requisition der Zivilbehörden eingreifen.
 1	Dort	_	ADV	ADV	_	2	MO	_	_
 2	kann	_	VERB	VMFIN	_	0	--	_	_
@@ -47,7 +47,7 @@
 13	eingreifen	_	VERB	VVFIN	_	2	OC	_	_
 14	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 83
+# sent_id = 79
 # text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	in	_	ADP	APPR	_	5	MO	_	_
@@ -68,7 +68,7 @@
 17	worden	_	VERB	VAPP	_	5	OC	_	_
 18	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 84
+# sent_id = 80
 # text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
 1	Aber	_	CONJ	KON	_	10	JU	_	_
 2	beim	_	ADP	APPRART	_	10	MO	_	_
@@ -91,7 +91,7 @@
 19	andeutete	_	VERB	VVFIN	_	10	MO	_	_
 20	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 85
+# sent_id = 81
 # text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Feststellung	_	NOUN	NN	_	3	SB	_	_
@@ -114,7 +114,7 @@
 19	Verlustes	_	NOUN	NN	_	17	AG	_	_
 20	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 86
+# sent_id = 82
 # text = Nun hat gestern der Herr Abgeordnete Graf v. Posadowsky ausgesprochen, das einzige, was helfen könne, sei eine großherzige Wohnungspolitik.
 1	Nun	_	ADV	ADV	_	10	MO	_	_
 2	hat	_	VERB	VAFIN	_	0	--	_	_
@@ -140,7 +140,7 @@
 22	Wohnungspolitik	_	NOUN	NN	_	19	SB	_	_
 23	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 87
+# sent_id = 83
 # text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Reichs-Gewerbeordnung	_	NOUN	NN	_	3	SB	_	_
@@ -164,7 +164,7 @@
 20	verlange	_	VERB	VVFIN	_	3	MO	_	_
 21	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 88
+# sent_id = 84
 # text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
 1	So	_	ADV	ADV	_	2	MO	_	_
 2	verteilen	_	VERB	VVFIN	_	0	--	_	_
@@ -192,7 +192,7 @@
 24	unten	_	ADV	ADV	_	23	NK	_	_
 25	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 89
+# sent_id = 85
 # text = Es ist da auf Seite 174 aus dem Inspektionsbezirk Breslau eine Kritik über die Porzellanarbeiter und die unter ihnen auftretenden ansteckenden Krankheiten vorhanden.
 1	Es	_	PRON	PPER	_	2	EP	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -219,7 +219,7 @@
 23	vorhanden	_	ADJ	ADJD	_	2	OC	_	_
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 90
+# sent_id = 86
 # text = Es sei unmöglich, sich nach Jahr und Tag ein zutreffendes Urteil darüber zu bilden, ob in einem weiter zurückliegenden Zeitpunkt Erziehungs- und Besserungsmaßregeln am Platze gewesen wären.
 1	Es	_	PRON	PPER	_	2	SB	_	_
 2	sei	_	VERB	VAFIN	_	0	--	_	_
@@ -252,7 +252,7 @@
 29	wären	_	VERB	VAFIN	_	13	RE	_	_
 30	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 91
+# sent_id = 87
 # text = Ich bedaure, daß die Reichsregierung meiner Anregung keine Folge geleistet hat, da fortgesetzt der deutsche Markt in ganz erheblichem Umfange von ausländischen Geldsuchern in Anspruch genommen wird.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	bedaure	_	VERB	VVFIN	_	0	--	_	_
@@ -285,7 +285,7 @@
 29	wird	_	VERB	VAFIN	_	11	MO	_	_
 30	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 92
+# sent_id = 88
 # text = Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers am Leistungsorte versteigern lassen und den Erlös hinterlegen.
 1	Ist	_	VERB	VAFIN	_	11	RE	_	_
 2	die	_	DET	ART	_	5	NK	_	_
@@ -318,7 +318,7 @@
 29	hinterlegen	_	VERB	VVINF	_	26	CJ	_	_
 30	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 93
+# sent_id = 89
 # text = Auch die Zuständigkeit des zukünftigen Kolontalgerichtshofes ist in der neuen Vorlage besser umgrenzt und genauer präzisiert worden, als das in der früheren Vorlage geschehen war.
 1	Auch	_	ADV	ADV	_	3	MO	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -348,7 +348,7 @@
 26	war	_	VERB	VAFIN	_	15	CC	_	_
 27	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 94
+# sent_id = 90
 # text = Zur Zeit ist diese ganze Angelegenheit abhängig von der Landesgesetzgebung, und während in den meisten deutschen Staaten mehr oder weniger strenge Bestimmungen über das Versicherungswesen vorhanden sind, giebt es andererseits einige Staaten, in denen derartige Bestimmungen vollständig fehlen.
 1	Zur	_	ADP	APPRART	_	3	MO	_	_
 2	Zeit	_	NOUN	NN	_	1	NK	_	_
@@ -393,7 +393,7 @@
 41	fehlen	_	VERB	VVFIN	_	34	RC	_	_
 42	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 95
+# sent_id = 91
 # text = Ich glaube, wenn die Bürgerschaft der Stadt, wie es mit Recht verlangt wird, Vertrauen zur Staatsregierung haben soll, kann auch die Staatsregierung der Bürgerschaft Vertrauen entgegenbringen, daß sie den Mann wählen wird, der für das Amt geeignet ist.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	glaube	_	VERB	VVFIN	_	0	--	_	_
@@ -441,7 +441,7 @@
 44	ist	_	VERB	VAFIN	_	35	RC	_	_
 45	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 96
+# sent_id = 92
 # text = Vielleicht denkt der Herr Reichskanzler auch daran, daß er als leitender Staatsmann in Preußen eine wichtige Pflicht zu erfüllen hat, die auf dem Gebiete des Ausbaues der Volksrechte liegt, daß er die Wahlreform durchzusetzen hat, die von dem Träger der Krone seinerzeit feierlich in Aussicht gestellt worden ist.
 1	Vielleicht	_	ADV	ADV	_	2	MO	_	_
 2	denkt	_	VERB	VVFIN	_	0	--	_	_
@@ -497,7 +497,7 @@
 52	ist	_	VERB	VAFIN	_	36	RC	_	_
 53	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 97
+# sent_id = 93
 # text = Die Gegenseitigkeitsverträge zwischen verschiedenen Knappschaftsvereinen und die Rückversicherungsverbände, welche man jetzt als Heilmittel zur Gesundung des Knappschaftswesens betrachtet, werden die Mißstände und Ungleichheiten der Leistungen, welche in den Knappschaftsvereinen bestehen, nicht aufheben können, da ihnen hierzu jedes gesetzliche Machtmittel fehlt.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Gegenseitigkeitsverträge	_	NOUN	NN	_	21	SB	_	_

@@ -1,25 +1,29 @@
 # sent_id = 153
-# text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
-1	Aus	_	_	_	_	3	case	_	_
+# text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
+1	Wenn	_	_	_	_	7	mark	_	_
 2	der	_	_	_	_	3	det	_	_
-3	Tabelle	_	_	_	_	4	obl	_	_
-4	geht	_	_	_	_	0	root	_	_
-5	hervor	_	_	_	_	4	compound:prt	_	_
-6	,	_	_	_	_	20	punct	_	_
-7	daß	_	_	_	_	20	mark	_	_
-8	allein	_	_	_	_	10	advmod	_	_
-9	im	_	_	_	_	10	case	_	_
-10	Zahre	_	_	_	_	20	obl	_	_
-11	1877	_	_	_	_	10	flat	_	_
-12	die	_	_	_	_	13	det	_	_
-13	Rinderpest	_	_	_	_	20	nsubj	_	_
-14	in	_	_	_	_	16	case	_	_
-15	54	_	_	_	_	16	nummod	_	_
-16	Ortschaften	_	_	_	_	19	nmod	_	_
-17	in	_	_	_	_	19	case	_	_
-18	130	_	_	_	_	19	nummod	_	_
-19	Gehöften	_	_	_	_	20	obl	_	_
-20	vorgekommen	_	_	_	_	4	ccomp	_	_
-21	ist	_	_	_	_	20	aux	_	_
-22	.	_	_	_	_	4	punct	_	_
+3	Redakteur	_	_	_	_	7	nsubj	_	_
+4	eine	_	_	_	_	6	det	_	_
+5	solche	_	_	_	_	6	amod	_	_
+6	Anordnung	_	_	_	_	7	obj	_	_
+7	trifft	_	_	_	_	16	advcl	_	_
+8	,	_	_	_	_	12	punct	_	_
+9	und	_	_	_	_	12	cc	_	_
+10	wenn	_	_	_	_	12	mark	_	_
+11	diese	_	_	_	_	12	nsubj:pass	_	_
+12	befolgt	_	_	_	_	7	conj	_	_
+13	wird	_	_	_	_	12	aux:pass	_	_
+14	,	_	_	_	_	7	punct	_	_
+15	dann	_	_	_	_	16	advmod	_	_
+16	weiß	_	_	_	_	0	root	_	_
+17	ich	_	_	_	_	16	nsubj	_	_
+18	nicht	_	_	_	_	16	advmod	_	_
+19	,	_	_	_	_	24	punct	_	_
+20	wie	_	_	_	_	24	advmod	_	_
+21	er	_	_	_	_	24	nsubj	_	_
+22	einer	_	_	_	_	23	det	_	_
+23	Bestrafung	_	_	_	_	24	iobj	_	_
+24	verfallen	_	_	_	_	16	ccomp	_	_
+25	sollte	_	_	_	_	24	aux	_	_
+26	.	_	_	_	_	16	punct	_	_
 

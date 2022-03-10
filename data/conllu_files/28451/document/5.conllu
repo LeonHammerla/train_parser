@@ -1,4 +1,4 @@
-# sent_id = 202
+# sent_id = 133
 # text = Die Turteltaube besiedelt in geringer Dichte fast ausschließlich den Erzgebirgsnordrand im Südosten von Chemnitz.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -16,7 +16,7 @@
 14	Chemnitz	_	PROPN	NE	_	13	NK	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 203
+# sent_id = 134
 # text = Sie lebt dort in den Randbereichen der Wälder, an Lichtungsrändern und in Stangenhölzern mit aufgelockerter Gehölzstruktur.
 1	Sie	_	PRON	PPER	_	2	SB	_	_
 2	lebt	_	VERB	VVFIN	_	0	--	_	_
@@ -37,7 +37,7 @@
 17	Gehölzstruktur	_	NOUN	NN	_	15	NK	_	_
 18	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 204
+# sent_id = 135
 # text = Weitere Vorkommen befinden sich besonders im Eubaer Raum in Feldgehölzen und auf dem ehemaligen TUP Euba, hier in einem lichten Sandbirkenbestand.
 1	Weitere	_	ADJ	ADJA	_	2	NK	_	_
 2	Vorkommen	_	NOUN	NN	_	3	SB	_	_
@@ -63,7 +63,7 @@
 22	Sandbirkenbestand	_	NOUN	NN	_	19	NK	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 205
+# sent_id = 136
 # text = Aus anderen Wäldern am Siedlungsrand (z. B. Crimmitschauer Wald) liegen nur Einzelbeobachtungen von wahrscheinlich durchziehenden Vögeln vor.
 1	Aus	_	ADP	APPR	_	12	MO	_	_
 2	anderen	_	ADJ	ADJA	_	3	NK	_	_
@@ -86,7 +86,7 @@
 19	vor	_	VERB	PTKVZ	_	12	SVP	_	_
 20	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 206
+# sent_id = 137
 # text = Auch ein Großteil der halboffenen Feldflur (Draisdorf, Ebersdorf) wie auch der bebaute Bereich ist nicht besiedelt.
 1	Auch	_	ADV	ADV	_	3	MO	_	_
 2	ein	_	DET	ART	_	3	NK	_	_
@@ -109,7 +109,7 @@
 19	besiedelt	_	VERB	VVPP	_	17	PD	_	_
 20	.	_	PUNCT	$.	_	17	PUNCT	_	_
 
-# sent_id = 207
+# sent_id = 138
 # text = Auffälligerweise lagen die Reviere im Kartierungszeitraum fast nur in Höhenlagen oberhalb 400 m ü. NN.
 1	Auffälligerweise	_	NOUN	NN	_	2	MO	_	_
 2	lagen	_	VERB	VVFIN	_	0	--	_	_
@@ -128,7 +128,7 @@
 15	NN	_	PROPN	NE	_	14	NK	_	_
 16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 208
+# sent_id = 139
 # text = Ganz im Gegensatz dazu brütete die Turteltaube bis 1950 in Sachsen nur in Lagen bis 300 m ü. NN (Heyder 1952).
 1	Ganz	_	ADV	ADV	_	2	MO	_	_
 2	im	_	ADP	APPRART	_	5	MO	_	_
@@ -155,14 +155,14 @@
 23	)	_	PUNCT	$(	_	21	PUNCT	_	_
 24	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 209
+# sent_id = 140
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 210
+# sent_id = 141
 # text = Die Turteltaube unterliegt jährlich und lokal ziemlichen Bestandsschwankungen (Weise et al. 1998), was eine Einschätzung des Bestandes erschwert.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Turteltaube	_	NOUN	NN	_	3	SB	_	_
@@ -187,7 +187,7 @@
 21	erschwert	_	VERB	VVPP	_	8	RC	_	_
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 211
+# sent_id = 142
 # text = Bereits Henker (1925) zählt sie zu den seltenen Brutvögeln Mittelsachsens.
 1	Bereits	_	ADV	ADV	_	2	MO	_	_
 2	Henker	_	NOUN	NN	_	6	SB	_	_
@@ -203,7 +203,7 @@
 12	Mittelsachsens	_	NOUN	NN	_	11	AG	_	_
 13	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 212
+# sent_id = 143
 # text = Saemann (1970a) deutet für die 1960er-Jahre lediglich die Möglichkeit des Brütens in Chemnitz an, wobei er dies u. a. auf eine Beobachtung im Schwarzwald bei Adelsberg stützt:
 1	Saemann	_	PROPN	NE	_	5	SB	_	_
 2	(	_	PUNCT	$(	_	3	PUNCT	_	_
@@ -237,7 +237,7 @@
 30	stützt	_	VERB	VVFIN	_	5	MO	_	_
 31	:	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 213
+# sent_id = 144
 # text = G. RINNHOFER und F. Neubauer verhörten dort am 31.5.1964 ein Ind.
 1	G.	_	PROPN	NE	_	2	PNC	_	_
 2	RINNHOFER	_	PROPN	NE	_	6	SB	_	_
@@ -252,14 +252,14 @@
 11	Ind	_	NOUN	NN	_	6	OA	_	_
 12	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 214
+# sent_id = 145
 # text = in einem Fichtenbestand.
 1	in	_	ADP	APPR	_	0	--	_	_
 2	einem	_	DET	ART	_	3	NK	_	_
 3	Fichtenbestand	_	NOUN	NN	_	1	NK	_	_
 4	.	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 215
+# sent_id = 146
 # text = Etliche Nachweise rufender Turteltauben wurden Anfang der 1990er-Jahre aus diesem auch im Kartierungszeitraum besiedelten Gebiet erbracht.
 1	Etliche	_	PRON	PIAT	_	2	NK	_	_
 2	Nachweise	_	NOUN	NN	_	5	SB	_	_
@@ -279,7 +279,7 @@
 16	erbracht	_	VERB	VVPP	_	5	OC	_	_
 17	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 216
+# sent_id = 147
 # text = Wahrscheinlich waren sie in dieser Zeit sogar etwas häufiger.
 1	Wahrscheinlich	_	ADJ	ADJD	_	2	MO	_	_
 2	waren	_	VERB	VAFIN	_	0	--	_	_
@@ -292,7 +292,7 @@
 9	häufiger	_	ADJ	ADJD	_	2	PD	_	_
 10	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 217
+# sent_id = 148
 # text = Folgende Beobachtung spricht dafür:
 1	Folgende	_	ADJ	ADJA	_	2	NK	_	_
 2	Beobachtung	_	NOUN	NN	_	3	SB	_	_
@@ -300,32 +300,14 @@
 4	dafür	_	ADV	PROAV	_	3	OP	_	_
 5	:	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 218
+# sent_id = 149
 # text = Fünf rufende Ind.
 1	Fünf	_	NUM	CARD	_	3	NK	_	_
 2	rufende	_	ADJ	ADJA	_	3	NK	_	_
 3	Ind	_	NOUN	NN	_	0	--	_	_
 4	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 219
-# text = am 9.7.1993 in lichten Waldflächen nördlich des Hammergrundes im Schwarzwald (E. Flöter).
-1	am	_	ADP	APPRART	_	3	MO	_	_
-2	9.7.1993	_	PROPN	NE	_	1	NK	_	_
-3	in	_	ADP	APPR	_	3	ROOT	_	_
-4	lichten	_	ADJ	ADJA	_	5	NK	_	_
-5	Waldflächen	_	NOUN	NN	_	3	NK	_	_
-6	nördlich	_	ADJ	ADJD	_	5	MO	_	_
-7	des	_	DET	ART	_	8	NK	_	_
-8	Hammergrundes	_	NOUN	NN	_	6	AG	_	_
-9	im	_	ADP	APPRART	_	8	MNR	_	_
-10	Schwarzwald	_	PROPN	NE	_	9	NK	_	_
-11	(	_	PUNCT	$(	_	13	PUNCT	_	_
-12	E.	_	PROPN	NE	_	13	PNC	_	_
-13	Flöter	_	NOUN	NN	_	10	PAR	_	_
-14	)	_	PUNCT	$(	_	13	PUNCT	_	_
-15	.	_	PUNCT	$.	_	6	PUNCT	_	_
-
-# sent_id = 220
+# sent_id = 150
 # text = Auch im Zeisigwald wurde 1993 ein Revier gefunden, im Struthwald waren es am 20.5.1993 sieben (E. Flöter).
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	im	_	ADP	APPRART	_	8	MO	_	_
@@ -349,7 +331,7 @@
 20	)	_	PUNCT	$(	_	19	PUNCT	_	_
 21	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 221
+# sent_id = 151
 # text = Bis Ende der 1990er-Jahre scheint der Bestand wieder abgenommen zu haben.
 1	Bis	_	ADP	APPR	_	11	MO	_	_
 2	Ende	_	NOUN	NN	_	1	NK	_	_
@@ -364,7 +346,7 @@
 11	haben	_	VERB	VAINF	_	5	OC	_	_
 12	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 222
+# sent_id = 152
 # text = Auch für den Rabensteiner Wald berichtet J. Frölich nach dem häufigeren Auftreten der Turteltaube in den 1980er- bis Anfang der 1990er-Jahre über ihren Rückgang in der nachfolgenden Zeit.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	für	_	ADP	APPR	_	6	MO	_	_
@@ -396,39 +378,14 @@
 28	Zeit	_	NOUN	NN	_	25	NK	_	_
 29	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 223
+# sent_id = 153
 # text = Gefährdung und Schutz:
 1	Gefährdung	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Schutz	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 224
-# text = Sicherlich kommt es auch bei der Turteltaube durch die Intensivierung der Landwirtschaft zur Beeinträchtigung der Nutzbarkeit der Felder als Nahrungshabi- tat.
-1	Sicherlich	_	ADV	ADV	_	2	MO	_	_
-2	kommt	_	VERB	VVFIN	_	0	--	_	_
-3	es	_	PRON	PPER	_	2	EP	_	_
-4	auch	_	ADV	ADV	_	5	MO	_	_
-5	bei	_	ADP	APPR	_	2	MO	_	_
-6	der	_	DET	ART	_	7	NK	_	_
-7	Turteltaube	_	NOUN	NN	_	5	NK	_	_
-8	durch	_	ADP	APPR	_	7	MNR	_	_
-9	die	_	DET	ART	_	10	NK	_	_
-10	Intensivierung	_	NOUN	NN	_	8	NK	_	_
-11	der	_	DET	ART	_	12	NK	_	_
-12	Landwirtschaft	_	NOUN	NN	_	10	AG	_	_
-13	zur	_	ADP	APPRART	_	10	MNR	_	_
-14	Beeinträchtigung	_	NOUN	NN	_	13	NK	_	_
-15	der	_	DET	ART	_	16	NK	_	_
-16	Nutzbarkeit	_	NOUN	NN	_	14	AG	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Felder	_	NOUN	NN	_	16	AG	_	_
-19	als	_	ADP	APPR	_	21	MO	_	_
-20	Nahrungshabi-	_	X	TRUNC	_	19	NK	_	_
-21	tat	_	VERB	VVFIN	_	2	MO	_	_
-22	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 225
+# sent_id = 154
 # text = Aus diesem Grund fehlt sie vielleicht in den Feldgehölzen im Norden der Stadt, die im Sommer oft von hohen, dicht bewachsenen Feldkulturen (vor allem Raps, Mais, Wintergetreide) umgeben sind.
 1	Aus	_	ADP	APPR	_	4	MO	_	_
 2	diesem	_	PRON	PDAT	_	3	NK	_	_
@@ -467,7 +424,7 @@
 35	sind	_	VERB	VAFIN	_	9	RC	_	_
 36	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 226
+# sent_id = 155
 # text = Bestandsfördernd würde daher eine extensivere Landbewirtschaftung wirken.
 1	Bestandsfördernd	_	ADJ	ADJD	_	7	MO	_	_
 2	würde	_	VERB	VAFIN	_	0	--	_	_
@@ -478,7 +435,7 @@
 7	wirken	_	VERB	VVINF	_	2	OC	_	_
 8	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 227
+# sent_id = 156
 # text = Grundsätzlich ist bei dieser Art nur von Revieren zu sprechen, da in der Kartierungsperiode und in den vorangegangenen Jahren kein Nestfund oder anderer D-Nachweis gelang und damit nicht generell auf „Brutpaare" geschlossen werden kann.
 1	Grundsätzlich	_	ADJ	ADJD	_	10	MO	_	_
 2	ist	_	VERB	VAFIN	_	0	--	_	_
@@ -519,59 +476,14 @@
 37	kann	_	VERB	VMFIN	_	27	CJ	_	_
 38	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 228
-# text = Qualitative Kartierung: A B C D Gesamt Raster
-1	Qualitative	_	ADJ	ADJA	_	2	NK	_	_
-2	Kartierung	_	NOUN	NN	_	0	--	_	_
-3	:	_	PUNCT	$.	_	2	PUNCT	_	_
-4	A	_	X	XY	_	8	PNC	_	_
-5	B	_	X	XY	_	8	PNC	_	_
-6	C	_	X	XY	_	8	PNC	_	_
-7	D	_	X	XY	_	8	PNC	_	_
-8	Gesamt	_	PROPN	NE	_	2	SB	_	_
-9	Raster	_	NOUN	NN	_	8	NK	_	_
-
-# sent_id = 229
-# text = 4 16 7 0 27 % 2,1 8,5 3,7 0 14,4
-Flöter et al.
-1	4	_	NUM	CARD	_	5	NMC	_	_
-2	16	_	NUM	CARD	_	5	NMC	_	_
-3	7	_	NUM	CARD	_	5	NMC	_	_
-4	0	_	NUM	CARD	_	5	NMC	_	_
-5	27	_	NUM	CARD	_	6	NK	_	_
-6	%	_	NOUN	NN	_	0	--	_	_
-7	2,1	_	NUM	CARD	_	11	NMC	_	_
-8	8,5	_	NUM	CARD	_	10	NMC	_	_
-9	3,7	_	NUM	CARD	_	10	NMC	_	_
-10	0	_	NUM	CARD	_	11	NMC	_	_
-11	14,4	_	NUM	CARD	_	12	NK	_	_
-12	Flöter	_	NOUN	NN	_	6	NK	_	_
-13	et	_	X	FM	_	14	PNC	_	_
-14	al.	_	X	FM	_	12	NK	_	_
-
-# sent_id = 230
-# text = : Brutvogelatlas der Stadt Chemnitz 95 Turteltaube Streptopelia turtur J ;).
-1	:	_	PUNCT	$.	_	2	PUNCT	_	_
-2	Brutvogelatlas	_	NOUN	NN	_	0	--	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Stadt	_	NOUN	NN	_	2	AG	_	_
-5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
-6	95	_	NUM	CARD	_	7	NK	_	_
-7	Turteltaube	_	NOUN	NN	_	2	OA	_	_
-8	Streptopelia	_	PROPN	NE	_	9	AG	_	_
-9	turtur	_	NOUN	NN	_	7	NK	_	_
-10	J	_	X	XY	_	11	PNC	_	_
-11	;)	_	X	XY	_	9	NK	_	_
-12	.	_	PUNCT	$.	_	2	PUNCT	_	_
-
-# sent_id = 231
+# sent_id = 157
 # text = Bestand und Bestandsentwicklung:
 1	Bestand	_	NOUN	NN	_	0	--	_	_
 2	und	_	CONJ	KON	_	1	CD	_	_
 3	Bestandsentwicklung	_	NOUN	NN	_	2	CJ	_	_
 4	:	_	PUNCT	$.	_	1	PUNCT	_	_
 
-# sent_id = 232
+# sent_id = 158
 # text = Der Bestand rufender Männchen wurde für den Kartierungszeitraum auf 20-30 Vögel geschätzt.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Bestand	_	NOUN	NN	_	5	SB	_	_
@@ -589,7 +501,7 @@ Flöter et al.
 14	geschätzt	_	VERB	VVPP	_	5	OC	_	_
 15	.	_	PUNCT	$.	_	5	PUNCT	_	_
 
-# sent_id = 233
+# sent_id = 159
 # text = Im Kartierungszeitraum war dies vielleicht der Sumpfrohrsänger, da Kuckucke oft in brenn- nesselreichen Habitaten angetroffen wurden.
 1	Im	_	ADP	APPRART	_	3	MO	_	_
 2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
@@ -610,7 +522,7 @@ Flöter et al.
 17	wurden	_	VERB	VAFIN	_	3	MO	_	_
 18	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 234
+# sent_id = 160
 # text = Für die 1960er-Jahre vermutet Saemann (1970a) auf Grund der damaligen Verbreitung des Kuckucks die Bachstelze als Hauptwirtsvogel.
 1	Für	_	ADP	APPR	_	4	MO	_	_
 2	die	_	DET	ART	_	3	NK	_	_
@@ -633,7 +545,7 @@ Flöter et al.
 19	Hauptwirtsvogel	_	NOUN	NN	_	18	NK	_	_
 20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 235
+# sent_id = 161
 # text = Im Kartierungszeitraum dürfte er wieder ungefähr dem der 1960er-Jahre entsprechen.
 1	Im	_	ADP	APPRART	_	3	MO	_	_
 2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
@@ -647,7 +559,7 @@ Flöter et al.
 10	entsprechen	_	VERB	VVFIN	_	3	OC	_	_
 11	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 236
+# sent_id = 162
 # text = Auch das zeitweise Entstehen etlicher Ruderalflächen in den 1990er-Jahren, die den Bestand potenzieller Wirtsvögel begünstigten (z. B. Sumpfrohrsänger), haben wahrscheinlich zur Bestandserholung beigetragen.
 1	Auch	_	ADV	ADV	_	4	MO	_	_
 2	das	_	DET	ART	_	4	NK	_	_
@@ -678,13 +590,13 @@ Flöter et al.
 27	beigetragen	_	VERB	VVPP	_	23	OC	_	_
 28	.	_	PUNCT	$.	_	23	PUNCT	_	_
 
-# sent_id = 237
+# sent_id = 163
 # text = Methodische Bemerkungen:
 1	Methodische	_	ADJ	ADJA	_	2	NK	_	_
 2	Bemerkungen	_	NOUN	NN	_	0	--	_	_
 3	:	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 238
+# sent_id = 164
 # text = Der Kuckuck gehört zu den Arten, die im Bestand sehr leicht überschätzt werden.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
@@ -702,7 +614,7 @@ Flöter et al.
 14	werden	_	VERB	VAINF	_	6	RC	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 239
+# sent_id = 165
 # text = Generell würde auch dem Kuckuck eine Extensivierung der Landwirtschaft (z. B. Verringerung des Biozideinsatzes, vgl. Bauer & Berthold 1996) helfen.
 1	Generell	_	NOUN	NN	_	23	MO	_	_
 2	würde	_	VERB	VAFIN	_	0	--	_	_
@@ -729,7 +641,7 @@ Flöter et al.
 23	helfen	_	VERB	VVINF	_	2	OC	_	_
 24	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 240
+# sent_id = 166
 # text = Der Kuckuck besiedelt in Chemnitz vor allem reich strukturiertes, halboffenes Gelände.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
@@ -745,67 +657,7 @@ Flöter et al.
 12	Gelände	_	NOUN	NN	_	3	OA	_	_
 13	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 241
-# text = Weitgehend ohne Vorkommen sind das dichter bebaute Stadtgebiet (z. B. Wohngebiete) und die höheren Lagen des Erzgebirgsnordran- des sowie teilweise die offene Feldflur.
-1	Weitgehend	_	ADJ	ADJD	_	4	MO	_	_
-2	ohne	_	ADP	APPR	_	1	MO	_	_
-3	Vorkommen	_	NOUN	NN	_	2	NK	_	_
-4	sind	_	VERB	VAFIN	_	0	--	_	_
-5	das	_	DET	ART	_	6	NK	_	_
-6	dichter	_	ADJ	ADJA	_	8	NK	_	_
-7	bebaute	_	ADJ	ADJA	_	8	NK	_	_
-8	Stadtgebiet	_	NOUN	NN	_	4	SB	_	_
-9	(	_	PUNCT	$(	_	12	PUNCT	_	_
-10	z.	_	ADP	APPRART	_	12	MO	_	_
-11	B.	_	NOUN	NN	_	10	NK	_	_
-12	Wohngebiete	_	NOUN	NN	_	8	PAR	_	_
-13	)	_	PUNCT	$(	_	12	PUNCT	_	_
-14	und	_	CONJ	KON	_	8	CD	_	_
-15	die	_	DET	ART	_	17	NK	_	_
-16	höheren	_	ADJ	ADJA	_	17	NK	_	_
-17	Lagen	_	NOUN	NN	_	14	CJ	_	_
-18	des	_	DET	ART	_	20	NK	_	_
-19	Erzgebirgsnordran-	_	X	TRUNC	_	20	ADC	_	_
-20	des	_	DET	ART	_	17	AG	_	_
-21	sowie	_	CONJ	KON	_	4	CD	_	_
-22	teilweise	_	ADV	ADV	_	25	MO	_	_
-23	die	_	DET	ART	_	25	NK	_	_
-24	offene	_	ADJ	ADJA	_	25	NK	_	_
-25	Feldflur	_	NOUN	NN	_	21	CJ	_	_
-26	.	_	PUNCT	$.	_	4	PUNCT	_	_
-
-# sent_id = 242
-# text = Auch das zeitweise Entstehen etlicher Ruderalflächen in den 1990er-Jahren, die den Bestand potenzieller Wirtsvögel begünstigten (z. B. Sumpfrohrsänger), haben wahrscheinlich zur Bestandserholung beigetragen.
-1	Auch	_	ADV	ADV	_	4	MO	_	_
-2	das	_	DET	ART	_	4	NK	_	_
-3	zeitweise	_	ADV	ADV	_	4	MO	_	_
-4	Entstehen	_	NOUN	NN	_	23	SB	_	_
-5	etlicher	_	ADJ	ADJA	_	6	NK	_	_
-6	Ruderalflächen	_	NOUN	NN	_	4	AG	_	_
-7	in	_	ADP	APPR	_	6	MNR	_	_
-8	den	_	DET	ART	_	9	NK	_	_
-9	1990er-Jahren	_	NOUN	NN	_	7	NK	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	die	_	PRON	PRELS	_	16	SB	_	_
-12	den	_	DET	ART	_	13	NK	_	_
-13	Bestand	_	NOUN	NN	_	16	OA	_	_
-14	potenzieller	_	ADJ	ADJA	_	15	NK	_	_
-15	Wirtsvögel	_	NOUN	NN	_	13	AG	_	_
-16	begünstigten	_	VERB	VVFIN	_	9	RC	_	_
-17	(	_	PUNCT	$(	_	20	PUNCT	_	_
-18	z.	_	ADP	APPRART	_	20	MO	_	_
-19	B.	_	NOUN	NN	_	18	NK	_	_
-20	Sumpfrohrsänger	_	NOUN	NN	_	16	PAR	_	_
-21	)	_	PUNCT	$(	_	20	PUNCT	_	_
-22	,	_	PUNCT	$,	_	23	PUNCT	_	_
-23	haben	_	VERB	VAFIN	_	0	--	_	_
-24	wahrscheinlich	_	ADJ	ADJD	_	27	MO	_	_
-25	zur	_	ADP	APPRART	_	27	OP	_	_
-26	Bestandserholung	_	NOUN	NN	_	25	NK	_	_
-27	beigetragen	_	VERB	VVPP	_	23	OC	_	_
-28	.	_	PUNCT	$.	_	23	PUNCT	_	_
-
-# sent_id = 243
+# sent_id = 167
 # text = Schon R. Heyder bezeichnete den Kuckuck als „Herumflieger" und warnte vor überzogenen Siedlungsdichteangaben.
 1	Schon	_	ADV	ADV	_	3	MO	_	_
 2	R.	_	PROPN	NE	_	3	PNC	_	_
@@ -824,7 +676,7 @@ Flöter et al.
 15	Siedlungsdichteangaben	_	NOUN	NN	_	13	NK	_	_
 16	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 244
+# sent_id = 168
 # text = Die Kartendarstellung gibt daher eher den besiedelten Lebensraum als den „Brutbestand" wieder.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Kartendarstellung	_	NOUN	NN	_	3	SB	_	_
@@ -841,19 +693,4 @@ Flöter et al.
 13	"	_	PUNCT	$(	_	12	PUNCT	_	_
 14	wieder	_	ADV	ADV	_	3	SVP	_	_
 15	.	_	PUNCT	$.	_	3	PUNCT	_	_
-
-# sent_id = 245
-# text = 96 Kuckuck, Cuculus canorus Status: Regelmäßiger, spärlicher Brutvogel.
-1	96	_	NUM	CARD	_	2	NK	_	_
-2	Kuckuck	_	NOUN	NN	_	0	--	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	Cuculus	_	PROPN	NE	_	6	PNC	_	_
-5	canorus	_	PROPN	NE	_	6	PNC	_	_
-6	Status	_	NOUN	NN	_	2	CJ	_	_
-7	:	_	PUNCT	$.	_	6	PUNCT	_	_
-8	Regelmäßiger	_	NOUN	NN	_	6	PAR	_	_
-9	,	_	PUNCT	$,	_	8	PUNCT	_	_
-10	spärlicher	_	ADJ	ADJA	_	11	NK	_	_
-11	Brutvogel	_	NOUN	NN	_	8	CJ	_	_
-12	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

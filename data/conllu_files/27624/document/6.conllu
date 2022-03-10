@@ -1,4 +1,4 @@
-# sent_id = 113
+# sent_id = 110
 # text = Ein Beispiel macht deutlich, wie der Minister Wahrheiten verschleiert.
 1	Ein	_	_	_	_	2	det	_	_
 2	Beispiel	_	_	_	_	3	nsubj	_	_
@@ -12,7 +12,7 @@
 10	verschleiert	_	_	_	_	4	acl	_	_
 11	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 114
+# sent_id = 111
 # text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
 1	Sie	_	_	_	_	2	nsubj	_	_
 2	sagen	_	_	_	_	0	root	_	_
@@ -26,7 +26,7 @@
 10	voraus	_	_	_	_	2	compound:prt	_	_
 11	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 115
+# sent_id = 112
 # text = Dem Auftreten der Europäischen Gemeinschaft kommt unserer Ansicht nach große Bedeutung zu.
 1	Dem	_	_	_	_	2	det	_	_
 2	Auftreten	_	_	_	_	6	iobj	_	_
@@ -42,7 +42,7 @@
 12	zu	_	_	_	_	6	compound:prt	_	_
 13	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 116
+# sent_id = 113
 # text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
 1	Es	_	_	_	_	2	nsubj	_	_
 2	lohnt	_	_	_	_	0	root	_	_
@@ -59,7 +59,7 @@
 13	bekommen	_	_	_	_	8	acl	_	_
 14	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 117
+# sent_id = 114
 # text = Würden Sie mir zugeben, daß die Kilowattstunde aus dem Atomkraftwerk Mülheim-Kärlich über 20 Pf kostet?
 1	Würden	_	_	_	_	4	aux	_	_
 2	Sie	_	_	_	_	4	nsubj	_	_
@@ -79,7 +79,7 @@
 16	kostet	_	_	_	_	4	ccomp	_	_
 17	?	_	_	_	_	4	punct	_	_
 
-# sent_id = 118
+# sent_id = 115
 # text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen; das haben Sie ja schon gehört.
 1	Nur	_	_	_	_	12	advmod	_	_
 2	ist	_	_	_	_	12	aux	_	_
@@ -102,7 +102,7 @@
 19	gehört	_	_	_	_	12	parataxis	_	_
 20	.	_	_	_	_	12	punct	_	_
 
-# sent_id = 119
+# sent_id = 116
 # text = Das scheint, wenn es um solche Prinzipien geht, überhaupt keine Rolle zu spielen.
 1	Das	_	_	_	_	2	nsubj	_	_
 2	scheint	_	_	_	_	0	root	_	_
@@ -121,7 +121,7 @@
 15	spielen	_	_	_	_	2	xcomp	_	_
 16	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 120
+# sent_id = 117
 # text = Ich begrüße es deshalb ganz ausdrücklich, daß die Bundesregierung durch Zuschüsse die Reisemöglichkeit in die DDR fördert.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	begrüße	_	_	_	_	0	root	_	_
@@ -143,7 +143,7 @@
 18	fördert	_	_	_	_	2	ccomp	_	_
 19	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 121
+# sent_id = 118
 # text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
 1	Nun	_	_	_	_	2	advmod	_	_
 2	kommen	_	_	_	_	0	root	_	_
@@ -167,7 +167,7 @@
 20	verwundert	_	_	_	_	15	conj	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 122
+# sent_id = 119
 # text = Er fährt dann sehr sorgsam fort, daß eben von der Rechtsprechung nur eine einschränkende Auslegung dieses Tatbestandsmerkmals vorgenommen wird.
 1	Er	_	_	_	_	2	nsubj	_	_
 2	fährt	_	_	_	_	0	root	_	_
@@ -191,7 +191,7 @@
 20	wird	_	_	_	_	19	aux:pass	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 123
+# sent_id = 120
 # text = Im übrigen kann seit geraumer Zeit vom sogenannten Restdrittel-Erlaß Gebrauch gemacht werden, nämlich dann, wenn sich einer bei der Strafverbüßung wohlverhält.
 1	Im	_	_	_	_	2	case	_	_
 2	übrigen	_	_	_	_	11	obl	_	_
@@ -218,7 +218,7 @@
 23	wohlverhält	_	_	_	_	15	advcl	_	_
 24	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 124
+# sent_id = 121
 # text = Wenn es mit der Konjunktur wieder aufwärts geht - Gott sei Dank ist das bei unserer Regierung wieder der Fall -, steigen auch die Anforderungen.
 1	Wenn	_	_	_	_	8	mark	_	_
 2	es	_	_	_	_	8	expl	_	_
@@ -248,7 +248,7 @@
 26	Anforderungen	_	_	_	_	23	nsubj	_	_
 27	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 125
+# sent_id = 122
 # text = Mit den Überwachungsgesetzen, auch Sicherheitsgesetze genannt, insbesondere der geplanten Änderung des Straßenverkehrsgesetzes, will die Kohl-Regierung nun die rechtswidrigen Online-Verbindungen von Polizei- und Sicherheitsbehörden legalisieren.
 1	Mit	_	_	_	_	3	case	_	_
 2	den	_	_	_	_	3	det	_	_
@@ -279,7 +279,7 @@
 27	legalisieren	_	_	_	_	0	root	_	_
 28	.	_	_	_	_	27	punct	_	_
 
-# sent_id = 126
+# sent_id = 123
 # text = Sind Sie mit mir nicht der Meinung, daß ich genau dort ausgeführt habe, daß ich diejenigen meine, die bisher nicht ausgebildet haben?
 1	Sind	_	_	_	_	7	cop	_	_
 2	Sie	_	_	_	_	7	nsubj	_	_
@@ -308,7 +308,7 @@
 25	haben	_	_	_	_	24	aux	_	_
 26	?	_	_	_	_	7	punct	_	_
 
-# sent_id = 127
+# sent_id = 124
 # text = Wer bessere Beziehungen zur DDR will, braucht eine klare Konzeption, braucht langen Atem, braucht nüchterne Erkenntnis des Möglichen und des Unmöglichen, um Schritt für Schritt voranzukommen.
 1	Wer	_	_	_	_	6	nsubj	_	_
 2	bessere	_	_	_	_	3	amod	_	_
@@ -342,7 +342,7 @@
 30	voranzukommen	_	_	_	_	8	advcl	_	_
 31	.	_	_	_	_	8	punct	_	_
 
-# sent_id = 128
+# sent_id = 125
 # text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
 1	Nach	_	_	_	_	3	case	_	_
 2	dieser	_	_	_	_	3	det	_	_
@@ -378,7 +378,7 @@
 32	wird	_	_	_	_	15	advcl	_	_
 33	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 129
+# sent_id = 126
 # text = Aber selbst die inzwischen schon zum Ritual erhobene Behauptung, man habe einen entscheidenden Schritt - "Durchbruch" heißt es - in der Luftreinhaltung durch die Einführung des schadstoffarmen Autos getan, macht die bedrückende Wirklichkeit nicht besser.
 1	Aber	_	_	_	_	34	cc	_	_
 2	selbst	_	_	_	_	9	advmod	_	_

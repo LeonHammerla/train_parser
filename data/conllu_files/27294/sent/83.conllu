@@ -1,21 +1,24 @@
 # sent_id = 83
-# text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
-1	Auch	_	ADV	ADV	_	2	MO	_	_
-2	in	_	ADP	APPR	_	5	MO	_	_
-3	der	_	DET	ART	_	4	NK	_	_
-4	Budgetkommission	_	NOUN	NN	_	2	NK	_	_
-5	ist	_	VERB	VAFIN	_	0	--	_	_
-6	diese	_	PRON	PDAT	_	7	NK	_	_
-7	Petition	_	NOUN	NN	_	5	SB	_	_
-8	im	_	ADP	APPRART	_	5	MO	_	_
-9	Anschluß	_	NOUN	NN	_	8	NK	_	_
-10	an	_	ADP	APPR	_	9	MNR	_	_
-11	die	_	DET	ART	_	12	NK	_	_
-12	Verhandlungen	_	NOUN	NN	_	10	NK	_	_
-13	über	_	ADP	APPR	_	12	OP	_	_
-14	jene	_	PRON	PDAT	_	15	NK	_	_
-15	Etatsposition	_	NOUN	NN	_	13	NK	_	_
-16	erledigt	_	VERB	VVPP	_	17	OC	_	_
-17	worden	_	VERB	VAPP	_	5	OC	_	_
-18	.	_	PUNCT	$.	_	5	PUNCT	_	_
+# text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Reichs-Gewerbeordnung	_	NOUN	NN	_	3	SB	_	_
+3	ermögliche	_	VERB	VVFIN	_	0	--	_	_
+4	dies	_	PRON	PDS	_	3	OA	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	da	_	CONJ	KOUS	_	20	CP	_	_
+7	sie	_	PRON	PPER	_	20	SB	_	_
+8	keinerlei	_	PRON	PIAT	_	9	NK	_	_
+9	Befähigungsnachweis	_	NOUN	NN	_	20	OA	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	nicht	_	X	PTKNEG	_	13	NG	_	_
+12	einmal	_	ADV	ADV	_	11	MO	_	_
+13	Erlaubnis	_	NOUN	NN	_	20	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Behörde	_	NOUN	NN	_	13	AG	_	_
+16	vor	_	ADP	APPR	_	20	MO	_	_
+17	Ausübung	_	NOUN	NN	_	16	NK	_	_
+18	des	_	DET	ART	_	19	NK	_	_
+19	Berufs	_	NOUN	NN	_	17	AG	_	_
+20	verlange	_	VERB	VVFIN	_	3	MO	_	_
+21	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

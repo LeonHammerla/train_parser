@@ -1,4 +1,4 @@
-# sent_id = 75
+# sent_id = 45
 # text = Eine zur Pfingstzeit in Kaiserslautern zu Besuch weilende Münchnerin fand an der Schönheit unserer blühenden Besenginsterbestände, Sarothamnus, solches Wohlgefallen, daß sie Pflanzen ausgrub, um die Pracht ihres heimischen Gartens zu erhöhen.
 1	Eine	_	DET	ART	_	9	NK	_	_
 2	zur	_	ADP	APPRART	_	8	MO	_	_
@@ -37,7 +37,7 @@
 35	erhöhen	_	VERB	VVINF	_	26	MO	_	_
 36	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 76
+# sent_id = 46
 # text = Kommt der Besenginster bei Kaiserslautern in stattlicher Entwicklung vor, so ist er in der Homburger Bruchlandschaft durchaus nicht so häufig.
 1	Kommt	_	VERB	VVFIN	_	11	RE	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -62,7 +62,7 @@
 21	häufig	_	ADJ	ADJD	_	12	PD	_	_
 22	.	_	PUNCT	$.	_	12	PUNCT	_	_
 
-# sent_id = 77
+# sent_id = 47
 # text = Die erste, die Ardennenbrombeere, leicht kenntlich an ihren überreichen Blütenständen, hält sich als Kind des rauheren Ardennenwaldes südlich der Kaiserstraße an der Straße nach Bechhofen, ist im Closenbruch an sonnigen Gebüschrändern nicht selten und wandert auf den Vorhügeln und der ersten Terrasse des nach Norden abfallenden Steilhangs der Sickingerhöhe ostwärts gegen Kaiserslautern, so die klimatischen Besonderheiten dieses viel im Bergschatten liegenden Steilrandes ebenso erkennen lassend wie das Vorkommen der kälteliebenden Ausdauernden Mondviole, Lunaria rediviva, im Fleischackerloch.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	erste	_	ADJ	ADJA	_	14	SB	_	_
@@ -149,7 +149,7 @@
 83	Fleischackerloch	_	NOUN	NN	_	82	NK	_	_
 84	.	_	PUNCT	$.	_	14	PUNCT	_	_
 
-# sent_id = 78
+# sent_id = 48
 # text = Die Pflanzen bestätigen die Richtigkeit dieser Beobachtung und erweisen sich als Klimazeiger von äußerster Feinheit.
 1	Die	_	DET	ART	_	2	NK	_	_
 2	Pflanzen	_	NOUN	NN	_	3	SB	_	_
@@ -168,7 +168,7 @@
 15	Feinheit	_	NOUN	NN	_	13	NK	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 79
+# sent_id = 49
 # text = Bei Kaiserslautern überzieht es eine größere Fläche am Weg hinter der Eselsfürth nach dem Daubornerhof und in der Eifel, darüber pfeifender Wind feuchtigkeitsschwangere Luftmassen treibt, ist das Immergrün als Buchenbegleiter stark verbreitet.
 1	Bei	_	ADP	APPR	_	3	MO	_	_
 2	Kaiserslautern	_	NOUN	NN	_	1	NK	_	_
@@ -206,7 +206,7 @@
 34	verbreitet	_	VERB	VVPP	_	28	PD	_	_
 35	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 80
+# sent_id = 50
 # text = Die im Homburger Becken häufigste Art, die Gefaltete Brombeere, R. plicatus, wächst gern an quer übers Wiesental führenden Wegen und bringt es im Königsbruch zu beachtlichen Sträuchern.
 1	Die	_	DET	ART	_	6	NK	_	_
 2	im	_	ADP	APPRART	_	5	MO	_	_
@@ -240,7 +240,7 @@
 30	Sträuchern	_	NOUN	NN	_	28	NK	_	_
 31	.	_	PUNCT	$.	_	15	PUNCT	_	_
 
-# sent_id = 81
+# sent_id = 51
 # text = Dieses Behalten des derben Laubes zur Winterszeit weist stets auf ozeanischen Einschlag hin, gibt es doch zu erkennen, daß die Pflanzen milderen Gegenden entstammen, wo ihnen die Ausnützung der Wintertage zur Assimilation zur Erbanlage geworden ist.
 1	Dieses	_	PRON	PDAT	_	2	NK	_	_
 2	Behalten	_	NOUN	NN	_	8	SB	_	_
@@ -283,7 +283,7 @@
 39	ist	_	VERB	VAFIN	_	25	RC	_	_
 40	.	_	PUNCT	$.	_	8	PUNCT	_	_
 
-# sent_id = 82
+# sent_id = 52
 # text = Bei der Pollichia-Wanderung ins Homburger Bruch im Juli 1941 machte eine aus Bayern stammende Teilnehmerin die Bemerkung, der Salbeiblättrige Gamander, Teucrium scorodonia, sei ihr von drüben nicht bekannt.
 1	Bei	_	ADP	APPR	_	10	MO	_	_
 2	der	_	DET	ART	_	3	NK	_	_
@@ -318,7 +318,7 @@
 31	bekannt	_	ADJ	ADJD	_	26	PD	_	_
 32	.	_	PUNCT	$.	_	10	PUNCT	_	_
 
-# sent_id = 83
+# sent_id = 53
 # text = Wir fanden den Salbeiblättrigen Gamander im Homburger Becken nur spärlich an Waldwegen und wenig kräftig entwickelt, dagegen wächst er bei Kaiserslautern an Wald- und Wegrändern und offenen Waldstellen reich und üppig.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	fanden	_	VERB	VVFIN	_	2	ROOT	_	_
@@ -353,30 +353,4 @@
 31	und	_	CONJ	KON	_	30	CD	_	_
 32	üppig	_	ADJ	ADJD	_	31	CJ	_	_
 33	.	_	PUNCT	$.	_	19	PUNCT	_	_
-
-# sent_id = 84
-# text = Der Gelbweiße Hohlzahn, Galeopsis ochroleuca, überzieht auf Sand - 74en zeigt die Schwarze Flockenblume, Centaurea nigra, dasselbe Verhalten.
-1	Der	_	DET	ART	_	3	NK	_	_
-2	Gelbweiße	_	ADJ	ADJA	_	3	NK	_	_
-3	Hohlzahn	_	NOUN	NN	_	8	SB	_	_
-4	,	_	PUNCT	$,	_	3	PUNCT	_	_
-5	Galeopsis	_	NOUN	NN	_	6	PNC	_	_
-6	ochroleuca	_	PROPN	NE	_	3	APP	_	_
-7	,	_	PUNCT	$,	_	8	PUNCT	_	_
-8	überzieht	_	VERB	VVFIN	_	0	--	_	_
-9	auf	_	ADP	APPR	_	8	OP	_	_
-10	Sand	_	NOUN	NN	_	9	NK	_	_
-11	-	_	PUNCT	$(	_	12	DEP	_	_
-12	74en	_	ADV	ADV	_	13	SB	_	_
-13	zeigt	_	VERB	VVFIN	_	8	CJ	_	_
-14	die	_	DET	ART	_	16	NK	_	_
-15	Schwarze	_	ADJ	ADJA	_	16	NK	_	_
-16	Flockenblume	_	NOUN	NN	_	13	OA	_	_
-17	,	_	PUNCT	$,	_	16	PUNCT	_	_
-18	Centaurea	_	PROPN	NE	_	19	PNC	_	_
-19	nigra	_	PROPN	NE	_	16	APP	_	_
-20	,	_	PUNCT	$,	_	16	PUNCT	_	_
-21	dasselbe	_	PRON	PDAT	_	22	NK	_	_
-22	Verhalten	_	NOUN	NN	_	13	OA	_	_
-23	.	_	PUNCT	$.	_	8	PUNCT	_	_
 

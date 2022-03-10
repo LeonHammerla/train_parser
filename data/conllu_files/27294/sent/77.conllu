@@ -1,36 +1,15 @@
 # sent_id = 77
-# text = Ein Ehepaar mit dem gleichen Einkommen kommt auf eine Entlastung von 2013 Euro pro Monat, und eine Familie mit zwei Kindern und diesem Einkommen entlasten wir um 3931 Euro im Monat.
-1	Ein	_	DET	ART	_	2	NK	_	_
-2	Ehepaar	_	NOUN	NN	_	7	SB	_	_
-3	mit	_	ADP	APPR	_	2	MNR	_	_
-4	dem	_	DET	ART	_	6	NK	_	_
-5	gleichen	_	ADJ	ADJA	_	6	NK	_	_
-6	Einkommen	_	NOUN	NN	_	3	NK	_	_
-7	kommt	_	VERB	VVFIN	_	0	--	_	_
-8	auf	_	ADP	APPR	_	7	OP	_	_
-9	eine	_	DET	ART	_	10	NK	_	_
-10	Entlastung	_	NOUN	NN	_	8	NK	_	_
-11	von	_	ADP	APPR	_	10	MNR	_	_
-12	2013	_	NUM	CARD	_	13	NK	_	_
-13	Euro	_	NOUN	NN	_	11	NK	_	_
-14	pro	_	ADP	APPR	_	13	MNR	_	_
-15	Monat	_	NOUN	NN	_	14	NK	_	_
-16	,	_	PUNCT	$,	_	7	PUNCT	_	_
-17	und	_	CONJ	KON	_	7	CD	_	_
-18	eine	_	DET	ART	_	19	NK	_	_
-19	Familie	_	NOUN	NN	_	26	OA	_	_
-20	mit	_	ADP	APPR	_	19	MNR	_	_
-21	zwei	_	NUM	CARD	_	22	NK	_	_
-22	Kindern	_	NOUN	NN	_	20	NK	_	_
-23	und	_	CONJ	KON	_	22	CD	_	_
-24	diesem	_	PRON	PDAT	_	25	NK	_	_
-25	Einkommen	_	NOUN	NN	_	23	CJ	_	_
-26	entlasten	_	VERB	VVFIN	_	17	CJ	_	_
-27	wir	_	PRON	PPER	_	26	SB	_	_
-28	um	_	ADP	APPR	_	26	OP	_	_
-29	3931	_	NUM	CARD	_	30	NK	_	_
-30	Euro	_	NOUN	NN	_	28	NK	_	_
-31	im	_	ADP	APPRART	_	30	MNR	_	_
-32	Monat	_	NOUN	NN	_	31	NK	_	_
-33	.	_	PUNCT	$.	_	7	PUNCT	_	_
+# text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
+1	Für	_	ADP	APPR	_	7	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	strafrechtliche	_	ADJ	ADJA	_	4	NK	_	_
+4	Seite	_	NOUN	NN	_	1	NK	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Sache	_	NOUN	NN	_	4	AG	_	_
+7	genüge	_	VERB	VVFIN	_	0	--	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Betrugsparagraph	_	NOUN	NN	_	7	SB	_	_
+10	des	_	DET	ART	_	11	NK	_	_
+11	Strafgesetzbuchs	_	NOUN	NN	_	9	AG	_	_
+12	.	_	PUNCT	$.	_	7	PUNCT	_	_
 

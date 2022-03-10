@@ -1,24 +1,30 @@
 # sent_id = 49
-# text = Gegen Sträflinge, die das achtzehnte Lebensjahr nicht vollendet haben, sind auch die in der Schule anwendbaren Züchtigungsmittel zulässig.
-1	Gegen	_	ADP	APPR	_	12	MO	_	_
-2	Sträflinge	_	NOUN	NN	_	1	NK	_	_
-3	,	_	PUNCT	$,	_	2	PUNCT	_	_
-4	die	_	PRON	PRELS	_	10	SB	_	_
-5	das	_	DET	ART	_	7	NK	_	_
-6	achtzehnte	_	ADJ	ADJA	_	7	NK	_	_
-7	Lebensjahr	_	NOUN	NN	_	10	SB	_	_
-8	nicht	_	X	PTKNEG	_	9	NG	_	_
-9	vollendet	_	VERB	VVPP	_	10	OC	_	_
-10	haben	_	VERB	VAFIN	_	2	RC	_	_
-11	,	_	PUNCT	$,	_	12	PUNCT	_	_
-12	sind	_	VERB	VAFIN	_	0	--	_	_
-13	auch	_	ADV	ADV	_	19	MO	_	_
-14	die	_	DET	ART	_	19	NK	_	_
-15	in	_	ADP	APPR	_	18	MO	_	_
-16	der	_	DET	ART	_	17	NK	_	_
-17	Schule	_	NOUN	NN	_	15	NK	_	_
-18	anwendbaren	_	ADJ	ADJA	_	19	NK	_	_
-19	Züchtigungsmittel	_	NOUN	NN	_	12	SB	_	_
-20	zulässig	_	ADJ	ADJD	_	12	PD	_	_
-21	.	_	PUNCT	$.	_	12	PUNCT	_	_
+# text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Kampf	_	NOUN	NN	_	6	SB	_	_
+3	an	_	ADP	APPR	_	2	MNR	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Ruhr	_	NOUN	NN	_	3	NK	_	_
+6	zeigt	_	VERB	VVFIN	_	0	--	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	18	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Masse	_	NOUN	NN	_	18	SB	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Arbeiter	_	NOUN	NN	_	10	AG	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	Beamten	_	NOUN	NN	_	13	CJ	_	_
+15	die	_	DET	ART	_	17	NK	_	_
+16	breite	_	ADJ	ADJA	_	17	NK	_	_
+17	Grundlage	_	NOUN	NN	_	18	PD	_	_
+18	ist	_	VERB	VAFIN	_	6	OC	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	auf	_	ADP	APPR	_	26	OP	_	_
+21	der	_	DET	ART	_	20	NK	_	_
+22	Wirtschaft	_	NOUN	NN	_	26	SB	_	_
+23	und	_	CONJ	KON	_	22	CD	_	_
+24	Staat	_	NOUN	NN	_	23	CJ	_	_
+25	sich	_	PRON	PRF	_	26	OA	_	_
+26	aufbauen	_	VERB	VVINF	_	17	RC	_	_
+27	.	_	PUNCT	$.	_	6	PUNCT	_	_
 

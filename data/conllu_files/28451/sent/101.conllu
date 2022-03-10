@@ -1,28 +1,18 @@
 # sent_id = 101
-# text = Auf dem rechten und teilweise linken Moselufer herrschen die Mergel- und Sandsteinbildungen des Lias vor, der sich an die Sandsteine der Trias anschließt.
-1	Auf	_	ADP	APPR	_	8	MO	_	_
-2	dem	_	DET	ART	_	7	NK	_	_
-3	rechten	_	ADJ	ADJA	_	7	NK	_	_
-4	und	_	CONJ	KON	_	3	CD	_	_
-5	teilweise	_	ADV	ADV	_	6	MO	_	_
-6	linken	_	ADJ	ADJA	_	4	CJ	_	_
-7	Moselufer	_	NOUN	NN	_	1	NK	_	_
-8	herrschen	_	VERB	VVFIN	_	0	--	_	_
-9	die	_	DET	ART	_	12	NK	_	_
-10	Mergel-	_	X	TRUNC	_	11	CJ	_	_
-11	und	_	CONJ	KON	_	12	CD	_	_
-12	Sandsteinbildungen	_	NOUN	NN	_	8	SB	_	_
-13	des	_	DET	ART	_	14	NK	_	_
-14	Lias	_	PROPN	NE	_	12	AG	_	_
-15	vor	_	VERB	PTKVZ	_	8	SVP	_	_
-16	,	_	PUNCT	$,	_	8	PUNCT	_	_
-17	der	_	PRON	PRELS	_	24	SB	_	_
-18	sich	_	PRON	PRF	_	24	OA	_	_
-19	an	_	ADP	APPR	_	24	OP	_	_
-20	die	_	DET	ART	_	21	NK	_	_
-21	Sandsteine	_	NOUN	NN	_	19	NK	_	_
-22	der	_	DET	ART	_	23	NK	_	_
-23	Trias	_	PROPN	NE	_	21	AG	_	_
-24	anschließt	_	VERB	VVFIN	_	14	RC	_	_
-25	.	_	PUNCT	$.	_	8	PUNCT	_	_
+# text = Leider war es nur eine vorübergehende Erscheinung, da sie keine keimfähigen Samen ansetzte.
+1	Leider	_	ADV	ADV	_	2	MO	_	_
+2	war	_	VERB	VAFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	SB	_	_
+4	nur	_	ADV	ADV	_	7	MO	_	_
+5	eine	_	DET	ART	_	7	NK	_	_
+6	vorübergehende	_	ADJ	ADJA	_	7	NK	_	_
+7	Erscheinung	_	NOUN	NN	_	2	PD	_	_
+8	,	_	PUNCT	$,	_	2	PUNCT	_	_
+9	da	_	CONJ	KOUS	_	14	CP	_	_
+10	sie	_	PRON	PPER	_	14	SB	_	_
+11	keine	_	PRON	PIAT	_	13	NK	_	_
+12	keimfähigen	_	ADJ	ADJA	_	13	NK	_	_
+13	Samen	_	NOUN	NN	_	14	OA	_	_
+14	ansetzte	_	VERB	VVFIN	_	2	MO	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

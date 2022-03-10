@@ -1,23 +1,16 @@
 # sent_id = 205
-# text = Aus anderen Wäldern am Siedlungsrand (z. B. Crimmitschauer Wald) liegen nur Einzelbeobachtungen von wahrscheinlich durchziehenden Vögeln vor.
-1	Aus	_	ADP	APPR	_	12	MO	_	_
-2	anderen	_	ADJ	ADJA	_	3	NK	_	_
-3	Wäldern	_	NOUN	NN	_	1	NK	_	_
-4	am	_	ADP	APPRART	_	3	MNR	_	_
-5	Siedlungsrand	_	NOUN	NN	_	4	NK	_	_
-6	(	_	PUNCT	$(	_	10	PUNCT	_	_
-7	z.	_	ADP	APPRART	_	9	MO	_	_
-8	B.	_	NOUN	NN	_	7	NK	_	_
-9	Crimmitschauer	_	PROPN	NE	_	10	NK	_	_
-10	Wald	_	NOUN	NN	_	3	PAR	_	_
-11	)	_	PUNCT	$(	_	10	PUNCT	_	_
-12	liegen	_	VERB	VVFIN	_	0	--	_	_
-13	nur	_	ADV	ADV	_	14	MO	_	_
-14	Einzelbeobachtungen	_	NOUN	NN	_	12	SB	_	_
-15	von	_	ADP	APPR	_	14	MNR	_	_
-16	wahrscheinlich	_	ADJ	ADJD	_	17	MO	_	_
-17	durchziehenden	_	ADJ	ADJA	_	18	NK	_	_
-18	Vögeln	_	NOUN	NN	_	15	NK	_	_
-19	vor	_	VERB	PTKVZ	_	12	SVP	_	_
-20	.	_	PUNCT	$.	_	12	PUNCT	_	_
+# text = Sehr verborgen im lehmigen Boden (an den Wurzeln von Pflanzen?)
+1	Sehr	_	ADV	ADV	_	2	MO	_	_
+2	verborgen	_	VERB	VVPP	_	0	--	_	_
+3	im	_	ADP	APPRART	_	2	MO	_	_
+4	lehmigen	_	ADJ	ADJA	_	5	NK	_	_
+5	Boden	_	NOUN	NN	_	3	NK	_	_
+6	(	_	PUNCT	$(	_	9	PUNCT	_	_
+7	an	_	ADP	APPR	_	2	PAR	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Wurzeln	_	NOUN	NN	_	7	NK	_	_
+10	von	_	ADP	APPR	_	9	PG	_	_
+11	Pflanzen	_	NOUN	NN	_	10	NK	_	_
+12	?	_	PUNCT	$.	_	2	PUNCT	_	_
+13	)	_	PUNCT	$(	_	2	PUNCT	_	_
 

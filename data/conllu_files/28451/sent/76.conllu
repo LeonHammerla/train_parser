@@ -1,25 +1,6 @@
 # sent_id = 76
-# text = Kommt der Besenginster bei Kaiserslautern in stattlicher Entwicklung vor, so ist er in der Homburger Bruchlandschaft durchaus nicht so häufig.
-1	Kommt	_	VERB	VVFIN	_	11	RE	_	_
-2	der	_	DET	ART	_	3	NK	_	_
-3	Besenginster	_	NOUN	NN	_	1	SB	_	_
-4	bei	_	ADP	APPR	_	3	MNR	_	_
-5	Kaiserslautern	_	NOUN	NN	_	4	NK	_	_
-6	in	_	ADP	APPR	_	1	MO	_	_
-7	stattlicher	_	ADJ	ADJA	_	8	NK	_	_
-8	Entwicklung	_	NOUN	NN	_	6	NK	_	_
-9	vor	_	VERB	PTKVZ	_	1	SVP	_	_
-10	,	_	PUNCT	$,	_	11	PUNCT	_	_
-11	so	_	ADV	ADV	_	12	MO	_	_
-12	ist	_	VERB	VAFIN	_	0	--	_	_
-13	er	_	PRON	PPER	_	12	SB	_	_
-14	in	_	ADP	APPR	_	12	MO	_	_
-15	der	_	DET	ART	_	17	NK	_	_
-16	Homburger	_	ADJ	ADJA	_	17	NK	_	_
-17	Bruchlandschaft	_	NOUN	NN	_	14	NK	_	_
-18	durchaus	_	ADV	ADV	_	12	MO	_	_
-19	nicht	_	X	PTKNEG	_	12	NG	_	_
-20	so	_	ADV	ADV	_	21	MO	_	_
-21	häufig	_	ADJ	ADJD	_	12	PD	_	_
-22	.	_	PUNCT	$.	_	12	PUNCT	_	_
+# text = Oberer Muschelkalk:
+1	Oberer	_	ADJ	ADJA	_	2	NK	_	_
+2	Muschelkalk	_	NOUN	NN	_	0	--	_	_
+3	:	_	PUNCT	$.	_	2	PUNCT	_	_
 

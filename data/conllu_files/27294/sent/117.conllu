@@ -1,35 +1,17 @@
 # sent_id = 117
-# text = Diese Maßnahmen werden getroffen, aber die Entscheidung darüber, ob und, wenn ja, in welcher Form es weitergehen wird, wird erst getroffen, wenn validierte Ergebnisse vorliegen.
-1	Diese	_	PRON	PDAT	_	2	NK	_	_
-2	Maßnahmen	_	NOUN	NN	_	3	SB	_	_
-3	werden	_	VERB	VAFIN	_	0	--	_	_
-4	getroffen	_	VERB	VVPP	_	3	OC	_	_
-5	,	_	PUNCT	$,	_	3	PUNCT	_	_
-6	aber	_	CONJ	KON	_	3	CD	_	_
-7	die	_	DET	ART	_	8	NK	_	_
-8	Entscheidung	_	NOUN	NN	_	24	SB	_	_
-9	darüber	_	ADV	PROAV	_	8	OP	_	_
-10	,	_	PUNCT	$,	_	9	PUNCT	_	_
-11	ob	_	CONJ	KOUS	_	22	CP	_	_
-12	und	_	CONJ	KON	_	11	CD	_	_
-13	,	_	PUNCT	$,	_	22	PUNCT	_	_
-14	wenn	_	CONJ	KOUS	_	12	CJ	_	_
-15	ja	_	X	PTKANT	_	14	DM	_	_
-16	,	_	PUNCT	$,	_	22	PUNCT	_	_
-17	in	_	ADP	APPR	_	21	MO	_	_
-18	welcher	_	PRON	PWAT	_	19	NK	_	_
-19	Form	_	NOUN	NN	_	17	NK	_	_
-20	es	_	PRON	PPER	_	22	SB	_	_
-21	weitergehen	_	VERB	VVINF	_	22	OC	_	_
-22	wird	_	VERB	VAFIN	_	9	RE	_	_
-23	,	_	PUNCT	$,	_	24	PUNCT	_	_
-24	wird	_	VERB	VAFIN	_	6	CJ	_	_
-25	erst	_	ADV	ADV	_	26	MO	_	_
-26	getroffen	_	VERB	VVPP	_	24	OC	_	_
-27	,	_	PUNCT	$,	_	26	PUNCT	_	_
-28	wenn	_	CONJ	KOUS	_	31	CP	_	_
-29	validierte	_	ADJ	ADJA	_	30	NK	_	_
-30	Ergebnisse	_	NOUN	NN	_	31	SB	_	_
-31	vorliegen	_	VERB	VVINF	_	26	MO	_	_
-32	.	_	PUNCT	$.	_	3	PUNCT	_	_
+# text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	lohnt	_	VERB	VVFIN	_	0	--	_	_
+3	sich	_	PRON	PRF	_	2	OA	_	_
+4	zweifellos	_	ADJ	ADJD	_	2	MO	_	_
+5	für	_	ADP	APPR	_	2	MO	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	paar	_	PRON	PIAT	_	8	NK	_	_
+8	Raumfahrtunternehmen	_	NOUN	NN	_	5	NK	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	die	_	PRON	PRELS	_	13	SB	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Millionen-Aufträge	_	NOUN	NN	_	13	OA	_	_
+13	bekommen	_	VERB	VVFIN	_	8	RC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

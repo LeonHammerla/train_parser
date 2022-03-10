@@ -1,21 +1,28 @@
 # sent_id = 121
-# text = Vorkommen von Ammonshörnern (Ceratites nodosus) Trochitenkalk, 20 m; Nodosuskalk, 40 bis 60 m.
-1	Vorkommen	_	NOUN	NN	_	0	--	_	_
-2	von	_	ADP	APPR	_	1	PG	_	_
-3	Ammonshörnern	_	NOUN	NN	_	2	NK	_	_
-4	(	_	PUNCT	$(	_	5	PUNCT	_	_
-5	Ceratites	_	X	FM	_	3	PAR	_	_
-6	nodosus	_	X	FM	_	5	NK	_	_
-7	)	_	PUNCT	$(	_	5	PUNCT	_	_
-8	Trochitenkalk	_	PROPN	NE	_	1	NK	_	_
-9	,	_	PUNCT	$,	_	1	PUNCT	_	_
-10	20	_	NUM	CARD	_	11	NK	_	_
-11	m	_	NOUN	NN	_	12	DEP	_	_
-12	;	_	X	XY	_	1	PUNCT	_	_
-13	Nodosuskalk	_	PROPN	NE	_	1	CJ	_	_
-14	,	_	PUNCT	$,	_	13	PUNCT	_	_
-15	40	_	NUM	CARD	_	18	NK	_	_
-16	bis	_	CONJ	KON	_	15	CD	_	_
-17	60	_	NUM	CARD	_	16	CJ	_	_
-18	m.	_	PROPN	NE	_	13	PAR	_	_
+# text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
+1	Briza	_	PROPN	NE	_	3	PNC	_	_
+2	maxima	_	PROPN	NE	_	3	PNC	_	_
+3	L.	_	PROPN	NE	_	4	SB	_	_
+4	wird	_	VERB	VAFIN	_	0	--	_	_
+5	oft	_	ADV	ADV	_	8	MO	_	_
+6	zu	_	ADP	APPR	_	8	MO	_	_
+7	Trockenbouqueten	_	NOUN	NN	_	6	NK	_	_
+8	verwendet	_	VERB	VVFIN	_	4	OC	_	_
+9	und	_	CONJ	KON	_	4	CD	_	_
+10	gelangt	_	VERB	VVFIN	_	9	CJ	_	_
+11	so	_	ADV	ADV	_	10	MO	_	_
+12	auf	_	ADP	APPR	_	10	OP	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Abfuhrplätze	_	NOUN	NN	_	12	NK	_	_
+15	unserer	_	PRON	PPOSAT	_	16	NK	_	_
+16	Städte	_	NOUN	NN	_	14	AG	_	_
+17	und	_	CONJ	KON	_	10	CD	_	_
+18	gedeiht	_	VERB	VVFIN	_	17	CJ	_	_
+19	oft	_	ADV	ADV	_	18	MO	_	_
+20	in	_	ADP	APPR	_	18	MO	_	_
+21	kleinen	_	ADJ	ADJA	_	24	NK	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	prächtigen	_	ADJ	ADJA	_	21	CJ	_	_
+24	Kolonien	_	NOUN	NN	_	20	NK	_	_
+25	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

@@ -1,5 +1,28 @@
 # sent_id = 73
-# text = rictus110;
-1	rictus110	_	VERB	VVFIN	_	0	--	_	_
-2	;	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Später wurde die Trias in der Pfälzer Mulde durch posthume Wiederholungen in der Tertiärzeit schwach gefaltet (STILLE, 1925, S. 389).
+1	Später	_	NOUN	NN	_	16	MO	_	_
+2	wurde	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Trias	_	PROPN	NE	_	2	SB	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Pfälzer	_	NOUN	NN	_	5	NK	_	_
+8	Mulde	_	NOUN	NN	_	7	NK	_	_
+9	durch	_	ADP	APPR	_	16	MO	_	_
+10	posthume	_	ADJ	ADJA	_	11	NK	_	_
+11	Wiederholungen	_	NOUN	NN	_	9	NK	_	_
+12	in	_	ADP	APPR	_	16	MO	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Tertiärzeit	_	NOUN	NN	_	12	NK	_	_
+15	schwach	_	ADJ	ADJD	_	16	MO	_	_
+16	gefaltet	_	VERB	VVPP	_	2	OC	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	STILLE	_	PROPN	NE	_	16	PAR	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	1925	_	NUM	CARD	_	18	NK	_	_
+21	,	_	PUNCT	$,	_	18	PUNCT	_	_
+22	S.	_	NOUN	NN	_	20	NK	_	_
+23	389	_	NUM	CARD	_	22	NK	_	_
+24	)	_	PUNCT	$(	_	18	PUNCT	_	_
+25	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

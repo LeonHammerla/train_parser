@@ -1,17 +1,36 @@
 # sent_id = 113
-# text = Werveke, L. van: Erläuterungen zu dem Blatte Saarbrücken der geol.- tekton.
-1	Werveke	_	NOUN	NN	_	0	--	_	_
-2	,	_	PUNCT	$,	_	1	PUNCT	_	_
-3	L.	_	PROPN	NE	_	4	PNC	_	_
-4	van	_	PROPN	NE	_	1	APP	_	_
-5	:	_	PUNCT	$.	_	1	PUNCT	_	_
-6	Erläuterungen	_	NOUN	NN	_	1	APP	_	_
-7	zu	_	ADP	APPR	_	6	MNR	_	_
-8	dem	_	DET	ART	_	9	NK	_	_
-9	Blatte	_	NOUN	NN	_	7	NK	_	_
-10	Saarbrücken	_	PROPN	NE	_	1	APP	_	_
-11	der	_	DET	ART	_	13	NK	_	_
-12	geol.-	_	NOUN	NN	_	13	PNC	_	_
-13	tekton	_	PROPN	NE	_	10	AG	_	_
-14	.	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Wir beobachteten schon einige Jahre in dem ausgetrockneten Alluvium des Mannheimer Floßhafens, da wo auch die Wolfia stand, ein kleines, höchst unscheinbares Pflänzchen, Psamma arenaria, sich einfand.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	beobachteten	_	VERB	VVFIN	_	0	--	_	_
+3	schon	_	ADV	ADV	_	4	MO	_	_
+4	einige	_	PRON	PIAT	_	5	NK	_	_
+5	Jahre	_	NOUN	NN	_	2	MO	_	_
+6	in	_	ADP	APPR	_	2	MO	_	_
+7	dem	_	DET	ART	_	9	NK	_	_
+8	ausgetrockneten	_	ADJ	ADJA	_	9	NK	_	_
+9	Alluvium	_	NOUN	NN	_	6	NK	_	_
+10	des	_	DET	ART	_	12	NK	_	_
+11	Mannheimer	_	ADJ	ADJA	_	12	NK	_	_
+12	Floßhafens	_	NOUN	NN	_	9	AG	_	_
+13	,	_	PUNCT	$,	_	2	PUNCT	_	_
+14	da	_	CONJ	KOUS	_	9	APP	_	_
+15	wo	_	PRON	PWAV	_	19	MO	_	_
+16	auch	_	ADV	ADV	_	18	MO	_	_
+17	die	_	DET	ART	_	18	NK	_	_
+18	Wolfia	_	PROPN	NE	_	19	SB	_	_
+19	stand	_	VERB	VVFIN	_	14	RC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	ein	_	DET	ART	_	26	NK	_	_
+22	kleines	_	ADJ	ADJA	_	26	NK	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	höchst	_	ADV	ADV	_	25	MO	_	_
+25	unscheinbares	_	ADJ	ADJA	_	26	NK	_	_
+26	Pflänzchen	_	NOUN	NN	_	2	OA	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	Psamma	_	NOUN	NN	_	29	PNC	_	_
+29	arenaria	_	ADJ	ADJD	_	26	APP	_	_
+30	,	_	PUNCT	$,	_	2	PUNCT	_	_
+31	sich	_	PRON	PRF	_	32	OA	_	_
+32	einfand	_	VERB	VVFIN	_	26	RC	_	_
+33	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

@@ -1,20 +1,19 @@
 # sent_id = 183
-# text = Selten dagegen ist Briza minor L.
-Wir haben sie im Hafen von Mannheim schon nachgewiesen.
-1	Selten	_	ADJ	ADJD	_	3	PD	_	_
-2	dagegen	_	ADV	PROAV	_	1	MO	_	_
-3	ist	_	VERB	VAFIN	_	0	--	_	_
-4	Briza	_	PROPN	NE	_	5	PNC	_	_
-5	minor	_	PROPN	NE	_	3	SB	_	_
-6	L.	_	PROPN	NE	_	5	PNC	_	_
-7	Wir	_	PRON	PPER	_	8	SB	_	_
-8	haben	_	VERB	VAFIN	_	3	CJ	_	_
-9	sie	_	PRON	PPER	_	15	OA	_	_
-10	im	_	ADP	APPRART	_	15	MO	_	_
-11	Hafen	_	NOUN	NN	_	10	NK	_	_
-12	von	_	ADP	APPR	_	11	PG	_	_
-13	Mannheim	_	PROPN	NE	_	12	NK	_	_
-14	schon	_	ADV	ADV	_	15	MO	_	_
-15	nachgewiesen	_	VERB	VVPP	_	8	OC	_	_
+# text = Unter ihnen hat vor allen Pinus Strobus, die Weymouthkiefer, bereits forstliche Bedeutung erlangt.
+1	Unter	_	ADP	APPR	_	15	MO	_	_
+2	ihnen	_	PRON	PPER	_	1	NK	_	_
+3	hat	_	VERB	VAFIN	_	0	--	_	_
+4	vor	_	ADP	APPR	_	15	MO	_	_
+5	allen	_	PRON	PIAT	_	4	NK	_	_
+6	Pinus	_	NOUN	NN	_	7	PNC	_	_
+7	Strobus	_	PROPN	NE	_	3	SB	_	_
+8	,	_	PUNCT	$,	_	6	PUNCT	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Weymouthkiefer	_	NOUN	NN	_	7	APP	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	bereits	_	ADV	ADV	_	14	MO	_	_
+13	forstliche	_	ADJ	ADJA	_	14	NK	_	_
+14	Bedeutung	_	NOUN	NN	_	15	OA	_	_
+15	erlangt	_	VERB	VVPP	_	3	OC	_	_
 16	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

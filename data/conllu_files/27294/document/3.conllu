@@ -1,4 +1,4 @@
-# sent_id = 59
+# sent_id = 57
 # text = Auch um Frieden zu sichern, brauchen wir völlig neue Instrumente.
 1	Auch	_	ADV	ADV	_	2	MO	_	_
 2	um	_	ADP	APPR	_	5	CP	_	_
@@ -13,7 +13,7 @@
 11	Instrumente	_	NOUN	NN	_	7	OA	_	_
 12	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 60
+# sent_id = 58
 # text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
 1	Jetzt	_	ADV	ADV	_	2	MO	_	_
 2	will	_	VERB	VMFIN	_	0	--	_	_
@@ -31,11 +31,7 @@
 14	bedeutet	_	VERB	VVFIN	_	7	OC	_	_
 15	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 61
-# text = Grenzüberschreitende
-1	Grenzüberschreitende	_	ADJ	ADJA	_	0	--	_	_
-
-# sent_id = 62
+# sent_id = 59
 # text = Umweltverträglichkeitsprüfung im Rahmen der Verlängerung des Tagebaus Turow in Polen
 1	Umweltverträglichkeitsprüfung	_	NOUN	NN	_	0	--	_	_
 2	im	_	ADP	APPRART	_	1	MNR	_	_
@@ -48,7 +44,7 @@
 9	in	_	ADP	APPR	_	7	MNR	_	_
 10	Polen	_	PROPN	NE	_	9	NK	_	_
 
-# sent_id = 63
+# sent_id = 60
 # text = In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 1	In	_	ADP	APPR	_	10	MO	_	_
 2	diesem	_	PRON	PDAT	_	3	NK	_	_
@@ -62,7 +58,7 @@
 10	erfolgt	_	VERB	VVPP	_	4	OC	_	_
 11	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 64
+# sent_id = 61
 # text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
 1	Auch	_	ADV	ADV	_	3	MO	_	_
 2	langzeitarbeitslose	_	ADJ	ADJA	_	3	NK	_	_
@@ -82,7 +78,7 @@
 16	auszusuchen	_	VERB	VVIZU	_	7	OC	_	_
 17	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 65
+# sent_id = 62
 # text = Wir können Ihnen die Projekte gerne auflisten, damit Sie sehen, wie vielfältig dieses Programm ausgestaltet ist.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	können	_	VERB	VMFIN	_	0	--	_	_
@@ -104,7 +100,7 @@
 18	ist	_	VERB	VAFIN	_	11	OC	_	_
 19	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 66
+# sent_id = 63
 # text = Wir sollten in der Tat einen Beitrag dazu leisten, dass der Iran beides nicht tut.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	sollten	_	VERB	VMFIN	_	0	--	_	_
@@ -124,7 +120,7 @@
 16	tut	_	VERB	VVFIN	_	8	RE	_	_
 17	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 67
+# sent_id = 64
 # text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
 1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
 2	es	_	PRON	PPER	_	8	EP	_	_
@@ -144,7 +140,7 @@
 16	vorbei	_	VERB	PTKVZ	_	11	SVP	_	_
 17	.	_	PUNCT	$.	_	11	PUNCT	_	_
 
-# sent_id = 68
+# sent_id = 65
 # text = Umso schöner finde ich, dass sich Special Olympics Deutschland im Sommer um die Austragung der World Games beworben hat.
 1	Umso	_	NOUN	NN	_	2	MO	_	_
 2	schöner	_	ADJ	ADJD	_	3	MO	_	_
@@ -168,7 +164,7 @@
 20	hat	_	VERB	VAFIN	_	3	OC	_	_
 21	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 69
+# sent_id = 66
 # text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
 1	Der	_	DET	ART	_	2	NK	_	_
 2	Staat	_	NOUN	NN	_	6	SB	_	_
@@ -193,7 +189,7 @@
 21	können	_	VERB	VMINF	_	9	RE	_	_
 22	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 70
+# sent_id = 67
 # text = Dieser Haushalt drückt das ganze Elend und die Beliebigkeit der Merkel-Ära aus, der wohl dunkelsten Kanzlerschaft, die Deutschland erlebt hat.
 1	Dieser	_	PRON	PDAT	_	2	NK	_	_
 2	Haushalt	_	NOUN	NN	_	3	SB	_	_
@@ -219,7 +215,7 @@
 22	hat	_	VERB	VAFIN	_	17	RC	_	_
 23	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 71
+# sent_id = 68
 # text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
 1	Der	_	DET	ART	_	3	NK	_	_
 2	entscheidende	_	ADJ	ADJA	_	3	NK	_	_
@@ -244,7 +240,7 @@
 21	herauskommen	_	VERB	VVINF	_	6	PD	_	_
 22	.	_	PUNCT	$.	_	4	PUNCT	_	_
 
-# sent_id = 72
+# sent_id = 69
 # text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
 1	Aber	_	ADV	ADV	_	3	JU	_	_
 2	jetzt	_	ADV	ADV	_	3	MO	_	_
@@ -274,7 +270,7 @@
 26	sehen	_	VERB	VVINF	_	15	CC	_	_
 27	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 73
+# sent_id = 70
 # text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	möchte	_	VERB	VMFIN	_	0	--	_	_
@@ -306,7 +302,7 @@
 28	Hauses	_	NOUN	NN	_	26	AG	_	_
 29	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 74
+# sent_id = 71
 # text = Wir werden, wie gesagt, dieses Thema in den nächsten wenigen Wochen intensiv beraten, im Übrigen nicht nur in den Fachausschüssen, sondern auch hier im Plenum.
 1	Wir	_	PRON	PPER	_	2	SB	_	_
 2	werden	_	VERB	VAFIN	_	0	--	_	_
@@ -339,7 +335,7 @@
 29	Plenum	_	NOUN	NN	_	28	NK	_	_
 30	.	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 75
+# sent_id = 72
 # text = Ein Strafgericht prüft nicht, ob der Angeklagte die Möglichkeit zur Teilnahme am Kommunikationsprozess zwischen Volk und Staatsorganen hat, wenn es die Schuldunfähigkeit des Angeklagten feststellt und seine Unterbringung in einem psychiatrischen Krankenhaus anordnet, weshalb auch eine solche Anordnung nicht den Entzug des Wahlrechts mit sich bringen kann.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Strafgericht	_	NOUN	NN	_	3	SB	_	_
@@ -393,7 +389,7 @@
 50	kann	_	VERB	VMFIN	_	3	MO	_	_
 51	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
-# sent_id = 76
+# sent_id = 73
 # text = Ein Gutachten, das für unsere Fraktion erstellt wurde, kam zu dem Schluss, dass der Minister quasi gezockt hat, so wie man auf Schwarz oder Rot im Casino setzt.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Gutachten	_	NOUN	NN	_	11	SB	_	_
@@ -429,7 +425,7 @@
 32	setzt	_	VERB	VVFIN	_	20	CC	_	_
 33	.	_	PUNCT	$.	_	11	PUNCT	_	_
 
-# sent_id = 77
+# sent_id = 74
 # text = Ein Ehepaar mit dem gleichen Einkommen kommt auf eine Entlastung von 2013 Euro pro Monat, und eine Familie mit zwei Kindern und diesem Einkommen entlasten wir um 3931 Euro im Monat.
 1	Ein	_	DET	ART	_	2	NK	_	_
 2	Ehepaar	_	NOUN	NN	_	7	SB	_	_
@@ -465,7 +461,7 @@
 32	Monat	_	NOUN	NN	_	31	NK	_	_
 33	.	_	PUNCT	$.	_	7	PUNCT	_	_
 
-# sent_id = 78
+# sent_id = 75
 # text = Der jetzige Haushaltsentwurf für 2019 mit der Finanzplanung bis 2020 und 2021 ist ein dreifacher Bruch des Koalitionsvertrages, weil wir die finanziellen Spielräume nicht prioritär für Entwicklung nutzen;
 1	Der	_	DET	ART	_	3	NK	_	_
 2	jetzige	_	ADJ	ADJA	_	3	NK	_	_
@@ -497,13 +493,4 @@
 28	Entwicklung	_	NOUN	NN	_	27	NK	_	_
 29	nutzen	_	VERB	VVINF	_	13	MO	_	_
 30	;	_	PUNCT	$.	_	13	PUNCT	_	_
-
-# sent_id = 79
-# text = denn wir bekämen demnachäußerst wenig.
-1	denn	_	CONJ	KON	_	3	JU	_	_
-2	wir	_	PRON	PPER	_	3	SB	_	_
-3	bekämen	_	VERB	VVFIN	_	0	--	_	_
-4	demnachäußerst	_	ADV	ADV	_	3	MO	_	_
-5	wenig	_	PRON	PIS	_	3	OA	_	_
-6	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

@@ -865,35 +865,6 @@
 28	.	_	_	_	_	3	punct	_	_
 
 # sent_id = 34
-# text = Es ist aber wohl anzunehmen, daß dieser Vorbehalt nur deshalb nicht ausdrücklich aufgenommen ist, weil er der Sache nach als selbstverständlich betrachtet wurde.
-1	Es	_	_	_	_	5	expl	_	_
-2	ist	_	_	_	_	5	aux:pass	_	_
-3	aber	_	_	_	_	5	advmod	_	_
-4	wohl	_	_	_	_	5	advmod	_	_
-5	anzunehmen	_	_	_	_	0	root	_	_
-6	,	_	_	_	_	14	punct	_	_
-7	daß	_	_	_	_	14	mark	_	_
-8	dieser	_	_	_	_	9	det	_	_
-9	Vorbehalt	_	_	_	_	14	nsubj:pass	_	_
-10	nur	_	_	_	_	11	advmod	_	_
-11	deshalb	_	_	_	_	14	advmod	_	_
-12	nicht	_	_	_	_	14	advmod	_	_
-13	ausdrücklich	_	_	_	_	14	advmod	_	_
-14	aufgenommen	_	_	_	_	5	csubj:pass	_	_
-15	ist	_	_	_	_	14	aux:pass	_	_
-16	,	_	_	_	_	24	punct	_	_
-17	weil	_	_	_	_	24	mark	_	_
-18	er	_	_	_	_	24	nsubj:pass	_	_
-19	der	_	_	_	_	20	det	_	_
-20	Sache	_	_	_	_	24	obl	_	_
-21	nach	_	_	_	_	20	case	_	_
-22	als	_	_	_	_	24	fixed	_	_
-23	selbstverständlich	_	_	_	_	24	xcomp	_	_
-24	betrachtet	_	_	_	_	14	advcl	_	_
-25	wurde	_	_	_	_	24	aux:pass	_	_
-26	.	_	_	_	_	5	punct	_	_
-
-# sent_id = 35
 # text = Es konnte weiter für den Ausschuß keinem Zweifel unterliegen, daß auch jede Begrenzung der Stahlkapazität wie auch der Stahlproduktion vom Augenblick des Inkrafttretens der Hohen Behörde an beseitigt ist, daß sich also dann so bedauerliche Entscheidungen, wie sie kürzlich hinsichtlich der August-Thyssen-Hütte und Watenstedt-Salzgitters noch getroffen werden konnten, einfach nicht mehr wiederholen können.
 1	Es	_	_	_	_	9	expl	_	_
 2	konnte	_	_	_	_	9	aux	_	_
@@ -954,7 +925,7 @@
 57	können	_	_	_	_	56	aux	_	_
 58	.	_	_	_	_	9	punct	_	_
 
-# sent_id = 36
+# sent_id = 35
 # text = Man kann hier nicht lediglich von den Dienstgruppen in der britischen Besatzungszone sprechen,  sondern muß zum Vergleich - die Dienstgruppen in der britischen Zone gehen schon diesen Weg - auf die Verhältnisse in der amerikanisch besetzten Zone eingehen.
 1	Man	_	_	_	_	13	nsubj	_	_
 2	kann	_	_	_	_	13	aux	_	_
@@ -997,7 +968,7 @@
 39	eingehen	_	_	_	_	13	conj	_	_
 40	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 37
+# sent_id = 36
 # text = Wir haben uns immer in einem starken Maße für die Jugend eingesetzt, weil wir wußten und wissen, daß sie im Ablauf der Generationen immer wieder jenes Element ist, das von der einen zur anderen Generation Brücken schlägt und zugleich eine Entwicklung trägt.
 1	Wir	_	_	_	_	12	nsubj	_	_
 2	haben	_	_	_	_	12	aux	_	_
@@ -1046,7 +1017,7 @@
 45	trägt	_	_	_	_	40	conj	_	_
 46	.	_	_	_	_	12	punct	_	_
 
-# sent_id = 38
+# sent_id = 37
 # text = Sie werden sehr viel Mühe haben, den durch Vorfinanzierung an Sie gelangenden Betrag der Bank deutscher Länder in Höhe von 350 Millionen DM im Laufe des restlichen Jahres und im Anfang des nächsten bis zur Mitte des nächsten Jahres wieder abzudecken.
 1	Sie	_	_	_	_	6	nsubj	_	_
 2	werden	_	_	_	_	6	aux	_	_
@@ -1092,7 +1063,7 @@
 42	abzudecken	_	_	_	_	6	xcomp	_	_
 43	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 39
+# sent_id = 38
 # text = Das Anlehen ist aus den nächsten drei Etats zu tilgen.
 1	Das	_	_	_	_	2	det	_	_
 2	Anlehen	_	_	_	_	10	obj	_	_
@@ -1106,7 +1077,7 @@
 10	tilgen	_	_	_	_	10	root	_	_
 11	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 40
+# sent_id = 39
 # text = Das werde eine sehr starke Belastung der Neichsanstalt zur Folge haben.
 1	Das	_	_	_	_	11	nsubj	_	_
 2	werde	_	_	_	_	11	aux	_	_
@@ -1121,7 +1092,7 @@
 11	haben	_	_	_	_	0	root	_	_
 12	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 41
+# sent_id = 40
 # text = Der Rechnungshof soll sich zur Erfüllung dieser Aufgabe der Mitwirkung einer von ihm gewählten Treuhandgesellschaft bedienen können.
 1	Der	_	_	_	_	2	det	_	_
 2	Rechnungshof	_	_	_	_	16	nsubj	_	_
@@ -1142,7 +1113,7 @@
 17	können	_	_	_	_	16	aux	_	_
 18	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 42
+# sent_id = 41
 # text = Bei den Hinterbliebenen ergibt sich, wenn die Ergebnisse der beiden Zählungen verglichen werden, kein einheitliches Bild.
 1	Bei	_	_	_	_	3	case	_	_
 2	den	_	_	_	_	3	det	_	_
@@ -1164,7 +1135,7 @@
 18	Bild	_	_	_	_	4	nsubj	_	_
 19	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 43
+# sent_id = 42
 # text = Ich bitte die Damen und Herren, die das beschließen wollen, sich zu erheben.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -1183,7 +1154,7 @@
 15	erheben	_	_	_	_	2	xcomp	_	_
 16	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 44
+# sent_id = 43
 # text = Entfernung der Besatzung aus den Bade- und Luftkurorten des besetzten Gebiets, insbesondere von Kreuznach und Königstein.
 1	Entfernung	_	_	_	_	0	root	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -1204,7 +1175,7 @@
 17	Königstein	_	_	_	_	15	conj	_	_
 18	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 45
+# sent_id = 44
 # text = Hier gilt nicht das besondere Recht des § 84; sie sind aber Mitglieder der allgemeinen Ortskrankenkasse nach § 82.
 1	Hier	_	_	_	_	2	advmod	_	_
 2	gilt	_	_	_	_	0	root	_	_
@@ -1228,7 +1199,7 @@
 20	82	_	_	_	_	19	flat	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 46
+# sent_id = 45
 # text = Gegen Sträflinge, die das achtzehnte Lebensjahr nicht vollendet haben, sind auch die in der Schule anwendbaren Züchtigungsmittel zulässig.
 1	Gegen	_	_	_	_	2	case	_	_
 2	Sträflinge	_	_	_	_	20	obl	_	_
@@ -1252,7 +1223,7 @@
 20	zulässig	_	_	_	_	0	root	_	_
 21	.	_	_	_	_	20	punct	_	_
 
-# sent_id = 47
+# sent_id = 46
 # text = Ich bitte diejenigen Abgeordneten, die den Antrag morgen auf die Tagesordnung setzen wollen, sich von den Plätzen zu erheben.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -1277,7 +1248,7 @@
 21	erheben	_	_	_	_	2	xcomp	_	_
 22	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 48
+# sent_id = 47
 # text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
 1	Der	_	_	_	_	2	det	_	_
 2	Kampf	_	_	_	_	6	nsubj	_	_
@@ -1307,7 +1278,7 @@
 26	aufbauen	_	_	_	_	17	acl	_	_
 27	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 49
+# sent_id = 48
 # text = Ob der Entwurf, der die Mittel flüssig machen will, um der Presse Hilfe zu bringen, diese Hilfe wirklich in umfangreicher Weise bringen wird, erscheint fraglich.
 1	Ob	_	_	_	_	25	mark	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -1340,7 +1311,7 @@
 29	fraglich	_	_	_	_	28	xcomp	_	_
 30	.	_	_	_	_	28	punct	_	_
 
-# sent_id = 50
+# sent_id = 49
 # text = Aber ich betone schon heute, daß es nicht angeht, daß wieder in der Hauptsache durch die Gewerkschaften die Verteilung und Durchführung dieser Fonds vorgenommen wird.
 1	Aber	_	_	_	_	3	cc	_	_
 2	ich	_	_	_	_	3	nsubj	_	_
@@ -1371,7 +1342,7 @@
 27	wird	_	_	_	_	26	aux:pass	_	_
 28	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 51
+# sent_id = 50
 # text = Das Briandsche Memorandum, der Briandsche Paneuropa-Plan will augenscheinlich diese Gefahr endgültig beseitigen, den letzten Schimmer, den letzten Schatten dieser Gefahr verschwinden lassen.
 1	Das	_	_	_	_	3	det	_	_
 2	Briandsche	_	_	_	_	3	amod	_	_
@@ -1400,7 +1371,7 @@
 25	lassen	_	_	_	_	13	conj	_	_
 26	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 52
+# sent_id = 51
 # text = Die Stellungnahme meiner politischen Freunde zu allen diesen Fragen war - das muß ich nachdrücklichst betonen und dem Herrn Minister für die Anerkennung, die er uns in dieser Hinsicht ausgesprochen hat, speziell Dank sagen - von jeher nicht von kleinlichen oder gar von partikularistischen Gesichtspunkten geleitet.
 1	Die	_	_	_	_	2	det	_	_
 2	Stellungnahme	_	_	_	_	48	nsubj:pass	_	_
@@ -1452,7 +1423,7 @@
 48	geleitet	_	_	_	_	0	root	_	_
 49	.	_	_	_	_	48	punct	_	_
 
-# sent_id = 53
+# sent_id = 52
 # text = Soweit die hiernach in Kraft getretenen Vorschriften nach Entscheidung des Reichsverwaltungsgerichts oder des Schiedsgerichts nicht zulässig sind, sind die Länder, Gemeinden und sonstigen öffentlichen Körperschaften verpflichtet, die Vorschriften mit rückwirkender Kraft nach Maßgabe der Entscheidung zu ändern.
 1	Soweit	_	_	_	_	16	mark	_	_
 2	die	_	_	_	_	7	det	_	_
@@ -1496,7 +1467,7 @@
 40	ändern	_	_	_	_	28	xcomp	_	_
 41	.	_	_	_	_	28	punct	_	_
 
-# sent_id = 54
+# sent_id = 53
 # text = Die sich überstürzenden Verhältnisse, die fortwährenden Neuaufstellungen und Umformierungen, die Verwendung der Formationen an verschiedenen Orten, vielfacher Personalwechsel und die häufigen, dazu meist rückwirkenden Änderungen der Gebührnisvorschriften haben eine ordnungsmäßige Rechnungslegung behindert.
 1	Die	_	_	_	_	4	det	_	_
 2	sich	_	_	_	_	3	obj	_	_
@@ -1536,7 +1507,7 @@
 36	behindert	_	_	_	_	0	root	_	_
 37	.	_	_	_	_	36	punct	_	_
 
-# sent_id = 55
+# sent_id = 54
 # text = Der Entwurf geht davon aus, daß diese Höchstgrenze selbst bei ungünstigeren Zeit- und Wirtschaftsverhältnissen ausreichen wird, da ja durch die Beschleunigung der nötigen Gebührenerhöhungen dem ordentlichen Einnahmebedarfe stets rechtzeitig Rechnung getragen werden kann.
 1	Der	_	_	_	_	2	det	_	_
 2	Entwurf	_	_	_	_	3	nsubj	_	_
@@ -1575,7 +1546,7 @@
 35	kann	_	_	_	_	33	aux	_	_
 36	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 56
+# sent_id = 55
 # text = Auch um Frieden zu sichern, brauchen wir völlig neue Instrumente.
 1	Auch	_	_	_	_	5	advmod	_	_
 2	um	_	_	_	_	5	mark	_	_
@@ -1590,7 +1561,7 @@
 11	Instrumente	_	_	_	_	7	obj	_	_
 12	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 57
+# sent_id = 56
 # text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
 1	Jetzt	_	_	_	_	7	advmod	_	_
 2	will	_	_	_	_	7	aux	_	_
@@ -1608,33 +1579,7 @@
 14	bedeutet	_	_	_	_	7	ccomp	_	_
 15	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 58
-# text = Grenzüberschreitende Umweltverträglichkeitsprüfung im Rahmen der Verlängerung des Tagebaus Turow in Polen
-In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
-1	Grenzüberschreitende	_	_	_	_	2	amod	_	_
-2	Umweltverträglichkeitsprüfung	_	_	_	_	0	root	_	_
-3	im	_	_	_	_	4	case	_	_
-4	Rahmen	_	_	_	_	2	nmod	_	_
-5	der	_	_	_	_	6	det	_	_
-6	Verlängerung	_	_	_	_	4	nmod	_	_
-7	des	_	_	_	_	8	det	_	_
-8	Tagebaus	_	_	_	_	6	nmod	_	_
-9	Turow	_	_	_	_	8	flat	_	_
-10	in	_	_	_	_	11	case	_	_
-11	Polen	_	_	_	_	8	nmod	_	_
-12	In	_	_	_	_	14	case	_	_
-13	diesem	_	_	_	_	14	det	_	_
-14	Geist	_	_	_	_	21	obl	_	_
-15	sind	_	_	_	_	21	aux	_	_
-16	dann	_	_	_	_	21	advmod	_	_
-17	ja	_	_	_	_	21	advmod	_	_
-18	auch	_	_	_	_	21	advmod	_	_
-19	verschiedene	_	_	_	_	20	amod	_	_
-20	Aktionen	_	_	_	_	21	nsubj	_	_
-21	erfolgt	_	_	_	_	2	parataxis	_	_
-22	.	_	_	_	_	21	punct	_	_
-
-# sent_id = 59
+# sent_id = 57
 # text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
 1	Auch	_	_	_	_	3	advmod	_	_
 2	langzeitarbeitslose	_	_	_	_	3	amod	_	_
@@ -1654,7 +1599,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	auszusuchen	_	_	_	_	7	acl	_	_
 17	.	_	_	_	_	8	punct	_	_
 
-# sent_id = 60
+# sent_id = 58
 # text = Wir können Ihnen die Projekte gerne auflisten, damit Sie sehen, wie vielfältig dieses Programm ausgestaltet ist.
 1	Wir	_	_	_	_	7	nsubj	_	_
 2	können	_	_	_	_	7	aux	_	_
@@ -1676,7 +1621,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 18	ist	_	_	_	_	17	aux:pass	_	_
 19	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 61
+# sent_id = 59
 # text = Wir sollten in der Tat einen Beitrag dazu leisten, dass der Iran beides nicht tut.
 1	Wir	_	_	_	_	9	nsubj	_	_
 2	sollten	_	_	_	_	9	aux	_	_
@@ -1696,7 +1641,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	tut	_	_	_	_	8	advcl	_	_
 17	.	_	_	_	_	9	punct	_	_
 
-# sent_id = 62
+# sent_id = 60
 # text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
 1	Wenn	_	_	_	_	8	mark	_	_
 2	es	_	_	_	_	8	expl	_	_
@@ -1716,7 +1661,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	vorbei	_	_	_	_	11	compound:prt	_	_
 17	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 63
+# sent_id = 61
 # text = Umso schöner finde ich, dass sich Special Olympics Deutschland im Sommer um die Austragung der World Games beworben hat.
 1	Umso	_	_	_	_	3	advmod	_	_
 2	schöner	_	_	_	_	3	xcomp	_	_
@@ -1740,7 +1685,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 20	hat	_	_	_	_	19	aux	_	_
 21	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 64
+# sent_id = 62
 # text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
 1	Der	_	_	_	_	2	det	_	_
 2	Staat	_	_	_	_	6	nsubj	_	_
@@ -1765,7 +1710,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 21	können	_	_	_	_	20	aux	_	_
 22	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 65
+# sent_id = 63
 # text = Dieser Haushalt drückt das ganze Elend und die Beliebigkeit der Merkel-Ära aus, der wohl dunkelsten Kanzlerschaft, die Deutschland erlebt hat.
 1	Dieser	_	_	_	_	2	det	_	_
 2	Haushalt	_	_	_	_	3	nsubj	_	_
@@ -1791,7 +1736,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 22	hat	_	_	_	_	21	aux	_	_
 23	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 66
+# sent_id = 64
 # text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
 1	Der	_	_	_	_	3	det	_	_
 2	entscheidende	_	_	_	_	3	amod	_	_
@@ -1816,7 +1761,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 21	herauskommen	_	_	_	_	3	csubj	_	_
 22	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 67
+# sent_id = 65
 # text = Es sieht weiter vor, dass eine Zollgrenze entlang der Irischen See, also in ihrem eigenen Land, errichtet wird, wenn Großbritannien den Binnenmarkt verlässt.
 1	Es	_	_	_	_	2	nsubj	_	_
 2	sieht	_	_	_	_	0	root	_	_
@@ -1847,7 +1792,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 27	verlässt	_	_	_	_	20	advcl	_	_
 28	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 68
+# sent_id = 66
 # text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
 1	Aber	_	_	_	_	3	cc	_	_
 2	jetzt	_	_	_	_	3	advmod	_	_
@@ -1877,7 +1822,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 26	sehen	_	_	_	_	13	acl	_	_
 27	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 69
+# sent_id = 67
 # text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
 1	Ich	_	_	_	_	3	nsubj	_	_
 2	möchte	_	_	_	_	3	aux	_	_
@@ -1909,7 +1854,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 28	Hauses	_	_	_	_	26	nmod	_	_
 29	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 70
+# sent_id = 68
 # text = Wir werden, wie gesagt, dieses Thema in den nächsten wenigen Wochen intensiv beraten, im Übrigen nicht nur in den Fachausschüssen, sondern auch hier im Plenum.
 1	Wir	_	_	_	_	15	nsubj	_	_
 2	werden	_	_	_	_	15	aux	_	_
@@ -1942,7 +1887,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	Plenum	_	_	_	_	23	conj	_	_
 30	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 71
+# sent_id = 69
 # text = Ein Strafgericht prüft nicht, ob der Angeklagte die Möglichkeit zur Teilnahme am Kommunikationsprozess zwischen Volk und Staatsorganen hat, wenn es die Schuldunfähigkeit des Angeklagten feststellt und seine Unterbringung in einem psychiatrischen Krankenhaus anordnet, weshalb auch eine solche Anordnung nicht den Entzug des Wahlrechts mit sich bringen kann.
 1	Ein	_	_	_	_	2	det	_	_
 2	Strafgericht	_	_	_	_	3	nsubj	_	_
@@ -1996,7 +1941,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 50	kann	_	_	_	_	49	aux	_	_
 51	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 72
+# sent_id = 70
 # text = Ein Gutachten, das für unsere Fraktion erstellt wurde, kam zu dem Schluss, dass der Minister quasi gezockt hat, so wie man auf Schwarz oder Rot im Casino setzt.
 1	Ein	_	_	_	_	2	det	_	_
 2	Gutachten	_	_	_	_	11	nsubj	_	_
@@ -2032,7 +1977,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	setzt	_	_	_	_	20	advcl	_	_
 33	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 73
+# sent_id = 71
 # text = Ein Ehepaar mit dem gleichen Einkommen kommt auf eine Entlastung von 2013 Euro pro Monat, und eine Familie mit zwei Kindern und diesem Einkommen entlasten wir um 3931 Euro im Monat.
 1	Ein	_	_	_	_	2	det	_	_
 2	Ehepaar	_	_	_	_	7	nsubj	_	_
@@ -2068,7 +2013,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	Monat	_	_	_	_	30	nmod	_	_
 33	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 74
+# sent_id = 72
 # text = Der jetzige Haushaltsentwurf für 2019 mit der Finanzplanung bis 2020 und 2021 ist ein dreifacher Bruch des Koalitionsvertrages, weil wir die finanziellen Spielräume nicht prioritär für Entwicklung nutzen; denn wir bekämen demnachäußerst wenig.
 1	Der	_	_	_	_	3	det	_	_
 2	jetzige	_	_	_	_	3	amod	_	_
@@ -2107,7 +2052,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 35	wenig	_	_	_	_	33	obj	_	_
 36	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 75
+# sent_id = 73
 # text = Das ist das Verdienst, das der Lloyd auf die Kingsin-Linie ausgeübt hat.
 1	Das	_	_	_	_	4	nsubj	_	_
 2	ist	_	_	_	_	4	cop	_	_
@@ -2124,7 +2069,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 13	hat	_	_	_	_	12	aux	_	_
 14	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 76
+# sent_id = 74
 # text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
 1	Für	_	_	_	_	4	case	_	_
 2	die	_	_	_	_	4	det	_	_
@@ -2139,7 +2084,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 11	Strafgesetzbuchs	_	_	_	_	9	nmod	_	_
 12	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 77
+# sent_id = 75
 # text = Dort kann bei inneren Unruhen das Militär nur auf Requisition der Zivilbehörden eingreifen.
 1	Dort	_	_	_	_	13	advmod	_	_
 2	kann	_	_	_	_	13	aux	_	_
@@ -2156,7 +2101,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 13	eingreifen	_	_	_	_	0	root	_	_
 14	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 78
+# sent_id = 76
 # text = Auch in der Budgetkommission ist diese Petition im Anschluß an die Verhandlungen über jene Etatsposition erledigt worden.
 1	Auch	_	_	_	_	4	advmod	_	_
 2	in	_	_	_	_	4	case	_	_
@@ -2177,7 +2122,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 17	worden	_	_	_	_	16	aux:pass	_	_
 18	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 79
+# sent_id = 77
 # text = Aber beim Kleinhandel, beim Verkauf an den Konsumenten herrschen große Mißstände, wie ich zu Anfang bereits andeutete.
 1	Aber	_	_	_	_	10	cc	_	_
 2	beim	_	_	_	_	3	case	_	_
@@ -2200,7 +2145,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 19	andeutete	_	_	_	_	10	advcl	_	_
 20	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 80
+# sent_id = 78
 # text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
 1	Die	_	_	_	_	2	det	_	_
 2	Feststellung	_	_	_	_	3	nsubj	_	_
@@ -2223,7 +2168,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 19	Verlustes	_	_	_	_	17	nmod	_	_
 20	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 81
+# sent_id = 79
 # text = Nun hat gestern der Herr Abgeordnete Graf v. Posadowsky ausgesprochen, das einzige, was helfen könne, sei eine großherzige Wohnungspolitik.
 1	Nun	_	_	_	_	11	advmod	_	_
 2	hat	_	_	_	_	11	aux	_	_
@@ -2250,7 +2195,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	Wohnungspolitik	_	_	_	_	11	ccomp	_	_
 24	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 82
+# sent_id = 80
 # text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
 1	Die	_	_	_	_	2	det	_	_
 2	Reichs-Gewerbeordnung	_	_	_	_	3	nsubj	_	_
@@ -2274,7 +2219,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 20	verlange	_	_	_	_	3	advcl	_	_
 21	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 83
+# sent_id = 81
 # text = So verteilen die Oberpostdirektionen die Gratifikationen für geleistete überstunden immer nach oben, da ist es nach ihrer Ansicht weit notwendiger als nach unten.
 1	So	_	_	_	_	2	advmod	_	_
 2	verteilen	_	_	_	_	0	root	_	_
@@ -2302,7 +2247,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 24	unten	_	_	_	_	21	advmod	_	_
 25	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 84
+# sent_id = 82
 # text = Es ist da auf Seite 174 aus dem Inspektionsbezirk Breslau eine Kritik über die Porzellanarbeiter und die unter ihnen auftretenden ansteckenden Krankheiten vorhanden.
 1	Es	_	_	_	_	23	expl	_	_
 2	ist	_	_	_	_	23	cop	_	_
@@ -2329,7 +2274,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	vorhanden	_	_	_	_	0	root	_	_
 24	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 85
+# sent_id = 83
 # text = Es sei unmöglich, sich nach Jahr und Tag ein zutreffendes Urteil darüber zu bilden, ob in einem weiter zurückliegenden Zeitpunkt Erziehungs- und Besserungsmaßregeln am Platze gewesen wären.
 1	Es	_	_	_	_	3	expl	_	_
 2	sei	_	_	_	_	3	cop	_	_
@@ -2362,7 +2307,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	wären	_	_	_	_	28	aux	_	_
 30	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 86
+# sent_id = 84
 # text = Ich bedaure, daß die Reichsregierung meiner Anregung keine Folge geleistet hat, da fortgesetzt der deutsche Markt in ganz erheblichem Umfange von ausländischen Geldsuchern in Anspruch genommen wird.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bedaure	_	_	_	_	0	root	_	_
@@ -2395,7 +2340,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	wird	_	_	_	_	28	aux:pass	_	_
 30	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 87
+# sent_id = 85
 # text = Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers am Leistungsorte versteigern lassen und den Erlös hinterlegen.
 1	Ist	_	_	_	_	9	cop	_	_
 2	die	_	_	_	_	5	det	_	_
@@ -2428,37 +2373,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	hinterlegen	_	_	_	_	24	conj	_	_
 30	.	_	_	_	_	25	punct	_	_
 
-# sent_id = 88
-# text = Auch die Zuständigkeit des zukünftigen Kolontalgerichtshofes ist in der neuen Vorlage besser umgrenzt und genauer präzisiert worden, als das in der früheren Vorlage geschehen war.
-1	Auch	_	_	_	_	3	advmod	_	_
-2	die	_	_	_	_	3	det	_	_
-3	Zuständigkeit	_	_	_	_	13	nsubj:pass	_	_
-4	des	_	_	_	_	6	det	_	_
-5	zukünftigen	_	_	_	_	6	amod	_	_
-6	Kolontalgerichtshofes	_	_	_	_	3	nmod	_	_
-7	ist	_	_	_	_	13	aux	_	_
-8	in	_	_	_	_	11	case	_	_
-9	der	_	_	_	_	11	det	_	_
-10	neuen	_	_	_	_	11	amod	_	_
-11	Vorlage	_	_	_	_	13	obl	_	_
-12	besser	_	_	_	_	13	advmod	_	_
-13	umgrenzt	_	_	_	_	0	root	_	_
-14	und	_	_	_	_	16	cc	_	_
-15	genauer	_	_	_	_	16	advmod	_	_
-16	präzisiert	_	_	_	_	13	conj	_	_
-17	worden	_	_	_	_	13	aux:pass	_	_
-18	,	_	_	_	_	25	punct	_	_
-19	als	_	_	_	_	25	mark	_	_
-20	das	_	_	_	_	25	nsubj	_	_
-21	in	_	_	_	_	24	case	_	_
-22	der	_	_	_	_	24	det	_	_
-23	früheren	_	_	_	_	24	amod	_	_
-24	Vorlage	_	_	_	_	25	obl	_	_
-25	geschehen	_	_	_	_	13	advcl	_	_
-26	war	_	_	_	_	25	aux	_	_
-27	.	_	_	_	_	13	punct	_	_
-
-# sent_id = 89
+# sent_id = 86
 # text = Zur Zeit ist diese ganze Angelegenheit abhängig von der Landesgesetzgebung, und während in den meisten deutschen Staaten mehr oder weniger strenge Bestimmungen über das Versicherungswesen vorhanden sind, giebt es andererseits einige Staaten, in denen derartige Bestimmungen vollständig fehlen.
 1	Zur	_	_	_	_	2	case	_	_
 2	Zeit	_	_	_	_	7	obl	_	_
@@ -2503,7 +2418,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 41	fehlen	_	_	_	_	34	acl	_	_
 42	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 90
+# sent_id = 87
 # text = Ich glaube, wenn die Bürgerschaft der Stadt, wie es mit Recht verlangt wird, Vertrauen zur Staatsregierung haben soll, kann auch die Staatsregierung der Bürgerschaft Vertrauen entgegenbringen, daß sie den Mann wählen wird, der für das Amt geeignet ist.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	glaube	_	_	_	_	0	root	_	_
@@ -2551,7 +2466,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 44	ist	_	_	_	_	43	cop	_	_
 45	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 91
+# sent_id = 88
 # text = Vielleicht denkt der Herr Reichskanzler auch daran, daß er als leitender Staatsmann in Preußen eine wichtige Pflicht zu erfüllen hat, die auf dem Gebiete des Ausbaues der Volksrechte liegt, daß er die Wahlreform durchzusetzen hat, die von dem Träger der Krone seinerzeit feierlich in Aussicht gestellt worden ist.
 1	Vielleicht	_	_	_	_	2	advmod	_	_
 2	denkt	_	_	_	_	0	root	_	_
@@ -2607,7 +2522,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 52	ist	_	_	_	_	50	aux	_	_
 53	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 92
+# sent_id = 89
 # text = Die Gegenseitigkeitsverträge zwischen verschiedenen Knappschaftsvereinen und die Rückversicherungsverbände, welche man jetzt als Heilmittel zur Gesundung des Knappschaftswesens betrachtet, werden die Mißstände und Ungleichheiten der Leistungen, welche in den Knappschaftsvereinen bestehen, nicht aufheben können, da ihnen hierzu jedes gesetzliche Machtmittel fehlt.
 1	Die	_	_	_	_	2	det	_	_
 2	Gegenseitigkeitsverträge	_	_	_	_	36	nsubj	_	_
@@ -2656,7 +2571,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 45	fehlt	_	_	_	_	36	advcl	_	_
 46	.	_	_	_	_	36	punct	_	_
 
-# sent_id = 93
+# sent_id = 90
 # text = Der 17. Juni war früher der Tag der Deutschen Einheit.
 1	Der	_	_	_	_	2	det	_	_
 2	17	_	_	_	_	4	nummod	_	_
@@ -2671,7 +2586,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 11	Einheit	_	_	_	_	8	nmod	_	_
 12	.	_	_	_	_	8	punct	_	_
 
-# sent_id = 94
+# sent_id = 91
 # text = Sie sollten sich einmal mit den Erkenntnissen der Amerikaner in diesem Bereich beschäftigen.
 1	Sie	_	_	_	_	13	nsubj	_	_
 2	sollten	_	_	_	_	13	aux	_	_
@@ -2688,7 +2603,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 13	beschäftigen	_	_	_	_	0	root	_	_
 14	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 95
+# sent_id = 92
 # text = Dieses müssen wir in Zukunft bei der Haushaltspolitik auch berücksichtigen.
 1	Dieses	_	_	_	_	10	obj	_	_
 2	müssen	_	_	_	_	10	aux	_	_
@@ -2702,7 +2617,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 10	berücksichtigen	_	_	_	_	0	root	_	_
 11	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 96
+# sent_id = 93
 # text = Ihre Umsetzung wird auf europäischer Ebene durch das Visumsinformationssystem vorbereitet bzw. erfolgt bereits jetzt.
 1	Ihre	_	_	_	_	2	det:poss	_	_
 2	Umsetzung	_	_	_	_	10	nsubj:pass	_	_
@@ -2721,7 +2636,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 15	jetzt	_	_	_	_	13	advmod	_	_
 16	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 97
+# sent_id = 94
 # text = Von besonderer Bedeutung ist für Deutschland neben der Außen- und Sicherheitspolitik im Konvent die bereits angesprochene Reform der Institutionen.
 1	Von	_	_	_	_	3	case	_	_
 2	besonderer	_	_	_	_	3	amod	_	_
@@ -2744,7 +2659,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 19	Institutionen	_	_	_	_	17	nmod	_	_
 20	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 98
+# sent_id = 95
 # text = Wir schlagen vor - dies war auch Teil unseres Wahl programms -, die Subventionen pauschal zu kürzen.
 1	Wir	_	_	_	_	2	nsubj	_	_
 2	schlagen	_	_	_	_	0	root	_	_
@@ -2766,7 +2681,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 18	kürzen	_	_	_	_	2	xcomp	_	_
 19	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 99
+# sent_id = 96
 # text = Wer wirklich Sorgen hat, arbeitslos ist oder eine Lehrstelle sucht, konnte sich dort vortrefflich wundern.
 1	Wer	_	_	_	_	4	nsubj	_	_
 2	wirklich	_	_	_	_	4	advmod	_	_
@@ -2787,7 +2702,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 17	wundern	_	_	_	_	0	root	_	_
 18	.	_	_	_	_	17	punct	_	_
 
-# sent_id = 100
+# sent_id = 97
 # text = Für mich ist der Prototyp eines freiberuflich Tätigen ein sehr enger Freund von mir, der als Architekt arbeitet.
 1	Für	_	_	_	_	2	case	_	_
 2	mich	_	_	_	_	12	nmod	_	_
@@ -2810,7 +2725,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 19	arbeitet	_	_	_	_	12	acl	_	_
 20	.	_	_	_	_	12	punct	_	_
 
-# sent_id = 101
+# sent_id = 98
 # text = Meine zweite Teilfrage geht dahin, dass die Europäische Union einmal angemahnt hat, dass eine zweite Förderung desselben Unternehmens unter Beihilfegesichtspunkten fragwürdig sei.
 1	Meine	_	_	_	_	3	det:poss	_	_
 2	zweite	_	_	_	_	3	amod	_	_
@@ -2838,7 +2753,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 24	sei	_	_	_	_	23	cop	_	_
 25	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 102
+# sent_id = 99
 # text = Es gewährt seinen Trägern Schutz gegen unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe der auf sie bezogenen, individualisierten oder individualisierbaren Daten.
 1	Es	_	_	_	_	2	nsubj	_	_
 2	gewährt	_	_	_	_	0	root	_	_
@@ -2865,7 +2780,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	Daten	_	_	_	_	8	nmod	_	_
 24	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 103
+# sent_id = 100
 # text = Zur Transparenz in der Ausbildung gehört aber auch - und dies ist mir besonders wichtig -, dass die Berufsschulleistungen angemessen berücksichtigt werden.
 1	Zur	_	_	_	_	2	case	_	_
 2	Transparenz	_	_	_	_	6	obl	_	_
@@ -2892,7 +2807,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	werden	_	_	_	_	22	aux:pass	_	_
 24	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 104
+# sent_id = 101
 # text = Es ist, wie ich schon sagte, ein Instrument, mit dem der Verbraucher angeregt werden soll, sich kundig zu machen.
 1	Es	_	_	_	_	10	nsubj	_	_
 2	ist	_	_	_	_	10	cop	_	_
@@ -2919,7 +2834,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	machen	_	_	_	_	16	xcomp	_	_
 24	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 105
+# sent_id = 102
 # text = Denn Auslandserfahrung, Austausch und Zusammenarbeit zwischen Studierenden aus den verschiedenen europäischen Ländern - das sage ich ausdrücklich - sind wichtige Faktoren für die Entwicklung eines Europas des Wissens.
 1	Denn	_	_	_	_	22	mark	_	_
 2	Auslandserfahrung	_	_	_	_	22	nsubj	_	_
@@ -2952,7 +2867,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 29	Wissens	_	_	_	_	27	nmod	_	_
 30	.	_	_	_	_	22	punct	_	_
 
-# sent_id = 106
+# sent_id = 103
 # text = Die längeren Ladenöffnungszeiten werden von einem großen Teil der Kunden vor allem am Donnerstag und am Freitag angenommen, jedoch nur von einem kleinen Teil der Unternehmen.
 1	Die	_	_	_	_	3	det	_	_
 2	längeren	_	_	_	_	3	amod	_	_
@@ -2983,7 +2898,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 27	Unternehmen	_	_	_	_	25	nmod	_	_
 28	.	_	_	_	_	18	punct	_	_
 
-# sent_id = 107
+# sent_id = 104
 # text = Daneben haben wir mit den neuen Festzuschüssen auch für die Patientinnen und Patienten mehr Wahlfreiheit und Flexibilität in das System gebracht, sodass die neue Struktur vertretbar ist.
 1	Daneben	_	_	_	_	21	advmod	_	_
 2	haben	_	_	_	_	21	aux	_	_
@@ -3015,7 +2930,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 28	ist	_	_	_	_	27	cop	_	_
 29	.	_	_	_	_	21	punct	_	_
 
-# sent_id = 108
+# sent_id = 105
 # text = Die französische Regierung will das reproduktive Klonen als Verbrechen nicht nur gegen die Menschlichkeit, sondern auch gegen die Menschheit ahnden und dafür drakonische Strafen verhängen.
 1	Die	_	_	_	_	3	det	_	_
 2	französische	_	_	_	_	3	amod	_	_
@@ -3045,7 +2960,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 26	verhängen	_	_	_	_	21	conj	_	_
 27	.	_	_	_	_	21	punct	_	_
 
-# sent_id = 109
+# sent_id = 106
 # text = Nur die Kommunen selber haben die Kenntnis über die Machbarkeit von konkreten und den Einblick in die kommunalen Bedürfnisse, mit denen garantiert werden kann, dass die Eurodistrikte im Dienste der Bürgerinnen und Bürgern entwickelt werden.
 1	Nur	_	_	_	_	3	advmod	_	_
 2	die	_	_	_	_	3	det	_	_
@@ -3086,7 +3001,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 37	werden	_	_	_	_	36	aux:pass	_	_
 38	.	_	_	_	_	5	punct	_	_
 
-# sent_id = 110
+# sent_id = 107
 # text = Spätestens seit dieser Kanzlerrede, seitdem in allen Kommentaren stand, dass alles das, was in diesem Land jetzt so mühsam hervorgebracht wird, eigentlich schon 1998 als richtig erkannt worden war, sollten Sie ruhig sein und uns nicht weiter beschimpfen.
 1	Spätestens	_	_	_	_	4	advmod	_	_
 2	seit	_	_	_	_	4	case	_	_
@@ -3133,7 +3048,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 43	beschimpfen	_	_	_	_	37	conj	_	_
 44	.	_	_	_	_	37	punct	_	_
 
-# sent_id = 111
+# sent_id = 108
 # text = Unter Buchstabe b empfiehlt der Ausschuss die Ablehnung des Antrags der Fraktion der FDP auf Drucksache 15 / 5477 mit dem Titel "Prekärer Haushaltslage entgegentreten - Nachtragshaushalt und Haushaltssicherungsgesetz vorlegen".
 1	Unter	_	_	_	_	2	case	_	_
 2	Buchstabe	_	_	_	_	4	obl	_	_
@@ -3169,7 +3084,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	"	_	_	_	_	26	punct	_	_
 33	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 112
+# sent_id = 109
 # text = Diese Maßnahmen werden getroffen, aber die Entscheidung darüber, ob und, wenn ja, in welcher Form es weitergehen wird, wird erst getroffen, wenn validierte Ergebnisse vorliegen.
 1	Diese	_	_	_	_	2	det	_	_
 2	Maßnahmen	_	_	_	_	4	nsubj:pass	_	_
@@ -3204,7 +3119,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 31	vorliegen	_	_	_	_	26	advcl	_	_
 32	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 113
+# sent_id = 110
 # text = Ein Beispiel macht deutlich, wie der Minister Wahrheiten verschleiert.
 1	Ein	_	_	_	_	2	det	_	_
 2	Beispiel	_	_	_	_	3	nsubj	_	_
@@ -3218,7 +3133,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 10	verschleiert	_	_	_	_	4	acl	_	_
 11	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 114
+# sent_id = 111
 # text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
 1	Sie	_	_	_	_	2	nsubj	_	_
 2	sagen	_	_	_	_	0	root	_	_
@@ -3232,7 +3147,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 10	voraus	_	_	_	_	2	compound:prt	_	_
 11	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 115
+# sent_id = 112
 # text = Dem Auftreten der Europäischen Gemeinschaft kommt unserer Ansicht nach große Bedeutung zu.
 1	Dem	_	_	_	_	2	det	_	_
 2	Auftreten	_	_	_	_	6	iobj	_	_
@@ -3248,7 +3163,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 12	zu	_	_	_	_	6	compound:prt	_	_
 13	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 116
+# sent_id = 113
 # text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
 1	Es	_	_	_	_	2	nsubj	_	_
 2	lohnt	_	_	_	_	0	root	_	_
@@ -3265,7 +3180,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 13	bekommen	_	_	_	_	8	acl	_	_
 14	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 117
+# sent_id = 114
 # text = Würden Sie mir zugeben, daß die Kilowattstunde aus dem Atomkraftwerk Mülheim-Kärlich über 20 Pf kostet?
 1	Würden	_	_	_	_	4	aux	_	_
 2	Sie	_	_	_	_	4	nsubj	_	_
@@ -3285,7 +3200,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 16	kostet	_	_	_	_	4	ccomp	_	_
 17	?	_	_	_	_	4	punct	_	_
 
-# sent_id = 118
+# sent_id = 115
 # text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen; das haben Sie ja schon gehört.
 1	Nur	_	_	_	_	12	advmod	_	_
 2	ist	_	_	_	_	12	aux	_	_
@@ -3308,7 +3223,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 19	gehört	_	_	_	_	12	parataxis	_	_
 20	.	_	_	_	_	12	punct	_	_
 
-# sent_id = 119
+# sent_id = 116
 # text = Das scheint, wenn es um solche Prinzipien geht, überhaupt keine Rolle zu spielen.
 1	Das	_	_	_	_	2	nsubj	_	_
 2	scheint	_	_	_	_	0	root	_	_
@@ -3327,7 +3242,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 15	spielen	_	_	_	_	2	xcomp	_	_
 16	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 120
+# sent_id = 117
 # text = Ich begrüße es deshalb ganz ausdrücklich, daß die Bundesregierung durch Zuschüsse die Reisemöglichkeit in die DDR fördert.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	begrüße	_	_	_	_	0	root	_	_
@@ -3349,7 +3264,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 18	fördert	_	_	_	_	2	ccomp	_	_
 19	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 121
+# sent_id = 118
 # text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
 1	Nun	_	_	_	_	2	advmod	_	_
 2	kommen	_	_	_	_	0	root	_	_
@@ -3373,7 +3288,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 20	verwundert	_	_	_	_	15	conj	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 122
+# sent_id = 119
 # text = Er fährt dann sehr sorgsam fort, daß eben von der Rechtsprechung nur eine einschränkende Auslegung dieses Tatbestandsmerkmals vorgenommen wird.
 1	Er	_	_	_	_	2	nsubj	_	_
 2	fährt	_	_	_	_	0	root	_	_
@@ -3397,7 +3312,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 20	wird	_	_	_	_	19	aux:pass	_	_
 21	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 123
+# sent_id = 120
 # text = Im übrigen kann seit geraumer Zeit vom sogenannten Restdrittel-Erlaß Gebrauch gemacht werden, nämlich dann, wenn sich einer bei der Strafverbüßung wohlverhält.
 1	Im	_	_	_	_	2	case	_	_
 2	übrigen	_	_	_	_	11	obl	_	_
@@ -3424,7 +3339,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 23	wohlverhält	_	_	_	_	15	advcl	_	_
 24	.	_	_	_	_	11	punct	_	_
 
-# sent_id = 124
+# sent_id = 121
 # text = Wenn es mit der Konjunktur wieder aufwärts geht - Gott sei Dank ist das bei unserer Regierung wieder der Fall -, steigen auch die Anforderungen.
 1	Wenn	_	_	_	_	8	mark	_	_
 2	es	_	_	_	_	8	expl	_	_
@@ -3454,7 +3369,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 26	Anforderungen	_	_	_	_	23	nsubj	_	_
 27	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 125
+# sent_id = 122
 # text = Mit den Überwachungsgesetzen, auch Sicherheitsgesetze genannt, insbesondere der geplanten Änderung des Straßenverkehrsgesetzes, will die Kohl-Regierung nun die rechtswidrigen Online-Verbindungen von Polizei- und Sicherheitsbehörden legalisieren.
 1	Mit	_	_	_	_	3	case	_	_
 2	den	_	_	_	_	3	det	_	_
@@ -3485,7 +3400,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 27	legalisieren	_	_	_	_	0	root	_	_
 28	.	_	_	_	_	27	punct	_	_
 
-# sent_id = 126
+# sent_id = 123
 # text = Sind Sie mit mir nicht der Meinung, daß ich genau dort ausgeführt habe, daß ich diejenigen meine, die bisher nicht ausgebildet haben?
 1	Sind	_	_	_	_	7	cop	_	_
 2	Sie	_	_	_	_	7	nsubj	_	_
@@ -3514,7 +3429,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 25	haben	_	_	_	_	24	aux	_	_
 26	?	_	_	_	_	7	punct	_	_
 
-# sent_id = 127
+# sent_id = 124
 # text = Wer bessere Beziehungen zur DDR will, braucht eine klare Konzeption, braucht langen Atem, braucht nüchterne Erkenntnis des Möglichen und des Unmöglichen, um Schritt für Schritt voranzukommen.
 1	Wer	_	_	_	_	6	nsubj	_	_
 2	bessere	_	_	_	_	3	amod	_	_
@@ -3548,7 +3463,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 30	voranzukommen	_	_	_	_	8	advcl	_	_
 31	.	_	_	_	_	8	punct	_	_
 
-# sent_id = 128
+# sent_id = 125
 # text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
 1	Nach	_	_	_	_	3	case	_	_
 2	dieser	_	_	_	_	3	det	_	_
@@ -3584,7 +3499,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 32	wird	_	_	_	_	15	advcl	_	_
 33	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 129
+# sent_id = 126
 # text = Aber selbst die inzwischen schon zum Ritual erhobene Behauptung, man habe einen entscheidenden Schritt - "Durchbruch" heißt es - in der Luftreinhaltung durch die Einführung des schadstoffarmen Autos getan, macht die bedrückende Wirklichkeit nicht besser.
 1	Aber	_	_	_	_	34	cc	_	_
 2	selbst	_	_	_	_	9	advmod	_	_
@@ -3627,7 +3542,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 39	besser	_	_	_	_	34	xcomp	_	_
 40	.	_	_	_	_	34	punct	_	_
 
-# sent_id = 130
+# sent_id = 127
 # text = Gedenkworte des Präsidenten für die in Orioge gefallenen 810 Soldaten.
 1	Gedenkworte	_	_	_	_	0	root	_	_
 2	des	_	_	_	_	3	det	_	_
@@ -3641,7 +3556,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 10	Soldaten	_	_	_	_	1	nmod	_	_
 11	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 131
+# sent_id = 128
 # text = Ich habe in Ihrem Namen auch das Mitgefühl des Deutschen Reichstags dort aussprechen können.
 1	Ich	_	_	_	_	13	nsubj	_	_
 2	habe	_	_	_	_	13	aux	_	_
@@ -3659,7 +3574,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 14	können	_	_	_	_	13	aux	_	_
 15	.	_	_	_	_	13	punct	_	_
 
-# sent_id = 132
+# sent_id = 129
 # text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
 1	Von	_	_	_	_	2	case	_	_
 2	1925	_	_	_	_	3	nmod	_	_
@@ -3676,7 +3591,7 @@ In diesem Geist sind dann ja auch verschiedene Aktionen erfolgt.
 13	Bezirksleiter	_	_	_	_	11	conj	_	_
 14	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 133
+# sent_id = 130
 # text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str.
 Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;  Hamburg,  Moltkestr.
 1	Hauptschriftleiter	_	_	_	_	0	root	_	_
@@ -3712,7 +3627,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	Moltkestr	_	_	_	_	29	flat	_	_
 32	.	_	_	_	_	1	punct	_	_
 
-# sent_id = 134
+# sent_id = 131
 # text = Man mußte in die wichtigsten Rohstoffgebiete einbrechen und sie, wenn nötig, dem eigenen Einfluß unterstellen.
 1	Man	_	_	_	_	7	nsubj	_	_
 2	mußte	_	_	_	_	7	aux	_	_
@@ -3733,7 +3648,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 17	unterstellen	_	_	_	_	7	conj	_	_
 18	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 135
+# sent_id = 132
 # text = Die Schande,  die vor 22 Jahren im Wald von Compiegne ihren Ausgang nahm, ist an dieser gleichen Stelle für immer gelöscht.
 1	Die	_	_	_	_	2	det	_	_
 2	Schande	_	_	_	_	23	nsubj:pass	_	_
@@ -3760,7 +3675,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 23	gelöscht	_	_	_	_	0	root	_	_
 24	.	_	_	_	_	23	punct	_	_
 
-# sent_id = 136
+# sent_id = 133
 # text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
 1	Man	_	_	_	_	2	nsubj	_	_
 2	sieht	_	_	_	_	0	root	_	_
@@ -3787,7 +3702,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 23	Fortschrittes	_	_	_	_	17	conj	_	_
 24	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 137
+# sent_id = 134
 # text = Ich habe damals zugleich einen Appell an die Einsicht der verantwortlichen Männer in den feindlichen Staaten gerichtet und an die Völker selbst.
 1	Ich	_	_	_	_	17	nsubj	_	_
 2	habe	_	_	_	_	17	aux	_	_
@@ -3813,37 +3728,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 22	selbst	_	_	_	_	21	advmod	_	_
 23	.	_	_	_	_	17	punct	_	_
 
-# sent_id = 138
-# text = Im Weltkrieg als Kriegsfreiwilliger 1915 an die italienische Front ausgerückt, im Verbände der Tiroler Standschützen vom Juni 1915 bis Mai 1917 als Mannschaftsperson im Schützengraben.
-1	Im	_	_	_	_	2	case	_	_
-2	Weltkrieg	_	_	_	_	10	obl	_	_
-3	als	_	_	_	_	4	case	_	_
-4	Kriegsfreiwilliger	_	_	_	_	10	obl	_	_
-5	1915	_	_	_	_	10	obl	_	_
-6	an	_	_	_	_	9	case	_	_
-7	die	_	_	_	_	9	det	_	_
-8	italienische	_	_	_	_	9	amod	_	_
-9	Front	_	_	_	_	10	obl	_	_
-10	ausgerückt	_	_	_	_	0	root	_	_
-11	,	_	_	_	_	13	punct	_	_
-12	im	_	_	_	_	13	case	_	_
-13	Verbände	_	_	_	_	26	nmod	_	_
-14	der	_	_	_	_	16	det	_	_
-15	Tiroler	_	_	_	_	16	amod	_	_
-16	Standschützen	_	_	_	_	13	nmod	_	_
-17	vom	_	_	_	_	18	case	_	_
-18	Juni	_	_	_	_	26	nmod	_	_
-19	1915	_	_	_	_	18	nmod	_	_
-20	bis	_	_	_	_	21	case	_	_
-21	Mai	_	_	_	_	26	nmod	_	_
-22	1917	_	_	_	_	21	nmod	_	_
-23	als	_	_	_	_	24	case	_	_
-24	Mannschaftsperson	_	_	_	_	26	nmod	_	_
-25	im	_	_	_	_	26	case	_	_
-26	Schützengraben	_	_	_	_	10	orphan	_	_
-27	.	_	_	_	_	10	punct	_	_
-
-# sent_id = 139
+# sent_id = 135
 # text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
 1	In	_	_	_	_	3	case	_	_
 2	blutigen	_	_	_	_	3	amod	_	_
@@ -3875,7 +3760,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 28	versunken	_	_	_	_	22	conj	_	_
 29	.	_	_	_	_	22	punct	_	_
 
-# sent_id = 140
+# sent_id = 136
 # text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	wies	_	_	_	_	0	root	_	_
@@ -3906,7 +3791,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 27	müßte	_	_	_	_	25	aux	_	_
 28	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 141
+# sent_id = 137
 # text = Ich erklärte ihm weiter, daß mir auch Gerüchte zu Ohren gekommen seien über die Absicht, die Armee in den Kreis dieser Pläne einzubeziehen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	erklärte	_	_	_	_	0	root	_	_
@@ -3935,7 +3820,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 25	einzubeziehen	_	_	_	_	16	acl	_	_
 26	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 142
+# sent_id = 138
 # text = Ich glaube, niemals konnte man ergriffener sein als heute, wo wir die Worte hörten, die aus Schmach und Not heraus wieder zur Größe und zur Ehre führen sollen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	glaube	_	_	_	_	0	root	_	_
@@ -3970,7 +3855,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	sollen	_	_	_	_	30	aux	_	_
 32	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 143
+# sent_id = 139
 # text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
 1	Sie	_	_	_	_	9	nsubj	_	_
 2	hat	_	_	_	_	9	aux	_	_
@@ -4005,7 +3890,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 31	gehöre	_	_	_	_	24	ccomp	_	_
 32	.	_	_	_	_	9	punct	_	_
 
-# sent_id = 144
+# sent_id = 140
 # text = Ich halte es für unmöglich, eine dauernde Freundschaft zwischen dem deutschen und dem angelsächsischen Volk herzustellen, wenn nicht auch auf der anderen Seite die Erkenntnis vorhanden ist, daß es nicht nur britische, sondern auch deutsche Interessen gibt, daß nicht nur die Erhaltung des Britischen Weltreichs für die britischen Männer Lebensinhalt und Lebenszweck ist, sondern für die deutschen Männer die Freiheit und Erhaltung des Deutschen Reiches!
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	halte	_	_	_	_	0	root	_	_
@@ -4080,7 +3965,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 71	Reiches	_	_	_	_	68	nmod	_	_
 72	!	_	_	_	_	2	punct	_	_
 
-# sent_id = 145
+# sent_id = 141
 # text = Beide, die Front in der Heimat und vor allem aber die Front draußen, haben soeben die Anerkennung und den Dank des Führers in einer Weise gesagt bekommen, wie sie schöner und größer nicht ausgesprochen werden konnten.
 1	Beide	_	_	_	_	29	nsubj	_	_
 2	,	_	_	_	_	4	punct	_	_
@@ -4123,7 +4008,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 39	konnten	_	_	_	_	37	aux	_	_
 40	.	_	_	_	_	29	punct	_	_
 
-# sent_id = 146
+# sent_id = 142
 # text = Er wird aber meiner Auffassung nach gar nicht schädlich wirken.
 1	Er	_	_	_	_	10	nsubj	_	_
 2	wird	_	_	_	_	10	aux	_	_
@@ -4137,7 +4022,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 10	wirken	_	_	_	_	0	root	_	_
 11	.	_	_	_	_	10	punct	_	_
 
-# sent_id = 147
+# sent_id = 143
 # text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	halte	_	_	_	_	0	root	_	_
@@ -4155,7 +4040,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 14	sei	_	_	_	_	13	cop	_	_
 15	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 148
+# sent_id = 144
 # text = Meine Herren, ich glaube wirklich, derartige Beispiele können hier außer Betracht bleiben.
 1	Meine	_	_	_	_	2	det:poss	_	_
 2	Herren	_	_	_	_	5	vocative	_	_
@@ -4173,7 +4058,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 14	bleiben	_	_	_	_	5	ccomp	_	_
 15	.	_	_	_	_	5	punct	_	_
 
-# sent_id = 149
+# sent_id = 145
 # text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
 1	Wer	_	_	_	_	2	nsubj	_	_
 2	hilft	_	_	_	_	0	root	_	_
@@ -4188,7 +4073,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 11	werden	_	_	_	_	6	advcl	_	_
 12	?	_	_	_	_	2	punct	_	_
 
-# sent_id = 150
+# sent_id = 146
 # text = Das ist die eine Wendung; nun kommt noch die zweite, der "zweite Streich".
 1	Das	_	_	_	_	5	nsubj	_	_
 2	ist	_	_	_	_	5	cop	_	_
@@ -4209,7 +4094,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 17	"	_	_	_	_	16	punct	_	_
 18	.	_	_	_	_	5	punct	_	_
 
-# sent_id = 151
+# sent_id = 147
 # text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
 1	Ich	_	_	_	_	2	nsubj	_	_
 2	bitte	_	_	_	_	0	root	_	_
@@ -4229,7 +4114,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 16	wollen	_	_	_	_	15	aux	_	_
 17	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 152
+# sent_id = 148
 # text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
 1	Beide	_	_	_	_	2	det	_	_
 2	Herren	_	_	_	_	7	nsubj	_	_
@@ -4252,7 +4137,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 19	übereinstimmt	_	_	_	_	5	advcl	_	_
 20	.	_	_	_	_	7	punct	_	_
 
-# sent_id = 153
+# sent_id = 149
 # text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
 1	Aus	_	_	_	_	3	case	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -4277,7 +4162,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 21	ist	_	_	_	_	20	aux	_	_
 22	.	_	_	_	_	4	punct	_	_
 
-# sent_id = 154
+# sent_id = 150
 # text = Dringen wir auf Vereinfachung, dringen wir darauf, daß das Geld verwendet wird, eine tüchtige Marine zu schaffen.
 1	Dringen	_	_	_	_	1	ROOT	_	_
 2	wir	_	_	_	_	1	nsubj	_	_
@@ -4301,7 +4186,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 20	schaffen	_	_	_	_	13	advcl	_	_
 21	.	_	_	_	_	6	punct	_	_
 
-# sent_id = 155
+# sent_id = 151
 # text = Meine Herren, die Frage der Klassifizirung hat der Herr Vorredner als eine Leimruthe bezeichnet, auf welche der Tabackpflanzer sich nicht werde leiten lassen.
 1	Meine	_	_	_	_	2	det:poss	_	_
 2	Herren	_	_	_	_	15	vocative	_	_
@@ -4330,7 +4215,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 25	lassen	_	_	_	_	14	acl	_	_
 26	.	_	_	_	_	15	punct	_	_
 
-# sent_id = 156
+# sent_id = 152
 # text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
 1	Die	_	_	_	_	2	det	_	_
 2	meisten	_	_	_	_	14	nsubj	_	_
@@ -4360,7 +4245,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 26	hinzuzufügen	_	_	_	_	21	xcomp	_	_
 27	.	_	_	_	_	14	punct	_	_
 
-# sent_id = 157
+# sent_id = 153
 # text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
 1	Wenn	_	_	_	_	7	mark	_	_
 2	der	_	_	_	_	3	det	_	_
@@ -4389,7 +4274,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 25	sollte	_	_	_	_	24	aux	_	_
 26	.	_	_	_	_	16	punct	_	_
 
-# sent_id = 158
+# sent_id = 154
 # text = Es kommen mitunter sehr wichtige Petitionen vor, die auf die Verhandlungen und Beschlüsse des Hauses in der Sache von Einfluß sein können.
 1	Es	_	_	_	_	2	expl	_	_
 2	kommen	_	_	_	_	0	root	_	_
@@ -4416,7 +4301,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 23	können	_	_	_	_	21	aux	_	_
 24	.	_	_	_	_	2	punct	_	_
 
-# sent_id = 159
+# sent_id = 155
 # text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
 1	Die	_	_	_	_	2	det	_	_
 2	Reichsverwaltung	_	_	_	_	3	nsubj	_	_
@@ -4450,7 +4335,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 30	werden	_	_	_	_	29	aux:pass	_	_
 31	.	_	_	_	_	3	punct	_	_
 
-# sent_id = 160
+# sent_id = 156
 # text = Wenn im § 7 ausdrücklich bestimmt sei, daß gegen den jetzt bewilligten Wohnungsgeldzuschuß die bisherigen Lokalzulagen für alle Civilbeamten wegfallen, so entspreche es der Billigkeit, daß auch für Offiziere und Militärbeamte neben dem neuen Servis derjenige Theil des früheren Servises fortfalle, welcher seiner Natur nach nichts Anderes sei, als eine in weiterem Umfange durchgeführte Lokalzulage.
 1	Wenn	_	_	_	_	6	mark	_	_
 2	im	_	_	_	_	3	case	_	_
@@ -4514,7 +4399,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 60	Lokalzulage	_	_	_	_	51	nmod	_	_
 61	.	_	_	_	_	24	punct	_	_
 
-# sent_id = 161
+# sent_id = 157
 # text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung; das Gesetz hat, glaube ich, 170 Paragraphen.
 1	Die	_	_	_	_	2	det	_	_
 2	Hauptaufgabe	_	_	_	_	14	nsubj	_	_
@@ -4542,7 +4427,7 @@ Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Ha
 24	Paragraphen	_	_	_	_	18	obj	_	_
 25	.	_	_	_	_	14	punct	_	_
 
-# sent_id = 162
+# sent_id = 158
 # text = Denn die finanzielle Kalamität, welche aus dem Festhalten unrichtiger Steuersysteme gerade beim Zucker bereits überall  eingetreten ist, und die ungeheuren Zubußen, welche aus den öffentlichen Mitteln in den verschiedensten hierbei interessirenden Staaten geleistet worden sind und bei Festhaltung der Systeme noch weiter geleistet werden müssen, sind so groß, daß bei ernstlichem Willen auch nur einiger hervorragender und bedeutender Staaten die anderen sich der weiteren Nachfolge gar nicht werden entziehen können und für die Dauer auch nicht werden entziehen wollen.
 1	Denn	_	_	_	_	52	advmod	_	_
 2	die	_	_	_	_	4	det	_	_

@@ -1,23 +1,24 @@
 # sent_id = 80
-# text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
+# text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
 1	Die	_	_	_	_	2	det	_	_
-2	Feststellung	_	_	_	_	3	nsubj	_	_
-3	beschränkt	_	_	_	_	0	root	_	_
-4	sich	_	_	_	_	3	obj	_	_
-5	auf	_	_	_	_	7	case	_	_
-6	die	_	_	_	_	7	det	_	_
-7	Ermittlung	_	_	_	_	3	obl	_	_
-8	der	_	_	_	_	9	det	_	_
-9	Art	_	_	_	_	7	nmod	_	_
-10	und	_	_	_	_	12	cc	_	_
-11	des	_	_	_	_	12	det	_	_
-12	Nennwerts	_	_	_	_	9	conj	_	_
-13	der	_	_	_	_	14	det	_	_
-14	Wertpapiere	_	_	_	_	12	nmod	_	_
-15	sowie	_	_	_	_	17	cc	_	_
-16	des	_	_	_	_	17	det	_	_
-17	Zeitpunkts	_	_	_	_	9	conj	_	_
-18	ihres	_	_	_	_	19	det:poss	_	_
-19	Verlustes	_	_	_	_	17	nmod	_	_
-20	.	_	_	_	_	3	punct	_	_
+2	Reichs-Gewerbeordnung	_	_	_	_	3	nsubj	_	_
+3	ermögliche	_	_	_	_	0	root	_	_
+4	dies	_	_	_	_	3	obj	_	_
+5	,	_	_	_	_	20	punct	_	_
+6	da	_	_	_	_	20	mark	_	_
+7	sie	_	_	_	_	20	nsubj	_	_
+8	keinerlei	_	_	_	_	9	nmod	_	_
+9	Befähigungsnachweis	_	_	_	_	20	obj	_	_
+10	,	_	_	_	_	13	punct	_	_
+11	nicht	_	_	_	_	13	advmod	_	_
+12	einmal	_	_	_	_	13	advmod	_	_
+13	Erlaubnis	_	_	_	_	9	conj	_	_
+14	der	_	_	_	_	15	det	_	_
+15	Behörde	_	_	_	_	13	nmod	_	_
+16	vor	_	_	_	_	17	case	_	_
+17	Ausübung	_	_	_	_	20	obl	_	_
+18	des	_	_	_	_	19	det	_	_
+19	Berufs	_	_	_	_	17	nmod	_	_
+20	verlange	_	_	_	_	3	advcl	_	_
+21	.	_	_	_	_	3	punct	_	_
 

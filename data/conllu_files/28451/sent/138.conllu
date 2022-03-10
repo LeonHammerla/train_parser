@@ -1,5 +1,19 @@
 # sent_id = 138
-# text = Mitt.
-1	Mitt	_	NOUN	NN	_	0	--	_	_
-2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Auffälligerweise lagen die Reviere im Kartierungszeitraum fast nur in Höhenlagen oberhalb 400 m ü. NN.
+1	Auffälligerweise	_	NOUN	NN	_	2	MO	_	_
+2	lagen	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Reviere	_	NOUN	NN	_	2	SB	_	_
+5	im	_	ADP	APPRART	_	2	MO	_	_
+6	Kartierungszeitraum	_	NOUN	NN	_	5	NK	_	_
+7	fast	_	ADV	ADV	_	8	MO	_	_
+8	nur	_	ADV	ADV	_	9	MO	_	_
+9	in	_	ADP	APPR	_	2	MO	_	_
+10	Höhenlagen	_	NOUN	NN	_	9	NK	_	_
+11	oberhalb	_	ADP	APPR	_	10	MNR	_	_
+12	400	_	NUM	CARD	_	13	NK	_	_
+13	m	_	X	XY	_	11	NK	_	_
+14	ü.	_	PROPN	NE	_	13	MNR	_	_
+15	NN	_	PROPN	NE	_	14	NK	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
 

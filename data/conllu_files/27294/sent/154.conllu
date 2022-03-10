@@ -1,18 +1,23 @@
 # sent_id = 154
-# text = Meine Herren, ich glaube wirklich, derartige Beispiele können hier außer Betracht bleiben.
-1	Meine	_	PRON	PPOSAT	_	2	NK	_	_
-2	Herren	_	NOUN	NN	_	5	VO	_	_
-3	,	_	PUNCT	$,	_	5	PUNCT	_	_
-4	ich	_	PRON	PPER	_	5	SB	_	_
-5	glaube	_	VERB	VVFIN	_	0	--	_	_
-6	wirklich	_	ADJ	ADJD	_	5	MO	_	_
-7	,	_	PUNCT	$,	_	5	PUNCT	_	_
-8	derartige	_	ADJ	ADJA	_	9	NK	_	_
-9	Beispiele	_	NOUN	NN	_	10	SB	_	_
-10	können	_	VERB	VMFIN	_	5	OC	_	_
-11	hier	_	ADV	ADV	_	14	MO	_	_
-12	außer	_	ADP	APPR	_	14	MO	_	_
-13	Betracht	_	NOUN	NN	_	12	NK	_	_
-14	bleiben	_	VERB	VVINF	_	10	OC	_	_
-15	.	_	PUNCT	$.	_	5	PUNCT	_	_
+# text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
+1	Beide	_	PRON	PIAT	_	3	NK	_	_
+2	Herren	_	NOUN	NN	_	3	NK	_	_
+3	Redner	_	NOUN	NN	_	4	SB	_	_
+4	haben	_	VERB	VAFIN	_	0	--	_	_
+5	darauf	_	ADV	PROAV	_	7	MO	_	_
+6	aufmerksam	_	ADJ	ADJD	_	7	MO	_	_
+7	gemacht	_	VERB	VVPP	_	4	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	19	CP	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	Deutsche	_	ADJ	ADJA	_	12	NK	_	_
+12	Text	_	NOUN	NN	_	19	SB	_	_
+13	nicht	_	X	PTKNEG	_	14	NG	_	_
+14	überall	_	ADV	ADV	_	19	MO	_	_
+15	vollständig	_	ADJ	ADJD	_	19	MO	_	_
+16	mit	_	ADP	APPR	_	19	OP	_	_
+17	dem	_	DET	ART	_	18	NK	_	_
+18	Italienischen	_	NOUN	NN	_	16	NK	_	_
+19	übereinstimmt	_	VERB	VVFIN	_	5	RE	_	_
+20	.	_	PUNCT	$.	_	4	PUNCT	_	_
 

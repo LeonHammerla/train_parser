@@ -1,19 +1,27 @@
 # sent_id = 257
-# text = Feuchte quellenreiche Waldschluchten im Pfälzerwald, die Standorte unseres schönsten und stattlichsten Farnes Osmunda regalis.
-1	Feuchte	_	NOUN	NN	_	3	NK	_	_
-2	quellenreiche	_	ADJ	ADJA	_	3	NK	_	_
-3	Waldschluchten	_	NOUN	NN	_	3	ROOT	_	_
-4	im	_	ADP	APPRART	_	3	MNR	_	_
-5	Pfälzerwald	_	PROPN	NE	_	4	NK	_	_
-6	,	_	PUNCT	$,	_	1	PUNCT	_	_
-7	die	_	DET	ART	_	8	NK	_	_
-8	Standorte	_	NOUN	NN	_	3	APP	_	_
-9	unseres	_	PRON	PPOSAT	_	13	NK	_	_
-10	schönsten	_	ADJ	ADJA	_	13	NK	_	_
-11	und	_	CONJ	KON	_	10	CD	_	_
-12	stattlichsten	_	ADJ	ADJA	_	11	CJ	_	_
-13	Farnes	_	NOUN	NN	_	8	AG	_	_
-14	Osmunda	_	PROPN	NE	_	15	PNC	_	_
-15	regalis	_	PROPN	NE	_	13	APP	_	_
-16	.	_	PUNCT	$.	_	1	PUNCT	_	_
+# text = Die Nacht war dick und rabenschwarz, und doch folgten alle Vögel der Richtung, aus der sie vor einigen Wochen gekommen waren.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Nacht	_	NOUN	NN	_	3	SB	_	_
+3	war	_	VERB	VAFIN	_	0	--	_	_
+4	dick	_	ADJ	ADJD	_	3	PD	_	_
+5	und	_	CONJ	KON	_	4	CD	_	_
+6	rabenschwarz	_	ADJ	ADJD	_	5	CJ	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	und	_	CONJ	KON	_	3	CD	_	_
+9	doch	_	ADV	ADV	_	10	MO	_	_
+10	folgten	_	VERB	VVFIN	_	8	CJ	_	_
+11	alle	_	PRON	PIAT	_	12	NK	_	_
+12	Vögel	_	NOUN	NN	_	10	SB	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Richtung	_	NOUN	NN	_	10	DA	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	aus	_	ADP	APPR	_	22	MO	_	_
+17	der	_	PRON	PRELS	_	16	NK	_	_
+18	sie	_	PRON	PPER	_	23	SB	_	_
+19	vor	_	ADP	APPR	_	22	MO	_	_
+20	einigen	_	PRON	PIAT	_	21	NK	_	_
+21	Wochen	_	NOUN	NN	_	19	NK	_	_
+22	gekommen	_	VERB	VVPP	_	23	OC	_	_
+23	waren	_	VERB	VAFIN	_	14	RC	_	_
+24	.	_	PUNCT	$.	_	3	PUNCT	_	_
 

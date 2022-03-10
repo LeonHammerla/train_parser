@@ -1,41 +1,13 @@
 # sent_id = 125
-# text = Die Trias (Buntsandstein, Muschelkalk und Keuper) bildet in unserer Gegend eine sehr flache Mulde, Pfälzer Mulde genannt, deren Muldenlinie etwa in der Richtung Kaiserslautern—Zweibrücken—Saargemünd verläuft und auch in dieser Richtung schwach einfällt.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Trias	_	PROPN	NE	_	10	SB	_	_
-3	(	_	PUNCT	$(	_	4	PUNCT	_	_
-4	Buntsandstein	_	NOUN	NN	_	2	APP	_	_
-5	,	_	PUNCT	$,	_	4	PUNCT	_	_
-6	Muschelkalk	_	NOUN	NN	_	4	CJ	_	_
-7	und	_	CONJ	KON	_	6	CD	_	_
-8	Keuper	_	NOUN	NN	_	7	CJ	_	_
-9	)	_	PUNCT	$(	_	4	PUNCT	_	_
-10	bildet	_	VERB	VVFIN	_	0	--	_	_
-11	in	_	ADP	APPR	_	10	MO	_	_
-12	unserer	_	PRON	PPOSAT	_	13	NK	_	_
-13	Gegend	_	NOUN	NN	_	11	NK	_	_
-14	eine	_	DET	ART	_	17	NK	_	_
-15	sehr	_	ADV	ADV	_	16	MO	_	_
-16	flache	_	ADJ	ADJA	_	17	NK	_	_
-17	Mulde	_	NOUN	NN	_	10	OA	_	_
-18	,	_	PUNCT	$,	_	17	PUNCT	_	_
-19	Pfälzer	_	PROPN	NE	_	20	PNC	_	_
-20	Mulde	_	NOUN	NN	_	21	MO	_	_
-21	genannt	_	VERB	VVPP	_	17	PAR	_	_
-22	,	_	PUNCT	$,	_	21	PUNCT	_	_
-23	deren	_	PRON	PRELAT	_	24	AG	_	_
-24	Muldenlinie	_	NOUN	NN	_	30	SB	_	_
-25	etwa	_	ADV	ADV	_	26	MO	_	_
-26	in	_	ADP	APPR	_	30	MO	_	_
-27	der	_	DET	ART	_	28	NK	_	_
-28	Richtung	_	NOUN	NN	_	26	NK	_	_
-29	Kaiserslautern—Zweibrücken—Saargemünd	_	PROPN	NE	_	28	NK	_	_
-30	verläuft	_	VERB	VVFIN	_	17	RC	_	_
-31	und	_	CONJ	KON	_	30	CD	_	_
-32	auch	_	ADV	ADV	_	33	MO	_	_
-33	in	_	ADP	APPR	_	37	MO	_	_
-34	dieser	_	PRON	PDAT	_	35	NK	_	_
-35	Richtung	_	NOUN	NN	_	33	NK	_	_
-36	schwach	_	ADJ	ADJD	_	37	MO	_	_
-37	einfällt	_	VERB	VVFIN	_	31	CJ	_	_
-38	.	_	PUNCT	$.	_	10	PUNCT	_	_
+# text = Scleropoa dura P. B. hat uns viele Mühe bereitet;
+1	Scleropoa	_	PROPN	NE	_	2	PNC	_	_
+2	dura	_	X	FM	_	5	SB	_	_
+3	P.	_	PROPN	NE	_	4	PNC	_	_
+4	B.	_	PROPN	NE	_	2	PNC	_	_
+5	hat	_	VERB	VAFIN	_	0	--	_	_
+6	uns	_	PRON	PPER	_	9	DA	_	_
+7	viele	_	PRON	PIAT	_	8	NK	_	_
+8	Mühe	_	NOUN	NN	_	9	OA	_	_
+9	bereitet	_	VERB	VVPP	_	5	OC	_	_
+10	;	_	PUNCT	$.	_	5	PUNCT	_	_
 

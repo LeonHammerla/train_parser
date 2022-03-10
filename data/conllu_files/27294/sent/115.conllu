@@ -1,0 +1,14 @@
+# sent_id = 115
+# text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	sagen	_	VERB	VVFIN	_	0	--	_	_
+3	faktisch	_	ADJ	ADJD	_	2	MO	_	_
+4	den	_	DET	ART	_	7	NK	_	_
+5	baldigen	_	ADJ	ADJA	_	7	NK	_	_
+6	biologischen	_	ADJ	ADJA	_	7	NK	_	_
+7	Tod	_	NOUN	NN	_	2	OA	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Nordsee	_	PROPN	NE	_	7	AG	_	_
+10	voraus	_	VERB	PTKVZ	_	2	SVP	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

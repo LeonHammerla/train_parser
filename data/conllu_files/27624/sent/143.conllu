@@ -1,35 +1,18 @@
 # sent_id = 143
-# text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
-1	Sie	_	_	_	_	9	nsubj	_	_
-2	hat	_	_	_	_	9	aux	_	_
-3	damit	_	_	_	_	9	advmod	_	_
-4	zum	_	_	_	_	6	case	_	_
-5	dritten	_	_	_	_	6	amod	_	_
-6	Male	_	_	_	_	9	obl	_	_
-7	unter	_	_	_	_	8	case	_	_
-8	Beweis	_	_	_	_	9	obl	_	_
-9	gestellt	_	_	_	_	0	root	_	_
-10	,	_	_	_	_	13	punct	_	_
-11	daß	_	_	_	_	13	mark	_	_
-12	sie	_	_	_	_	13	nsubj	_	_
-13	mein	_	_	_	_	9	ccomp	_	_
-14	ist	_	_	_	_	13	cop	_	_
-15	,	_	_	_	_	24	punct	_	_
-16	genau	_	_	_	_	17	advmod	_	_
-17	so	_	_	_	_	24	advmod	_	_
-18	wie	_	_	_	_	24	mark	_	_
-19	ich	_	_	_	_	24	nsubj	_	_
-20	es	_	_	_	_	24	expl	_	_
-21	jederzeit	_	_	_	_	24	advmod	_	_
-22	unter	_	_	_	_	23	case	_	_
-23	Beweis	_	_	_	_	24	obl	_	_
-24	stellen	_	_	_	_	9	advcl	_	_
-25	werde	_	_	_	_	24	aux	_	_
-26	,	_	_	_	_	31	punct	_	_
-27	daß	_	_	_	_	31	mark	_	_
-28	ich	_	_	_	_	31	nsubj	_	_
-29	meinen	_	_	_	_	30	det:poss	_	_
-30	SA-Männern	_	_	_	_	31	iobj	_	_
-31	gehöre	_	_	_	_	24	ccomp	_	_
-32	.	_	_	_	_	9	punct	_	_
+# text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	halte	_	_	_	_	0	root	_	_
+3	meinerseits	_	_	_	_	2	advmod	_	_
+4	dieses	_	_	_	_	6	det	_	_
+5	letzte	_	_	_	_	6	amod	_	_
+6	Wort	_	_	_	_	2	obj	_	_
+7	,	_	_	_	_	13	punct	_	_
+8	daß	_	_	_	_	13	mark	_	_
+9	das	_	_	_	_	10	det	_	_
+10	Volk	_	_	_	_	13	nsubj	_	_
+11	noch	_	_	_	_	12	advmod	_	_
+12	nicht	_	_	_	_	13	advmod	_	_
+13	reif	_	_	_	_	6	appos	_	_
+14	sei	_	_	_	_	13	cop	_	_
+15	.	_	_	_	_	2	punct	_	_
 

@@ -1,19 +1,13 @@
 # sent_id = 45
-# text = Ich bitte die Damen und Herren, die das beschließen wollen, sich zu erheben.
-1	Ich	_	PRON	PPER	_	2	SB	_	_
-2	bitte	_	VERB	VVFIN	_	0	--	_	_
-3	die	_	DET	ART	_	4	NK	_	_
-4	Damen	_	NOUN	NN	_	2	OA	_	_
-5	und	_	CONJ	KON	_	4	CD	_	_
-6	Herren	_	NOUN	NN	_	5	CJ	_	_
-7	,	_	PUNCT	$,	_	4	PUNCT	_	_
-8	die	_	PRON	PRELS	_	11	SB	_	_
-9	das	_	PRON	PDS	_	10	OA	_	_
-10	beschließen	_	VERB	VVINF	_	11	OC	_	_
-11	wollen	_	VERB	VMFIN	_	4	RC	_	_
-12	,	_	PUNCT	$,	_	2	PUNCT	_	_
-13	sich	_	PRON	PRF	_	15	OA	_	_
-14	zu	_	X	PTKZU	_	15	PM	_	_
-15	erheben	_	VERB	VVINF	_	2	OC	_	_
-16	.	_	PUNCT	$.	_	2	PUNCT	_	_
+# text = Hier gilt nicht das besondere Recht des § 84;
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	gilt	_	VERB	VVFIN	_	0	--	_	_
+3	nicht	_	X	PTKNEG	_	2	NG	_	_
+4	das	_	DET	ART	_	6	NK	_	_
+5	besondere	_	ADJ	ADJA	_	6	NK	_	_
+6	Recht	_	NOUN	NN	_	2	SB	_	_
+7	des	_	DET	ART	_	8	NK	_	_
+8	§	_	NOUN	NN	_	6	AG	_	_
+9	84	_	NUM	CARD	_	8	NK	_	_
+10	;	_	PUNCT	$.	_	2	PUNCT	_	_
 

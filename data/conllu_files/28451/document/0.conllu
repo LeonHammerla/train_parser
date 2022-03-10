@@ -349,36 +349,6 @@
 22	.	_	PUNCT	$.	_	3	PUNCT	_	_
 
 # sent_id = 12
-# text = Die Agraylea-Larve aus dem Altrhein Neuhofen, deren Nymphe Herr Prof. Klapalek als A. pallidulaerstere gehört der Gattung Agraylea an, letztere ist noch etwas zweifelhaft.
-1	Die	_	DET	ART	_	2	NK	_	_
-2	Agraylea-Larve	_	NOUN	NN	_	16	SB	_	_
-3	aus	_	ADP	APPR	_	2	MNR	_	_
-4	dem	_	DET	ART	_	5	NK	_	_
-5	Altrhein	_	NOUN	NN	_	3	NK	_	_
-6	Neuhofen	_	NOUN	NN	_	5	NK	_	_
-7	,	_	PUNCT	$,	_	5	PUNCT	_	_
-8	deren	_	PRON	PRELAT	_	10	AG	_	_
-9	Nymphe	_	PROPN	NE	_	10	NK	_	_
-10	Herr	_	NOUN	NN	_	16	SB	_	_
-11	Prof.	_	NOUN	NN	_	10	PUNCT	_	_
-12	Klapalek	_	PROPN	NE	_	10	NK	_	_
-13	als	_	ADP	APPR	_	15	CM	_	_
-14	A.	_	PROPN	NE	_	15	PNC	_	_
-15	pallidulaerstere	_	NOUN	NN	_	12	CC	_	_
-16	gehört	_	VERB	VVFIN	_	0	--	_	_
-17	der	_	DET	ART	_	18	NK	_	_
-18	Gattung	_	NOUN	NN	_	16	DA	_	_
-19	Agraylea	_	PROPN	NE	_	18	NK	_	_
-20	an	_	VERB	PTKVZ	_	16	SVP	_	_
-21	,	_	PUNCT	$,	_	16	PUNCT	_	_
-22	letztere	_	PRON	PIS	_	23	SB	_	_
-23	ist	_	VERB	VAFIN	_	16	CJ	_	_
-24	noch	_	ADV	ADV	_	25	MO	_	_
-25	etwas	_	ADV	ADV	_	26	MO	_	_
-26	zweifelhaft	_	ADJ	ADJD	_	23	PD	_	_
-27	.	_	PUNCT	$.	_	16	PUNCT	_	_
-
-# sent_id = 13
 # text = Eine zweite Generation von Larven fand ich von Juni bis August-September, dieses Mal aber hauptsächlich an den Stengeln von Scirpus, Typha, Sparaganium, an den Blattstielen und Blättern von Nym- phaea und Nuphar, seltener Potamogeton, an deren Unterseite dann auch die Nymphengehäuse, mit der Breitseite aufliegend, in der von Bremi geschilderten Weise mit vier Kabeln an den „Ecken" der Gehäuse verankert waren.
 1	Eine	_	DET	ART	_	3	NK	_	_
 2	zweite	_	ADJ	ADJA	_	3	NK	_	_
@@ -453,7 +423,7 @@
 71	waren	_	VERB	VAFIN	_	39	RC	_	_
 72	.	_	PUNCT	$.	_	6	PUNCT	_	_
 
-# sent_id = 14
+# sent_id = 13
 # text = Ich fand die Larve an Scirpus, Sparaganium, Potamogeton, Nuphar, Nymphaea, im März und April, dann wieder im August, September und im Oktober;
 1	Ich	_	PRON	PPER	_	2	SB	_	_
 2	fand	_	VERB	VVFIN	_	0	--	_	_
@@ -486,7 +456,7 @@
 29	Oktober	_	NOUN	NN	_	28	NK	_	_
 30	;	_	PUNCT	$.	_	2	PUNCT	_	_
 
-# sent_id = 15
+# sent_id = 14
 # text = In einer mir erst jetzt zugänglich gewordenen Arbeit von K.J.Morton (The Larva and case of Ithtyrichia lamellaris Eaton)
 1	In	_	ADP	APPR	_	0	--	_	_
 2	einer	_	DET	ART	_	8	NK	_	_
