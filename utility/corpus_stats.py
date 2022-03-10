@@ -58,6 +58,14 @@ def corpus_sent_info(punct: bool = True,
             sentences = select_sentences_from_cas(view)
             sentence_lengths = []
             for sentence in sentences:
+                # --> Checking Status:
+                status_annotation = view.select_covered(
+                    "org.texttechnologylab.annotation.administration.AnnotationStatus", sentence)
+                correct_status = True
+                try:
+                    assert len(status_annotation) == 1
+                except:
+                    correct_status = False
                 # --> Getting length of sentence:
                 token = select_tokens_of_sentence_from_cas(cas=view,
                                                            sentence=sentence)
@@ -79,7 +87,9 @@ def corpus_sent_info(punct: bool = True,
                 if exclude_empty_sents and sent_length == 0:
                     pass
                 else:
-                    sentence_lengths.append(sent_length)
+                    # --> Checking if Sentence is "Processed":
+                    if correct_status and status_annotation[0]["status"] == "Processed":
+                        sentence_lengths.append(sent_length)
             # --> Getting Year of document:
             cas_year_id = corpus_info[dir]["splitter"](caspath)
             # --> Filling results in result-dict:
