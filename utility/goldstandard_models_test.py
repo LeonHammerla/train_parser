@@ -76,15 +76,17 @@ def eval_model(conllu_path: str,
 
 
 def eval_conllu(conllu_id: str,
-                score_type: str = "corpus"):
+                score_type: str = "corpus",
+                directory: str = "/home/stud_homes/s5935481/work3/models"):
     """
     Function for evaluating conllu file.
     Score_type Options: "corpus", "document", "sent", "all"
+    :param directory:
     :param score_type:
     :param conllu_id:
     :return:
     """
-    directory = "/home/stud_homes/s5935481/work3/models"
+
 
     model_conllu_dict = {"27294": {"conllu": {"corpus": os.path.join(ROOT_DIR, "data", "conllu_files", "27294", "corpus", "27294.conllu"),
                                               "document": os.path.join(ROOT_DIR, "data", "conllu_files", "27294", "document"),

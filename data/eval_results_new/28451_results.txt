@@ -1,0 +1,282 @@
+Evaluation of 28451
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1890-1920-sel_new.txt.1.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 33.33% LCM: 26.67% UAS: 87.00% LAS: 83.82%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 26.67% LCM:  6.67% UAS: 85.94% LAS: 83.82%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 20.00% LCM: 13.33% UAS: 83.55% LAS: 81.17%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 33.33% LCM: 26.67% UAS: 90.20% LAS: 86.90%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 26.67% LCM:  6.67% UAS: 88.72% LAS: 86.01%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 20.00% LCM: 13.33% UAS: 86.08% LAS: 83.60%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-pre-1890-sel.txt.0.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 87.51% LAS: 83.83%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 87.00% LAS: 83.21%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 86.39% LAS: 82.29%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 88.88% LAS: 85.33%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 88.11% LAS: 84.65%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 10.00% LCM:  6.67% UAS: 87.72% LAS: 84.01%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1930-1950-sel_new.txt.1.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 87.84% LAS: 83.78%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 86.82% LAS: 82.77%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 85.14% LAS: 81.08%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 88.65% LAS: 84.62%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 87.89% LAS: 83.86%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 11.11% LCM:  0.00% UAS: 85.70% LAS: 81.67%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1930-1950-sel_new.txt.0.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 40.00% LCM: 34.29% UAS: 89.57% LAS: 86.10%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 42.86% LCM: 40.00% UAS: 88.15% LAS: 84.20%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 40.00% LCM: 34.29% UAS: 88.15% LAS: 84.20%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 40.00% LCM: 34.29% UAS: 91.05% LAS: 88.24%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 42.86% LCM: 40.00% UAS: 90.78% LAS: 87.60%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 40.00% LCM: 34.29% UAS: 90.01% LAS: 86.76%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1920-1930-sel.txt.0.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 29.55% LCM: 13.64% UAS: 87.25% LAS: 83.74%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 25.00% LCM: 13.64% UAS: 87.37% LAS: 83.51%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 25.00% LCM: 11.36% UAS: 86.55% LAS: 83.63%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 29.55% LCM: 13.64% UAS: 87.72% LAS: 83.46%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 25.00% LCM: 13.64% UAS: 88.05% LAS: 83.78%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 25.00% LCM: 11.36% UAS: 86.59% LAS: 83.22%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-since-1950-sel.txt.1.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 58.33% LCM: 44.44% UAS: 93.86% LAS: 90.50%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 50.00% LCM: 33.33% UAS: 91.49% LAS: 87.52%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 50.00% LCM: 30.56% UAS: 90.89% LAS: 86.93%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 58.33% LCM: 44.44% UAS: 95.02% LAS: 91.93%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 50.00% LCM: 33.33% UAS: 92.96% LAS: 89.30%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 50.00% LCM: 30.56% UAS: 92.46% LAS: 88.91%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1890-1920-sel_new.txt.0.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 24.39% LCM: 12.20% UAS: 84.25% LAS: 80.22%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 19.51% LCM:  7.32% UAS: 81.45% LAS: 76.87%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 24.39% LCM:  7.32% UAS: 82.57% LAS: 77.21%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 24.39% LCM: 12.20% UAS: 85.07% LAS: 81.48%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 19.51% LCM:  7.32% UAS: 82.37% LAS: 76.76%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 24.39% LCM:  7.32% UAS: 82.85% LAS: 76.85%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-since-1950-sel.txt.0.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 47.22% LCM: 38.89% UAS: 90.80% LAS: 88.12%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 33.33% LCM: 27.78% UAS: 87.16% LAS: 84.29%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 30.56% LCM: 25.00% UAS: 87.74% LAS: 85.06%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM: 47.22% LCM: 38.89% UAS: 92.48% LAS: 90.47%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 33.33% LCM: 27.78% UAS: 89.85% LAS: 87.70%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM: 30.56% LCM: 25.00% UAS: 88.23% LAS: 86.16%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-1920-1930-sel.txt.1.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 84.92% LAS: 83.80%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 10.00% LCM:  0.00% UAS: 82.68% LAS: 79.33%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 83.24% LAS: 81.56%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 80.41% LAS: 79.83%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM: 10.00% LCM:  0.00% UAS: 78.10% LAS: 74.94%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 77.07% LAS: 75.55%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/28451/spacy_biofid-pre-1890-sel.txt.1.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 93.10% LAS: 89.66%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 91.38% LAS: 89.66%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 93.10% LAS: 89.66%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 92.54% LAS: 89.83%
+/resources/public/hammerla/parser/models/crf_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 91.18% LAS: 89.83%
+/resources/public/hammerla/parser/models/crf2o_dep_de_tiger
+UCM:  0.00% LCM:  0.00% UAS: 93.56% LAS: 90.86%
+==================================================
+
+
+
+

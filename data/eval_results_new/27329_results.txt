@@ -1,0 +1,310 @@
+Evaluation of 27329
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/2000.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 44.44% LCM: 33.33% UAS: 86.19% LAS: 79.01%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 33.33% LCM: 33.33% UAS: 83.43% LAS: 76.24%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 44.44% LCM: 33.33% UAS: 85.64% LAS: 78.45%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 44.44% LCM: 33.33% UAS: 87.58% LAS: 80.88%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 33.33% LCM: 33.33% UAS: 85.60% LAS: 78.79%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 44.44% LCM: 33.33% UAS: 87.38% LAS: 80.84%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1880.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 92.40% LAS: 88.15%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM:  0.00% UAS: 89.06% LAS: 84.19%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 89.67% LAS: 84.50%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 93.49% LAS: 89.65%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM:  0.00% UAS: 89.06% LAS: 83.93%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 90.31% LAS: 85.35%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1960.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 45.45% LCM: 45.45% UAS: 89.43% LAS: 86.99%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 45.45% LCM: 45.45% UAS: 87.80% LAS: 84.96%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 54.55% LCM: 45.45% UAS: 85.37% LAS: 83.33%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 45.45% LCM: 45.45% UAS: 87.89% LAS: 86.49%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 45.45% LCM: 45.45% UAS: 86.08% LAS: 84.31%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 54.55% LCM: 45.45% UAS: 89.67% LAS: 86.45%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1940.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM:  0.00% UAS: 92.55% LAS: 90.43%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM:  0.00% UAS: 92.55% LAS: 89.89%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 92.02% LAS: 89.36%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM:  0.00% UAS: 92.23% LAS: 89.73%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM:  0.00% UAS: 89.91% LAS: 87.94%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 90.10% LAS: 87.83%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1820.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 90.04% LAS: 88.19%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 92.99% LAS: 90.77%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 40.00% LCM: 20.00% UAS: 91.51% LAS: 89.30%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 91.25% LAS: 89.75%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 93.43% LAS: 91.78%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 40.00% LCM: 20.00% UAS: 92.39% LAS: 90.40%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1860.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 86.97% LAS: 83.39%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 86.32% LAS: 83.39%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 85.99% LAS: 82.74%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 88.87% LAS: 86.47%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 88.17% LAS: 86.25%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 22.22% LCM: 22.22% UAS: 87.97% LAS: 85.65%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1840.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 50.00% LCM: 25.00% UAS: 93.75% LAS: 91.07%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 37.50% LCM: 25.00% UAS: 92.41% LAS: 90.18%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 25.00% LCM: 12.50% UAS: 90.18% LAS: 86.61%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 50.00% LCM: 25.00% UAS: 95.43% LAS: 92.77%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 37.50% LCM: 25.00% UAS: 93.96% LAS: 91.53%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 25.00% LCM: 12.50% UAS: 91.45% LAS: 87.39%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1900.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 86.58% LAS: 83.71%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 86.26% LAS: 83.71%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 86.90% LAS: 83.71%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 87.81% LAS: 85.95%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 20.00% LCM: 20.00% UAS: 88.64% LAS: 86.76%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 20.00% LCM: 10.00% UAS: 87.65% LAS: 85.12%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1980.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 50.00% LCM: 37.50% UAS: 96.86% LAS: 91.62%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 12.50% LCM: 12.50% UAS: 94.76% LAS: 90.05%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 50.00% LCM: 37.50% UAS: 95.81% LAS: 90.58%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 50.00% LCM: 37.50% UAS: 97.81% LAS: 93.20%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 12.50% LCM: 12.50% UAS: 92.57% LAS: 90.46%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 50.00% LCM: 37.50% UAS: 97.14% LAS: 92.53%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1920.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM:  0.00% LCM:  0.00% UAS: 85.45% LAS: 81.42%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM:  0.00% LCM:  0.00% UAS: 87.00% LAS: 83.90%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 86.69% LAS: 83.59%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM:  0.00% LCM:  0.00% UAS: 82.99% LAS: 80.14%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM:  0.00% LCM:  0.00% UAS: 84.69% LAS: 81.84%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 84.76% LAS: 82.10%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27329/1803.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 85.31% LAS: 81.29%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 85.71% LAS: 82.09%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 86.52% LAS: 83.30%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 81.82% LAS: 79.59%
+/resources/public/hammerla/parser/models/crf_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 82.23% LAS: 79.99%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gum
+UCM: 10.00% LCM: 10.00% UAS: 83.23% LAS: 79.55%
+==================================================
+
+
+
+

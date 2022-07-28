@@ -1,0 +1,254 @@
+Evaluation of 27624
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_bucket5_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 42.11% LCM: 10.53% UAS: 93.03% LAS: 87.06%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 36.84% LCM: 10.53% UAS: 92.54% LAS: 86.82%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 36.84% LCM: 15.79% UAS: 92.29% LAS: 86.57%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 42.11% LCM: 10.53% UAS: 93.72% LAS: 87.42%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 36.84% LCM: 10.53% UAS: 92.99% LAS: 87.20%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 36.84% LCM: 15.79% UAS: 93.06% LAS: 87.18%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_bucket1_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 36.84% LCM: 15.79% UAS: 89.50% LAS: 82.65%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 31.58% LCM:  5.26% UAS: 90.41% LAS: 84.02%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 36.84% LCM: 10.53% UAS: 90.18% LAS: 83.33%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 36.84% LCM: 15.79% UAS: 90.96% LAS: 83.53%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 31.58% LCM:  5.26% UAS: 91.09% LAS: 83.94%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 36.84% LCM: 10.53% UAS: 91.27% LAS: 83.92%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_1933_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 29.41% LCM:  5.88% UAS: 91.56% LAS: 85.49%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 29.41% LCM:  5.88% UAS: 91.82% LAS: 85.75%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 23.53% LCM:  0.00% UAS: 92.35% LAS: 86.02%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 29.41% LCM:  5.88% UAS: 92.65% LAS: 85.69%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 29.41% LCM:  5.88% UAS: 92.35% LAS: 86.07%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 23.53% LCM:  0.00% UAS: 92.24% LAS: 85.62%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_bucket19_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 22.22% LCM: 11.11% UAS: 90.95% LAS: 83.42%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 22.22% LCM:  5.56% UAS: 91.96% LAS: 85.18%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 27.78% LCM:  5.56% UAS: 93.47% LAS: 86.68%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 22.22% LCM: 11.11% UAS: 90.48% LAS: 82.96%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 22.22% LCM:  5.56% UAS: 91.52% LAS: 84.83%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 27.78% LCM:  5.56% UAS: 93.44% LAS: 86.66%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_1918_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 29.41% LCM: 23.53% UAS: 89.47% LAS: 79.90%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 35.29% LCM: 17.65% UAS: 88.28% LAS: 79.90%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 35.29% LCM: 17.65% UAS: 89.95% LAS: 82.06%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 29.41% LCM: 23.53% UAS: 91.15% LAS: 81.82%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 35.29% LCM: 17.65% UAS: 90.12% LAS: 82.11%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 35.29% LCM: 17.65% UAS: 91.89% LAS: 84.37%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_bucket15_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 40.00% LCM: 20.00% UAS: 92.00% LAS: 84.94%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 30.00% LCM: 20.00% UAS: 92.71% LAS: 85.88%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 35.00% LCM: 20.00% UAS: 93.41% LAS: 86.12%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 40.00% LCM: 20.00% UAS: 93.16% LAS: 86.70%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 30.00% LCM: 20.00% UAS: 93.78% LAS: 87.14%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 35.00% LCM: 20.00% UAS: 94.23% LAS: 87.08%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_bucket10_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 41.18% LCM: 17.65% UAS: 91.36% LAS: 82.72%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 47.06% LCM: 17.65% UAS: 91.36% LAS: 83.95%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 29.41% LCM: 17.65% UAS: 89.81% LAS: 82.10%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 41.18% LCM: 17.65% UAS: 92.63% LAS: 84.27%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 47.06% LCM: 17.65% UAS: 92.05% LAS: 84.45%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 29.41% LCM: 17.65% UAS: 91.04% LAS: 83.59%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_1942_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 26.67% LCM: 13.33% UAS: 87.80% LAS: 80.76%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 26.67% LCM:  6.67% UAS: 87.80% LAS: 81.57%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 26.67% LCM:  6.67% UAS: 88.62% LAS: 81.84%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 26.67% LCM: 13.33% UAS: 90.06% LAS: 82.81%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 26.67% LCM:  6.67% UAS: 90.33% LAS: 83.21%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 26.67% LCM:  6.67% UAS: 89.73% LAS: 83.07%
+==================================================
+
+
+
+
+====================================================================================================
+File: /home/stud_homes/s5935481/work3/parser_train/data/conllu_files_new/27624/spacy_1895_corrected.txt.xmi
+====================================================================================================
+==================================================
+Document-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 17.65% LCM:  0.00% UAS: 88.89% LAS: 79.04%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 35.29% LCM:  5.88% UAS: 88.64% LAS: 78.79%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 23.53% LCM:  0.00% UAS: 87.37% LAS: 79.29%
+==================================================
+
+==================================================
+Sentence-based
+==================================================
+/resources/public/hammerla/parser/models/biaffine_dep_de_gsd
+UCM: 17.65% LCM:  0.00% UAS: 87.82% LAS: 77.11%
+/resources/public/hammerla/parser/models/crf_dep_de_gsd
+UCM: 35.29% LCM:  5.88% UAS: 88.44% LAS: 77.44%
+/resources/public/hammerla/parser/models/crf2o_dep_de_gsd
+UCM: 23.53% LCM:  0.00% UAS: 85.68% LAS: 76.12%
+==================================================
+
+
+
+
