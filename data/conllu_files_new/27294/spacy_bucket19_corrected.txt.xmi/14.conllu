@@ -1,0 +1,33 @@
+# sent_id = 71
+# text = Wir werden, wie gesagt, dieses Thema in den nächsten wenigen Wochen intensiv beraten, im Übrigen nicht nur in den Fachausschüssen, sondern auch hier im Plenum.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	werden	_	VERB	VAFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	wie	_	PRON	PWAV	_	5	MO	_	_
+5	gesagt	_	VERB	VVPP	_	15	MO	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	dieses	_	PRON	PDAT	_	8	NK	_	_
+8	Thema	_	NOUN	NN	_	15	OA	_	_
+9	in	_	ADP	APPR	_	15	MO	_	_
+10	den	_	DET	ART	_	13	NK	_	_
+11	nächsten	_	ADJ	ADJA	_	13	NK	_	_
+12	wenigen	_	PRON	PIAT	_	13	NK	_	_
+13	Wochen	_	NOUN	NN	_	9	NK	_	_
+14	intensiv	_	ADJ	ADJD	_	15	MO	_	_
+15	beraten	_	VERB	VVINF	_	2	OC	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	im	_	ADP	APPRART	_	15	MO	_	_
+18	Übrigen	_	NOUN	NN	_	17	NK	_	_
+19	nicht	_	X	PTKNEG	_	20	NG	_	_
+20	nur	_	ADV	ADV	_	21	MO	_	_
+21	in	_	ADP	APPR	_	17	MO	_	_
+22	den	_	DET	ART	_	23	NK	_	_
+23	Fachausschüssen	_	NOUN	NN	_	21	NK	_	_
+24	,	_	PUNCT	$,	_	21	PUNCT	_	_
+25	sondern	_	CONJ	KON	_	21	CD	_	_
+26	auch	_	ADV	ADV	_	27	MO	_	_
+27	hier	_	ADV	ADV	_	25	CJ	_	_
+28	im	_	ADP	APPRART	_	27	MO	_	_
+29	Plenum	_	NOUN	NN	_	28	NK	_	_
+30	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

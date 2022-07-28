@@ -1,0 +1,20 @@
+# sent_id = 43
+# text = From these facts then it clearly appeared, that severe distress existed in various manufacturing districts.
+1	From	_	ADP	IN	_	3	case	_	_
+2	these	_	DET	DT	_	3	det	_	_
+3	facts	_	NOUN	NNS	_	7	obl	_	_
+4	then	_	ADV	RB	_	7	advmod	_	_
+5	it	_	PRON	PRP	_	7	expl	_	_
+6	clearly	_	ADV	RB	_	7	advmod	_	_
+7	appeared	_	VERB	VBD	_	0	root	_	_
+8	,	_	PUNCT	,	_	7	punct	_	_
+9	that	_	DET	DT	_	12	mark	_	_
+10	severe	_	ADJ	JJ	_	11	amod	_	_
+11	distress	_	NOUN	NN	_	12	nsubj	_	_
+12	existed	_	VERB	VBD	_	7	ccomp	_	_
+13	in	_	ADP	IN	_	16	case	_	_
+14	various	_	ADJ	JJ	_	16	amod	_	_
+15	manufacturing	_	NOUN	NN	_	16	compound	_	_
+16	districts	_	NOUN	NNS	_	12	obl	_	_
+17	.	_	PUNCT	.	_	7	punct	_	_
+

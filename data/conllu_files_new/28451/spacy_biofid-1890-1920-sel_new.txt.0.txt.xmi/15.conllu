@@ -1,0 +1,16 @@
+# sent_id = 184
+# text = Auch Bürger fremder Florengebiete nehmen heute Teil an der Zusammensetzung des Pfälzerwaldes.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	Bürger	_	NOUN	NN	_	5	SB	_	_
+3	fremder	_	ADJ	ADJA	_	4	NK	_	_
+4	Florengebiete	_	NOUN	NN	_	2	AG	_	_
+5	nehmen	_	VERB	VVFIN	_	0	--	_	_
+6	heute	_	ADV	ADV	_	5	MO	_	_
+7	Teil	_	NOUN	NN	_	5	SVP	_	_
+8	an	_	ADP	APPR	_	5	OP	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Zusammensetzung	_	NOUN	NN	_	8	NK	_	_
+11	des	_	DET	ART	_	12	NK	_	_
+12	Pfälzerwaldes	_	NOUN	NN	_	10	AG	_	_
+13	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

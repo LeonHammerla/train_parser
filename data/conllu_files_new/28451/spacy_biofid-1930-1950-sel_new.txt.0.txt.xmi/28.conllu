@@ -1,0 +1,12 @@
+# sent_id = 82
+# text = Beobachtungen im Buntsandstein in der Umgebung von Landstuhl.
+1	Beobachtungen	_	NOUN	NN	_	0	--	_	_
+2	im	_	ADP	APPRART	_	1	MNR	_	_
+3	Buntsandstein	_	NOUN	NN	_	2	NK	_	_
+4	in	_	ADP	APPR	_	3	MNR	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Umgebung	_	NOUN	NN	_	4	NK	_	_
+7	von	_	ADP	APPR	_	6	PG	_	_
+8	Landstuhl	_	PROPN	NE	_	7	NK	_	_
+9	.	_	PUNCT	$.	_	1	PUNCT	_	_
+

@@ -1,0 +1,15 @@
+# sent_id = 128
+# text = An den Salinen von Dürkheim war früher Poa distans, Syn.
+1	An	_	ADP	APPR	_	6	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Salinen	_	NOUN	NN	_	1	NK	_	_
+4	von	_	ADP	APPR	_	3	PG	_	_
+5	Dürkheim	_	PROPN	NE	_	4	NK	_	_
+6	war	_	VERB	VAFIN	_	0	--	_	_
+7	früher	_	ADJ	ADJD	_	6	MO	_	_
+8	Poa	_	PROPN	NE	_	9	PNC	_	_
+9	distans	_	PROPN	NE	_	6	SB	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	Syn	_	PROPN	NE	_	9	CJ	_	_
+12	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

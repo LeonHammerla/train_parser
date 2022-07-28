@@ -1,0 +1,15 @@
+# sent_id = 145
+# text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
+1	Wer	_	_	_	_	2	nsubj	_	_
+2	hilft	_	_	_	_	0	root	_	_
+3	denn	_	_	_	_	2	advmod	_	_
+4	den	_	_	_	_	5	det	_	_
+5	Leuten	_	_	_	_	2	iobj	_	_
+6	dazu	_	_	_	_	2	obl	_	_
+7	,	_	_	_	_	11	punct	_	_
+8	daß	_	_	_	_	11	mark	_	_
+9	sie	_	_	_	_	11	nsubj	_	_
+10	selbstständig	_	_	_	_	11	xcomp	_	_
+11	werden	_	_	_	_	6	advcl	_	_
+12	?	_	_	_	_	2	punct	_	_
+

@@ -1,0 +1,47 @@
+# sent_id = 34
+# text = Am 25. März 1851, ebenfalls gegen Mittag, habe ich meine frühere Beobachtung auf das unzweifelhafteste bestätigt gefunden, indem ich den Gesang während des meckernden Schnurrens und auch noch nach demselben von einer und derselben sich gaukelnd umhertummelnden Bekassine ununterbrochen vernahm.
+1	Am	_	ADP	APPRART	_	19	MO	_	_
+2	25.	_	ADJ	ADJA	_	3	NK	_	_
+3	März	_	NOUN	NN	_	1	NK	_	_
+4	1851	_	NUM	CARD	_	3	NK	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	ebenfalls	_	ADV	ADV	_	7	MO	_	_
+7	gegen	_	ADP	APPR	_	3	MNR	_	_
+8	Mittag	_	NOUN	NN	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	habe	_	VERB	VAFIN	_	0	--	_	_
+11	ich	_	PRON	PPER	_	10	SB	_	_
+12	meine	_	PRON	PPOSAT	_	14	NK	_	_
+13	frühere	_	ADJ	ADJA	_	14	NK	_	_
+14	Beobachtung	_	NOUN	NN	_	18	OA	_	_
+15	auf	_	ADP	APPR	_	18	MO	_	_
+16	das	_	DET	ART	_	17	NK	_	_
+17	unzweifelhafteste	_	NOUN	NN	_	15	NK	_	_
+18	bestätigt	_	VERB	VVPP	_	19	OC	_	_
+19	gefunden	_	VERB	VVPP	_	10	OC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	indem	_	CONJ	KOUS	_	43	CP	_	_
+22	ich	_	PRON	PPER	_	43	SB	_	_
+23	den	_	DET	ART	_	24	NK	_	_
+24	Gesang	_	NOUN	NN	_	43	OA	_	_
+25	während	_	ADP	APPR	_	43	MO	_	_
+26	des	_	DET	ART	_	28	NK	_	_
+27	meckernden	_	ADJ	ADJA	_	28	NK	_	_
+28	Schnurrens	_	NOUN	NN	_	25	NK	_	_
+29	und	_	CONJ	KON	_	25	CD	_	_
+30	auch	_	ADV	ADV	_	32	MO	_	_
+31	noch	_	ADV	ADV	_	32	MO	_	_
+32	nach	_	ADP	APPR	_	29	CJ	_	_
+33	demselben	_	PRON	PDS	_	32	NK	_	_
+34	von	_	ADP	APPR	_	24	PG	_	_
+35	einer	_	DET	ART	_	41	NK	_	_
+36	und	_	CONJ	KON	_	35	CD	_	_
+37	derselben	_	PRON	PDS	_	36	CJ	_	_
+38	sich	_	PRON	PRF	_	40	OA	_	_
+39	gaukelnd	_	ADJ	ADJD	_	40	MO	_	_
+40	umhertummelnden	_	ADJ	ADJA	_	41	NK	_	_
+41	Bekassine	_	NOUN	NN	_	34	NK	_	_
+42	ununterbrochen	_	ADJ	ADJD	_	43	MO	_	_
+43	vernahm	_	VERB	VVFIN	_	19	MO	_	_
+44	.	_	PUNCT	$.	_	10	PUNCT	_	_
+

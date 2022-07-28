@@ -1,0 +1,30 @@
+# sent_id = 66
+# text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
+1	Aber	_	_	_	_	3	cc	_	_
+2	jetzt	_	_	_	_	3	advmod	_	_
+3	kommt	_	_	_	_	0	root	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Unterschied	_	_	_	_	3	nsubj	_	_
+6	zwischen	_	_	_	_	9	case	_	_
+7	der	_	_	_	_	9	det	_	_
+8	freien	_	_	_	_	9	amod	_	_
+9	Marktwirtschaft	_	_	_	_	5	nmod	_	_
+10	und	_	_	_	_	13	cc	_	_
+11	der	_	_	_	_	13	det	_	_
+12	sozialen	_	_	_	_	13	amod	_	_
+13	Marktwirtschaft	_	_	_	_	9	conj	_	_
+14	,	_	_	_	_	26	punct	_	_
+15	so	_	_	_	_	26	advmod	_	_
+16	wie	_	_	_	_	26	mark	_	_
+17	wir	_	_	_	_	26	nsubj	_	_
+18	sie	_	_	_	_	25	obj	_	_
+19	in	_	_	_	_	21	case	_	_
+20	der	_	_	_	_	21	det	_	_
+21	Union	_	_	_	_	25	obl	_	_
+22	seit	_	_	_	_	23	case	_	_
+23	Ludwig	_	_	_	_	25	obl	_	_
+24	Erhard	_	_	_	_	23	flat	_	_
+25	verankert	_	_	_	_	26	xcomp	_	_
+26	sehen	_	_	_	_	13	acl	_	_
+27	.	_	_	_	_	3	punct	_	_
+

@@ -1,0 +1,26 @@
+# sent_id = 134
+# text = Ich habe damals zugleich einen Appell an die Einsicht der verantwortlichen Männer in den feindlichen Staaten gerichtet und an die Völker selbst.
+1	Ich	_	_	_	_	17	nsubj	_	_
+2	habe	_	_	_	_	17	aux	_	_
+3	damals	_	_	_	_	17	advmod	_	_
+4	zugleich	_	_	_	_	17	advmod	_	_
+5	einen	_	_	_	_	6	det	_	_
+6	Appell	_	_	_	_	17	obj	_	_
+7	an	_	_	_	_	9	case	_	_
+8	die	_	_	_	_	9	det	_	_
+9	Einsicht	_	_	_	_	6	nmod	_	_
+10	der	_	_	_	_	12	det	_	_
+11	verantwortlichen	_	_	_	_	12	amod	_	_
+12	Männer	_	_	_	_	9	nmod	_	_
+13	in	_	_	_	_	16	case	_	_
+14	den	_	_	_	_	16	det	_	_
+15	feindlichen	_	_	_	_	16	amod	_	_
+16	Staaten	_	_	_	_	12	nmod	_	_
+17	gerichtet	_	_	_	_	0	root	_	_
+18	und	_	_	_	_	21	cc	_	_
+19	an	_	_	_	_	21	case	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Völker	_	_	_	_	9	conj	_	_
+22	selbst	_	_	_	_	21	advmod	_	_
+23	.	_	_	_	_	17	punct	_	_
+

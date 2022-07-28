@@ -1,0 +1,31 @@
+# sent_id = 14
+# text = Seit zwei Jahren ist der Maßstab, den der Haushaltsausschuß und der Bundestagsvorstand anlegen, das Gutachten, das auf Wunsch des Hauses der Bundesrechnungshof erstellt hat.
+1	Seit	_	_	_	_	3	case	_	_
+2	zwei	_	_	_	_	3	nummod	_	_
+3	Jahren	_	_	_	_	17	nmod	_	_
+4	ist	_	_	_	_	17	cop	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Maßstab	_	_	_	_	17	nsubj	_	_
+7	,	_	_	_	_	14	punct	_	_
+8	den	_	_	_	_	14	obj	_	_
+9	der	_	_	_	_	10	det	_	_
+10	Haushaltsausschuß	_	_	_	_	14	nsubj	_	_
+11	und	_	_	_	_	13	cc	_	_
+12	der	_	_	_	_	13	det	_	_
+13	Bundestagsvorstand	_	_	_	_	10	conj	_	_
+14	anlegen	_	_	_	_	6	acl	_	_
+15	,	_	_	_	_	14	punct	_	_
+16	das	_	_	_	_	17	det	_	_
+17	Gutachten	_	_	_	_	0	root	_	_
+18	,	_	_	_	_	26	punct	_	_
+19	das	_	_	_	_	26	obj	_	_
+20	auf	_	_	_	_	21	case	_	_
+21	Wunsch	_	_	_	_	26	obl	_	_
+22	des	_	_	_	_	23	det	_	_
+23	Hauses	_	_	_	_	21	nmod	_	_
+24	der	_	_	_	_	25	det	_	_
+25	Bundesrechnungshof	_	_	_	_	26	nsubj	_	_
+26	erstellt	_	_	_	_	17	acl	_	_
+27	hat	_	_	_	_	26	aux	_	_
+28	.	_	_	_	_	17	punct	_	_
+

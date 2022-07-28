@@ -1,0 +1,27 @@
+# sent_id = 138
+# text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
+1	Man	_	PRON	PIS	_	2	SB	_	_
+2	sieht	_	VERB	VVFIN	_	0	--	_	_
+3	in	_	ADP	APPR	_	2	MO	_	_
+4	einer	_	DET	ART	_	7	NK	_	_
+5	so	_	ADV	ADV	_	6	MO	_	_
+6	kurzen	_	ADJ	ADJA	_	7	NK	_	_
+7	Spanne	_	NOUN	NN	_	3	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Entwicklung	_	NOUN	NN	_	7	AG	_	_
+10	kaum	_	ADV	ADV	_	11	MO	_	_
+11	mehr	_	PRON	PIS	_	2	OA	_	_
+12	als	_	CONJ	KOKOM	_	14	CM	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Symptome	_	NOUN	NN	_	11	CC	_	_
+15	einer	_	DET	ART	_	17	NK	_	_
+16	allgemeinen	_	ADJ	ADJA	_	17	NK	_	_
+17	Stagnation	_	NOUN	NN	_	14	AG	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	eines	_	DET	ART	_	23	NK	_	_
+20	Rück-	_	X	TRUNC	_	21	CJ	_	_
+21	oder	_	CONJ	KON	_	23	CD	_	_
+22	eines	_	DET	ART	_	23	NK	_	_
+23	Fortschrittes	_	NOUN	NN	_	17	APP	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

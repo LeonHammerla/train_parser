@@ -1,0 +1,29 @@
+# sent_id = 159
+# text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
+1	Wenn	_	CONJ	KOUS	_	7	CP	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Redakteur	_	NOUN	NN	_	7	SB	_	_
+4	eine	_	DET	ART	_	6	NK	_	_
+5	solche	_	PRON	PIAT	_	6	NK	_	_
+6	Anordnung	_	NOUN	NN	_	7	OA	_	_
+7	trifft	_	VERB	VVFIN	_	16	MO	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	und	_	CONJ	KON	_	7	CD	_	_
+10	wenn	_	CONJ	KOUS	_	13	CP	_	_
+11	diese	_	PRON	PDS	_	13	SB	_	_
+12	befolgt	_	VERB	VVPP	_	13	OC	_	_
+13	wird	_	VERB	VAFIN	_	9	CJ	_	_
+14	,	_	PUNCT	$,	_	15	PUNCT	_	_
+15	dann	_	ADV	ADV	_	16	MO	_	_
+16	weiß	_	VERB	VVFIN	_	16	ROOT	_	_
+17	ich	_	PRON	PPER	_	16	SB	_	_
+18	nicht	_	X	PTKNEG	_	16	NG	_	_
+19	,	_	PUNCT	$,	_	16	PUNCT	_	_
+20	wie	_	PRON	PWAV	_	25	MO	_	_
+21	er	_	PRON	PPER	_	25	SB	_	_
+22	einer	_	DET	ART	_	23	NK	_	_
+23	Bestrafung	_	NOUN	NN	_	24	DA	_	_
+24	verfallen	_	VERB	VVINF	_	25	OC	_	_
+25	sollte	_	VERB	VMFIN	_	16	OC	_	_
+26	.	_	PUNCT	$.	_	7	PUNCT	_	_
+

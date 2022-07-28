@@ -1,0 +1,23 @@
+# sent_id = 24
+# text = Meine Damen und Herren, ich frage, ob noch Abgeordnete vorhanden sind, die ihre Stimme abzugeben wünschen.
+1	Meine	_	PRON	PPOSAT	_	2	NK	_	_
+2	Damen	_	NOUN	NN	_	7	VO	_	_
+3	und	_	CONJ	KON	_	2	CD	_	_
+4	Herren	_	NOUN	NN	_	3	CJ	_	_
+5	,	_	PUNCT	$,	_	2	PUNCT	_	_
+6	ich	_	PRON	PPER	_	7	SB	_	_
+7	frage	_	VERB	VVFIN	_	7	ROOT	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	ob	_	CONJ	KOUS	_	13	CP	_	_
+10	noch	_	ADV	ADV	_	13	MO	_	_
+11	Abgeordnete	_	NOUN	NN	_	13	SB	_	_
+12	vorhanden	_	ADJ	ADJD	_	13	PD	_	_
+13	sind	_	VERB	VAFIN	_	7	OC	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	die	_	PRON	PRELS	_	19	SB	_	_
+16	ihre	_	PRON	PPOSAT	_	17	NK	_	_
+17	Stimme	_	NOUN	NN	_	18	OA	_	_
+18	abzugeben	_	VERB	VVIZU	_	19	OC	_	_
+19	wünschen	_	VERB	VVINF	_	11	RC	_	_
+20	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

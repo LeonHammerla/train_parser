@@ -1,0 +1,23 @@
+# sent_id = 160
+# text = Für die 1960er-Jahre vermutet Saemann (1970a) auf Grund der damaligen Verbreitung des Kuckucks die Bachstelze als Hauptwirtsvogel.
+1	Für	_	ADP	APPR	_	4	MO	_	_
+2	die	_	DET	ART	_	3	NK	_	_
+3	1960er-Jahre	_	NOUN	NN	_	1	NK	_	_
+4	vermutet	_	VERB	VVFIN	_	0	--	_	_
+5	Saemann	_	PROPN	NE	_	4	SB	_	_
+6	(	_	PUNCT	$(	_	7	PUNCT	_	_
+7	1970a	_	PROPN	NE	_	5	APP	_	_
+8	)	_	PUNCT	$(	_	7	PUNCT	_	_
+9	auf	_	ADP	APPR	_	4	MO	_	_
+10	Grund	_	NOUN	NN	_	9	NK	_	_
+11	der	_	DET	ART	_	13	NK	_	_
+12	damaligen	_	ADJ	ADJA	_	13	NK	_	_
+13	Verbreitung	_	NOUN	NN	_	10	AG	_	_
+14	des	_	DET	ART	_	15	NK	_	_
+15	Kuckucks	_	NOUN	NN	_	13	AG	_	_
+16	die	_	DET	ART	_	17	NK	_	_
+17	Bachstelze	_	NOUN	NN	_	4	OA	_	_
+18	als	_	ADP	APPR	_	4	OP	_	_
+19	Hauptwirtsvogel	_	NOUN	NN	_	18	NK	_	_
+20	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

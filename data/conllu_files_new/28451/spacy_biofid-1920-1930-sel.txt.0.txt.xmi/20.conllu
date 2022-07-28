@@ -1,0 +1,33 @@
+# sent_id = 109
+# text = Als Begleitpflanzen stellten wir bei Mannheim Heleocharis acicularis, Limosella aqiiatica, Elatine, Callitriche, Peplis porlula, Polentilla supina und P. Norzoegica, Gnaphalium luteoalbum usw. fest.
+1	Als	_	ADP	APPR	_	3	MO	_	_
+2	Begleitpflanzen	_	NOUN	NN	_	1	NK	_	_
+3	stellten	_	VERB	VVFIN	_	0	--	_	_
+4	wir	_	PRON	PPER	_	3	SB	_	_
+5	bei	_	ADP	APPR	_	3	MO	_	_
+6	Mannheim	_	PROPN	NE	_	5	NK	_	_
+7	Heleocharis	_	PROPN	NE	_	8	PNC	_	_
+8	acicularis	_	PROPN	NE	_	3	OA	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	Limosella	_	PROPN	NE	_	11	PNC	_	_
+11	aqiiatica	_	PROPN	NE	_	8	CJ	_	_
+12	,	_	PUNCT	$,	_	11	PUNCT	_	_
+13	Elatine	_	PROPN	NE	_	11	CJ	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	Callitriche	_	NOUN	NN	_	13	CJ	_	_
+16	,	_	PUNCT	$,	_	13	PUNCT	_	_
+17	Peplis	_	PROPN	NE	_	18	PNC	_	_
+18	porlula	_	PROPN	NE	_	15	CJ	_	_
+19	,	_	PUNCT	$,	_	11	PUNCT	_	_
+20	Polentilla	_	PROPN	NE	_	21	PNC	_	_
+21	supina	_	PROPN	NE	_	18	CJ	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	P.	_	PROPN	NE	_	24	PNC	_	_
+24	Norzoegica	_	PROPN	NE	_	22	CJ	_	_
+25	,	_	PUNCT	$,	_	11	PUNCT	_	_
+26	Gnaphalium	_	PROPN	NE	_	27	PNC	_	_
+27	luteoalbum	_	ADV	ADV	_	24	CJ	_	_
+28	usw.	_	ADV	ADV	_	27	CJ	_	_
+29	fest	_	VERB	PTKVZ	_	3	SVP	_	_
+30	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

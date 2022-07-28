@@ -1,0 +1,34 @@
+# sent_id = 129
+# text = Wer bessere Beziehungen zur DDR will, braucht eine klare Konzeption, braucht langen Atem, braucht nüchterne Erkenntnis des Möglichen und des Unmöglichen, um Schritt für Schritt voranzukommen.
+1	Wer	_	PRON	PWS	_	6	SB	_	_
+2	bessere	_	ADJ	ADJA	_	3	NK	_	_
+3	Beziehungen	_	NOUN	NN	_	6	OA	_	_
+4	zur	_	ADP	APPRART	_	3	MNR	_	_
+5	DDR	_	PROPN	NE	_	4	NK	_	_
+6	will	_	VERB	VMFIN	_	8	SB	_	_
+7	,	_	PUNCT	$,	_	8	PUNCT	_	_
+8	braucht	_	VERB	VVFIN	_	0	--	_	_
+9	eine	_	DET	ART	_	11	NK	_	_
+10	klare	_	ADJ	ADJA	_	11	NK	_	_
+11	Konzeption	_	NOUN	NN	_	8	OA	_	_
+12	,	_	PUNCT	$,	_	13	PUNCT	_	_
+13	braucht	_	VERB	VVFIN	_	8	CJ	_	_
+14	langen	_	ADJ	ADJA	_	15	NK	_	_
+15	Atem	_	NOUN	NN	_	13	OA	_	_
+16	,	_	PUNCT	$,	_	17	PUNCT	_	_
+17	braucht	_	VERB	VVFIN	_	13	CJ	_	_
+18	nüchterne	_	ADJ	ADJA	_	19	NK	_	_
+19	Erkenntnis	_	NOUN	NN	_	17	OA	_	_
+20	des	_	DET	ART	_	21	NK	_	_
+21	Möglichen	_	NOUN	NN	_	19	AG	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	des	_	DET	ART	_	24	NK	_	_
+24	Unmöglichen	_	NOUN	NN	_	22	CJ	_	_
+25	,	_	PUNCT	$,	_	17	PUNCT	_	_
+26	um	_	CONJ	KOUI	_	30	CP	_	_
+27	Schritt	_	NOUN	NN	_	30	MO	_	_
+28	für	_	ADP	APPR	_	27	MNR	_	_
+29	Schritt	_	NOUN	NN	_	28	NK	_	_
+30	voranzukommen	_	VERB	VVIZU	_	17	MO	_	_
+31	.	_	PUNCT	$.	_	8	PUNCT	_	_
+

@@ -1,0 +1,36 @@
+# sent_id = 215
+# text = Die höhere Bestandszahl im Kartierungszeitraum resultierte vor allem aus den in dieser Zeit günstigen Bedingungen im Chemnitztal bei Draisdorf, wo an den Rändern neu angelegter Gewässer drei bis sechs Paare nisteten.
+1	Die	_	DET	ART	_	3	NK	_	_
+2	höhere	_	ADJ	ADJA	_	3	NK	_	_
+3	Bestandszahl	_	NOUN	NN	_	6	SB	_	_
+4	im	_	ADP	APPRART	_	3	MNR	_	_
+5	Kartierungszeitraum	_	NOUN	NN	_	4	NK	_	_
+6	resultierte	_	VERB	VVFIN	_	0	--	_	_
+7	vor	_	ADP	APPR	_	9	MO	_	_
+8	allem	_	PRON	PIS	_	7	NK	_	_
+9	aus	_	ADP	APPR	_	6	OP	_	_
+10	den	_	DET	ART	_	15	NK	_	_
+11	in	_	ADP	APPR	_	14	MO	_	_
+12	dieser	_	PRON	PDAT	_	13	NK	_	_
+13	Zeit	_	NOUN	NN	_	11	NK	_	_
+14	günstigen	_	ADJ	ADJA	_	15	NK	_	_
+15	Bedingungen	_	NOUN	NN	_	9	NK	_	_
+16	im	_	ADP	APPRART	_	15	MNR	_	_
+17	Chemnitztal	_	NOUN	NN	_	16	NK	_	_
+18	bei	_	ADP	APPR	_	17	MNR	_	_
+19	Draisdorf	_	PROPN	NE	_	18	NK	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	wo	_	PRON	PWAV	_	32	MO	_	_
+22	an	_	ADP	APPR	_	32	MO	_	_
+23	den	_	DET	ART	_	24	NK	_	_
+24	Rändern	_	NOUN	NN	_	22	NK	_	_
+25	neu	_	ADJ	ADJD	_	26	MO	_	_
+26	angelegter	_	ADJ	ADJA	_	27	NK	_	_
+27	Gewässer	_	NOUN	NN	_	24	AG	_	_
+28	drei	_	NUM	CARD	_	31	NK	_	_
+29	bis	_	CONJ	KON	_	28	CD	_	_
+30	sechs	_	NUM	CARD	_	29	CJ	_	_
+31	Paare	_	NOUN	NN	_	32	OA	_	_
+32	nisteten	_	VERB	VVINF	_	19	RC	_	_
+33	.	_	PUNCT	$.	_	6	PUNCT	_	_
+

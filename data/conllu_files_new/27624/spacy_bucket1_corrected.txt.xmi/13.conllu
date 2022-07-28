@@ -1,0 +1,33 @@
+# sent_id = 32
+# text = Wir haben den Wunsch, daß das Selbstverwaltungsgesetz und die Novelle zum Selbstverwaltungsgesetz wie jedes andere Gesetz, das von diesem Hause beschlossen wird, auch die Berlin-Klausel enthält.
+1	Wir	_	_	_	_	2	nsubj	_	_
+2	haben	_	_	_	_	0	root	_	_
+3	den	_	_	_	_	4	det	_	_
+4	Wunsch	_	_	_	_	2	obj	_	_
+5	,	_	_	_	_	29	punct	_	_
+6	daß	_	_	_	_	29	mark	_	_
+7	das	_	_	_	_	8	det	_	_
+8	Selbstverwaltungsgesetz	_	_	_	_	29	nsubj	_	_
+9	und	_	_	_	_	11	cc	_	_
+10	die	_	_	_	_	11	det	_	_
+11	Novelle	_	_	_	_	8	conj	_	_
+12	zum	_	_	_	_	13	case	_	_
+13	Selbstverwaltungsgesetz	_	_	_	_	11	nmod	_	_
+14	wie	_	_	_	_	17	case	_	_
+15	jedes	_	_	_	_	17	det	_	_
+16	andere	_	_	_	_	17	amod	_	_
+17	Gesetz	_	_	_	_	29	obl	_	_
+18	,	_	_	_	_	23	punct	_	_
+19	das	_	_	_	_	23	nsubj:pass	_	_
+20	von	_	_	_	_	22	case	_	_
+21	diesem	_	_	_	_	22	det	_	_
+22	Hause	_	_	_	_	23	obl	_	_
+23	beschlossen	_	_	_	_	17	acl	_	_
+24	wird	_	_	_	_	23	aux:pass	_	_
+25	,	_	_	_	_	17	punct	_	_
+26	auch	_	_	_	_	29	advmod	_	_
+27	die	_	_	_	_	28	det	_	_
+28	Berlin-Klausel	_	_	_	_	29	obj	_	_
+29	enthält	_	_	_	_	4	acl	_	_
+30	.	_	_	_	_	2	punct	_	_
+

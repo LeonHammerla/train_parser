@@ -1,0 +1,27 @@
+# sent_id = 133
+# text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
+1	Man	_	_	_	_	2	nsubj	_	_
+2	sieht	_	_	_	_	0	root	_	_
+3	in	_	_	_	_	7	case	_	_
+4	einer	_	_	_	_	7	det	_	_
+5	so	_	_	_	_	6	advmod	_	_
+6	kurzen	_	_	_	_	7	amod	_	_
+7	Spanne	_	_	_	_	2	obl	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Entwicklung	_	_	_	_	7	nmod	_	_
+10	kaum	_	_	_	_	11	advmod	_	_
+11	mehr	_	_	_	_	2	obj	_	_
+12	als	_	_	_	_	14	case	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Symptome	_	_	_	_	11	nmod	_	_
+15	einer	_	_	_	_	17	det	_	_
+16	allgemeinen	_	_	_	_	17	amod	_	_
+17	Stagnation	_	_	_	_	14	nmod	_	_
+18	,	_	_	_	_	20	punct	_	_
+19	eines	_	_	_	_	20	det	_	_
+20	Rück-	_	_	_	_	17	conj	_	_
+21	oder	_	_	_	_	23	cc	_	_
+22	eines	_	_	_	_	23	det	_	_
+23	Fortschrittes	_	_	_	_	17	conj	_	_
+24	.	_	_	_	_	2	punct	_	_
+

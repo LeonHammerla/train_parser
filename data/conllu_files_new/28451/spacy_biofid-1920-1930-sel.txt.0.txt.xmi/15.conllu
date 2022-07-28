@@ -1,0 +1,35 @@
+# sent_id = 104
+# text = Cynodon ist in manchen Gegenden Deutschlands gar nicht vorhanden, während sie bei uns an Rheindämmen und auf Schuttplätzen selbst der Städte ganz ausgedehnte Flächen besiedelt und alle anderen Pflanzen verdrängt.
+1	Cynodon	_	PROPN	NE	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	in	_	ADP	APPR	_	2	MO	_	_
+4	manchen	_	PRON	PIAT	_	5	NK	_	_
+5	Gegenden	_	NOUN	NN	_	3	NK	_	_
+6	Deutschlands	_	PROPN	NE	_	5	AG	_	_
+7	gar	_	ADV	ADV	_	8	MO	_	_
+8	nicht	_	X	PTKNEG	_	2	NG	_	_
+9	vorhanden	_	ADJ	ADJD	_	2	PD	_	_
+10	,	_	PUNCT	$,	_	2	PUNCT	_	_
+11	während	_	CONJ	KOUS	_	26	CP	_	_
+12	sie	_	PRON	PPER	_	26	SB	_	_
+13	bei	_	ADP	APPR	_	26	MO	_	_
+14	uns	_	PRON	PPER	_	13	NK	_	_
+15	an	_	ADP	APPR	_	26	MO	_	_
+16	Rheindämmen	_	NOUN	NN	_	15	NK	_	_
+17	und	_	CONJ	KON	_	15	CD	_	_
+18	auf	_	ADP	APPR	_	17	CJ	_	_
+19	Schuttplätzen	_	NOUN	NN	_	18	NK	_	_
+20	selbst	_	ADV	ADV	_	22	MO	_	_
+21	der	_	DET	ART	_	22	NK	_	_
+22	Städte	_	NOUN	NN	_	19	AG	_	_
+23	ganz	_	ADV	ADV	_	24	MO	_	_
+24	ausgedehnte	_	ADJ	ADJA	_	25	NK	_	_
+25	Flächen	_	NOUN	NN	_	26	OA	_	_
+26	besiedelt	_	VERB	VVFIN	_	2	MO	_	_
+27	und	_	CONJ	KON	_	26	CD	_	_
+28	alle	_	PRON	PIAT	_	30	NK	_	_
+29	anderen	_	ADJ	ADJA	_	30	NK	_	_
+30	Pflanzen	_	NOUN	NN	_	31	OA	_	_
+31	verdrängt	_	VERB	VVFIN	_	27	CJ	_	_
+32	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

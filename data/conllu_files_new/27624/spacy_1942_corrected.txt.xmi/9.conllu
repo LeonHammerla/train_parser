@@ -1,0 +1,31 @@
+# sent_id = 136
+# text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	wies	_	_	_	_	0	root	_	_
+3	damals	_	_	_	_	2	advmod	_	_
+4	auch	_	_	_	_	2	advmod	_	_
+5	darauf	_	_	_	_	2	obl	_	_
+6	hin	_	_	_	_	2	compound:prt	_	_
+7	,	_	_	_	_	25	punct	_	_
+8	daß	_	_	_	_	25	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Aufrechterhaltung	_	_	_	_	25	nsubj:pass	_	_
+11	eines	_	_	_	_	15	det	_	_
+12	so	_	_	_	_	13	advmod	_	_
+13	gewaltigen	_	_	_	_	15	amod	_	_
+14	militärischen	_	_	_	_	15	amod	_	_
+15	Arsenals	_	_	_	_	10	nmod	_	_
+16	in	_	_	_	_	17	case	_	_
+17	Mitteleuropa	_	_	_	_	15	nmod	_	_
+18	ohne	_	_	_	_	19	case	_	_
+19	Sinn	_	_	_	_	10	nmod	_	_
+20	und	_	_	_	_	21	cc	_	_
+21	Zweck	_	_	_	_	19	conj	_	_
+22	nur	_	_	_	_	24	advmod	_	_
+23	als	_	_	_	_	24	case	_	_
+24	Gefahrenherd	_	_	_	_	25	obj	_	_
+25	angesehen	_	_	_	_	5	advcl	_	_
+26	werden	_	_	_	_	25	aux:pass	_	_
+27	müßte	_	_	_	_	25	aux	_	_
+28	.	_	_	_	_	2	punct	_	_
+

@@ -1,0 +1,29 @@
+# sent_id = 157
+# text = Meine Herren, die Frage der Klassifizirung hat der Herr Vorredner als eine Leimruthe bezeichnet, auf welche der Tabackpflanzer sich nicht werde leiten lassen.
+1	Meine	_	PRON	PPOSAT	_	2	NK	_	_
+2	Herren	_	NOUN	NN	_	8	VO	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Frage	_	NOUN	NN	_	15	OA	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Klassifizirung	_	NOUN	NN	_	5	AG	_	_
+8	hat	_	VERB	VAFIN	_	0	--	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Herr	_	NOUN	NN	_	8	SB	_	_
+11	Vorredner	_	PROPN	NE	_	10	NK	_	_
+12	als	_	ADP	APPR	_	15	MO	_	_
+13	eine	_	DET	ART	_	14	NK	_	_
+14	Leimruthe	_	NOUN	NN	_	12	NK	_	_
+15	bezeichnet	_	VERB	VVPP	_	8	OC	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	auf	_	ADP	APPR	_	18	AC	_	_
+18	welche	_	PRON	PRELS	_	24	MO	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Tabackpflanzer	_	NOUN	NN	_	23	SB	_	_
+21	sich	_	PRON	PRF	_	24	OA	_	_
+22	nicht	_	X	PTKNEG	_	23	NG	_	_
+23	werde	_	VERB	VAFIN	_	14	RC	_	_
+24	leiten	_	VERB	VVINF	_	25	OC	_	_
+25	lassen	_	VERB	VVINF	_	23	OC	_	_
+26	.	_	PUNCT	$.	_	8	PUNCT	_	_
+

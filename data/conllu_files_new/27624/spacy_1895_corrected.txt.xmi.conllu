@@ -1,0 +1,507 @@
+# sent_id = 142
+# text = Er wird aber meiner Auffassung nach gar nicht schädlich wirken.
+1	Er	_	_	_	_	10	nsubj	_	_
+2	wird	_	_	_	_	10	aux	_	_
+3	aber	_	_	_	_	10	advmod	_	_
+4	meiner	_	_	_	_	5	det:poss	_	_
+5	Auffassung	_	_	_	_	10	obl	_	_
+6	nach	_	_	_	_	5	case	_	_
+7	gar	_	_	_	_	8	advmod	_	_
+8	nicht	_	_	_	_	10	advmod	_	_
+9	schädlich	_	_	_	_	10	xcomp	_	_
+10	wirken	_	_	_	_	0	root	_	_
+11	.	_	_	_	_	10	punct	_	_
+
+# sent_id = 143
+# text = Ich halte meinerseits dieses letzte Wort, daß das Volk noch nicht reif sei.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	halte	_	_	_	_	0	root	_	_
+3	meinerseits	_	_	_	_	2	advmod	_	_
+4	dieses	_	_	_	_	6	det	_	_
+5	letzte	_	_	_	_	6	amod	_	_
+6	Wort	_	_	_	_	2	obj	_	_
+7	,	_	_	_	_	13	punct	_	_
+8	daß	_	_	_	_	13	mark	_	_
+9	das	_	_	_	_	10	det	_	_
+10	Volk	_	_	_	_	13	nsubj	_	_
+11	noch	_	_	_	_	12	advmod	_	_
+12	nicht	_	_	_	_	13	advmod	_	_
+13	reif	_	_	_	_	6	appos	_	_
+14	sei	_	_	_	_	13	cop	_	_
+15	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 144
+# text = Meine Herren, ich glaube wirklich, derartige Beispiele können hier außer Betracht bleiben.
+1	Meine	_	_	_	_	2	det:poss	_	_
+2	Herren	_	_	_	_	5	vocative	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	ich	_	_	_	_	5	nsubj	_	_
+5	glaube	_	_	_	_	0	root	_	_
+6	wirklich	_	_	_	_	5	advmod	_	_
+7	,	_	_	_	_	14	punct	_	_
+8	derartige	_	_	_	_	9	det	_	_
+9	Beispiele	_	_	_	_	14	nsubj	_	_
+10	können	_	_	_	_	14	aux	_	_
+11	hier	_	_	_	_	14	advmod	_	_
+12	außer	_	_	_	_	13	case	_	_
+13	Betracht	_	_	_	_	14	obl	_	_
+14	bleiben	_	_	_	_	5	ccomp	_	_
+15	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 145
+# text = Wer hilft denn den Leuten dazu, daß sie selbstständig werden?
+1	Wer	_	_	_	_	2	nsubj	_	_
+2	hilft	_	_	_	_	0	root	_	_
+3	denn	_	_	_	_	2	advmod	_	_
+4	den	_	_	_	_	5	det	_	_
+5	Leuten	_	_	_	_	2	iobj	_	_
+6	dazu	_	_	_	_	2	obl	_	_
+7	,	_	_	_	_	11	punct	_	_
+8	daß	_	_	_	_	11	mark	_	_
+9	sie	_	_	_	_	11	nsubj	_	_
+10	selbstständig	_	_	_	_	11	xcomp	_	_
+11	werden	_	_	_	_	6	advcl	_	_
+12	?	_	_	_	_	2	punct	_	_
+
+# sent_id = 146
+# text = Das ist die eine Wendung; nun kommt noch die zweite, der "zweite Streich".
+1	Das	_	_	_	_	5	nsubj	_	_
+2	ist	_	_	_	_	5	cop	_	_
+3	die	_	_	_	_	5	det	_	_
+4	eine	_	_	_	_	5	amod	_	_
+5	Wendung	_	_	_	_	0	root	_	_
+6	;	_	_	_	_	8	punct	_	_
+7	nun	_	_	_	_	8	advmod	_	_
+8	kommt	_	_	_	_	5	parataxis	_	_
+9	noch	_	_	_	_	8	advmod	_	_
+10	die	_	_	_	_	11	det	_	_
+11	zweite	_	_	_	_	8	nsubj	_	_
+12	,	_	_	_	_	16	punct	_	_
+13	der	_	_	_	_	16	det	_	_
+14	"	_	_	_	_	16	punct	_	_
+15	zweite	_	_	_	_	16	amod	_	_
+16	Streich	_	_	_	_	11	appos	_	_
+17	"	_	_	_	_	16	punct	_	_
+18	.	_	_	_	_	5	punct	_	_
+
+# sent_id = 147
+# text = Ich bitte die Herren aufzustehen, oder stehen zu bleiben, welche den Schlußantrag annehmen wollen.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bitte	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Herren	_	_	_	_	2	obj	_	_
+5	aufzustehen	_	_	_	_	2	xcomp	_	_
+6	,	_	_	_	_	10	punct	_	_
+7	oder	_	_	_	_	10	cc	_	_
+8	stehen	_	_	_	_	10	xcomp	_	_
+9	zu	_	_	_	_	10	mark	_	_
+10	bleiben	_	_	_	_	5	conj	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	welche	_	_	_	_	15	nsubj	_	_
+13	den	_	_	_	_	14	det	_	_
+14	Schlußantrag	_	_	_	_	15	obj	_	_
+15	annehmen	_	_	_	_	4	acl	_	_
+16	wollen	_	_	_	_	15	aux	_	_
+17	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 148
+# text = Beide Herren Redner haben darauf aufmerksam gemacht, daß der Deutsche Text nicht überall vollständig mit dem Italienischen übereinstimmt.
+1	Beide	_	_	_	_	2	det	_	_
+2	Herren	_	_	_	_	7	nsubj	_	_
+3	Redner	_	_	_	_	2	flat	_	_
+4	haben	_	_	_	_	7	aux	_	_
+5	darauf	_	_	_	_	7	obl	_	_
+6	aufmerksam	_	_	_	_	7	xcomp	_	_
+7	gemacht	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	19	punct	_	_
+9	daß	_	_	_	_	19	mark	_	_
+10	der	_	_	_	_	12	det	_	_
+11	Deutsche	_	_	_	_	12	amod	_	_
+12	Text	_	_	_	_	19	nsubj	_	_
+13	nicht	_	_	_	_	15	advmod	_	_
+14	überall	_	_	_	_	13	advmod	_	_
+15	vollständig	_	_	_	_	19	advmod	_	_
+16	mit	_	_	_	_	18	case	_	_
+17	dem	_	_	_	_	18	det	_	_
+18	Italienischen	_	_	_	_	19	obl	_	_
+19	übereinstimmt	_	_	_	_	5	advcl	_	_
+20	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 149
+# text = Aus der Tabelle geht hervor, daß allein im Zahre 1877 die Rinderpest in 54 Ortschaften in 130 Gehöften vorgekommen ist.
+1	Aus	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Tabelle	_	_	_	_	4	obl	_	_
+4	geht	_	_	_	_	0	root	_	_
+5	hervor	_	_	_	_	4	compound:prt	_	_
+6	,	_	_	_	_	20	punct	_	_
+7	daß	_	_	_	_	20	mark	_	_
+8	allein	_	_	_	_	10	advmod	_	_
+9	im	_	_	_	_	10	case	_	_
+10	Zahre	_	_	_	_	20	obl	_	_
+11	1877	_	_	_	_	10	flat	_	_
+12	die	_	_	_	_	13	det	_	_
+13	Rinderpest	_	_	_	_	20	nsubj	_	_
+14	in	_	_	_	_	16	case	_	_
+15	54	_	_	_	_	16	nummod	_	_
+16	Ortschaften	_	_	_	_	19	nmod	_	_
+17	in	_	_	_	_	19	case	_	_
+18	130	_	_	_	_	19	nummod	_	_
+19	Gehöften	_	_	_	_	20	obl	_	_
+20	vorgekommen	_	_	_	_	4	ccomp	_	_
+21	ist	_	_	_	_	20	aux	_	_
+22	.	_	_	_	_	4	punct	_	_
+
+# sent_id = 150
+# text = Dringen wir auf Vereinfachung, dringen wir darauf, daß das Geld verwendet wird, eine tüchtige Marine zu schaffen.
+1	Dringen	_	_	_	_	1	ROOT	_	_
+2	wir	_	_	_	_	1	nsubj	_	_
+3	auf	_	_	_	_	4	case	_	_
+4	Vereinfachung	_	_	_	_	1	obl	_	_
+5	,	_	_	_	_	1	punct	_	_
+6	dringen	_	_	_	_	1	parataxis	_	_
+7	wir	_	_	_	_	6	nsubj	_	_
+8	darauf	_	_	_	_	6	obl	_	_
+9	,	_	_	_	_	13	punct	_	_
+10	daß	_	_	_	_	13	mark	_	_
+11	das	_	_	_	_	12	det	_	_
+12	Geld	_	_	_	_	13	nsubj:pass	_	_
+13	verwendet	_	_	_	_	8	advcl	_	_
+14	wird	_	_	_	_	13	aux:pass	_	_
+15	,	_	_	_	_	20	punct	_	_
+16	eine	_	_	_	_	18	det	_	_
+17	tüchtige	_	_	_	_	18	amod	_	_
+18	Marine	_	_	_	_	20	obj	_	_
+19	zu	_	_	_	_	20	mark	_	_
+20	schaffen	_	_	_	_	13	advcl	_	_
+21	.	_	_	_	_	6	punct	_	_
+
+# sent_id = 151
+# text = Meine Herren, die Frage der Klassifizirung hat der Herr Vorredner als eine Leimruthe bezeichnet, auf welche der Tabackpflanzer sich nicht werde leiten lassen.
+1	Meine	_	_	_	_	2	det:poss	_	_
+2	Herren	_	_	_	_	15	vocative	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Frage	_	_	_	_	15	obj	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Klassifizirung	_	_	_	_	5	nmod	_	_
+8	hat	_	_	_	_	15	aux	_	_
+9	der	_	_	_	_	10	det	_	_
+10	Herr	_	_	_	_	15	nsubj	_	_
+11	Vorredner	_	_	_	_	10	flat	_	_
+12	als	_	_	_	_	14	case	_	_
+13	eine	_	_	_	_	14	det	_	_
+14	Leimruthe	_	_	_	_	15	obj	_	_
+15	bezeichnet	_	_	_	_	0	root	_	_
+16	,	_	_	_	_	25	punct	_	_
+17	auf	_	_	_	_	18	case	_	_
+18	welche	_	_	_	_	25	obl	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Tabackpflanzer	_	_	_	_	25	nsubj	_	_
+21	sich	_	_	_	_	25	obj	_	_
+22	nicht	_	_	_	_	25	advmod	_	_
+23	werde	_	_	_	_	25	aux	_	_
+24	leiten	_	_	_	_	25	xcomp	_	_
+25	lassen	_	_	_	_	14	acl	_	_
+26	.	_	_	_	_	15	punct	_	_
+
+# sent_id = 152
+# text = Die meisten der Punkte, welche ich berühren wollte, sind bereits so erschöpft, daß ich es für überflüssig  halte, noch irgend Etwas hinzuzufügen.
+1	Die	_	_	_	_	2	det	_	_
+2	meisten	_	_	_	_	14	nsubj	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Punkte	_	_	_	_	2	nmod	_	_
+5	,	_	_	_	_	8	punct	_	_
+6	welche	_	_	_	_	8	obj	_	_
+7	ich	_	_	_	_	8	nsubj	_	_
+8	berühren	_	_	_	_	4	acl	_	_
+9	wollte	_	_	_	_	8	aux	_	_
+10	,	_	_	_	_	2	punct	_	_
+11	sind	_	_	_	_	14	cop	_	_
+12	bereits	_	_	_	_	14	advmod	_	_
+13	so	_	_	_	_	14	advmod	_	_
+14	erschöpft	_	_	_	_	0	root	_	_
+15	,	_	_	_	_	21	punct	_	_
+16	daß	_	_	_	_	21	mark	_	_
+17	ich	_	_	_	_	21	nsubj	_	_
+18	es	_	_	_	_	21	expl	_	_
+19	für	_	_	_	_	21	compound:prt	_	_
+20	überflüssig	_	_	_	_	21	xcomp	_	_
+21	halte	_	_	_	_	14	advcl	_	_
+22	,	_	_	_	_	26	punct	_	_
+23	noch	_	_	_	_	26	advmod	_	_
+24	irgend	_	_	_	_	25	det	_	_
+25	Etwas	_	_	_	_	26	obj	_	_
+26	hinzuzufügen	_	_	_	_	21	xcomp	_	_
+27	.	_	_	_	_	14	punct	_	_
+
+# sent_id = 153
+# text = Wenn der Redakteur eine solche Anordnung trifft, und wenn diese befolgt wird, dann weiß ich nicht, wie er einer Bestrafung verfallen sollte.
+1	Wenn	_	_	_	_	7	mark	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Redakteur	_	_	_	_	7	nsubj	_	_
+4	eine	_	_	_	_	6	det	_	_
+5	solche	_	_	_	_	6	amod	_	_
+6	Anordnung	_	_	_	_	7	obj	_	_
+7	trifft	_	_	_	_	16	advcl	_	_
+8	,	_	_	_	_	12	punct	_	_
+9	und	_	_	_	_	12	cc	_	_
+10	wenn	_	_	_	_	12	mark	_	_
+11	diese	_	_	_	_	12	nsubj:pass	_	_
+12	befolgt	_	_	_	_	7	conj	_	_
+13	wird	_	_	_	_	12	aux:pass	_	_
+14	,	_	_	_	_	7	punct	_	_
+15	dann	_	_	_	_	16	advmod	_	_
+16	weiß	_	_	_	_	0	root	_	_
+17	ich	_	_	_	_	16	nsubj	_	_
+18	nicht	_	_	_	_	16	advmod	_	_
+19	,	_	_	_	_	24	punct	_	_
+20	wie	_	_	_	_	24	advmod	_	_
+21	er	_	_	_	_	24	nsubj	_	_
+22	einer	_	_	_	_	23	det	_	_
+23	Bestrafung	_	_	_	_	24	iobj	_	_
+24	verfallen	_	_	_	_	16	ccomp	_	_
+25	sollte	_	_	_	_	24	aux	_	_
+26	.	_	_	_	_	16	punct	_	_
+
+# sent_id = 154
+# text = Es kommen mitunter sehr wichtige Petitionen vor, die auf die Verhandlungen und Beschlüsse des Hauses in der Sache von Einfluß sein können.
+1	Es	_	_	_	_	2	expl	_	_
+2	kommen	_	_	_	_	0	root	_	_
+3	mitunter	_	_	_	_	2	advmod	_	_
+4	sehr	_	_	_	_	5	advmod	_	_
+5	wichtige	_	_	_	_	6	amod	_	_
+6	Petitionen	_	_	_	_	2	nsubj	_	_
+7	vor	_	_	_	_	2	compound:prt	_	_
+8	,	_	_	_	_	21	punct	_	_
+9	die	_	_	_	_	21	nsubj	_	_
+10	auf	_	_	_	_	12	case	_	_
+11	die	_	_	_	_	12	det	_	_
+12	Verhandlungen	_	_	_	_	21	nmod	_	_
+13	und	_	_	_	_	14	cc	_	_
+14	Beschlüsse	_	_	_	_	12	conj	_	_
+15	des	_	_	_	_	16	det	_	_
+16	Hauses	_	_	_	_	12	nmod	_	_
+17	in	_	_	_	_	19	case	_	_
+18	der	_	_	_	_	19	det	_	_
+19	Sache	_	_	_	_	12	nmod	_	_
+20	von	_	_	_	_	21	case	_	_
+21	Einfluß	_	_	_	_	6	acl	_	_
+22	sein	_	_	_	_	21	cop	_	_
+23	können	_	_	_	_	21	aux	_	_
+24	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 155
+# text = Die Reichsverwaltung verpflichtete sich dagegen, für Benutzung des Kabels jährlich eine feste Entschädigung von 140000 Mark zu geben ohne Rücksicht auf die Zahl der Depeschen, welche befördert werden.
+1	Die	_	_	_	_	2	det	_	_
+2	Reichsverwaltung	_	_	_	_	3	nsubj	_	_
+3	verpflichtete	_	_	_	_	0	root	_	_
+4	sich	_	_	_	_	3	obj	_	_
+5	dagegen	_	_	_	_	3	advmod	_	_
+6	,	_	_	_	_	19	punct	_	_
+7	für	_	_	_	_	8	case	_	_
+8	Benutzung	_	_	_	_	19	obl	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Kabels	_	_	_	_	8	nmod	_	_
+11	jährlich	_	_	_	_	19	advmod	_	_
+12	eine	_	_	_	_	14	det	_	_
+13	feste	_	_	_	_	14	amod	_	_
+14	Entschädigung	_	_	_	_	19	obj	_	_
+15	von	_	_	_	_	17	case	_	_
+16	140000	_	_	_	_	17	nummod	_	_
+17	Mark	_	_	_	_	14	nmod	_	_
+18	zu	_	_	_	_	19	mark	_	_
+19	geben	_	_	_	_	3	xcomp	_	_
+20	ohne	_	_	_	_	21	case	_	_
+21	Rücksicht	_	_	_	_	19	obl	_	_
+22	auf	_	_	_	_	24	case	_	_
+23	die	_	_	_	_	24	det	_	_
+24	Zahl	_	_	_	_	21	nmod	_	_
+25	der	_	_	_	_	26	det	_	_
+26	Depeschen	_	_	_	_	24	nmod	_	_
+27	,	_	_	_	_	29	punct	_	_
+28	welche	_	_	_	_	29	nsubj:pass	_	_
+29	befördert	_	_	_	_	26	acl	_	_
+30	werden	_	_	_	_	29	aux:pass	_	_
+31	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 156
+# text = Wenn im § 7 ausdrücklich bestimmt sei, daß gegen den jetzt bewilligten Wohnungsgeldzuschuß die bisherigen Lokalzulagen für alle Civilbeamten wegfallen, so entspreche es der Billigkeit, daß auch für Offiziere und Militärbeamte neben dem neuen Servis derjenige Theil des früheren Servises fortfalle, welcher seiner Natur nach nichts Anderes sei, als eine in weiterem Umfange durchgeführte Lokalzulage.
+1	Wenn	_	_	_	_	6	mark	_	_
+2	im	_	_	_	_	3	case	_	_
+3	§	_	_	_	_	6	obl	_	_
+4	7	_	_	_	_	3	flat	_	_
+5	ausdrücklich	_	_	_	_	6	advmod	_	_
+6	bestimmt	_	_	_	_	24	advcl	_	_
+7	sei	_	_	_	_	6	aux:pass	_	_
+8	,	_	_	_	_	21	punct	_	_
+9	daß	_	_	_	_	21	mark	_	_
+10	gegen	_	_	_	_	14	case	_	_
+11	den	_	_	_	_	14	det	_	_
+12	jetzt	_	_	_	_	13	advmod	_	_
+13	bewilligten	_	_	_	_	14	amod	_	_
+14	Wohnungsgeldzuschuß	_	_	_	_	21	obl	_	_
+15	die	_	_	_	_	17	det	_	_
+16	bisherigen	_	_	_	_	17	amod	_	_
+17	Lokalzulagen	_	_	_	_	21	nsubj	_	_
+18	für	_	_	_	_	20	case	_	_
+19	alle	_	_	_	_	20	det	_	_
+20	Civilbeamten	_	_	_	_	17	nmod	_	_
+21	wegfallen	_	_	_	_	6	ccomp	_	_
+22	,	_	_	_	_	6	punct	_	_
+23	so	_	_	_	_	24	advmod	_	_
+24	entspreche	_	_	_	_	0	root	_	_
+25	es	_	_	_	_	24	expl	_	_
+26	der	_	_	_	_	27	det	_	_
+27	Billigkeit	_	_	_	_	24	iobj	_	_
+28	,	_	_	_	_	44	punct	_	_
+29	daß	_	_	_	_	44	mark	_	_
+30	auch	_	_	_	_	32	advmod	_	_
+31	für	_	_	_	_	32	case	_	_
+32	Offiziere	_	_	_	_	44	obl	_	_
+33	und	_	_	_	_	34	cc	_	_
+34	Militärbeamte	_	_	_	_	32	conj	_	_
+35	neben	_	_	_	_	38	case	_	_
+36	dem	_	_	_	_	38	det	_	_
+37	neuen	_	_	_	_	38	amod	_	_
+38	Servis	_	_	_	_	44	obl	_	_
+39	derjenige	_	_	_	_	40	det	_	_
+40	Theil	_	_	_	_	44	nsubj	_	_
+41	des	_	_	_	_	43	det	_	_
+42	früheren	_	_	_	_	43	amod	_	_
+43	Servises	_	_	_	_	40	nmod	_	_
+44	fortfalle	_	_	_	_	24	csubj	_	_
+45	,	_	_	_	_	51	punct	_	_
+46	welcher	_	_	_	_	51	nsubj	_	_
+47	seiner	_	_	_	_	48	det:poss	_	_
+48	Natur	_	_	_	_	51	nmod	_	_
+49	nach	_	_	_	_	48	case	_	_
+50	nichts	_	_	_	_	51	nmod	_	_
+51	Anderes	_	_	_	_	40	acl	_	_
+52	sei	_	_	_	_	51	cop	_	_
+53	,	_	_	_	_	60	punct	_	_
+54	als	_	_	_	_	60	case	_	_
+55	eine	_	_	_	_	60	det	_	_
+56	in	_	_	_	_	58	case	_	_
+57	weiterem	_	_	_	_	58	amod	_	_
+58	Umfange	_	_	_	_	59	obl	_	_
+59	durchgeführte	_	_	_	_	60	amod	_	_
+60	Lokalzulage	_	_	_	_	51	nmod	_	_
+61	.	_	_	_	_	24	punct	_	_
+
+# sent_id = 157
+# text = Die Hauptaufgabe, für welche wir die Zeit freigehalten haben, ist die Unfallversicherungsgesetzgebung; das Gesetz hat, glaube ich, 170 Paragraphen.
+1	Die	_	_	_	_	2	det	_	_
+2	Hauptaufgabe	_	_	_	_	14	nsubj	_	_
+3	,	_	_	_	_	9	punct	_	_
+4	für	_	_	_	_	5	case	_	_
+5	welche	_	_	_	_	9	obl	_	_
+6	wir	_	_	_	_	9	nsubj	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Zeit	_	_	_	_	9	obj	_	_
+9	freigehalten	_	_	_	_	2	acl	_	_
+10	haben	_	_	_	_	9	aux	_	_
+11	,	_	_	_	_	2	punct	_	_
+12	ist	_	_	_	_	14	cop	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Unfallversicherungsgesetzgebung	_	_	_	_	0	root	_	_
+15	;	_	_	_	_	18	punct	_	_
+16	das	_	_	_	_	17	det	_	_
+17	Gesetz	_	_	_	_	18	nsubj	_	_
+18	hat	_	_	_	_	14	parataxis	_	_
+19	,	_	_	_	_	20	punct	_	_
+20	glaube	_	_	_	_	18	parataxis	_	_
+21	ich	_	_	_	_	20	nsubj	_	_
+22	,	_	_	_	_	20	punct	_	_
+23	170	_	_	_	_	24	nummod	_	_
+24	Paragraphen	_	_	_	_	18	obj	_	_
+25	.	_	_	_	_	14	punct	_	_
+
+# sent_id = 158
+# text = Denn die finanzielle Kalamität, welche aus dem Festhalten unrichtiger Steuersysteme gerade beim Zucker bereits überall  eingetreten ist, und die ungeheuren Zubußen, welche aus den öffentlichen Mitteln in den verschiedensten hierbei interessirenden Staaten geleistet worden sind und bei Festhaltung der Systeme noch weiter geleistet werden müssen, sind so groß, daß bei ernstlichem Willen auch nur einiger hervorragender und bedeutender Staaten die anderen sich der weiteren Nachfolge gar nicht werden entziehen können und für die Dauer auch nicht werden entziehen wollen.
+1	Denn	_	_	_	_	52	advmod	_	_
+2	die	_	_	_	_	4	det	_	_
+3	finanzielle	_	_	_	_	4	amod	_	_
+4	Kalamität	_	_	_	_	52	nsubj	_	_
+5	,	_	_	_	_	17	punct	_	_
+6	welche	_	_	_	_	17	nsubj	_	_
+7	aus	_	_	_	_	9	case	_	_
+8	dem	_	_	_	_	9	det	_	_
+9	Festhalten	_	_	_	_	17	obl	_	_
+10	unrichtiger	_	_	_	_	11	amod	_	_
+11	Steuersysteme	_	_	_	_	9	nmod	_	_
+12	gerade	_	_	_	_	14	advmod	_	_
+13	beim	_	_	_	_	14	case	_	_
+14	Zucker	_	_	_	_	11	nmod	_	_
+15	bereits	_	_	_	_	16	advmod	_	_
+16	überall	_	_	_	_	17	advmod	_	_
+17	eingetreten	_	_	_	_	4	acl	_	_
+18	ist	_	_	_	_	17	aux	_	_
+19	,	_	_	_	_	17	punct	_	_
+20	und	_	_	_	_	23	cc	_	_
+21	die	_	_	_	_	23	det	_	_
+22	ungeheuren	_	_	_	_	23	amod	_	_
+23	Zubußen	_	_	_	_	4	conj	_	_
+24	,	_	_	_	_	36	punct	_	_
+25	welche	_	_	_	_	36	nsubj:pass	_	_
+26	aus	_	_	_	_	29	case	_	_
+27	den	_	_	_	_	29	det	_	_
+28	öffentlichen	_	_	_	_	29	amod	_	_
+29	Mitteln	_	_	_	_	36	obl	_	_
+30	in	_	_	_	_	35	case	_	_
+31	den	_	_	_	_	35	det	_	_
+32	verschiedensten	_	_	_	_	35	amod	_	_
+33	hierbei	_	_	_	_	34	advmod	_	_
+34	interessirenden	_	_	_	_	35	amod	_	_
+35	Staaten	_	_	_	_	36	obl	_	_
+36	geleistet	_	_	_	_	23	acl	_	_
+37	worden	_	_	_	_	36	aux:pass	_	_
+38	sind	_	_	_	_	36	aux	_	_
+39	und	_	_	_	_	46	cc	_	_
+40	bei	_	_	_	_	41	case	_	_
+41	Festhaltung	_	_	_	_	46	obl	_	_
+42	der	_	_	_	_	43	det	_	_
+43	Systeme	_	_	_	_	41	nmod	_	_
+44	noch	_	_	_	_	45	advmod	_	_
+45	weiter	_	_	_	_	46	advmod	_	_
+46	geleistet	_	_	_	_	36	conj	_	_
+47	werden	_	_	_	_	46	aux:pass	_	_
+48	müssen	_	_	_	_	46	aux	_	_
+49	,	_	_	_	_	36	punct	_	_
+50	sind	_	_	_	_	52	cop	_	_
+51	so	_	_	_	_	52	advmod	_	_
+52	groß	_	_	_	_	0	root	_	_
+53	,	_	_	_	_	74	punct	_	_
+54	daß	_	_	_	_	74	mark	_	_
+55	bei	_	_	_	_	57	case	_	_
+56	ernstlichem	_	_	_	_	57	amod	_	_
+57	Willen	_	_	_	_	74	obl	_	_
+58	auch	_	_	_	_	59	advmod	_	_
+59	nur	_	_	_	_	60	advmod	_	_
+60	einiger	_	_	_	_	64	amod	_	_
+61	hervorragender	_	_	_	_	64	amod	_	_
+62	und	_	_	_	_	63	cc	_	_
+63	bedeutender	_	_	_	_	61	conj	_	_
+64	Staaten	_	_	_	_	57	nmod	_	_
+65	die	_	_	_	_	66	det	_	_
+66	anderen	_	_	_	_	74	nsubj	_	_
+67	sich	_	_	_	_	74	obj	_	_
+68	der	_	_	_	_	70	det	_	_
+69	weiteren	_	_	_	_	70	amod	_	_
+70	Nachfolge	_	_	_	_	74	iobj	_	_
+71	gar	_	_	_	_	72	advmod	_	_
+72	nicht	_	_	_	_	74	advmod	_	_
+73	werden	_	_	_	_	74	aux	_	_
+74	entziehen	_	_	_	_	52	advcl	_	_
+75	können	_	_	_	_	74	aux	_	_
+76	und	_	_	_	_	83	cc	_	_
+77	für	_	_	_	_	79	case	_	_
+78	die	_	_	_	_	79	det	_	_
+79	Dauer	_	_	_	_	83	obl	_	_
+80	auch	_	_	_	_	81	advmod	_	_
+81	nicht	_	_	_	_	83	advmod	_	_
+82	werden	_	_	_	_	83	aux	_	_
+83	entziehen	_	_	_	_	74	conj	_	_
+84	wollen	_	_	_	_	83	aux	_	_
+85	.	_	_	_	_	52	punct	_	_
+

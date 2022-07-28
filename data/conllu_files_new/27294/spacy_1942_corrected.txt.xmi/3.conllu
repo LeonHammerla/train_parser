@@ -1,0 +1,12 @@
+# sent_id = 135
+# text = Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;
+1	Kreisleiter	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Malermeister	_	PROPN	NE	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Präsident	_	NOUN	NN	_	3	CJ	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Gewerbekammer	_	NOUN	NN	_	5	AG	_	_
+8	Hamburg	_	PROPN	NE	_	7	NK	_	_
+9	;	_	PUNCT	$.	_	1	PUNCT	_	_
+

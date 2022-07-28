@@ -1,0 +1,32 @@
+# sent_id = 67
+# text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
+1	Ich	_	_	_	_	3	nsubj	_	_
+2	möchte	_	_	_	_	3	aux	_	_
+3	sagen	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	6	punct	_	_
+5	dass	_	_	_	_	22	mark	_	_
+6	links	_	_	_	_	22	advmod	_	_
+7	von	_	_	_	_	8	case	_	_
+8	mir	_	_	_	_	6	obl	_	_
+9	,	_	_	_	_	11	punct	_	_
+10	also	_	_	_	_	11	advmod	_	_
+11	rechts	_	_	_	_	6	appos	_	_
+12	von	_	_	_	_	13	case	_	_
+13	Ihnen	_	_	_	_	11	obl	_	_
+14	,	_	_	_	_	22	punct	_	_
+15	da	_	_	_	_	22	obl	_	_
+16	vielleicht	_	_	_	_	22	advmod	_	_
+17	noch	_	_	_	_	20	advmod	_	_
+18	ein	_	_	_	_	19	det	_	_
+19	bisschen	_	_	_	_	20	advmod	_	_
+20	mehr	_	_	_	_	21	det	_	_
+21	Nachholbedarf	_	_	_	_	22	nsubj	_	_
+22	besteht	_	_	_	_	3	ccomp	_	_
+23	als	_	_	_	_	26	case	_	_
+24	auf	_	_	_	_	26	case	_	_
+25	dieser	_	_	_	_	26	det	_	_
+26	Seite	_	_	_	_	22	obl	_	_
+27	des	_	_	_	_	28	det	_	_
+28	Hauses	_	_	_	_	26	nmod	_	_
+29	.	_	_	_	_	3	punct	_	_
+

@@ -1,0 +1,33 @@
+# sent_id = 106
+# text = Panicuin capillare L. darf wohl als eingebürgert betrachtet werden, da es seit vielen Jahren in jedem Jahre im Hafen von Mannheim und Ludwigs- bafen mit keimfähigen Samen vorkommt.
+1	Panicuin	_	PROPN	NE	_	3	PNC	_	_
+2	capillare	_	PROPN	NE	_	3	PNC	_	_
+3	L.	_	PROPN	NE	_	4	SB	_	_
+4	darf	_	VERB	VMFIN	_	0	--	_	_
+5	wohl	_	ADV	ADV	_	4	MO	_	_
+6	als	_	ADP	APPR	_	8	MO	_	_
+7	eingebürgert	_	ADJ	ADJD	_	6	NK	_	_
+8	betrachtet	_	VERB	VVPP	_	9	OC	_	_
+9	werden	_	VERB	VAINF	_	4	OC	_	_
+10	,	_	PUNCT	$,	_	4	PUNCT	_	_
+11	da	_	CONJ	KOUS	_	29	CP	_	_
+12	es	_	PRON	PPER	_	29	SB	_	_
+13	seit	_	ADP	APPR	_	29	MO	_	_
+14	vielen	_	PRON	PIAT	_	15	NK	_	_
+15	Jahren	_	NOUN	NN	_	13	NK	_	_
+16	in	_	ADP	APPR	_	29	MO	_	_
+17	jedem	_	PRON	PIAT	_	18	NK	_	_
+18	Jahre	_	NOUN	NN	_	16	NK	_	_
+19	im	_	ADP	APPRART	_	29	MO	_	_
+20	Hafen	_	NOUN	NN	_	19	NK	_	_
+21	von	_	ADP	APPR	_	20	PG	_	_
+22	Mannheim	_	PROPN	NE	_	21	NK	_	_
+23	und	_	CONJ	KON	_	22	CD	_	_
+24	Ludwigs-	_	X	TRUNC	_	25	NK	_	_
+25	bafen	_	VERB	VVFIN	_	23	CJ	_	_
+26	mit	_	ADP	APPR	_	29	MO	_	_
+27	keimfähigen	_	ADJ	ADJA	_	28	NK	_	_
+28	Samen	_	NOUN	NN	_	26	NK	_	_
+29	vorkommt	_	VERB	VVFIN	_	4	MO	_	_
+30	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

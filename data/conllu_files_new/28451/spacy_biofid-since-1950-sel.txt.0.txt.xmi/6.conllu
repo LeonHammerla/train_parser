@@ -1,0 +1,24 @@
+# sent_id = 216
+# text = Die Anlage einiger neuer Gewässer mit angrenzenden Rohbodenflächen im Chemnitztal (vgl. Börner et al. 1995, Flöter &amp;
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Anlage	_	NOUN	NN	_	0	--	_	_
+3	einiger	_	PRON	PIAT	_	5	NK	_	_
+4	neuer	_	ADJ	ADJA	_	5	NK	_	_
+5	Gewässer	_	NOUN	NN	_	2	AG	_	_
+6	mit	_	ADP	APPR	_	5	MNR	_	_
+7	angrenzenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Rohbodenflächen	_	NOUN	NN	_	6	NK	_	_
+9	im	_	ADP	APPRART	_	8	MNR	_	_
+10	Chemnitztal	_	NOUN	NN	_	9	NK	_	_
+11	(	_	PUNCT	$(	_	13	PUNCT	_	_
+12	vgl.	_	PROPN	NE	_	2	PAR	_	_
+13	Börner	_	PROPN	NE	_	12	OA	_	_
+14	et	_	X	FM	_	15	PNC	_	_
+15	al.	_	X	FM	_	16	NK	_	_
+16	1995	_	NUM	CARD	_	13	NK	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	Flöter	_	NOUN	NN	_	16	CJ	_	_
+19	&	_	CONJ	KON	_	18	CD	_	_
+20	amp	_	VERB	VVFIN	_	19	CJ	_	_
+21	;	_	PUNCT	$.	_	2	PUNCT	_	_
+

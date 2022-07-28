@@ -1,0 +1,11 @@
+# sent_id = 129
+# text = Sie erreicht nur die Länge eines Fingers.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	erreicht	_	VERB	VVFIN	_	0	--	_	_
+3	nur	_	ADV	ADV	_	5	MO	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Länge	_	NOUN	NN	_	2	OA	_	_
+6	eines	_	DET	ART	_	7	NK	_	_
+7	Fingers	_	NOUN	NN	_	5	AG	_	_
+8	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

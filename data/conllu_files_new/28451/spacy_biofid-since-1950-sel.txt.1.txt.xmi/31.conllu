@@ -1,0 +1,18 @@
+# sent_id = 164
+# text = Der Kuckuck gehört zu den Arten, die im Bestand sehr leicht überschätzt werden.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Kuckuck	_	NOUN	NN	_	3	SB	_	_
+3	gehört	_	VERB	VVFIN	_	0	--	_	_
+4	zu	_	ADP	APPR	_	3	OP	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	Arten	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	die	_	PRON	PRELS	_	14	SB	_	_
+9	im	_	ADP	APPRART	_	13	MO	_	_
+10	Bestand	_	NOUN	NN	_	9	NK	_	_
+11	sehr	_	ADV	ADV	_	12	MO	_	_
+12	leicht	_	ADJ	ADJD	_	13	MO	_	_
+13	überschätzt	_	VERB	VVPP	_	14	OC	_	_
+14	werden	_	VERB	VAINF	_	6	RC	_	_
+15	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

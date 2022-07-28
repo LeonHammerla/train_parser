@@ -1,0 +1,23 @@
+# sent_id = 137
+# text = Auch ein Großteil der halboffenen Feldflur (Draisdorf, Ebersdorf) wie auch der bebaute Bereich ist nicht besiedelt.
+1	Auch	_	ADV	ADV	_	3	MO	_	_
+2	ein	_	DET	ART	_	3	NK	_	_
+3	Großteil	_	NOUN	NN	_	17	SB	_	_
+4	der	_	DET	ART	_	6	NK	_	_
+5	halboffenen	_	ADJ	ADJA	_	6	NK	_	_
+6	Feldflur	_	NOUN	NN	_	3	AG	_	_
+7	(	_	PUNCT	$(	_	8	PUNCT	_	_
+8	Draisdorf	_	PROPN	NE	_	6	APP	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	Ebersdorf	_	PROPN	NE	_	8	CJ	_	_
+11	)	_	PUNCT	$(	_	8	PUNCT	_	_
+12	wie	_	CONJ	KON	_	3	CD	_	_
+13	auch	_	ADV	ADV	_	16	MO	_	_
+14	der	_	DET	ART	_	16	NK	_	_
+15	bebaute	_	ADJ	ADJA	_	16	NK	_	_
+16	Bereich	_	NOUN	NN	_	12	CJ	_	_
+17	ist	_	VERB	VAFIN	_	0	--	_	_
+18	nicht	_	X	PTKNEG	_	19	NG	_	_
+19	besiedelt	_	VERB	VVPP	_	17	PD	_	_
+20	.	_	PUNCT	$.	_	17	PUNCT	_	_
+

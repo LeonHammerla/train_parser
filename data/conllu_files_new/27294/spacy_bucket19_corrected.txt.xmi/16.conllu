@@ -1,0 +1,36 @@
+# sent_id = 73
+# text = Ein Gutachten, das für unsere Fraktion erstellt wurde, kam zu dem Schluss, dass der Minister quasi gezockt hat, so wie man auf Schwarz oder Rot im Casino setzt.
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Gutachten	_	NOUN	NN	_	11	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	das	_	PRON	PRELS	_	9	SB	_	_
+5	für	_	ADP	APPR	_	8	MO	_	_
+6	unsere	_	PRON	PPOSAT	_	7	NK	_	_
+7	Fraktion	_	NOUN	NN	_	5	NK	_	_
+8	erstellt	_	VERB	VVPP	_	9	OC	_	_
+9	wurde	_	VERB	VAFIN	_	2	RC	_	_
+10	,	_	PUNCT	$,	_	11	PUNCT	_	_
+11	kam	_	VERB	VVFIN	_	0	--	_	_
+12	zu	_	ADP	APPR	_	11	CVC	_	_
+13	dem	_	DET	ART	_	14	NK	_	_
+14	Schluss	_	PROPN	NE	_	12	NK	_	_
+15	,	_	PUNCT	$,	_	11	PUNCT	_	_
+16	dass	_	CONJ	KOUS	_	21	CP	_	_
+17	der	_	DET	ART	_	18	NK	_	_
+18	Minister	_	NOUN	NN	_	21	SB	_	_
+19	quasi	_	ADV	ADV	_	20	MO	_	_
+20	gezockt	_	VERB	VVPP	_	21	OC	_	_
+21	hat	_	VERB	VAFIN	_	14	OC	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	so	_	ADV	ADV	_	32	CM	_	_
+24	wie	_	CONJ	KOKOM	_	32	MO	_	_
+25	man	_	PRON	PIS	_	32	SB	_	_
+26	auf	_	ADP	APPR	_	32	MO	_	_
+27	Schwarz	_	NOUN	NN	_	26	NK	_	_
+28	oder	_	CONJ	KON	_	27	CD	_	_
+29	Rot	_	NOUN	NN	_	28	CJ	_	_
+30	im	_	ADP	APPRART	_	32	MO	_	_
+31	Casino	_	NOUN	NN	_	30	NK	_	_
+32	setzt	_	VERB	VVFIN	_	20	CC	_	_
+33	.	_	PUNCT	$.	_	11	PUNCT	_	_
+

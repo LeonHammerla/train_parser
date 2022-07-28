@@ -1,0 +1,32 @@
+# sent_id = 141
+# text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
+1	In	_	ADP	APPR	_	15	MO	_	_
+2	blutigen	_	ADJ	ADJA	_	3	NK	_	_
+3	Kämpfen	_	NOUN	NN	_	1	NK	_	_
+4	und	_	CONJ	KON	_	3	CD	_	_
+5	religiösen	_	ADJ	ADJA	_	6	NK	_	_
+6	Streitigkeiten	_	NOUN	NN	_	4	CJ	_	_
+7	sowie	_	CONJ	KON	_	1	CD	_	_
+8	aus	_	ADP	APPR	_	7	CJ	_	_
+9	den	_	DET	ART	_	10	NK	_	_
+10	Gründen	_	NOUN	NN	_	8	NK	_	_
+11	einer	_	DET	ART	_	14	NK	_	_
+12	inneren	_	ADJ	ADJA	_	14	NK	_	_
+13	staatlichen	_	ADJ	ADJA	_	14	NK	_	_
+14	Aufsplitterung	_	NOUN	NN	_	10	AG	_	_
+15	ist	_	VERB	VAFIN	_	0	--	_	_
+16	dieses	_	PRON	PDAT	_	17	NK	_	_
+17	Reich	_	NOUN	NN	_	15	SB	_	_
+18	an	_	ADP	APPR	_	22	MO	_	_
+19	Macht	_	NOUN	NN	_	18	NK	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	Größe	_	NOUN	NN	_	20	CJ	_	_
+22	gefallen	_	VERB	VVPP	_	15	OC	_	_
+23	und	_	CONJ	KON	_	22	CD	_	_
+24	endlich	_	ADV	ADV	_	28	MO	_	_
+25	in	_	ADP	APPR	_	28	MO	_	_
+26	tiefen	_	ADJ	ADJA	_	27	NK	_	_
+27	Schlaf	_	NOUN	NN	_	25	NK	_	_
+28	versunken	_	VERB	VVFIN	_	23	CJ	_	_
+29	.	_	PUNCT	$.	_	15	PUNCT	_	_
+

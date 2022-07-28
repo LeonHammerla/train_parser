@@ -1,0 +1,13 @@
+# sent_id = 46
+# text = sie sind aber Mitglieder der allgemeinen Ortskrankenkasse nach § 82.
+1	sie	_	PRON	PPER	_	2	SB	_	_
+2	sind	_	VERB	VAFIN	_	0	--	_	_
+3	aber	_	ADV	ADV	_	2	MO	_	_
+4	Mitglieder	_	NOUN	NN	_	2	PD	_	_
+5	der	_	DET	ART	_	7	NK	_	_
+6	allgemeinen	_	ADJ	ADJA	_	7	NK	_	_
+7	Ortskrankenkasse	_	NOUN	NN	_	4	AG	_	_
+8	nach	_	ADP	APPR	_	4	MNR	_	_
+9	§	_	NOUN	NN	_	8	NK	_	_
+10	82.	_	ADJ	ADJA	_	9	NK	_	_
+

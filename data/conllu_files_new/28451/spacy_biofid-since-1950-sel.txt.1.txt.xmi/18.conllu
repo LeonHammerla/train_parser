@@ -1,0 +1,15 @@
+# sent_id = 151
+# text = Bis Ende der 1990er-Jahre scheint der Bestand wieder abgenommen zu haben.
+1	Bis	_	ADP	APPR	_	11	MO	_	_
+2	Ende	_	NOUN	NN	_	1	NK	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	1990er-Jahre	_	NOUN	NN	_	2	AG	_	_
+5	scheint	_	VERB	VVFIN	_	0	--	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Bestand	_	NOUN	NN	_	5	SB	_	_
+8	wieder	_	ADV	ADV	_	9	MO	_	_
+9	abgenommen	_	VERB	VVPP	_	11	OC	_	_
+10	zu	_	X	PTKZU	_	11	PM	_	_
+11	haben	_	VERB	VAINF	_	5	OC	_	_
+12	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

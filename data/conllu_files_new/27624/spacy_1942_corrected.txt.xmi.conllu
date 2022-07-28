@@ -1,0 +1,466 @@
+# sent_id = 127
+# text = Gedenkworte des Präsidenten für die in Orioge gefallenen 810 Soldaten.
+1	Gedenkworte	_	_	_	_	0	root	_	_
+2	des	_	_	_	_	3	det	_	_
+3	Präsidenten	_	_	_	_	1	nmod	_	_
+4	für	_	_	_	_	10	case	_	_
+5	die	_	_	_	_	10	det	_	_
+6	in	_	_	_	_	7	case	_	_
+7	Orioge	_	_	_	_	8	obl	_	_
+8	gefallenen	_	_	_	_	10	amod	_	_
+9	810	_	_	_	_	10	nummod	_	_
+10	Soldaten	_	_	_	_	1	nmod	_	_
+11	.	_	_	_	_	1	punct	_	_
+
+# sent_id = 128
+# text = Ich habe in Ihrem Namen auch das Mitgefühl des Deutschen Reichstags dort aussprechen können.
+1	Ich	_	_	_	_	13	nsubj	_	_
+2	habe	_	_	_	_	13	aux	_	_
+3	in	_	_	_	_	5	case	_	_
+4	Ihrem	_	_	_	_	5	det:poss	_	_
+5	Namen	_	_	_	_	13	obl	_	_
+6	auch	_	_	_	_	13	advmod	_	_
+7	das	_	_	_	_	8	det	_	_
+8	Mitgefühl	_	_	_	_	13	obj	_	_
+9	des	_	_	_	_	11	det	_	_
+10	Deutschen	_	_	_	_	11	amod	_	_
+11	Reichstags	_	_	_	_	8	nmod	_	_
+12	dort	_	_	_	_	13	advmod	_	_
+13	aussprechen	_	_	_	_	0	root	_	_
+14	können	_	_	_	_	13	aux	_	_
+15	.	_	_	_	_	13	punct	_	_
+
+# sent_id = 129
+# text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
+1	Von	_	_	_	_	2	case	_	_
+2	1925	_	_	_	_	3	nmod	_	_
+3	Ortsgruppenleiter	_	_	_	_	0	root	_	_
+4	der	_	_	_	_	5	det	_	_
+5	NSDAP	_	_	_	_	3	nmod	_	_
+6	,	_	_	_	_	8	punct	_	_
+7	in	_	_	_	_	8	case	_	_
+8	Neuwied	_	_	_	_	3	nmod	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	dann	_	_	_	_	11	advmod	_	_
+11	Kreisleiter	_	_	_	_	3	conj	_	_
+12	und	_	_	_	_	13	cc	_	_
+13	Bezirksleiter	_	_	_	_	11	conj	_	_
+14	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 130
+# text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str.
+Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;  Hamburg,  Moltkestr.
+1	Hauptschriftleiter	_	_	_	_	0	root	_	_
+2	des	_	_	_	_	5	det	_	_
+3	"	_	_	_	_	5	punct	_	_
+4	Völkischer	_	_	_	_	5	amod	_	_
+5	Beobachter	_	_	_	_	1	nmod	_	_
+6	"	_	_	_	_	5	punct	_	_
+7	,	_	_	_	_	8	punct	_	_
+8	Leiter	_	_	_	_	1	conj	_	_
+9	des	_	_	_	_	10	det	_	_
+10	Reichsverbandes	_	_	_	_	8	nmod	_	_
+11	Berg	_	_	_	_	10	flat	_	_
+12	,	_	_	_	_	14	punct	_	_
+13	Kufsteiner	_	_	_	_	14	amod	_	_
+14	Str	_	_	_	_	11	flat	_	_
+15	.	_	_	_	_	16	punct	_	_
+16	Petersen	_	_	_	_	18	flat	_	_
+17	,	_	_	_	_	18	punct	_	_
+18	Arnold	_	_	_	_	1	appos	_	_
+19	;	_	_	_	_	20	punct	_	_
+20	Kreisleiter	_	_	_	_	18	appos	_	_
+21	,	_	_	_	_	22	punct	_	_
+22	Malermeister	_	_	_	_	20	conj	_	_
+23	,	_	_	_	_	24	punct	_	_
+24	Präsident	_	_	_	_	20	conj	_	_
+25	der	_	_	_	_	26	det	_	_
+26	Gewerbekammer	_	_	_	_	24	nmod	_	_
+27	Hamburg	_	_	_	_	26	flat	_	_
+28	;	_	_	_	_	29	punct	_	_
+29	Hamburg	_	_	_	_	27	flat	_	_
+30	,	_	_	_	_	31	punct	_	_
+31	Moltkestr	_	_	_	_	29	flat	_	_
+32	.	_	_	_	_	1	punct	_	_
+
+# sent_id = 131
+# text = Man mußte in die wichtigsten Rohstoffgebiete einbrechen und sie, wenn nötig, dem eigenen Einfluß unterstellen.
+1	Man	_	_	_	_	7	nsubj	_	_
+2	mußte	_	_	_	_	7	aux	_	_
+3	in	_	_	_	_	6	case	_	_
+4	die	_	_	_	_	6	det	_	_
+5	wichtigsten	_	_	_	_	6	amod	_	_
+6	Rohstoffgebiete	_	_	_	_	7	obl	_	_
+7	einbrechen	_	_	_	_	0	root	_	_
+8	und	_	_	_	_	17	cc	_	_
+9	sie	_	_	_	_	17	obj	_	_
+10	,	_	_	_	_	12	punct	_	_
+11	wenn	_	_	_	_	12	mark	_	_
+12	nötig	_	_	_	_	17	advcl	_	_
+13	,	_	_	_	_	12	punct	_	_
+14	dem	_	_	_	_	16	det	_	_
+15	eigenen	_	_	_	_	16	amod	_	_
+16	Einfluß	_	_	_	_	17	iobj	_	_
+17	unterstellen	_	_	_	_	7	conj	_	_
+18	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 132
+# text = Die Schande,  die vor 22 Jahren im Wald von Compiegne ihren Ausgang nahm, ist an dieser gleichen Stelle für immer gelöscht.
+1	Die	_	_	_	_	2	det	_	_
+2	Schande	_	_	_	_	23	nsubj:pass	_	_
+3	,	_	_	_	_	14	punct	_	_
+4	die	_	_	_	_	14	nsubj	_	_
+5	vor	_	_	_	_	7	case	_	_
+6	22	_	_	_	_	7	nummod	_	_
+7	Jahren	_	_	_	_	14	obl	_	_
+8	im	_	_	_	_	9	case	_	_
+9	Wald	_	_	_	_	14	obl	_	_
+10	von	_	_	_	_	11	case	_	_
+11	Compiegne	_	_	_	_	9	nmod	_	_
+12	ihren	_	_	_	_	13	det:poss	_	_
+13	Ausgang	_	_	_	_	14	obj	_	_
+14	nahm	_	_	_	_	2	acl	_	_
+15	,	_	_	_	_	14	punct	_	_
+16	ist	_	_	_	_	23	aux:pass	_	_
+17	an	_	_	_	_	20	case	_	_
+18	dieser	_	_	_	_	20	det	_	_
+19	gleichen	_	_	_	_	20	amod	_	_
+20	Stelle	_	_	_	_	23	obl	_	_
+21	für	_	_	_	_	22	case	_	_
+22	immer	_	_	_	_	23	advmod	_	_
+23	gelöscht	_	_	_	_	0	root	_	_
+24	.	_	_	_	_	23	punct	_	_
+
+# sent_id = 133
+# text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
+1	Man	_	_	_	_	2	nsubj	_	_
+2	sieht	_	_	_	_	0	root	_	_
+3	in	_	_	_	_	7	case	_	_
+4	einer	_	_	_	_	7	det	_	_
+5	so	_	_	_	_	6	advmod	_	_
+6	kurzen	_	_	_	_	7	amod	_	_
+7	Spanne	_	_	_	_	2	obl	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Entwicklung	_	_	_	_	7	nmod	_	_
+10	kaum	_	_	_	_	11	advmod	_	_
+11	mehr	_	_	_	_	2	obj	_	_
+12	als	_	_	_	_	14	case	_	_
+13	die	_	_	_	_	14	det	_	_
+14	Symptome	_	_	_	_	11	nmod	_	_
+15	einer	_	_	_	_	17	det	_	_
+16	allgemeinen	_	_	_	_	17	amod	_	_
+17	Stagnation	_	_	_	_	14	nmod	_	_
+18	,	_	_	_	_	20	punct	_	_
+19	eines	_	_	_	_	20	det	_	_
+20	Rück-	_	_	_	_	17	conj	_	_
+21	oder	_	_	_	_	23	cc	_	_
+22	eines	_	_	_	_	23	det	_	_
+23	Fortschrittes	_	_	_	_	17	conj	_	_
+24	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 134
+# text = Ich habe damals zugleich einen Appell an die Einsicht der verantwortlichen Männer in den feindlichen Staaten gerichtet und an die Völker selbst.
+1	Ich	_	_	_	_	17	nsubj	_	_
+2	habe	_	_	_	_	17	aux	_	_
+3	damals	_	_	_	_	17	advmod	_	_
+4	zugleich	_	_	_	_	17	advmod	_	_
+5	einen	_	_	_	_	6	det	_	_
+6	Appell	_	_	_	_	17	obj	_	_
+7	an	_	_	_	_	9	case	_	_
+8	die	_	_	_	_	9	det	_	_
+9	Einsicht	_	_	_	_	6	nmod	_	_
+10	der	_	_	_	_	12	det	_	_
+11	verantwortlichen	_	_	_	_	12	amod	_	_
+12	Männer	_	_	_	_	9	nmod	_	_
+13	in	_	_	_	_	16	case	_	_
+14	den	_	_	_	_	16	det	_	_
+15	feindlichen	_	_	_	_	16	amod	_	_
+16	Staaten	_	_	_	_	12	nmod	_	_
+17	gerichtet	_	_	_	_	0	root	_	_
+18	und	_	_	_	_	21	cc	_	_
+19	an	_	_	_	_	21	case	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Völker	_	_	_	_	9	conj	_	_
+22	selbst	_	_	_	_	21	advmod	_	_
+23	.	_	_	_	_	17	punct	_	_
+
+# sent_id = 135
+# text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
+1	In	_	_	_	_	3	case	_	_
+2	blutigen	_	_	_	_	3	amod	_	_
+3	Kämpfen	_	_	_	_	22	obl	_	_
+4	und	_	_	_	_	6	cc	_	_
+5	religiösen	_	_	_	_	6	amod	_	_
+6	Streitigkeiten	_	_	_	_	3	conj	_	_
+7	sowie	_	_	_	_	10	cc	_	_
+8	aus	_	_	_	_	10	case	_	_
+9	den	_	_	_	_	10	det	_	_
+10	Gründen	_	_	_	_	3	conj	_	_
+11	einer	_	_	_	_	14	det	_	_
+12	inneren	_	_	_	_	14	amod	_	_
+13	staatlichen	_	_	_	_	14	amod	_	_
+14	Aufsplitterung	_	_	_	_	10	nmod	_	_
+15	ist	_	_	_	_	22	aux	_	_
+16	dieses	_	_	_	_	17	det	_	_
+17	Reich	_	_	_	_	22	nsubj	_	_
+18	an	_	_	_	_	19	case	_	_
+19	Macht	_	_	_	_	22	obl	_	_
+20	und	_	_	_	_	21	cc	_	_
+21	Größe	_	_	_	_	19	conj	_	_
+22	gefallen	_	_	_	_	0	root	_	_
+23	und	_	_	_	_	28	cc	_	_
+24	endlich	_	_	_	_	28	advmod	_	_
+25	in	_	_	_	_	27	case	_	_
+26	tiefen	_	_	_	_	27	amod	_	_
+27	Schlaf	_	_	_	_	28	obl	_	_
+28	versunken	_	_	_	_	22	conj	_	_
+29	.	_	_	_	_	22	punct	_	_
+
+# sent_id = 136
+# text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	wies	_	_	_	_	0	root	_	_
+3	damals	_	_	_	_	2	advmod	_	_
+4	auch	_	_	_	_	2	advmod	_	_
+5	darauf	_	_	_	_	2	obl	_	_
+6	hin	_	_	_	_	2	compound:prt	_	_
+7	,	_	_	_	_	25	punct	_	_
+8	daß	_	_	_	_	25	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Aufrechterhaltung	_	_	_	_	25	nsubj:pass	_	_
+11	eines	_	_	_	_	15	det	_	_
+12	so	_	_	_	_	13	advmod	_	_
+13	gewaltigen	_	_	_	_	15	amod	_	_
+14	militärischen	_	_	_	_	15	amod	_	_
+15	Arsenals	_	_	_	_	10	nmod	_	_
+16	in	_	_	_	_	17	case	_	_
+17	Mitteleuropa	_	_	_	_	15	nmod	_	_
+18	ohne	_	_	_	_	19	case	_	_
+19	Sinn	_	_	_	_	10	nmod	_	_
+20	und	_	_	_	_	21	cc	_	_
+21	Zweck	_	_	_	_	19	conj	_	_
+22	nur	_	_	_	_	24	advmod	_	_
+23	als	_	_	_	_	24	case	_	_
+24	Gefahrenherd	_	_	_	_	25	obj	_	_
+25	angesehen	_	_	_	_	5	advcl	_	_
+26	werden	_	_	_	_	25	aux:pass	_	_
+27	müßte	_	_	_	_	25	aux	_	_
+28	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 137
+# text = Ich erklärte ihm weiter, daß mir auch Gerüchte zu Ohren gekommen seien über die Absicht, die Armee in den Kreis dieser Pläne einzubeziehen.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	erklärte	_	_	_	_	0	root	_	_
+3	ihm	_	_	_	_	2	iobj	_	_
+4	weiter	_	_	_	_	2	advmod	_	_
+5	,	_	_	_	_	12	punct	_	_
+6	daß	_	_	_	_	12	mark	_	_
+7	mir	_	_	_	_	12	iobj	_	_
+8	auch	_	_	_	_	12	advmod	_	_
+9	Gerüchte	_	_	_	_	12	nsubj	_	_
+10	zu	_	_	_	_	11	case	_	_
+11	Ohren	_	_	_	_	12	obl	_	_
+12	gekommen	_	_	_	_	2	ccomp	_	_
+13	seien	_	_	_	_	12	aux	_	_
+14	über	_	_	_	_	16	punct	_	_
+15	die	_	_	_	_	16	det	_	_
+16	Absicht	_	_	_	_	9	nmod	_	_
+17	,	_	_	_	_	25	punct	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Armee	_	_	_	_	25	obj	_	_
+20	in	_	_	_	_	22	case	_	_
+21	den	_	_	_	_	22	det	_	_
+22	Kreis	_	_	_	_	25	obl	_	_
+23	dieser	_	_	_	_	24	det	_	_
+24	Pläne	_	_	_	_	22	nmod	_	_
+25	einzubeziehen	_	_	_	_	16	acl	_	_
+26	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 138
+# text = Ich glaube, niemals konnte man ergriffener sein als heute, wo wir die Worte hörten, die aus Schmach und Not heraus wieder zur Größe und zur Ehre führen sollen.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	glaube	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	7	punct	_	_
+4	niemals	_	_	_	_	7	advmod	_	_
+5	konnte	_	_	_	_	7	aux	_	_
+6	man	_	_	_	_	7	nsubj	_	_
+7	ergriffener	_	_	_	_	2	ccomp	_	_
+8	sein	_	_	_	_	7	cop	_	_
+9	als	_	_	_	_	10	case	_	_
+10	heute	_	_	_	_	7	advmod	_	_
+11	,	_	_	_	_	16	punct	_	_
+12	wo	_	_	_	_	16	advmod	_	_
+13	wir	_	_	_	_	16	nsubj	_	_
+14	die	_	_	_	_	15	det	_	_
+15	Worte	_	_	_	_	16	obj	_	_
+16	hörten	_	_	_	_	10	acl	_	_
+17	,	_	_	_	_	30	punct	_	_
+18	die	_	_	_	_	30	nsubj	_	_
+19	aus	_	_	_	_	20	case	_	_
+20	Schmach	_	_	_	_	30	obl	_	_
+21	und	_	_	_	_	22	cc	_	_
+22	Not	_	_	_	_	20	conj	_	_
+23	heraus	_	_	_	_	19	fixed	_	_
+24	wieder	_	_	_	_	30	advmod	_	_
+25	zur	_	_	_	_	26	case	_	_
+26	Größe	_	_	_	_	30	obl	_	_
+27	und	_	_	_	_	29	cc	_	_
+28	zur	_	_	_	_	29	case	_	_
+29	Ehre	_	_	_	_	26	conj	_	_
+30	führen	_	_	_	_	15	acl	_	_
+31	sollen	_	_	_	_	30	aux	_	_
+32	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 139
+# text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
+1	Sie	_	_	_	_	9	nsubj	_	_
+2	hat	_	_	_	_	9	aux	_	_
+3	damit	_	_	_	_	9	advmod	_	_
+4	zum	_	_	_	_	6	case	_	_
+5	dritten	_	_	_	_	6	amod	_	_
+6	Male	_	_	_	_	9	obl	_	_
+7	unter	_	_	_	_	8	case	_	_
+8	Beweis	_	_	_	_	9	obl	_	_
+9	gestellt	_	_	_	_	0	root	_	_
+10	,	_	_	_	_	13	punct	_	_
+11	daß	_	_	_	_	13	mark	_	_
+12	sie	_	_	_	_	13	nsubj	_	_
+13	mein	_	_	_	_	9	ccomp	_	_
+14	ist	_	_	_	_	13	cop	_	_
+15	,	_	_	_	_	24	punct	_	_
+16	genau	_	_	_	_	17	advmod	_	_
+17	so	_	_	_	_	24	advmod	_	_
+18	wie	_	_	_	_	24	mark	_	_
+19	ich	_	_	_	_	24	nsubj	_	_
+20	es	_	_	_	_	24	expl	_	_
+21	jederzeit	_	_	_	_	24	advmod	_	_
+22	unter	_	_	_	_	23	case	_	_
+23	Beweis	_	_	_	_	24	obl	_	_
+24	stellen	_	_	_	_	9	advcl	_	_
+25	werde	_	_	_	_	24	aux	_	_
+26	,	_	_	_	_	31	punct	_	_
+27	daß	_	_	_	_	31	mark	_	_
+28	ich	_	_	_	_	31	nsubj	_	_
+29	meinen	_	_	_	_	30	det:poss	_	_
+30	SA-Männern	_	_	_	_	31	iobj	_	_
+31	gehöre	_	_	_	_	24	ccomp	_	_
+32	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 140
+# text = Ich halte es für unmöglich, eine dauernde Freundschaft zwischen dem deutschen und dem angelsächsischen Volk herzustellen, wenn nicht auch auf der anderen Seite die Erkenntnis vorhanden ist, daß es nicht nur britische, sondern auch deutsche Interessen gibt, daß nicht nur die Erhaltung des Britischen Weltreichs für die britischen Männer Lebensinhalt und Lebenszweck ist, sondern für die deutschen Männer die Freiheit und Erhaltung des Deutschen Reiches!
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	halte	_	_	_	_	0	root	_	_
+3	es	_	_	_	_	2	expl	_	_
+4	für	_	_	_	_	5	case	_	_
+5	unmöglich	_	_	_	_	2	obj	_	_
+6	,	_	_	_	_	17	punct	_	_
+7	eine	_	_	_	_	9	det	_	_
+8	dauernde	_	_	_	_	9	amod	_	_
+9	Freundschaft	_	_	_	_	17	obj	_	_
+10	zwischen	_	_	_	_	16	case	_	_
+11	dem	_	_	_	_	16	det	_	_
+12	deutschen	_	_	_	_	16	amod	_	_
+13	und	_	_	_	_	16	cc	_	_
+14	dem	_	_	_	_	16	det	_	_
+15	angelsächsischen	_	_	_	_	12	conj	_	_
+16	Volk	_	_	_	_	9	nmod	_	_
+17	herzustellen	_	_	_	_	2	xcomp	_	_
+18	,	_	_	_	_	28	punct	_	_
+19	wenn	_	_	_	_	28	mark	_	_
+20	nicht	_	_	_	_	28	advmod	_	_
+21	auch	_	_	_	_	25	advmod	_	_
+22	auf	_	_	_	_	25	case	_	_
+23	der	_	_	_	_	25	det	_	_
+24	anderen	_	_	_	_	25	amod	_	_
+25	Seite	_	_	_	_	28	obl	_	_
+26	die	_	_	_	_	27	det	_	_
+27	Erkenntnis	_	_	_	_	28	nsubj	_	_
+28	vorhanden	_	_	_	_	2	advcl	_	_
+29	ist	_	_	_	_	28	cop	_	_
+30	,	_	_	_	_	41	punct	_	_
+31	daß	_	_	_	_	41	mark	_	_
+32	es	_	_	_	_	41	expl	_	_
+33	nicht	_	_	_	_	34	advmod	_	_
+34	nur	_	_	_	_	35	advmod	_	_
+35	britische	_	_	_	_	40	amod	_	_
+36	,	_	_	_	_	39	punct	_	_
+37	sondern	_	_	_	_	39	cc	_	_
+38	auch	_	_	_	_	39	advmod	_	_
+39	deutsche	_	_	_	_	35	conj	_	_
+40	Interessen	_	_	_	_	41	nsubj	_	_
+41	gibt	_	_	_	_	27	acl	_	_
+42	,	_	_	_	_	41	punct	_	_
+43	daß	_	_	_	_	55	mark	_	_
+44	nicht	_	_	_	_	45	advmod	_	_
+45	nur	_	_	_	_	47	advmod	_	_
+46	die	_	_	_	_	47	det	_	_
+47	Erhaltung	_	_	_	_	55	nsubj	_	_
+48	des	_	_	_	_	50	det	_	_
+49	Britischen	_	_	_	_	50	amod	_	_
+50	Weltreichs	_	_	_	_	47	nmod	_	_
+51	für	_	_	_	_	54	case	_	_
+52	die	_	_	_	_	54	det	_	_
+53	britischen	_	_	_	_	54	amod	_	_
+54	Männer	_	_	_	_	55	nmod	_	_
+55	Lebensinhalt	_	_	_	_	41	conj	_	_
+56	und	_	_	_	_	57	cc	_	_
+57	Lebenszweck	_	_	_	_	55	conj	_	_
+58	ist	_	_	_	_	55	cop	_	_
+59	,	_	_	_	_	66	punct	_	_
+60	sondern	_	_	_	_	66	cc	_	_
+61	für	_	_	_	_	64	case	_	_
+62	die	_	_	_	_	64	det	_	_
+63	deutschen	_	_	_	_	64	amod	_	_
+64	Männer	_	_	_	_	66	nmod	_	_
+65	die	_	_	_	_	66	det	_	_
+66	Freiheit	_	_	_	_	55	conj	_	_
+67	und	_	_	_	_	68	cc	_	_
+68	Erhaltung	_	_	_	_	66	conj	_	_
+69	des	_	_	_	_	71	det	_	_
+70	Deutschen	_	_	_	_	71	amod	_	_
+71	Reiches	_	_	_	_	68	nmod	_	_
+72	!	_	_	_	_	2	punct	_	_
+
+# sent_id = 141
+# text = Beide, die Front in der Heimat und vor allem aber die Front draußen, haben soeben die Anerkennung und den Dank des Führers in einer Weise gesagt bekommen, wie sie schöner und größer nicht ausgesprochen werden konnten.
+1	Beide	_	_	_	_	29	nsubj	_	_
+2	,	_	_	_	_	4	punct	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Front	_	_	_	_	1	appos	_	_
+5	in	_	_	_	_	7	case	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Heimat	_	_	_	_	4	nmod	_	_
+8	und	_	_	_	_	13	cc	_	_
+9	vor	_	_	_	_	10	case	_	_
+10	allem	_	_	_	_	13	nmod	_	_
+11	aber	_	_	_	_	10	advmod	_	_
+12	die	_	_	_	_	13	det	_	_
+13	Front	_	_	_	_	4	conj	_	_
+14	draußen	_	_	_	_	13	advmod	_	_
+15	,	_	_	_	_	4	punct	_	_
+16	haben	_	_	_	_	29	aux	_	_
+17	soeben	_	_	_	_	29	advmod	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Anerkennung	_	_	_	_	29	obj	_	_
+20	und	_	_	_	_	22	cc	_	_
+21	den	_	_	_	_	22	det	_	_
+22	Dank	_	_	_	_	19	conj	_	_
+23	des	_	_	_	_	24	det	_	_
+24	Führers	_	_	_	_	19	nmod	_	_
+25	in	_	_	_	_	27	case	_	_
+26	einer	_	_	_	_	27	det	_	_
+27	Weise	_	_	_	_	28	obl	_	_
+28	gesagt	_	_	_	_	29	xcomp	_	_
+29	bekommen	_	_	_	_	0	root	_	_
+30	,	_	_	_	_	37	punct	_	_
+31	wie	_	_	_	_	37	advmod	_	_
+32	sie	_	_	_	_	37	nsubj:pass	_	_
+33	schöner	_	_	_	_	37	advmod	_	_
+34	und	_	_	_	_	35	cc	_	_
+35	größer	_	_	_	_	33	conj	_	_
+36	nicht	_	_	_	_	37	advmod	_	_
+37	ausgesprochen	_	_	_	_	27	acl	_	_
+38	werden	_	_	_	_	37	aux:pass	_	_
+39	konnten	_	_	_	_	37	aux	_	_
+40	.	_	_	_	_	29	punct	_	_
+

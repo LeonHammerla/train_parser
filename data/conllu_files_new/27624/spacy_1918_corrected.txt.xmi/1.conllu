@@ -1,0 +1,15 @@
+# sent_id = 74
+# text = Für die strafrechtliche Seite der Sache genüge der Betrugsparagraph des Strafgesetzbuchs.
+1	Für	_	_	_	_	4	case	_	_
+2	die	_	_	_	_	4	det	_	_
+3	strafrechtliche	_	_	_	_	4	amod	_	_
+4	Seite	_	_	_	_	7	obl	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Sache	_	_	_	_	4	nmod	_	_
+7	genüge	_	_	_	_	0	root	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Betrugsparagraph	_	_	_	_	7	nsubj	_	_
+10	des	_	_	_	_	11	det	_	_
+11	Strafgesetzbuchs	_	_	_	_	9	nmod	_	_
+12	.	_	_	_	_	7	punct	_	_
+

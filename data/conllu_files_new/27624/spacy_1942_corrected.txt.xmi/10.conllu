@@ -1,0 +1,29 @@
+# sent_id = 137
+# text = Ich erklärte ihm weiter, daß mir auch Gerüchte zu Ohren gekommen seien über die Absicht, die Armee in den Kreis dieser Pläne einzubeziehen.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	erklärte	_	_	_	_	0	root	_	_
+3	ihm	_	_	_	_	2	iobj	_	_
+4	weiter	_	_	_	_	2	advmod	_	_
+5	,	_	_	_	_	12	punct	_	_
+6	daß	_	_	_	_	12	mark	_	_
+7	mir	_	_	_	_	12	iobj	_	_
+8	auch	_	_	_	_	12	advmod	_	_
+9	Gerüchte	_	_	_	_	12	nsubj	_	_
+10	zu	_	_	_	_	11	case	_	_
+11	Ohren	_	_	_	_	12	obl	_	_
+12	gekommen	_	_	_	_	2	ccomp	_	_
+13	seien	_	_	_	_	12	aux	_	_
+14	über	_	_	_	_	16	punct	_	_
+15	die	_	_	_	_	16	det	_	_
+16	Absicht	_	_	_	_	9	nmod	_	_
+17	,	_	_	_	_	25	punct	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Armee	_	_	_	_	25	obj	_	_
+20	in	_	_	_	_	22	case	_	_
+21	den	_	_	_	_	22	det	_	_
+22	Kreis	_	_	_	_	25	obl	_	_
+23	dieser	_	_	_	_	24	det	_	_
+24	Pläne	_	_	_	_	22	nmod	_	_
+25	einzubeziehen	_	_	_	_	16	acl	_	_
+26	.	_	_	_	_	2	punct	_	_
+

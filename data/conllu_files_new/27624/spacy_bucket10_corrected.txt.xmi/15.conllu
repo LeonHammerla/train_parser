@@ -1,0 +1,36 @@
+# sent_id = 125
+# text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
+1	Nach	_	_	_	_	3	case	_	_
+2	dieser	_	_	_	_	3	det	_	_
+3	Nahrungsmittelstrategie	_	_	_	_	15	obl	_	_
+4	müssen	_	_	_	_	15	aux	_	_
+5	wir	_	_	_	_	15	nsubj	_	_
+6	gemeinsam	_	_	_	_	10	amod	_	_
+7	mit	_	_	_	_	10	case	_	_
+8	allen	_	_	_	_	10	det	_	_
+9	betroffenen	_	_	_	_	10	amod	_	_
+10	Staaten	_	_	_	_	15	obl	_	_
+11	eine	_	_	_	_	14	det	_	_
+12	international	_	_	_	_	13	advmod	_	_
+13	getragene	_	_	_	_	14	amod	_	_
+14	Entwicklungshilfestrategie	_	_	_	_	15	obj	_	_
+15	entwickeln	_	_	_	_	0	root	_	_
+16	und	_	_	_	_	20	cc	_	_
+17	in	_	_	_	_	19	case	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Wege	_	_	_	_	20	obl	_	_
+20	leiten	_	_	_	_	15	conj	_	_
+21	,	_	_	_	_	32	punct	_	_
+22	damit	_	_	_	_	32	mark	_	_
+23	auf	_	_	_	_	24	case	_	_
+24	Dauer	_	_	_	_	25	obl	_	_
+25	gesehen	_	_	_	_	32	advcl	_	_
+26	unsere	_	_	_	_	27	det:poss	_	_
+27	Hilfe	_	_	_	_	32	nsubj	_	_
+28	dort	_	_	_	_	32	advmod	_	_
+29	zur	_	_	_	_	31	case	_	_
+30	wirklichen	_	_	_	_	31	amod	_	_
+31	Selbsthilfe	_	_	_	_	32	obl	_	_
+32	wird	_	_	_	_	15	advcl	_	_
+33	.	_	_	_	_	15	punct	_	_
+

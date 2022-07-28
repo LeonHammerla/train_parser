@@ -1,0 +1,35 @@
+# sent_id = 23
+# text = This is a very splendid development, and one which I want to see, because the development of this new product, radioactive isotopes, will help our industry immensely.
+1	This	_	DET	DT	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	splendid	_	ADJ	JJ	_	6	amod	_	_
+6	development	_	NOUN	NN	_	0	root	_	_
+7	,	_	PUNCT	,	_	9	punct	_	_
+8	and	_	CONJ	CC	_	9	cc	_	_
+9	one	_	NUM	CD	_	6	conj	_	_
+10	which	_	DET	WDT	_	12	obj	_	_
+11	I	_	PRON	PRP	_	12	nsubj	_	_
+12	want	_	VERB	VBP	_	9	acl:relcl	_	_
+13	to	_	ADP	TO	_	14	mark	_	_
+14	see	_	VERB	VB	_	12	xcomp	_	_
+15	,	_	PUNCT	,	_	14	punct	_	_
+16	because	_	ADP	IN	_	28	mark	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	development	_	NOUN	NN	_	28	nsubj	_	_
+19	of	_	ADP	IN	_	22	case	_	_
+20	this	_	DET	DT	_	22	det	_	_
+21	new	_	ADJ	JJ	_	22	amod	_	_
+22	product	_	NOUN	NN	_	18	nmod	_	_
+23	,	_	PUNCT	,	_	22	punct	_	_
+24	radioactive	_	ADJ	JJ	_	25	amod	_	_
+25	isotopes	_	NOUN	NNS	_	22	appos	_	_
+26	,	_	PUNCT	,	_	28	punct	_	_
+27	will	_	VERB	MD	_	28	aux	_	_
+28	help	_	VERB	VB	_	12	advcl	_	_
+29	our	_	PRON	PRP$	_	30	nmod:poss	_	_
+30	industry	_	NOUN	NN	_	28	obj	_	_
+31	immensely	_	ADV	RB	_	28	advmod	_	_
+32	.	_	PUNCT	.	_	6	punct	_	_
+

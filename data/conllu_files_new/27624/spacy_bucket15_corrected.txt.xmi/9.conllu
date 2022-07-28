@@ -1,0 +1,27 @@
+# sent_id = 99
+# text = Es gewährt seinen Trägern Schutz gegen unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe der auf sie bezogenen, individualisierten oder individualisierbaren Daten.
+1	Es	_	_	_	_	2	nsubj	_	_
+2	gewährt	_	_	_	_	0	root	_	_
+3	seinen	_	_	_	_	4	det:poss	_	_
+4	Trägern	_	_	_	_	2	iobj	_	_
+5	Schutz	_	_	_	_	2	obj	_	_
+6	gegen	_	_	_	_	8	case	_	_
+7	unbegrenzte	_	_	_	_	8	amod	_	_
+8	Erhebung	_	_	_	_	5	nmod	_	_
+9	,	_	_	_	_	10	punct	_	_
+10	Speicherung	_	_	_	_	8	conj	_	_
+11	,	_	_	_	_	12	punct	_	_
+12	Verwendung	_	_	_	_	8	conj	_	_
+13	und	_	_	_	_	14	cc	_	_
+14	Weitergabe	_	_	_	_	8	conj	_	_
+15	der	_	_	_	_	23	det	_	_
+16	auf	_	_	_	_	17	case	_	_
+17	sie	_	_	_	_	18	obl	_	_
+18	bezogenen	_	_	_	_	23	amod	_	_
+19	,	_	_	_	_	20	punct	_	_
+20	individualisierten	_	_	_	_	18	conj	_	_
+21	oder	_	_	_	_	22	cc	_	_
+22	individualisierbaren	_	_	_	_	18	conj	_	_
+23	Daten	_	_	_	_	8	nmod	_	_
+24	.	_	_	_	_	2	punct	_	_
+

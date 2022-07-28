@@ -1,0 +1,17 @@
+# sent_id = 242
+# text = Für den Kartierungszeitraum wurde von 8-14 nicht alljährlich besetzten Revieren ausgegangen.
+1	Für	_	ADP	APPR	_	13	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
+4	wurde	_	VERB	VAFIN	_	0	--	_	_
+5	von	_	ADP	APPR	_	13	MO	_	_
+6	8	_	NUM	CARD	_	12	NK	_	_
+7	-	_	PUNCT	$(	_	6	PUNCT	_	_
+8	14	_	NUM	CARD	_	6	CJ	_	_
+9	nicht	_	X	PTKNEG	_	11	NG	_	_
+10	alljährlich	_	ADJ	ADJD	_	11	MO	_	_
+11	besetzten	_	ADJ	ADJA	_	12	NK	_	_
+12	Revieren	_	NOUN	NN	_	5	NK	_	_
+13	ausgegangen	_	VERB	VVPP	_	4	OC	_	_
+14	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

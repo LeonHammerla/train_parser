@@ -1,0 +1,23 @@
+# sent_id = 101
+# text = Für mich ist der Prototyp eines freiberuflich Tätigen ein sehr enger Freund von mir, der als Architekt arbeitet.
+1	Für	_	ADP	APPR	_	3	MO	_	_
+2	mich	_	PRON	PPER	_	1	NK	_	_
+3	ist	_	VERB	VAFIN	_	0	--	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Prototyp	_	NOUN	NN	_	3	SB	_	_
+6	eines	_	DET	ART	_	8	NK	_	_
+7	freiberuflich	_	ADJ	ADJD	_	8	NK	_	_
+8	Tätigen	_	NOUN	NN	_	5	AG	_	_
+9	ein	_	DET	ART	_	12	NK	_	_
+10	sehr	_	ADV	ADV	_	11	MO	_	_
+11	enger	_	ADJ	ADJD	_	12	NK	_	_
+12	Freund	_	NOUN	NN	_	3	PD	_	_
+13	von	_	ADP	APPR	_	12	PG	_	_
+14	mir	_	PRON	PPER	_	13	NK	_	_
+15	,	_	PUNCT	$,	_	12	PUNCT	_	_
+16	der	_	PRON	PRELS	_	19	SB	_	_
+17	als	_	ADP	APPR	_	19	MO	_	_
+18	Architekt	_	NOUN	NN	_	17	NK	_	_
+19	arbeitet	_	VERB	VVFIN	_	12	RC	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

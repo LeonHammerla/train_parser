@@ -1,0 +1,32 @@
+# sent_id = 104
+# text = Daneben haben wir mit den neuen Festzuschüssen auch für die Patientinnen und Patienten mehr Wahlfreiheit und Flexibilität in das System gebracht, sodass die neue Struktur vertretbar ist.
+1	Daneben	_	_	_	_	21	advmod	_	_
+2	haben	_	_	_	_	21	aux	_	_
+3	wir	_	_	_	_	21	nsubj	_	_
+4	mit	_	_	_	_	7	case	_	_
+5	den	_	_	_	_	7	det	_	_
+6	neuen	_	_	_	_	7	amod	_	_
+7	Festzuschüssen	_	_	_	_	21	obl	_	_
+8	auch	_	_	_	_	11	advmod	_	_
+9	für	_	_	_	_	11	case	_	_
+10	die	_	_	_	_	11	det	_	_
+11	Patientinnen	_	_	_	_	21	obl	_	_
+12	und	_	_	_	_	13	cc	_	_
+13	Patienten	_	_	_	_	11	conj	_	_
+14	mehr	_	_	_	_	15	det	_	_
+15	Wahlfreiheit	_	_	_	_	21	obj	_	_
+16	und	_	_	_	_	17	cc	_	_
+17	Flexibilität	_	_	_	_	15	conj	_	_
+18	in	_	_	_	_	20	case	_	_
+19	das	_	_	_	_	20	det	_	_
+20	System	_	_	_	_	21	obl	_	_
+21	gebracht	_	_	_	_	0	root	_	_
+22	,	_	_	_	_	27	punct	_	_
+23	sodass	_	_	_	_	27	mark	_	_
+24	die	_	_	_	_	26	det	_	_
+25	neue	_	_	_	_	26	amod	_	_
+26	Struktur	_	_	_	_	27	nsubj	_	_
+27	vertretbar	_	_	_	_	21	advcl	_	_
+28	ist	_	_	_	_	27	cop	_	_
+29	.	_	_	_	_	21	punct	_	_
+

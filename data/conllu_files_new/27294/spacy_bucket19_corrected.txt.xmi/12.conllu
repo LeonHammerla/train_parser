@@ -1,0 +1,30 @@
+# sent_id = 69
+# text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
+1	Aber	_	ADV	ADV	_	3	JU	_	_
+2	jetzt	_	ADV	ADV	_	3	MO	_	_
+3	kommt	_	VERB	VVFIN	_	0	--	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Unterschied	_	NOUN	NN	_	3	SB	_	_
+6	zwischen	_	ADP	APPR	_	5	MNR	_	_
+7	der	_	DET	ART	_	9	NK	_	_
+8	freien	_	ADJ	ADJA	_	9	NK	_	_
+9	Marktwirtschaft	_	NOUN	NN	_	6	NK	_	_
+10	und	_	CONJ	KON	_	9	CD	_	_
+11	der	_	DET	ART	_	13	NK	_	_
+12	sozialen	_	ADJ	ADJA	_	13	NK	_	_
+13	Marktwirtschaft	_	NOUN	NN	_	10	CJ	_	_
+14	,	_	PUNCT	$,	_	3	PUNCT	_	_
+15	so	_	ADV	ADV	_	3	MO	_	_
+16	wie	_	CONJ	KOKOM	_	26	MO	_	_
+17	wir	_	PRON	PPER	_	26	SB	_	_
+18	sie	_	PRON	PPER	_	25	OA	_	_
+19	in	_	ADP	APPR	_	25	MO	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Union	_	NOUN	NN	_	19	NK	_	_
+22	seit	_	ADP	APPR	_	25	MO	_	_
+23	Ludwig	_	PROPN	NE	_	24	PNC	_	_
+24	Erhard	_	PROPN	NE	_	22	NK	_	_
+25	verankert	_	VERB	VVPP	_	26	OC	_	_
+26	sehen	_	VERB	VVINF	_	15	CC	_	_
+27	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

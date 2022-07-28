@@ -1,0 +1,19 @@
+# sent_id = 5
+# text = Damit sind die Ausbildungsmöglichkeiten des Auswärtigen Amts, insbesondere im europäischen Raum, voll erschöpft.
+1	Damit	_	_	_	_	15	advmod	_	_
+2	sind	_	_	_	_	15	cop	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Ausbildungsmöglichkeiten	_	_	_	_	15	nsubj	_	_
+5	des	_	_	_	_	7	det	_	_
+6	Auswärtigen	_	_	_	_	7	amod	_	_
+7	Amts	_	_	_	_	4	nmod	_	_
+8	,	_	_	_	_	12	punct	_	_
+9	insbesondere	_	_	_	_	12	advmod	_	_
+10	im	_	_	_	_	12	case	_	_
+11	europäischen	_	_	_	_	12	amod	_	_
+12	Raum	_	_	_	_	15	nmod	_	_
+13	,	_	_	_	_	12	punct	_	_
+14	voll	_	_	_	_	15	advmod	_	_
+15	erschöpft	_	_	_	_	0	root	_	_
+16	.	_	_	_	_	15	punct	_	_
+

@@ -1,0 +1,13 @@
+# sent_id = 3
+# text = In der Finanzpolitik aber konkretisieren sich die gesellschaftlichen Verhältnisse.
+1	In	_	ADP	APPR	_	5	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Finanzpolitik	_	NOUN	NN	_	1	NK	_	_
+4	aber	_	ADV	ADV	_	5	MO	_	_
+5	konkretisieren	_	VERB	VVFIN	_	0	--	_	_
+6	sich	_	PRON	PRF	_	5	OA	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	gesellschaftlichen	_	ADJ	ADJA	_	9	NK	_	_
+9	Verhältnisse	_	NOUN	NN	_	5	SB	_	_
+10	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

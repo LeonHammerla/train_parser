@@ -1,0 +1,19 @@
+# sent_id = 62
+# text = Hier übernimmt die Buche die Hälfte der Waldung, während die Weißtanne fast ganz verschwindet.
+1	Hier	_	ADV	ADV	_	2	MO	_	_
+2	übernimmt	_	VERB	VVFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Buche	_	NOUN	NN	_	2	SB	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hälfte	_	NOUN	NN	_	2	OA	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Waldung	_	NOUN	NN	_	6	AG	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	während	_	CONJ	KOUS	_	15	CP	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Weißtanne	_	NOUN	NN	_	15	SB	_	_
+13	fast	_	ADV	ADV	_	14	MO	_	_
+14	ganz	_	ADV	ADV	_	15	MO	_	_
+15	verschwindet	_	VERB	VVFIN	_	2	MO	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

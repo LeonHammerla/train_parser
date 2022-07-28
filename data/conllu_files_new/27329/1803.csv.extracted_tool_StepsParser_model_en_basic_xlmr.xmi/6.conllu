@@ -1,0 +1,26 @@
+# sent_id = 101
+# text = Cut a great portion of these were, for the present, good for no service either without or within the realm.
+1	Cut	_	VERB	VBP	_	13	cc	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	great	_	ADJ	JJ	_	4	amod	_	_
+4	portion	_	NOUN	NN	_	13	nsubj	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	these	_	DET	DT	_	4	nmod	_	_
+7	were	_	VERB	VBD	_	13	cop	_	_
+8	,	_	PUNCT	,	_	13	punct	_	_
+9	for	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	present	_	ADJ	JJ	_	13	obl	_	_
+12	,	_	PUNCT	,	_	13	punct	_	_
+13	good	_	ADJ	JJ	_	13	root	_	_
+14	for	_	ADP	IN	_	16	case	_	_
+15	no	_	DET	DT	_	16	det	_	_
+16	service	_	NOUN	NN	_	13	obl	_	_
+17	either	_	CONJ	CC	_	18	cc:preconj	_	_
+18	without	_	ADP	IN	_	22	case	_	_
+19	or	_	CONJ	CC	_	20	cc	_	_
+20	within	_	ADP	IN	_	18	conj	_	_
+21	the	_	DET	DT	_	22	det	_	_
+22	realm	_	NOUN	NN	_	13	obl	_	_
+23	.	_	PUNCT	.	_	1	punct	_	_
+

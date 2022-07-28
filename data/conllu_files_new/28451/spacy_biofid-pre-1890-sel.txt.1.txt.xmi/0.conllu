@@ -1,0 +1,44 @@
+# sent_id = 256
+# text = Sie werden mich nicht fragen, wie Herr Gätke die Zugrichtung bei schwarzer Nacht erkannt hat, denn Sie wissen ebenso gut als ich, dass ein geübter Beobachter dies an den Stimmen der Vögel mit grosser Sicherheit erkennen kann.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	werden	_	VERB	VAFIN	_	0	--	_	_
+3	mich	_	PRON	PPER	_	5	OA	_	_
+4	nicht	_	X	PTKNEG	_	5	NG	_	_
+5	fragen	_	VERB	VVINF	_	2	OC	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	wie	_	PRON	PWAV	_	15	MO	_	_
+8	Herr	_	NOUN	NN	_	16	SB	_	_
+9	Gätke	_	PROPN	NE	_	8	NK	_	_
+10	die	_	DET	ART	_	11	NK	_	_
+11	Zugrichtung	_	NOUN	NN	_	15	OA	_	_
+12	bei	_	ADP	APPR	_	15	MO	_	_
+13	schwarzer	_	ADJ	ADJA	_	14	NK	_	_
+14	Nacht	_	NOUN	NN	_	12	NK	_	_
+15	erkannt	_	VERB	VVPP	_	16	OC	_	_
+16	hat	_	VERB	VAFIN	_	5	OC	_	_
+17	,	_	PUNCT	$,	_	2	PUNCT	_	_
+18	denn	_	CONJ	KON	_	2	CD	_	_
+19	Sie	_	PRON	PPER	_	20	SB	_	_
+20	wissen	_	VERB	VVFIN	_	18	CJ	_	_
+21	ebenso	_	ADV	ADV	_	22	MO	_	_
+22	gut	_	ADJ	ADJD	_	20	MO	_	_
+23	als	_	CONJ	KOKOM	_	24	CM	_	_
+24	ich	_	PRON	PPER	_	21	CC	_	_
+25	,	_	PUNCT	$,	_	20	PUNCT	_	_
+26	dass	_	CONJ	KOUS	_	40	CP	_	_
+27	ein	_	DET	ART	_	29	NK	_	_
+28	geübter	_	ADJ	ADJA	_	29	NK	_	_
+29	Beobachter	_	NOUN	NN	_	40	SB	_	_
+30	dies	_	PRON	PDS	_	39	OA	_	_
+31	an	_	ADP	APPR	_	39	OP	_	_
+32	den	_	DET	ART	_	33	NK	_	_
+33	Stimmen	_	NOUN	NN	_	31	NK	_	_
+34	der	_	DET	ART	_	35	NK	_	_
+35	Vögel	_	NOUN	NN	_	33	AG	_	_
+36	mit	_	ADP	APPR	_	39	MO	_	_
+37	grosser	_	ADJ	ADJA	_	38	NK	_	_
+38	Sicherheit	_	NOUN	NN	_	36	NK	_	_
+39	erkennen	_	VERB	VVINF	_	40	OC	_	_
+40	kann	_	VERB	VMFIN	_	20	OC	_	_
+41	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

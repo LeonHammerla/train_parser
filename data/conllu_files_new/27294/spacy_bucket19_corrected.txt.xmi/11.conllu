@@ -1,0 +1,25 @@
+# sent_id = 68
+# text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
+1	Der	_	DET	ART	_	3	NK	_	_
+2	entscheidende	_	ADJ	ADJA	_	3	NK	_	_
+3	Punkt	_	NOUN	NN	_	4	SB	_	_
+4	muss	_	VERB	VVFIN	_	0	--	_	_
+5	doch	_	ADV	ADV	_	4	MO	_	_
+6	sein	_	VERB	VAINF	_	4	OC	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	dass	_	CONJ	KOUS	_	21	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Personen	_	NOUN	NN	_	21	SB	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	die	_	PRON	PRELS	_	16	SB	_	_
+13	jahrzehntelang	_	ADJ	ADJD	_	15	MO	_	_
+14	Versicherungsansprüche	_	NOUN	NN	_	15	OA	_	_
+15	aufgebaut	_	VERB	VVPP	_	16	OC	_	_
+16	haben	_	VERB	VAFIN	_	10	RC	_	_
+17	,	_	PUNCT	$,	_	21	PUNCT	_	_
+18	aus	_	ADP	APPR	_	21	OP	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Grundsicherung	_	NOUN	NN	_	18	NK	_	_
+21	herauskommen	_	VERB	VVINF	_	6	PD	_	_
+22	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

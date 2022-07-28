@@ -1,0 +1,18 @@
+# sent_id = 128
+# text = Ich habe in Ihrem Namen auch das Mitgefühl des Deutschen Reichstags dort aussprechen können.
+1	Ich	_	_	_	_	13	nsubj	_	_
+2	habe	_	_	_	_	13	aux	_	_
+3	in	_	_	_	_	5	case	_	_
+4	Ihrem	_	_	_	_	5	det:poss	_	_
+5	Namen	_	_	_	_	13	obl	_	_
+6	auch	_	_	_	_	13	advmod	_	_
+7	das	_	_	_	_	8	det	_	_
+8	Mitgefühl	_	_	_	_	13	obj	_	_
+9	des	_	_	_	_	11	det	_	_
+10	Deutschen	_	_	_	_	11	amod	_	_
+11	Reichstags	_	_	_	_	8	nmod	_	_
+12	dort	_	_	_	_	13	advmod	_	_
+13	aussprechen	_	_	_	_	0	root	_	_
+14	können	_	_	_	_	13	aux	_	_
+15	.	_	_	_	_	13	punct	_	_
+

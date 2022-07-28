@@ -1,0 +1,26 @@
+# sent_id = 7
+# text = Herr Kollege, wenn Sie der Auffassung sind, daß hier ein Zeitmangel nicht vorgelegen haben können, haben Sie natürlich recht.
+1	Herr	_	_	_	_	19	vocative	_	_
+2	Kollege	_	_	_	_	1	flat	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	wenn	_	_	_	_	7	mark	_	_
+5	Sie	_	_	_	_	7	nsubj	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Auffassung	_	_	_	_	19	advcl	_	_
+8	sind	_	_	_	_	7	cop	_	_
+9	,	_	_	_	_	15	punct	_	_
+10	daß	_	_	_	_	15	mark	_	_
+11	hier	_	_	_	_	15	advmod	_	_
+12	ein	_	_	_	_	13	det	_	_
+13	Zeitmangel	_	_	_	_	15	nsubj	_	_
+14	nicht	_	_	_	_	15	advmod	_	_
+15	vorgelegen	_	_	_	_	7	acl	_	_
+16	haben	_	_	_	_	15	aux	_	_
+17	können	_	_	_	_	15	aux	_	_
+18	,	_	_	_	_	7	punct	_	_
+19	haben	_	_	_	_	0	root	_	_
+20	Sie	_	_	_	_	19	nsubj	_	_
+21	natürlich	_	_	_	_	19	advmod	_	_
+22	recht	_	_	_	_	19	obj	_	_
+23	.	_	_	_	_	19	punct	_	_
+

@@ -1,0 +1,18 @@
+# sent_id = 97
+# text = Ihre Umsetzung wird auf europäischer Ebene durch das Visumsinformationssystem vorbereitet bzw. erfolgt bereits jetzt.
+1	Ihre	_	PRON	PPOSAT	_	2	NK	_	_
+2	Umsetzung	_	NOUN	NN	_	3	SB	_	_
+3	wird	_	VERB	VAFIN	_	0	--	_	_
+4	auf	_	ADP	APPR	_	10	MO	_	_
+5	europäischer	_	ADJ	ADJA	_	6	NK	_	_
+6	Ebene	_	NOUN	NN	_	4	NK	_	_
+7	durch	_	ADP	APPR	_	10	SBP	_	_
+8	das	_	DET	ART	_	9	NK	_	_
+9	Visumsinformationssystem	_	NOUN	NN	_	7	NK	_	_
+10	vorbereitet	_	VERB	VVPP	_	3	OC	_	_
+11	bzw.	_	CONJ	KON	_	3	CD	_	_
+12	erfolgt	_	VERB	VVFIN	_	11	CJ	_	_
+13	bereits	_	ADV	ADV	_	14	MO	_	_
+14	jetzt	_	ADV	ADV	_	12	MO	_	_
+15	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

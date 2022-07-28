@@ -1,0 +1,28 @@
+# sent_id = 78
+# text = Die jetzige Nordwestgrenze gegen das Steinkohlengebirge und Rotliegende zwischen Saarbrücken und Kaiserslautern ist durch Erosion bedingt (STAESCHE, 1927, S. 54).
+1	Die	_	DET	ART	_	3	NK	_	_
+2	jetzige	_	ADJ	ADJA	_	3	NK	_	_
+3	Nordwestgrenze	_	NOUN	NN	_	13	SB	_	_
+4	gegen	_	ADP	APPR	_	3	MNR	_	_
+5	das	_	DET	ART	_	6	NK	_	_
+6	Steinkohlengebirge	_	NOUN	NN	_	4	NK	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	Rotliegende	_	NOUN	NN	_	7	CJ	_	_
+9	zwischen	_	ADP	APPR	_	6	MNR	_	_
+10	Saarbrücken	_	PROPN	NE	_	9	NK	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	Kaiserslautern	_	NOUN	NN	_	11	CJ	_	_
+13	ist	_	VERB	VAFIN	_	0	--	_	_
+14	durch	_	ADP	APPR	_	16	MO	_	_
+15	Erosion	_	NOUN	NN	_	14	NK	_	_
+16	bedingt	_	ADJ	ADJD	_	13	PD	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	STAESCHE	_	PROPN	NE	_	16	PAR	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	1927	_	NUM	CARD	_	18	CJ	_	_
+21	,	_	PUNCT	$,	_	18	PUNCT	_	_
+22	S.	_	NOUN	NN	_	20	CJ	_	_
+23	54	_	NUM	CARD	_	22	NK	_	_
+24	)	_	PUNCT	$(	_	18	PUNCT	_	_
+25	.	_	PUNCT	$.	_	13	PUNCT	_	_
+

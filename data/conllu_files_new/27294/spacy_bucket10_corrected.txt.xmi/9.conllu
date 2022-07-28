@@ -1,0 +1,24 @@
+# sent_id = 123
+# text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
+1	Nun	_	ADV	ADV	_	2	MO	_	_
+2	kommen	_	VERB	VVFIN	_	0	--	_	_
+3	Sie	_	PRON	PPER	_	2	SB	_	_
+4	mit	_	ADP	APPR	_	2	MO	_	_
+5	einem	_	DET	ART	_	6	NK	_	_
+6	Argument	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	das	_	PRON	PRELS	_	15	OA	_	_
+9	man	_	PRON	PIS	_	15	SB	_	_
+10	in	_	ADP	APPR	_	15	MO	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Öffentlichkeit	_	NOUN	NN	_	10	NK	_	_
+13	immer	_	ADV	ADV	_	14	MO	_	_
+14	wieder	_	ADV	ADV	_	15	MO	_	_
+15	hört	_	VERB	VVPP	_	6	RC	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	das	_	PRON	PRELS	_	20	SB	_	_
+18	mich	_	PRON	PPER	_	20	OA	_	_
+19	eigentlich	_	ADV	ADV	_	20	MO	_	_
+20	verwundert	_	VERB	VVFIN	_	16	CJ	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

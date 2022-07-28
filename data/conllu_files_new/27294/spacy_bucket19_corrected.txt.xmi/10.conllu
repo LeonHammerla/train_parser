@@ -1,0 +1,26 @@
+# sent_id = 67
+# text = Dieser Haushalt drückt das ganze Elend und die Beliebigkeit der Merkel-Ära aus, der wohl dunkelsten Kanzlerschaft, die Deutschland erlebt hat.
+1	Dieser	_	PRON	PDAT	_	2	NK	_	_
+2	Haushalt	_	NOUN	NN	_	3	SB	_	_
+3	drückt	_	VERB	VVFIN	_	0	--	_	_
+4	das	_	DET	ART	_	6	NK	_	_
+5	ganze	_	ADJ	ADJA	_	6	NK	_	_
+6	Elend	_	NOUN	NN	_	3	OA	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	die	_	DET	ART	_	9	NK	_	_
+9	Beliebigkeit	_	NOUN	NN	_	7	CJ	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Merkel-Ära	_	NOUN	NN	_	9	AG	_	_
+12	aus	_	VERB	PTKVZ	_	3	SVP	_	_
+13	,	_	PUNCT	$,	_	3	PUNCT	_	_
+14	der	_	PRON	PRELS	_	17	NK	_	_
+15	wohl	_	ADV	ADV	_	16	MO	_	_
+16	dunkelsten	_	ADJ	ADJA	_	17	NK	_	_
+17	Kanzlerschaft	_	NOUN	NN	_	11	APP	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	die	_	PRON	PRELS	_	21	OA	_	_
+20	Deutschland	_	PROPN	NE	_	22	SB	_	_
+21	erlebt	_	VERB	VVPP	_	22	OC	_	_
+22	hat	_	VERB	VAFIN	_	17	RC	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

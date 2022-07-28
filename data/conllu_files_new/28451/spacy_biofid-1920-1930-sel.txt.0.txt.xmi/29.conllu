@@ -1,0 +1,28 @@
+# sent_id = 118
+# text = Briza maxima L. wird oft zu Trockenbouqueten verwendet und gelangt so auf die Abfuhrplätze unserer Städte und gedeiht oft in kleinen, prächtigen Kolonien.
+1	Briza	_	PROPN	NE	_	3	PNC	_	_
+2	maxima	_	PROPN	NE	_	3	PNC	_	_
+3	L.	_	PROPN	NE	_	4	SB	_	_
+4	wird	_	VERB	VAFIN	_	0	--	_	_
+5	oft	_	ADV	ADV	_	8	MO	_	_
+6	zu	_	ADP	APPR	_	8	OP	_	_
+7	Trockenbouqueten	_	NOUN	NN	_	6	NK	_	_
+8	verwendet	_	VERB	VVFIN	_	4	OC	_	_
+9	und	_	CONJ	KON	_	4	CD	_	_
+10	gelangt	_	VERB	VVFIN	_	9	CJ	_	_
+11	so	_	ADV	ADV	_	10	MO	_	_
+12	auf	_	ADP	APPR	_	10	OP	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Abfuhrplätze	_	NOUN	NN	_	12	NK	_	_
+15	unserer	_	PRON	PPOSAT	_	16	NK	_	_
+16	Städte	_	NOUN	NN	_	14	AG	_	_
+17	und	_	CONJ	KON	_	10	CD	_	_
+18	gedeiht	_	VERB	VVFIN	_	17	CJ	_	_
+19	oft	_	ADV	ADV	_	18	MO	_	_
+20	in	_	ADP	APPR	_	18	MO	_	_
+21	kleinen	_	ADJ	ADJA	_	24	NK	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	prächtigen	_	ADJ	ADJA	_	21	CJ	_	_
+24	Kolonien	_	NOUN	NN	_	20	NK	_	_
+25	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

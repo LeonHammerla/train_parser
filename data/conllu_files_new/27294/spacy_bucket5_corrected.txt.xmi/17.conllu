@@ -1,0 +1,39 @@
+# sent_id = 17
+# text = Diese gesamtdeutschen technischen Kommissionen sollten nicht losgelöst, sondern als Stufe in einem Wiedervereinigungsvorgang betrachtet werden, sollten Fragen der innerdeutschen Kontakte, des Handels, der Kultur, des Verkehrs und des Sports erörtern.
+1	Diese	_	PRON	PDAT	_	4	NK	_	_
+2	gesamtdeutschen	_	ADJ	ADJA	_	4	NK	_	_
+3	technischen	_	ADJ	ADJA	_	4	NK	_	_
+4	Kommissionen	_	NOUN	NN	_	5	SB	_	_
+5	sollten	_	VERB	VMFIN	_	0	--	_	_
+6	nicht	_	X	PTKNEG	_	7	NG	_	_
+7	losgelöst	_	VERB	VVPP	_	5	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	sondern	_	CONJ	KON	_	7	CD	_	_
+10	als	_	ADP	APPR	_	15	MO	_	_
+11	Stufe	_	NOUN	NN	_	10	NK	_	_
+12	in	_	ADP	APPR	_	11	MNR	_	_
+13	einem	_	DET	ART	_	14	NK	_	_
+14	Wiedervereinigungsvorgang	_	NOUN	NN	_	12	NK	_	_
+15	betrachtet	_	VERB	VVPP	_	16	OC	_	_
+16	werden	_	VERB	VAINF	_	9	CJ	_	_
+17	,	_	PUNCT	$,	_	18	PUNCT	_	_
+18	sollten	_	VERB	VMFIN	_	5	CJ	_	_
+19	Fragen	_	NOUN	NN	_	35	OA	_	_
+20	der	_	DET	ART	_	22	NK	_	_
+21	innerdeutschen	_	ADJ	ADJA	_	22	NK	_	_
+22	Kontakte	_	NOUN	NN	_	19	AG	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	des	_	DET	ART	_	25	NK	_	_
+25	Handels	_	NOUN	NN	_	22	CJ	_	_
+26	,	_	PUNCT	$,	_	22	PUNCT	_	_
+27	der	_	DET	ART	_	28	NK	_	_
+28	Kultur	_	NOUN	NN	_	22	CJ	_	_
+29	,	_	PUNCT	$,	_	28	PUNCT	_	_
+30	des	_	DET	ART	_	31	NK	_	_
+31	Verkehrs	_	NOUN	NN	_	28	CJ	_	_
+32	und	_	CONJ	KON	_	31	CD	_	_
+33	des	_	DET	ART	_	34	NK	_	_
+34	Sports	_	NOUN	NN	_	32	CJ	_	_
+35	erörtern	_	VERB	VVINF	_	18	OC	_	_
+36	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

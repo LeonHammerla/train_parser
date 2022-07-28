@@ -1,0 +1,20 @@
+# sent_id = 146
+# text = Etliche Nachweise rufender Turteltauben wurden Anfang der 1990er-Jahre aus diesem auch im Kartierungszeitraum besiedelten Gebiet erbracht.
+1	Etliche	_	PRON	PIAT	_	2	NK	_	_
+2	Nachweise	_	NOUN	NN	_	5	SB	_	_
+3	rufender	_	ADJ	ADJA	_	4	NK	_	_
+4	Turteltauben	_	NOUN	NN	_	2	AG	_	_
+5	wurden	_	VERB	VAFIN	_	0	--	_	_
+6	Anfang	_	NOUN	NN	_	5	MO	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	1990er-Jahre	_	NOUN	NN	_	6	AG	_	_
+9	aus	_	ADP	APPR	_	16	MO	_	_
+10	diesem	_	PRON	PDAT	_	15	NK	_	_
+11	auch	_	ADV	ADV	_	12	MO	_	_
+12	im	_	ADP	APPRART	_	14	MO	_	_
+13	Kartierungszeitraum	_	NOUN	NN	_	12	NK	_	_
+14	besiedelten	_	ADJ	ADJA	_	15	NK	_	_
+15	Gebiet	_	NOUN	NN	_	9	NK	_	_
+16	erbracht	_	VERB	VVPP	_	5	OC	_	_
+17	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

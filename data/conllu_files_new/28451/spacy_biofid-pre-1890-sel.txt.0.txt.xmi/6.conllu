@@ -1,0 +1,28 @@
+# sent_id = 21
+# text = Alle diese Einwände beweisen nur, dass das Verhalten der Bekassine beim Meckern noch immer Vielen, auch Ornithologen, nicht genügend bekannt ist.
+1	Alle	_	PRON	PIAT	_	3	NK	_	_
+2	diese	_	PRON	PDAT	_	3	NK	_	_
+3	Einwände	_	NOUN	NN	_	4	SB	_	_
+4	beweisen	_	VERB	VVFIN	_	0	--	_	_
+5	nur	_	ADV	ADV	_	4	MO	_	_
+6	,	_	PUNCT	$,	_	24	PUNCT	_	_
+7	dass	_	CONJ	KOUS	_	24	CP	_	_
+8	das	_	DET	ART	_	9	NK	_	_
+9	Verhalten	_	NOUN	NN	_	24	SB	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Bekassine	_	NOUN	NN	_	9	AG	_	_
+12	beim	_	ADP	APPRART	_	11	MNR	_	_
+13	Meckern	_	NOUN	NN	_	12	NK	_	_
+14	noch	_	ADV	ADV	_	16	MO	_	_
+15	immer	_	ADV	ADV	_	16	MO	_	_
+16	Vielen	_	PRON	PIS	_	23	DA	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	auch	_	ADV	ADV	_	19	MO	_	_
+19	Ornithologen	_	NOUN	NN	_	16	CJ	_	_
+20	,	_	PUNCT	$,	_	24	PUNCT	_	_
+21	nicht	_	X	PTKNEG	_	22	NG	_	_
+22	genügend	_	ADJ	ADJD	_	23	MO	_	_
+23	bekannt	_	ADJ	ADJD	_	24	PD	_	_
+24	ist	_	VERB	VAFIN	_	4	OC	_	_
+25	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

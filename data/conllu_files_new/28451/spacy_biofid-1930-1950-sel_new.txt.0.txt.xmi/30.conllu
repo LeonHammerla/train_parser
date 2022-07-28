@@ -1,0 +1,44 @@
+# sent_id = 84
+# text = Bei der Pollichia-Wanderung um die Barbarossastadt im Juli 1941 wies ich darauf hin, wie an den Bäumen im Burggraben hinter der Kammgarnspinnerei der Efeu emporkletterte, die Stämme mit üppigem Grün überzog und sich selbst in den Baumkronen breitmachte.
+1	Bei	_	ADP	APPR	_	10	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Pollichia-Wanderung	_	NOUN	NN	_	1	NK	_	_
+4	um	_	ADP	APPR	_	3	OP	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Barbarossastadt	_	NOUN	NN	_	4	NK	_	_
+7	im	_	ADP	APPRART	_	3	MNR	_	_
+8	Juli	_	NOUN	NN	_	7	NK	_	_
+9	1941	_	NUM	CARD	_	8	NK	_	_
+10	wies	_	VERB	VVFIN	_	0	--	_	_
+11	ich	_	PRON	PPER	_	10	SB	_	_
+12	darauf	_	ADV	PROAV	_	10	OP	_	_
+13	hin	_	VERB	PTKVZ	_	10	SVP	_	_
+14	,	_	PUNCT	$,	_	10	PUNCT	_	_
+15	wie	_	PRON	PWAV	_	26	MO	_	_
+16	an	_	ADP	APPR	_	26	MO	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Bäumen	_	NOUN	NN	_	16	NK	_	_
+19	im	_	ADP	APPRART	_	18	MNR	_	_
+20	Burggraben	_	NOUN	NN	_	19	NK	_	_
+21	hinter	_	ADP	APPR	_	26	MO	_	_
+22	der	_	DET	ART	_	23	NK	_	_
+23	Kammgarnspinnerei	_	NOUN	NN	_	21	NK	_	_
+24	der	_	DET	ART	_	25	NK	_	_
+25	Efeu	_	NOUN	NN	_	26	SB	_	_
+26	emporkletterte	_	VERB	VVFIN	_	12	RE	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	die	_	DET	ART	_	29	NK	_	_
+29	Stämme	_	NOUN	NN	_	33	OA	_	_
+30	mit	_	ADP	APPR	_	33	MO	_	_
+31	üppigem	_	ADJ	ADJA	_	32	NK	_	_
+32	Grün	_	NOUN	NN	_	30	NK	_	_
+33	überzog	_	VERB	VVFIN	_	26	CJ	_	_
+34	und	_	CONJ	KON	_	33	CD	_	_
+35	sich	_	PRON	PRF	_	40	OA	_	_
+36	selbst	_	ADV	ADV	_	35	MNR	_	_
+37	in	_	ADP	APPR	_	40	MO	_	_
+38	den	_	DET	ART	_	39	NK	_	_
+39	Baumkronen	_	NOUN	NN	_	37	NK	_	_
+40	breitmachte	_	VERB	VVFIN	_	34	CJ	_	_
+41	.	_	PUNCT	$.	_	10	PUNCT	_	_
+

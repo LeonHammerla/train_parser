@@ -1,0 +1,23 @@
+# sent_id = 81
+# text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Feststellung	_	NOUN	NN	_	3	SB	_	_
+3	beschränkt	_	VERB	VVFIN	_	0	--	_	_
+4	sich	_	PRON	PRF	_	3	OA	_	_
+5	auf	_	ADP	APPR	_	3	OP	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	Ermittlung	_	NOUN	NN	_	5	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Art	_	NOUN	NN	_	7	AG	_	_
+10	und	_	CONJ	KON	_	9	CD	_	_
+11	des	_	DET	ART	_	12	NK	_	_
+12	Nennwerts	_	NOUN	NN	_	10	CJ	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Wertpapiere	_	NOUN	NN	_	12	AG	_	_
+15	sowie	_	CONJ	KON	_	12	CD	_	_
+16	des	_	DET	ART	_	17	NK	_	_
+17	Zeitpunkts	_	NOUN	NN	_	15	CJ	_	_
+18	ihres	_	PRON	PPOSAT	_	19	NK	_	_
+19	Verlustes	_	NOUN	NN	_	17	AG	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,39 @@
+# sent_id = 154
+# text = Aus diesem Grund fehlt sie vielleicht in den Feldgehölzen im Norden der Stadt, die im Sommer oft von hohen, dicht bewachsenen Feldkulturen (vor allem Raps, Mais, Wintergetreide) umgeben sind.
+1	Aus	_	ADP	APPR	_	4	MO	_	_
+2	diesem	_	PRON	PDAT	_	3	NK	_	_
+3	Grund	_	NOUN	NN	_	1	NK	_	_
+4	fehlt	_	VERB	VVFIN	_	0	--	_	_
+5	sie	_	PRON	PPER	_	4	SB	_	_
+6	vielleicht	_	ADV	ADV	_	4	MO	_	_
+7	in	_	ADP	APPR	_	4	MO	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Feldgehölzen	_	NOUN	NN	_	7	NK	_	_
+10	im	_	ADP	APPRART	_	9	MNR	_	_
+11	Norden	_	NOUN	NN	_	10	NK	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Stadt	_	NOUN	NN	_	11	AG	_	_
+14	,	_	PUNCT	$,	_	9	PUNCT	_	_
+15	die	_	PRON	PRELS	_	35	SB	_	_
+16	im	_	ADP	APPRART	_	34	MO	_	_
+17	Sommer	_	NOUN	NN	_	16	NK	_	_
+18	oft	_	ADV	ADV	_	34	MO	_	_
+19	von	_	ADP	APPR	_	34	SBP	_	_
+20	hohen	_	ADJ	ADJA	_	24	NK	_	_
+21	,	_	PUNCT	$,	_	20	PUNCT	_	_
+22	dicht	_	ADJ	ADJD	_	23	MO	_	_
+23	bewachsenen	_	ADJ	ADJA	_	20	CJ	_	_
+24	Feldkulturen	_	NOUN	NN	_	19	NK	_	_
+25	(	_	PUNCT	$(	_	28	PUNCT	_	_
+26	vor	_	ADP	APPR	_	28	MO	_	_
+27	allem	_	PRON	PIS	_	26	NK	_	_
+28	Raps	_	PROPN	NE	_	24	APP	_	_
+29	,	_	PUNCT	$,	_	28	PUNCT	_	_
+30	Mais	_	NOUN	NN	_	28	CJ	_	_
+31	,	_	PUNCT	$,	_	28	PUNCT	_	_
+32	Wintergetreide	_	PROPN	NE	_	30	CJ	_	_
+33	)	_	PUNCT	$(	_	28	PUNCT	_	_
+34	umgeben	_	VERB	VVPP	_	35	OC	_	_
+35	sind	_	VERB	VAFIN	_	9	RC	_	_
+36	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

@@ -1,0 +1,43 @@
+# sent_id = 146
+# text = Beide, die Front in der Heimat und vor allem aber die Front draußen, haben soeben die Anerkennung und den Dank des Führers in einer Weise gesagt bekommen, wie sie schöner und größer nicht ausgesprochen werden konnten.
+1	Beide	_	PRON	PIS	_	16	SB	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Front	_	NOUN	NN	_	1	APP	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Heimat	_	NOUN	NN	_	5	NK	_	_
+8	und	_	CONJ	KON	_	4	CD	_	_
+9	vor	_	ADP	APPR	_	13	MO	_	_
+10	allem	_	PRON	PIS	_	9	NK	_	_
+11	aber	_	ADV	ADV	_	13	MO	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Front	_	NOUN	NN	_	8	CJ	_	_
+14	draußen	_	ADV	ADV	_	13	MNR	_	_
+15	,	_	PUNCT	$,	_	16	PUNCT	_	_
+16	haben	_	VERB	VAFIN	_	0	--	_	_
+17	soeben	_	ADV	ADV	_	16	MO	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Anerkennung	_	NOUN	NN	_	29	OA	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	den	_	DET	ART	_	22	NK	_	_
+22	Dank	_	ADP	APPR	_	20	CJ	_	_
+23	des	_	DET	ART	_	24	NK	_	_
+24	Führers	_	NOUN	NN	_	22	AG	_	_
+25	in	_	ADP	APPR	_	28	MO	_	_
+26	einer	_	DET	ART	_	27	NK	_	_
+27	Weise	_	NOUN	NN	_	25	NK	_	_
+28	gesagt	_	VERB	VVPP	_	29	OC	_	_
+29	bekommen	_	VERB	VVINF	_	16	OC	_	_
+30	,	_	PUNCT	$,	_	29	PUNCT	_	_
+31	wie	_	PRON	PWAV	_	39	MO	_	_
+32	sie	_	PRON	PPER	_	39	SB	_	_
+33	schöner	_	ADJ	ADJD	_	37	MO	_	_
+34	und	_	CONJ	KON	_	33	CD	_	_
+35	größer	_	ADJ	ADJD	_	34	CJ	_	_
+36	nicht	_	X	PTKNEG	_	39	NG	_	_
+37	ausgesprochen	_	VERB	VVPP	_	38	OC	_	_
+38	werden	_	VERB	VAINF	_	39	OC	_	_
+39	konnten	_	VERB	VMFIN	_	27	RC	_	_
+40	.	_	PUNCT	$.	_	16	PUNCT	_	_
+

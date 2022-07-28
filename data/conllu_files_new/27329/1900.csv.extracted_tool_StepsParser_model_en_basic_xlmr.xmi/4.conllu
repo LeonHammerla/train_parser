@@ -1,0 +1,35 @@
+# sent_id = 71
+# text = Member for East Mayo, but I cannot help thinking that that speech pointed to an intention of carrying out the League programme by a resort to outrage and crime.
+1	Member	_	PROPN	NNP	_	0	root	_	_
+2	for	_	ADP	IN	_	4	case	_	_
+3	East	_	PROPN	NNP	_	4	compound	_	_
+4	Mayo	_	PROPN	NNP	_	1	nmod	_	_
+5	,	_	PUNCT	,	_	10	punct	_	_
+6	but	_	CONJ	CC	_	10	cc	_	_
+7	I	_	PRON	PRP	_	10	nsubj	_	_
+8	can	_	VERB	MD	_	10	aux	_	_
+9	not	_	ADV	RB	_	10	advmod	_	_
+10	help	_	VERB	VB	_	1	conj	_	_
+11	thinking	_	VERB	VBG	_	10	xcomp	_	_
+12	that	_	ADP	IN	_	15	mark	_	_
+13	that	_	DET	DT	_	14	det	_	_
+14	speech	_	NOUN	NN	_	15	nsubj	_	_
+15	pointed	_	VERB	VBD	_	11	ccomp	_	_
+16	to	_	ADP	IN	_	18	case	_	_
+17	an	_	DET	DT	_	18	det	_	_
+18	intention	_	NOUN	NN	_	15	obl	_	_
+19	of	_	ADP	IN	_	20	mark	_	_
+20	carrying	_	VERB	VBG	_	18	acl	_	_
+21	out	_	ADP	RP	_	20	compound:prt	_	_
+22	the	_	DET	DT	_	24	det	_	_
+23	League	_	PROPN	NNP	_	24	compound	_	_
+24	programme	_	NOUN	NN	_	20	obj	_	_
+25	by	_	ADP	IN	_	27	case	_	_
+26	a	_	DET	DT	_	27	det	_	_
+27	resort	_	NOUN	NN	_	20	obl	_	_
+28	to	_	ADP	IN	_	29	case	_	_
+29	outrage	_	NOUN	NN	_	27	nmod	_	_
+30	and	_	CONJ	CC	_	31	cc	_	_
+31	crime	_	NOUN	NN	_	29	conj	_	_
+32	.	_	PUNCT	.	_	1	punct	_	_
+

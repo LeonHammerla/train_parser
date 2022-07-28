@@ -1,0 +1,40 @@
+# sent_id = 20
+# text = Dagegen ist die schwarze Form verhältnissmässig selten, daher kommt es wahrscheinlich, dass frühere Schriftsteller, welche über irische Vögel schreiben, als Payne im Jahre 1589 und Moryson 1617, ihr Vorkommen dort leugnen.
+1	Dagegen	_	ADV	PROAV	_	2	MO	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	5	NK	_	_
+4	schwarze	_	ADJ	ADJA	_	5	NK	_	_
+5	Form	_	NOUN	NN	_	2	SB	_	_
+6	verhältnissmässig	_	ADJ	ADJD	_	7	MO	_	_
+7	selten	_	ADJ	ADJD	_	2	PD	_	_
+8	,	_	PUNCT	$,	_	2	PUNCT	_	_
+9	daher	_	ADV	PROAV	_	10	MO	_	_
+10	kommt	_	VERB	VVFIN	_	2	CJ	_	_
+11	es	_	PRON	PPER	_	10	SB	_	_
+12	wahrscheinlich	_	ADJ	ADJD	_	10	MO	_	_
+13	,	_	PUNCT	$,	_	10	PUNCT	_	_
+14	dass	_	CONJ	KOUS	_	36	CP	_	_
+15	frühere	_	ADJ	ADJA	_	16	NK	_	_
+16	Schriftsteller	_	NOUN	NN	_	36	SB	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	welche	_	PRON	PRELS	_	22	SB	_	_
+19	über	_	ADP	APPR	_	22	MO	_	_
+20	irische	_	ADJ	ADJA	_	21	NK	_	_
+21	Vögel	_	NOUN	NN	_	19	NK	_	_
+22	schreiben	_	VERB	VVINF	_	16	RC	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	als	_	CONJ	KOUS	_	25	CM	_	_
+25	Payne	_	PROPN	NE	_	16	CC	_	_
+26	im	_	ADP	APPRART	_	25	MNR	_	_
+27	Jahre	_	NOUN	NN	_	26	NK	_	_
+28	1589	_	NUM	CARD	_	27	NK	_	_
+29	und	_	CONJ	KON	_	25	CD	_	_
+30	Moryson	_	PROPN	NE	_	29	CJ	_	_
+31	1617	_	NUM	CARD	_	30	NK	_	_
+32	,	_	PUNCT	$,	_	36	PUNCT	_	_
+33	ihr	_	PRON	PPOSAT	_	34	NK	_	_
+34	Vorkommen	_	NOUN	NN	_	36	OA	_	_
+35	dort	_	ADV	ADV	_	36	MO	_	_
+36	leugnen	_	VERB	VVINF	_	11	RE	_	_
+37	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

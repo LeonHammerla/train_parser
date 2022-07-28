@@ -1,0 +1,29 @@
+# sent_id = 128
+# text = Sind Sie mit mir nicht der Meinung, daß ich genau dort ausgeführt habe, daß ich diejenigen meine, die bisher nicht ausgebildet haben?
+1	Sind	_	VERB	VAFIN	_	0	--	_	_
+2	Sie	_	PRON	PPER	_	1	SB	_	_
+3	mit	_	ADP	APPR	_	1	MO	_	_
+4	mir	_	PRON	PPER	_	3	NK	_	_
+5	nicht	_	X	PTKNEG	_	1	NG	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Meinung	_	NOUN	NN	_	1	PD	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	14	CP	_	_
+10	ich	_	PRON	PPER	_	14	SB	_	_
+11	genau	_	ADJ	ADJD	_	12	MO	_	_
+12	dort	_	ADV	ADV	_	13	MO	_	_
+13	ausgeführt	_	VERB	VVPP	_	14	OC	_	_
+14	habe	_	VERB	VAFIN	_	7	OC	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	daß	_	CONJ	KOUS	_	19	CP	_	_
+17	ich	_	PRON	PPER	_	19	SB	_	_
+18	diejenigen	_	PRON	PDS	_	19	OA	_	_
+19	meine	_	PRON	PIS	_	13	OC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	die	_	PRON	PRELS	_	25	SB	_	_
+22	bisher	_	ADV	ADV	_	24	MO	_	_
+23	nicht	_	X	PTKNEG	_	24	NG	_	_
+24	ausgebildet	_	VERB	VVPP	_	25	OC	_	_
+25	haben	_	VERB	VAINF	_	18	RC	_	_
+26	?	_	PUNCT	$.	_	1	PUNCT	_	_
+

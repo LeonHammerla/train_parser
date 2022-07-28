@@ -1,0 +1,18 @@
+# sent_id = 58
+# text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
+1	Jetzt	_	ADV	ADV	_	2	MO	_	_
+2	will	_	VERB	VMFIN	_	0	--	_	_
+3	ich	_	PRON	PPER	_	2	SB	_	_
+4	Ihnen	_	PRON	PPER	_	7	DA	_	_
+5	einfach	_	ADV	ADV	_	7	MO	_	_
+6	mathematisch	_	ADJ	ADJD	_	7	MO	_	_
+7	klarmachen	_	VERB	VVINF	_	2	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	was	_	PRON	PWS	_	14	OA	_	_
+10	das	_	PRON	PDS	_	14	SB	_	_
+11	für	_	ADP	APPR	_	14	MO	_	_
+12	den	_	DET	ART	_	13	NK	_	_
+13	Bundeshaushalt	_	NOUN	NN	_	11	NK	_	_
+14	bedeutet	_	VERB	VVFIN	_	7	OC	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

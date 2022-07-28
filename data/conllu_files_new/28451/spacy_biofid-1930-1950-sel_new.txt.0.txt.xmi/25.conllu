@@ -1,0 +1,21 @@
+# sent_id = 79
+# text = Die für vorliegende Betrachtung in Frage kommenden Bohrungen sind in der Zahlentafel 2, Seite 24 wiedergegeben.
+1	Die	_	DET	ART	_	8	NK	_	_
+2	für	_	ADP	APPR	_	7	MO	_	_
+3	vorliegende	_	ADJ	ADJA	_	4	NK	_	_
+4	Betrachtung	_	NOUN	NN	_	2	NK	_	_
+5	in	_	ADP	APPR	_	7	CVC	_	_
+6	Frage	_	NOUN	NN	_	5	NK	_	_
+7	kommenden	_	ADJ	ADJA	_	8	NK	_	_
+8	Bohrungen	_	NOUN	NN	_	9	SB	_	_
+9	sind	_	VERB	VAFIN	_	0	--	_	_
+10	in	_	ADP	APPR	_	17	MO	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Zahlentafel	_	NOUN	NN	_	10	NK	_	_
+13	2	_	NUM	CARD	_	12	NK	_	_
+14	,	_	PUNCT	$,	_	12	PUNCT	_	_
+15	Seite	_	NOUN	NN	_	12	NK	_	_
+16	24	_	NUM	CARD	_	15	NK	_	_
+17	wiedergegeben	_	VERB	VVPP	_	9	OC	_	_
+18	.	_	PUNCT	$.	_	9	PUNCT	_	_
+

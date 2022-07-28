@@ -1,0 +1,20 @@
+# sent_id = 198
+# text = Wir sahen nur dies eine Exemplar, welches mir von dem Schützen zum Geschenke gemacht wurde.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	sahen	_	VERB	VVFIN	_	0	--	_	_
+3	nur	_	ADV	ADV	_	4	MO	_	_
+4	dies	_	PRON	PDS	_	6	NK	_	_
+5	eine	_	DET	ART	_	6	NK	_	_
+6	Exemplar	_	NOUN	NN	_	2	OA	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	welches	_	PRON	PRELS	_	16	SB	_	_
+9	mir	_	PRON	PPER	_	15	DA	_	_
+10	von	_	ADP	APPR	_	15	SBP	_	_
+11	dem	_	DET	ART	_	12	NK	_	_
+12	Schützen	_	NOUN	NN	_	10	NK	_	_
+13	zum	_	ADP	APPRART	_	15	MO	_	_
+14	Geschenke	_	NOUN	NN	_	13	NK	_	_
+15	gemacht	_	VERB	VVPP	_	16	OC	_	_
+16	wurde	_	VERB	VAFIN	_	6	RC	_	_
+17	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

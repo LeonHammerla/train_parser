@@ -1,0 +1,19 @@
+# sent_id = 48
+# text = Die Pflanzen bestätigen die Richtigkeit dieser Beobachtung und erweisen sich als Klimazeiger von äußerster Feinheit.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Pflanzen	_	NOUN	NN	_	3	SB	_	_
+3	bestätigen	_	VERB	VVFIN	_	0	--	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Richtigkeit	_	NOUN	NN	_	3	OA	_	_
+6	dieser	_	PRON	PDAT	_	7	NK	_	_
+7	Beobachtung	_	NOUN	NN	_	5	AG	_	_
+8	und	_	CONJ	KON	_	3	CD	_	_
+9	erweisen	_	VERB	VVFIN	_	8	CJ	_	_
+10	sich	_	PRON	PRF	_	9	OA	_	_
+11	als	_	ADP	APPR	_	9	OP	_	_
+12	Klimazeiger	_	NOUN	NN	_	11	NK	_	_
+13	von	_	ADP	APPR	_	12	MNR	_	_
+14	äußerster	_	ADJ	ADJA	_	15	NK	_	_
+15	Feinheit	_	NOUN	NN	_	13	NK	_	_
+16	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

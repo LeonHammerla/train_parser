@@ -1,0 +1,33 @@
+# sent_id = 46
+# text = The answer to this was, that they could not secure a supply at home in time of war unless by imposing some tax on corn of foreign growth.
+1	The	_	DET	DT	_	2	det	_	_
+2	answer	_	NOUN	NN	_	2	root	_	_
+3	to	_	ADP	IN	_	4	case	_	_
+4	this	_	DET	DT	_	2	nmod	_	_
+5	was	_	VERB	VBD	_	2	cop	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	that	_	ADP	IN	_	11	mark	_	_
+8	they	_	PRON	PRP	_	11	nsubj	_	_
+9	could	_	VERB	MD	_	11	aux	_	_
+10	not	_	ADV	RB	_	11	advmod	_	_
+11	secure	_	VERB	VB	_	2	nsubj	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	supply	_	NOUN	NN	_	11	obj	_	_
+14	at	_	ADP	IN	_	15	case	_	_
+15	home	_	NOUN	NN	_	13	nmod	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	time	_	NOUN	NN	_	11	obl	_	_
+18	of	_	ADP	IN	_	19	case	_	_
+19	war	_	NOUN	NN	_	17	nmod	_	_
+20	unless	_	ADP	IN	_	22	mark	_	_
+21	by	_	ADP	IN	_	22	mark	_	_
+22	imposing	_	VERB	VBG	_	11	advcl	_	_
+23	some	_	DET	DT	_	24	det	_	_
+24	tax	_	NOUN	NN	_	22	obj	_	_
+25	on	_	ADP	IN	_	26	case	_	_
+26	corn	_	NOUN	NN	_	24	nmod	_	_
+27	of	_	ADP	IN	_	29	case	_	_
+28	foreign	_	ADJ	JJ	_	29	amod	_	_
+29	growth	_	NOUN	NN	_	26	nmod	_	_
+30	.	_	PUNCT	.	_	5	punct	_	_
+

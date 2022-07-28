@@ -1,0 +1,29 @@
+# sent_id = 12
+# text = Es ist unsere Aufgabe, in langen, ruhigen, freundschaftlichen Verhandlungen gewisse Widerstände, gewisse Einwendungen auszuräumen, die gegen den Beitritt Englands bestehen.
+1	Es	_	_	_	_	4	expl	_	_
+2	ist	_	_	_	_	4	cop	_	_
+3	unsere	_	_	_	_	4	det:poss	_	_
+4	Aufgabe	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	18	punct	_	_
+6	in	_	_	_	_	12	case	_	_
+7	langen	_	_	_	_	12	amod	_	_
+8	,	_	_	_	_	9	punct	_	_
+9	ruhigen	_	_	_	_	7	conj	_	_
+10	,	_	_	_	_	11	punct	_	_
+11	freundschaftlichen	_	_	_	_	7	conj	_	_
+12	Verhandlungen	_	_	_	_	18	obl	_	_
+13	gewisse	_	_	_	_	14	amod	_	_
+14	Widerstände	_	_	_	_	18	obj	_	_
+15	,	_	_	_	_	17	punct	_	_
+16	gewisse	_	_	_	_	17	amod	_	_
+17	Einwendungen	_	_	_	_	14	conj	_	_
+18	auszuräumen	_	_	_	_	4	csubj	_	_
+19	,	_	_	_	_	25	punct	_	_
+20	die	_	_	_	_	25	nsubj	_	_
+21	gegen	_	_	_	_	23	case	_	_
+22	den	_	_	_	_	23	det	_	_
+23	Beitritt	_	_	_	_	25	obl	_	_
+24	Englands	_	_	_	_	23	nmod	_	_
+25	bestehen	_	_	_	_	14	acl	_	_
+26	.	_	_	_	_	4	punct	_	_
+

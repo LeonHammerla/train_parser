@@ -1,0 +1,27 @@
+# sent_id = 103
+# text = Es gewährt seinen Trägern Schutz gegen unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe der auf sie bezogenen, individualisierten oder individualisierbaren Daten.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	gewährt	_	VERB	VVFIN	_	0	--	_	_
+3	seinen	_	PRON	PPOSAT	_	4	NK	_	_
+4	Trägern	_	NOUN	NN	_	2	DA	_	_
+5	Schutz	_	NOUN	NN	_	2	OA	_	_
+6	gegen	_	ADP	APPR	_	5	MNR	_	_
+7	unbegrenzte	_	ADJ	ADJA	_	8	NK	_	_
+8	Erhebung	_	NOUN	NN	_	6	NK	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	Speicherung	_	NOUN	NN	_	8	CJ	_	_
+11	,	_	PUNCT	$,	_	8	PUNCT	_	_
+12	Verwendung	_	NOUN	NN	_	10	CJ	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	Weitergabe	_	NOUN	NN	_	13	CJ	_	_
+15	der	_	DET	ART	_	23	NK	_	_
+16	auf	_	ADP	APPR	_	18	MO	_	_
+17	sie	_	PRON	PPER	_	16	NK	_	_
+18	bezogenen	_	ADJ	ADJA	_	23	NK	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	individualisierten	_	ADJ	ADJA	_	23	NK	_	_
+21	oder	_	CONJ	KON	_	20	CD	_	_
+22	individualisierbaren	_	ADJ	ADJA	_	21	CJ	_	_
+23	Daten	_	NOUN	NN	_	8	AG	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

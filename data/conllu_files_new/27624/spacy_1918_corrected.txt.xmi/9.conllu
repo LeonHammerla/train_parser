@@ -1,0 +1,27 @@
+# sent_id = 82
+# text = Es ist da auf Seite 174 aus dem Inspektionsbezirk Breslau eine Kritik über die Porzellanarbeiter und die unter ihnen auftretenden ansteckenden Krankheiten vorhanden.
+1	Es	_	_	_	_	23	expl	_	_
+2	ist	_	_	_	_	23	cop	_	_
+3	da	_	_	_	_	23	advmod	_	_
+4	auf	_	_	_	_	5	case	_	_
+5	Seite	_	_	_	_	23	nmod	_	_
+6	174	_	_	_	_	5	flat	_	_
+7	aus	_	_	_	_	9	case	_	_
+8	dem	_	_	_	_	9	det	_	_
+9	Inspektionsbezirk	_	_	_	_	23	obl	_	_
+10	Breslau	_	_	_	_	9	flat	_	_
+11	eine	_	_	_	_	12	det	_	_
+12	Kritik	_	_	_	_	23	nsubj	_	_
+13	über	_	_	_	_	15	case	_	_
+14	die	_	_	_	_	15	det	_	_
+15	Porzellanarbeiter	_	_	_	_	12	nmod	_	_
+16	und	_	_	_	_	22	cc	_	_
+17	die	_	_	_	_	22	det	_	_
+18	unter	_	_	_	_	19	case	_	_
+19	ihnen	_	_	_	_	20	obl	_	_
+20	auftretenden	_	_	_	_	22	amod	_	_
+21	ansteckenden	_	_	_	_	22	amod	_	_
+22	Krankheiten	_	_	_	_	15	conj	_	_
+23	vorhanden	_	_	_	_	0	root	_	_
+24	.	_	_	_	_	23	punct	_	_
+

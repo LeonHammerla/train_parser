@@ -1,0 +1,28 @@
+# sent_id = 0
+# text = Article 39, which gives the right to reconcile family and professional life, is an ideal easier to write down than to achieve.
+1	Article	_	NOUN	NN	_	17	nsubj	_	_
+2	39	_	NUM	CD	_	1	nummod	_	_
+3	,	_	PUNCT	,	_	1	punct	_	_
+4	which	_	DET	WDT	_	5	nsubj	_	_
+5	gives	_	VERB	VBZ	_	1	acl:relcl	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	right	_	NOUN	NN	_	5	obj	_	_
+8	to	_	ADP	TO	_	9	mark	_	_
+9	reconcile	_	VERB	VB	_	7	acl	_	_
+10	family	_	NOUN	NN	_	9	obj	_	_
+11	and	_	CONJ	CC	_	13	cc	_	_
+12	professional	_	ADJ	JJ	_	13	compound	_	_
+13	life	_	NOUN	NN	_	10	conj	_	_
+14	,	_	PUNCT	,	_	17	punct	_	_
+15	is	_	VERB	VBZ	_	17	cop	_	_
+16	an	_	DET	DT	_	17	det	_	_
+17	ideal	_	NOUN	NN	_	0	root	_	_
+18	easier	_	ADJ	JJR	_	20	advmod	_	_
+19	to	_	ADP	TO	_	20	mark	_	_
+20	write	_	VERB	VB	_	17	acl	_	_
+21	down	_	ADP	RP	_	20	compound:prt	_	_
+22	than	_	ADP	IN	_	24	case	_	_
+23	to	_	ADP	TO	_	24	mark	_	_
+24	achieve	_	VERB	VB	_	20	obl	_	_
+25	.	_	PUNCT	.	_	17	punct	_	_
+

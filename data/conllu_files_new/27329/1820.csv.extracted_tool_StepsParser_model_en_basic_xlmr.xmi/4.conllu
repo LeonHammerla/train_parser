@@ -1,0 +1,46 @@
+# sent_id = 44
+# text = This was the kind of influence which would be exercised in all parts of the kingdom, if the present bills were to pass: it would be extended not only to the magistrates, but to the sheriffs in every county.
+1	This	_	DET	DT	_	4	nsubj	_	_
+2	was	_	VERB	VBD	_	4	cop	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	kind	_	NOUN	NN	_	0	root	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	influence	_	NOUN	NN	_	4	nmod	_	_
+7	which	_	DET	WDT	_	10	nsubj:pass	_	_
+8	would	_	VERB	MD	_	10	aux	_	_
+9	be	_	VERB	VB	_	10	aux:pass	_	_
+10	exercised	_	VERB	VBN	_	4	acl:relcl	_	_
+11	in	_	ADP	IN	_	13	case	_	_
+12	all	_	DET	DT	_	13	det	_	_
+13	parts	_	NOUN	NNS	_	10	obl	_	_
+14	of	_	ADP	IN	_	16	case	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	kingdom	_	NOUN	NN	_	13	nmod	_	_
+17	,	_	PUNCT	,	_	10	punct	_	_
+18	if	_	ADP	IN	_	22	mark	_	_
+19	the	_	DET	DT	_	21	det	_	_
+20	present	_	ADJ	JJ	_	21	amod	_	_
+21	bills	_	NOUN	NNS	_	22	nsubj	_	_
+22	were	_	VERB	VBD	_	4	advcl	_	_
+23	to	_	ADP	TO	_	24	mark	_	_
+24	pass	_	VERB	VB	_	22	xcomp	_	_
+25	:	_	PUNCT	:	_	4	punct	_	_
+26	it	_	PRON	PRP	_	29	nsubj:pass	_	_
+27	would	_	VERB	MD	_	29	aux	_	_
+28	be	_	VERB	VB	_	29	aux:pass	_	_
+29	extended	_	VERB	VBN	_	4	parataxis	_	_
+30	not	_	ADV	RB	_	31	advmod	_	_
+31	only	_	ADV	RB	_	34	cc:preconj	_	_
+32	to	_	ADP	IN	_	34	case	_	_
+33	the	_	DET	DT	_	34	det	_	_
+34	magistrates	_	NOUN	NNS	_	29	obl	_	_
+35	,	_	PUNCT	,	_	39	punct	_	_
+36	but	_	CONJ	CC	_	39	cc	_	_
+37	to	_	ADP	IN	_	39	case	_	_
+38	the	_	DET	DT	_	39	det	_	_
+39	sheriffs	_	NOUN	NNS	_	34	conj	_	_
+40	in	_	ADP	IN	_	42	case	_	_
+41	every	_	DET	DT	_	42	det	_	_
+42	county	_	NOUN	NN	_	39	nmod	_	_
+43	.	_	PUNCT	.	_	4	punct	_	_
+

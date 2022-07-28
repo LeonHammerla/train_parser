@@ -1,0 +1,15 @@
+# sent_id = 230
+# text = Die Ringeltaube bewohnt alle Flächen mit für die Nestanlage geeignetem Baumbestand.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Ringeltaube	_	NOUN	NN	_	3	SB	_	_
+3	bewohnt	_	VERB	VVFIN	_	0	--	_	_
+4	alle	_	PRON	PIAT	_	5	NK	_	_
+5	Flächen	_	NOUN	NN	_	3	OA	_	_
+6	mit	_	ADP	APPR	_	5	MNR	_	_
+7	für	_	ADP	APPR	_	10	MO	_	_
+8	die	_	DET	ART	_	9	NK	_	_
+9	Nestanlage	_	NOUN	NN	_	7	NK	_	_
+10	geeignetem	_	ADJ	ADJA	_	11	NK	_	_
+11	Baumbestand	_	NOUN	NN	_	6	NK	_	_
+12	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

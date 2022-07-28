@@ -1,0 +1,21 @@
+# sent_id = 225
+# text = Sie ist fast ausnahmslos an hallenartige Buchenalthölzer gebunden, wo Schwarzspechthöhlen und Nistkästen zur Brut bezogen werden.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	fast	_	ADV	ADV	_	4	MO	_	_
+4	ausnahmslos	_	ADJ	ADJD	_	8	MO	_	_
+5	an	_	ADP	APPR	_	8	OP	_	_
+6	hallenartige	_	ADJ	ADJA	_	7	NK	_	_
+7	Buchenalthölzer	_	NOUN	NN	_	5	NK	_	_
+8	gebunden	_	VERB	VVPP	_	2	PD	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	wo	_	PRON	PWAV	_	16	MO	_	_
+11	Schwarzspechthöhlen	_	NOUN	NN	_	17	SB	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Nistkästen	_	NOUN	NN	_	12	CJ	_	_
+14	zur	_	ADP	APPRART	_	16	MO	_	_
+15	Brut	_	NOUN	NN	_	14	NK	_	_
+16	bezogen	_	VERB	VVPP	_	17	OC	_	_
+17	werden	_	VERB	VAINF	_	7	RC	_	_
+18	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

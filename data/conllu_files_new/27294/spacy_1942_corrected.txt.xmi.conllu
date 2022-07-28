@@ -1,0 +1,383 @@
+# sent_id = 132
+# text = Gedenkworte des Präsidenten für die in Orioge gefallenen 810 Soldaten.
+1	Gedenkworte	_	NOUN	NN	_	0	--	_	_
+2	des	_	DET	ART	_	3	NK	_	_
+3	Präsidenten	_	NOUN	NN	_	1	AG	_	_
+4	für	_	ADP	APPR	_	1	MNR	_	_
+5	die	_	DET	ART	_	10	NK	_	_
+6	in	_	ADP	APPR	_	8	MO	_	_
+7	Orioge	_	NOUN	NN	_	6	NK	_	_
+8	gefallenen	_	ADJ	ADJA	_	10	NK	_	_
+9	810	_	NUM	CARD	_	10	NK	_	_
+10	Soldaten	_	NOUN	NN	_	4	NK	_	_
+11	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 133
+# text = Ich habe in Ihrem Namen auch das Mitgefühl des Deutschen Reichstags dort aussprechen können.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	habe	_	VERB	VAFIN	_	0	--	_	_
+3	in	_	ADP	APPR	_	2	MO	_	_
+4	Ihrem	_	PRON	PPOSAT	_	5	NK	_	_
+5	Namen	_	NOUN	NN	_	3	NK	_	_
+6	auch	_	ADV	ADV	_	8	MO	_	_
+7	das	_	DET	ART	_	8	NK	_	_
+8	Mitgefühl	_	NOUN	NN	_	13	OA	_	_
+9	des	_	DET	ART	_	11	NK	_	_
+10	Deutschen	_	ADJ	ADJA	_	11	NK	_	_
+11	Reichstags	_	NOUN	NN	_	8	AG	_	_
+12	dort	_	ADV	ADV	_	2	MO	_	_
+13	aussprechen	_	VERB	VVINF	_	14	OC	_	_
+14	können	_	VERB	VMINF	_	2	OC	_	_
+15	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 134
+# text = Von 1925 Ortsgruppenleiter der NSDAP, in Neuwied, dann Kreisleiter und Bezirksleiter.
+1	Von	_	ADP	APPR	_	0	--	_	_
+2	1925	_	NUM	CARD	_	1	NK	_	_
+3	Ortsgruppenleiter	_	NOUN	NN	_	1	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	NSDAP	_	PROPN	NE	_	3	AG	_	_
+6	,	_	PUNCT	$,	_	3	PUNCT	_	_
+7	in	_	ADP	APPR	_	3	MNR	_	_
+8	Neuwied	_	PROPN	NE	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	dann	_	ADV	ADV	_	11	MO	_	_
+11	Kreisleiter	_	NOUN	NN	_	3	CJ	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Bezirksleiter	_	NOUN	NN	_	12	CJ	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 135
+# text = Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;
+1	Kreisleiter	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Malermeister	_	PROPN	NE	_	1	CJ	_	_
+4	,	_	PUNCT	$,	_	1	PUNCT	_	_
+5	Präsident	_	NOUN	NN	_	3	CJ	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Gewerbekammer	_	NOUN	NN	_	5	AG	_	_
+8	Hamburg	_	PROPN	NE	_	7	NK	_	_
+9	;	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 136
+# text = Hamburg,  Moltkestr.
+1	Hamburg	_	PROPN	NE	_	0	--	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	Moltkestr	_	PROPN	NE	_	1	MO	_	_
+4	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 137
+# text = Die Schande,  die vor 22 Jahren im Wald von Compiegne ihren Ausgang nahm, ist an dieser gleichen Stelle für immer gelöscht.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Schande	_	NOUN	NN	_	16	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	die	_	DET	ART	_	14	SB	_	_
+5	vor	_	ADP	APPR	_	14	MO	_	_
+6	22	_	NUM	CARD	_	7	NK	_	_
+7	Jahren	_	NOUN	NN	_	5	NK	_	_
+8	im	_	ADP	APPRART	_	14	MO	_	_
+9	Wald	_	NOUN	NN	_	8	NK	_	_
+10	von	_	ADP	APPR	_	9	PG	_	_
+11	Compiegne	_	PROPN	NE	_	10	NK	_	_
+12	ihren	_	PRON	PPOSAT	_	13	NK	_	_
+13	Ausgang	_	NOUN	NN	_	14	OA	_	_
+14	nahm	_	VERB	VVFIN	_	2	RC	_	_
+15	,	_	PUNCT	$,	_	16	PUNCT	_	_
+16	ist	_	VERB	VAFIN	_	0	--	_	_
+17	an	_	ADP	APPR	_	16	MO	_	_
+18	dieser	_	PRON	PDAT	_	20	NK	_	_
+19	gleichen	_	ADJ	ADJA	_	20	NK	_	_
+20	Stelle	_	NOUN	NN	_	17	NK	_	_
+21	für	_	ADP	APPR	_	22	AVC	_	_
+22	immer	_	ADV	ADV	_	16	MO	_	_
+23	gelöscht	_	VERB	VVPP	_	16	PD	_	_
+24	.	_	PUNCT	$.	_	16	PUNCT	_	_
+
+# sent_id = 138
+# text = Man sieht in einer so kurzen Spanne der Entwicklung kaum mehr als die Symptome einer allgemeinen Stagnation, eines Rück- oder eines Fortschrittes.
+1	Man	_	PRON	PIS	_	2	SB	_	_
+2	sieht	_	VERB	VVFIN	_	0	--	_	_
+3	in	_	ADP	APPR	_	2	MO	_	_
+4	einer	_	DET	ART	_	7	NK	_	_
+5	so	_	ADV	ADV	_	6	MO	_	_
+6	kurzen	_	ADJ	ADJA	_	7	NK	_	_
+7	Spanne	_	NOUN	NN	_	3	NK	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Entwicklung	_	NOUN	NN	_	7	AG	_	_
+10	kaum	_	ADV	ADV	_	11	MO	_	_
+11	mehr	_	PRON	PIS	_	2	OA	_	_
+12	als	_	CONJ	KOKOM	_	14	CM	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Symptome	_	NOUN	NN	_	11	CC	_	_
+15	einer	_	DET	ART	_	17	NK	_	_
+16	allgemeinen	_	ADJ	ADJA	_	17	NK	_	_
+17	Stagnation	_	NOUN	NN	_	14	AG	_	_
+18	,	_	PUNCT	$,	_	17	PUNCT	_	_
+19	eines	_	DET	ART	_	23	NK	_	_
+20	Rück-	_	X	TRUNC	_	21	CJ	_	_
+21	oder	_	CONJ	KON	_	23	CD	_	_
+22	eines	_	DET	ART	_	23	NK	_	_
+23	Fortschrittes	_	NOUN	NN	_	17	APP	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 139
+# text = Ich habe damals zugleich einen Appell an die Einsicht der verantwortlichen Männer in den feindlichen Staaten gerichtet und an die Völker selbst.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	habe	_	VERB	VAFIN	_	0	--	_	_
+3	damals	_	ADV	ADV	_	2	MO	_	_
+4	zugleich	_	ADV	ADV	_	2	MO	_	_
+5	einen	_	DET	ART	_	6	NK	_	_
+6	Appell	_	NOUN	NN	_	17	OA	_	_
+7	an	_	ADP	APPR	_	17	MO	_	_
+8	die	_	DET	ART	_	9	NK	_	_
+9	Einsicht	_	NOUN	NN	_	7	NK	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	verantwortlichen	_	ADJ	ADJA	_	12	NK	_	_
+12	Männer	_	NOUN	NN	_	9	AG	_	_
+13	in	_	ADP	APPR	_	12	MNR	_	_
+14	den	_	DET	ART	_	16	NK	_	_
+15	feindlichen	_	ADJ	ADJA	_	16	NK	_	_
+16	Staaten	_	NOUN	NN	_	13	NK	_	_
+17	gerichtet	_	VERB	VVPP	_	2	OC	_	_
+18	und	_	CONJ	KON	_	9	CD	_	_
+19	an	_	ADP	APPR	_	18	CJ	_	_
+20	die	_	DET	ART	_	21	NK	_	_
+21	Völker	_	NOUN	NN	_	19	NK	_	_
+22	selbst	_	ADV	ADV	_	21	MNR	_	_
+23	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 140
+# text = Im Weltkrieg als Kriegsfreiwilliger 1915 an die italienische Front ausgerückt, im Verbände der Tiroler Standschützen vom Juni 1915 bis Mai 1917 als Mannschaftsperson im Schützengraben.
+1	Im	_	ADP	APPRART	_	10	MO	_	_
+2	Weltkrieg	_	NOUN	NN	_	1	NK	_	_
+3	als	_	ADP	APPR	_	2	MNR	_	_
+4	Kriegsfreiwilliger	_	NOUN	NN	_	3	NK	_	_
+5	1915	_	NUM	CARD	_	10	MO	_	_
+6	an	_	ADP	APPR	_	10	MO	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	italienische	_	ADJ	ADJA	_	9	NK	_	_
+9	Front	_	NOUN	NN	_	6	NK	_	_
+10	ausgerückt	_	VERB	VVPP	_	0	--	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	im	_	ADP	APPRART	_	10	MO	_	_
+13	Verbände	_	NOUN	NN	_	12	NK	_	_
+14	der	_	DET	ART	_	16	NK	_	_
+15	Tiroler	_	ADJ	ADJA	_	16	NK	_	_
+16	Standschützen	_	NOUN	NN	_	13	AG	_	_
+17	vom	_	ADP	APPRART	_	13	MNR	_	_
+18	Juni	_	NOUN	NN	_	17	NK	_	_
+19	1915	_	NUM	CARD	_	18	NK	_	_
+20	bis	_	ADP	APPR	_	13	MNR	_	_
+21	Mai	_	NOUN	NN	_	20	NK	_	_
+22	1917	_	NUM	CARD	_	21	NK	_	_
+23	als	_	ADP	APPR	_	13	MNR	_	_
+24	Mannschaftsperson	_	NOUN	NN	_	23	NK	_	_
+25	im	_	ADP	APPRART	_	24	MNR	_	_
+26	Schützengraben	_	NOUN	NN	_	25	NK	_	_
+27	.	_	PUNCT	$.	_	10	PUNCT	_	_
+
+# sent_id = 141
+# text = In blutigen Kämpfen und religiösen Streitigkeiten sowie aus den Gründen einer inneren staatlichen Aufsplitterung ist dieses Reich an Macht und Größe gefallen und endlich in tiefen Schlaf versunken.
+1	In	_	ADP	APPR	_	15	MO	_	_
+2	blutigen	_	ADJ	ADJA	_	3	NK	_	_
+3	Kämpfen	_	NOUN	NN	_	1	NK	_	_
+4	und	_	CONJ	KON	_	3	CD	_	_
+5	religiösen	_	ADJ	ADJA	_	6	NK	_	_
+6	Streitigkeiten	_	NOUN	NN	_	4	CJ	_	_
+7	sowie	_	CONJ	KON	_	1	CD	_	_
+8	aus	_	ADP	APPR	_	7	CJ	_	_
+9	den	_	DET	ART	_	10	NK	_	_
+10	Gründen	_	NOUN	NN	_	8	NK	_	_
+11	einer	_	DET	ART	_	14	NK	_	_
+12	inneren	_	ADJ	ADJA	_	14	NK	_	_
+13	staatlichen	_	ADJ	ADJA	_	14	NK	_	_
+14	Aufsplitterung	_	NOUN	NN	_	10	AG	_	_
+15	ist	_	VERB	VAFIN	_	0	--	_	_
+16	dieses	_	PRON	PDAT	_	17	NK	_	_
+17	Reich	_	NOUN	NN	_	15	SB	_	_
+18	an	_	ADP	APPR	_	22	MO	_	_
+19	Macht	_	NOUN	NN	_	18	NK	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	Größe	_	NOUN	NN	_	20	CJ	_	_
+22	gefallen	_	VERB	VVPP	_	15	OC	_	_
+23	und	_	CONJ	KON	_	22	CD	_	_
+24	endlich	_	ADV	ADV	_	28	MO	_	_
+25	in	_	ADP	APPR	_	28	MO	_	_
+26	tiefen	_	ADJ	ADJA	_	27	NK	_	_
+27	Schlaf	_	NOUN	NN	_	25	NK	_	_
+28	versunken	_	VERB	VVFIN	_	23	CJ	_	_
+29	.	_	PUNCT	$.	_	15	PUNCT	_	_
+
+# sent_id = 142
+# text = Ich wies damals auch darauf hin, daß die Aufrechterhaltung eines so gewaltigen militärischen Arsenals in Mitteleuropa ohne Sinn und Zweck nur als Gefahrenherd angesehen werden müßte.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	wies	_	VERB	VVFIN	_	0	--	_	_
+3	damals	_	ADV	ADV	_	2	MO	_	_
+4	auch	_	ADV	ADV	_	5	MO	_	_
+5	darauf	_	ADV	PROAV	_	2	OP	_	_
+6	hin	_	VERB	PTKVZ	_	2	SVP	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	27	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Aufrechterhaltung	_	NOUN	NN	_	27	SB	_	_
+11	eines	_	DET	ART	_	15	NK	_	_
+12	so	_	ADV	ADV	_	13	MO	_	_
+13	gewaltigen	_	ADJ	ADJA	_	15	NK	_	_
+14	militärischen	_	ADJ	ADJA	_	15	NK	_	_
+15	Arsenals	_	NOUN	NN	_	10	AG	_	_
+16	in	_	ADP	APPR	_	15	MNR	_	_
+17	Mitteleuropa	_	PROPN	NE	_	16	NK	_	_
+18	ohne	_	ADP	APPR	_	10	MNR	_	_
+19	Sinn	_	NOUN	NN	_	18	NK	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	Zweck	_	NOUN	NN	_	20	CJ	_	_
+22	nur	_	ADV	ADV	_	23	MO	_	_
+23	als	_	ADP	APPR	_	25	MO	_	_
+24	Gefahrenherd	_	NOUN	NN	_	23	NK	_	_
+25	angesehen	_	VERB	VVPP	_	26	OC	_	_
+26	werden	_	VERB	VAINF	_	27	OC	_	_
+27	müßte	_	VERB	VMFIN	_	5	RE	_	_
+28	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 143
+# text = Ich erklärte ihm weiter, daß mir auch Gerüchte zu Ohren gekommen seien über die Absicht, die Armee in den Kreis dieser Pläne einzubeziehen.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	erklärte	_	VERB	VVFIN	_	0	--	_	_
+3	ihm	_	PRON	PPER	_	2	DA	_	_
+4	weiter	_	ADV	ADV	_	2	MO	_	_
+5	,	_	PUNCT	$,	_	2	PUNCT	_	_
+6	daß	_	CONJ	KOUS	_	13	CP	_	_
+7	mir	_	PRON	PPER	_	12	DA	_	_
+8	auch	_	ADV	ADV	_	9	MO	_	_
+9	Gerüchte	_	NOUN	NN	_	13	SB	_	_
+10	zu	_	ADP	APPR	_	12	CVC	_	_
+11	Ohren	_	NOUN	NN	_	10	NK	_	_
+12	gekommen	_	VERB	VVPP	_	13	OC	_	_
+13	seien	_	VERB	VAFIN	_	2	OC	_	_
+14	über	_	ADP	APPR	_	9	MNR	_	_
+15	die	_	DET	ART	_	16	NK	_	_
+16	Absicht	_	NOUN	NN	_	14	NK	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Armee	_	NOUN	NN	_	25	OA	_	_
+20	in	_	ADP	APPR	_	25	MO	_	_
+21	den	_	DET	ART	_	22	NK	_	_
+22	Kreis	_	NOUN	NN	_	20	NK	_	_
+23	dieser	_	PRON	PDAT	_	24	NK	_	_
+24	Pläne	_	NOUN	NN	_	22	AG	_	_
+25	einzubeziehen	_	VERB	VVIZU	_	16	OC	_	_
+26	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 144
+# text = Ich glaube, niemals konnte man ergriffener sein als heute, wo wir die Worte hörten, die aus Schmach und Not heraus wieder zur Größe und zur Ehre führen sollen.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	glaube	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	niemals	_	ADV	ADV	_	5	MO	_	_
+5	konnte	_	VERB	VMFIN	_	2	OC	_	_
+6	man	_	PRON	PIS	_	5	SB	_	_
+7	ergriffener	_	PROPN	NE	_	8	PD	_	_
+8	sein	_	VERB	VAINF	_	5	OC	_	_
+9	als	_	CONJ	KOKOM	_	10	CM	_	_
+10	heute	_	ADV	ADV	_	8	CC	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	wo	_	PRON	PWAV	_	16	MO	_	_
+13	wir	_	PRON	PPER	_	16	SB	_	_
+14	die	_	DET	ART	_	15	NK	_	_
+15	Worte	_	NOUN	NN	_	16	OA	_	_
+16	hörten	_	VERB	VVFIN	_	10	RC	_	_
+17	,	_	PUNCT	$,	_	16	PUNCT	_	_
+18	die	_	PRON	PRELS	_	31	SB	_	_
+19	aus	_	ADP	APPR	_	30	MO	_	_
+20	Schmach	_	PROPN	NE	_	19	NK	_	_
+21	und	_	CONJ	KON	_	20	CD	_	_
+22	Not	_	NOUN	NN	_	21	CJ	_	_
+23	heraus	_	ADP	APZR	_	19	AC	_	_
+24	wieder	_	ADV	ADV	_	30	MO	_	_
+25	zur	_	ADP	APPRART	_	30	MO	_	_
+26	Größe	_	NOUN	NN	_	25	NK	_	_
+27	und	_	CONJ	KON	_	25	CD	_	_
+28	zur	_	ADP	APPRART	_	27	CJ	_	_
+29	Ehre	_	NOUN	NN	_	28	NK	_	_
+30	führen	_	VERB	VVINF	_	31	OC	_	_
+31	sollen	_	VERB	VMFIN	_	15	RC	_	_
+32	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 145
+# text = Sie hat damit zum dritten Male unter Beweis gestellt, daß sie mein ist, genau so wie ich es jederzeit unter Beweis stellen werde, daß ich meinen SA-Männern gehöre.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	hat	_	VERB	VAFIN	_	0	--	_	_
+3	damit	_	ADV	PROAV	_	9	MO	_	_
+4	zum	_	ADP	APPRART	_	9	MO	_	_
+5	dritten	_	ADJ	ADJA	_	6	NK	_	_
+6	Male	_	NOUN	NN	_	4	NK	_	_
+7	unter	_	ADP	APPR	_	9	CVC	_	_
+8	Beweis	_	NOUN	NN	_	7	NK	_	_
+9	gestellt	_	VERB	VVPP	_	2	OC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	daß	_	CONJ	KOUS	_	14	CP	_	_
+12	sie	_	PRON	PPER	_	14	SB	_	_
+13	mein	_	VERB	VAINF	_	14	PD	_	_
+14	ist	_	VERB	VAFIN	_	9	OC	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	genau	_	ADJ	ADJD	_	17	MO	_	_
+17	so	_	ADV	ADV	_	14	MO	_	_
+18	wie	_	CONJ	KOKOM	_	25	CM	_	_
+19	ich	_	PRON	PPER	_	25	SB	_	_
+20	es	_	PRON	PPER	_	24	OA	_	_
+21	jederzeit	_	ADV	ADV	_	24	MO	_	_
+22	unter	_	ADP	APPR	_	24	CVC	_	_
+23	Beweis	_	NOUN	NN	_	22	NK	_	_
+24	stellen	_	VERB	VVINF	_	25	OC	_	_
+25	werde	_	VERB	VAFIN	_	17	CC	_	_
+26	,	_	PUNCT	$,	_	25	PUNCT	_	_
+27	daß	_	CONJ	KOUS	_	31	CP	_	_
+28	ich	_	PRON	PPER	_	31	SB	_	_
+29	meinen	_	PRON	PPOSAT	_	30	NK	_	_
+30	SA-Männern	_	NOUN	NN	_	31	DA	_	_
+31	gehöre	_	VERB	VVFIN	_	24	OC	_	_
+32	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 146
+# text = Beide, die Front in der Heimat und vor allem aber die Front draußen, haben soeben die Anerkennung und den Dank des Führers in einer Weise gesagt bekommen, wie sie schöner und größer nicht ausgesprochen werden konnten.
+1	Beide	_	PRON	PIS	_	16	SB	_	_
+2	,	_	PUNCT	$,	_	1	PUNCT	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Front	_	NOUN	NN	_	1	APP	_	_
+5	in	_	ADP	APPR	_	4	MNR	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Heimat	_	NOUN	NN	_	5	NK	_	_
+8	und	_	CONJ	KON	_	4	CD	_	_
+9	vor	_	ADP	APPR	_	13	MO	_	_
+10	allem	_	PRON	PIS	_	9	NK	_	_
+11	aber	_	ADV	ADV	_	13	MO	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Front	_	NOUN	NN	_	8	CJ	_	_
+14	draußen	_	ADV	ADV	_	13	MNR	_	_
+15	,	_	PUNCT	$,	_	16	PUNCT	_	_
+16	haben	_	VERB	VAFIN	_	0	--	_	_
+17	soeben	_	ADV	ADV	_	16	MO	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Anerkennung	_	NOUN	NN	_	29	OA	_	_
+20	und	_	CONJ	KON	_	19	CD	_	_
+21	den	_	DET	ART	_	22	NK	_	_
+22	Dank	_	ADP	APPR	_	20	CJ	_	_
+23	des	_	DET	ART	_	24	NK	_	_
+24	Führers	_	NOUN	NN	_	22	AG	_	_
+25	in	_	ADP	APPR	_	28	MO	_	_
+26	einer	_	DET	ART	_	27	NK	_	_
+27	Weise	_	NOUN	NN	_	25	NK	_	_
+28	gesagt	_	VERB	VVPP	_	29	OC	_	_
+29	bekommen	_	VERB	VVINF	_	16	OC	_	_
+30	,	_	PUNCT	$,	_	29	PUNCT	_	_
+31	wie	_	PRON	PWAV	_	39	MO	_	_
+32	sie	_	PRON	PPER	_	39	SB	_	_
+33	schöner	_	ADJ	ADJD	_	37	MO	_	_
+34	und	_	CONJ	KON	_	33	CD	_	_
+35	größer	_	ADJ	ADJD	_	34	CJ	_	_
+36	nicht	_	X	PTKNEG	_	39	NG	_	_
+37	ausgesprochen	_	VERB	VVPP	_	38	OC	_	_
+38	werden	_	VERB	VAINF	_	39	OC	_	_
+39	konnten	_	VERB	VMFIN	_	27	RC	_	_
+40	.	_	PUNCT	$.	_	16	PUNCT	_	_
+

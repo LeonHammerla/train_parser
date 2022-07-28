@@ -1,0 +1,30 @@
+# sent_id = 47
+# text = Der Kampf an der Ruhr zeigt, daß die Masse der Arbeiter und Beamten die breite Grundlage ist, auf der Wirtschaft und Staat sich aufbauen.
+1	Der	_	_	_	_	2	det	_	_
+2	Kampf	_	_	_	_	6	nsubj	_	_
+3	an	_	_	_	_	5	case	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Ruhr	_	_	_	_	2	nmod	_	_
+6	zeigt	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	17	punct	_	_
+8	daß	_	_	_	_	17	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Masse	_	_	_	_	17	nsubj	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Arbeiter	_	_	_	_	10	nmod	_	_
+13	und	_	_	_	_	14	cc	_	_
+14	Beamten	_	_	_	_	12	conj	_	_
+15	die	_	_	_	_	17	det	_	_
+16	breite	_	_	_	_	17	amod	_	_
+17	Grundlage	_	_	_	_	6	ccomp	_	_
+18	ist	_	_	_	_	17	cop	_	_
+19	,	_	_	_	_	26	punct	_	_
+20	auf	_	_	_	_	21	case	_	_
+21	der	_	_	_	_	26	obl	_	_
+22	Wirtschaft	_	_	_	_	26	nsubj	_	_
+23	und	_	_	_	_	24	cc	_	_
+24	Staat	_	_	_	_	22	conj	_	_
+25	sich	_	_	_	_	26	obj	_	_
+26	aufbauen	_	_	_	_	17	acl	_	_
+27	.	_	_	_	_	6	punct	_	_
+

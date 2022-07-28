@@ -1,0 +1,34 @@
+# sent_id = 81
+# text = Die Aufschlüsse der Flachbohrungen unterstützen auch, wie wir sehen werden, das geologische Studium des Alluviums und Diluviums, sowie der Trias unseres Gebietes (Buntsandstein und Muschelkalk).
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Aufschlüsse	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Flachbohrungen	_	NOUN	NN	_	2	AG	_	_
+5	unterstützen	_	VERB	VVFIN	_	0	--	_	_
+6	auch	_	ADV	ADV	_	5	MO	_	_
+7	,	_	PUNCT	$,	_	5	PUNCT	_	_
+8	wie	_	PRON	PWAV	_	10	MO	_	_
+9	wir	_	PRON	PPER	_	11	SB	_	_
+10	sehen	_	VERB	VVINF	_	11	OC	_	_
+11	werden	_	VERB	VAFIN	_	5	MO	_	_
+12	,	_	PUNCT	$,	_	5	PUNCT	_	_
+13	das	_	DET	ART	_	15	NK	_	_
+14	geologische	_	ADJ	ADJA	_	15	NK	_	_
+15	Studium	_	NOUN	NN	_	5	OA	_	_
+16	des	_	DET	ART	_	17	NK	_	_
+17	Alluviums	_	NOUN	NN	_	15	AG	_	_
+18	und	_	CONJ	KON	_	17	CD	_	_
+19	Diluviums	_	NOUN	NN	_	18	CJ	_	_
+20	,	_	PUNCT	$,	_	15	PUNCT	_	_
+21	sowie	_	CONJ	KON	_	15	CD	_	_
+22	der	_	DET	ART	_	23	NK	_	_
+23	Trias	_	PROPN	NE	_	21	CJ	_	_
+24	unseres	_	PRON	PPOSAT	_	25	NK	_	_
+25	Gebietes	_	NOUN	NN	_	23	AG	_	_
+26	(	_	PUNCT	$(	_	27	PUNCT	_	_
+27	Buntsandstein	_	NOUN	NN	_	23	PAR	_	_
+28	und	_	CONJ	KON	_	27	CD	_	_
+29	Muschelkalk	_	NOUN	NN	_	28	CJ	_	_
+30	)	_	PUNCT	$(	_	27	PUNCT	_	_
+31	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

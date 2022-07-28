@@ -1,0 +1,23 @@
+# sent_id = 32
+# text = Die Deckfedern können selbstverständlich bei dieser schrägen, seitlich beinah senkrechten Stellung der Schwanzfedern gar nicht in Frage kommen.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Deckfedern	_	NOUN	NN	_	3	SB	_	_
+3	können	_	VERB	VMFIN	_	0	--	_	_
+4	selbstverständlich	_	ADJ	ADJD	_	3	MO	_	_
+5	bei	_	ADP	APPR	_	3	MO	_	_
+6	dieser	_	PRON	PDAT	_	7	NK	_	_
+7	schrägen	_	ADJ	ADJA	_	12	NK	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	seitlich	_	ADJ	ADJD	_	10	MO	_	_
+10	beinah	_	ADJ	ADJD	_	11	MO	_	_
+11	senkrechten	_	ADJ	ADJA	_	7	CJ	_	_
+12	Stellung	_	NOUN	NN	_	5	NK	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Schwanzfedern	_	NOUN	NN	_	12	AG	_	_
+15	gar	_	ADV	ADV	_	16	MO	_	_
+16	nicht	_	X	PTKNEG	_	3	NG	_	_
+17	in	_	ADP	APPR	_	19	CVC	_	_
+18	Frage	_	NOUN	NN	_	17	NK	_	_
+19	kommen	_	VERB	VVINF	_	3	OC	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

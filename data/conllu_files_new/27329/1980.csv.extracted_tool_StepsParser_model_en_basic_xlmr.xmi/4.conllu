@@ -1,0 +1,17 @@
+# sent_id = 81
+# text = They intend to cut the Labour Government's plans for the Welfare State.
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	intend	_	VERB	VBP	_	0	root	_	_
+3	to	_	ADP	TO	_	4	mark	_	_
+4	cut	_	VERB	VB	_	2	xcomp	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	Labour	_	PROPN	NNP	_	7	compound	_	_
+7	Government	_	PROPN	NNP	_	9	nmod:poss	_	_
+8	's	_	X	POS	_	7	case	_	_
+9	plans	_	NOUN	NNS	_	4	obj	_	_
+10	for	_	ADP	IN	_	13	case	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	Welfare	_	PROPN	NNP	_	13	compound	_	_
+13	State	_	PROPN	NNP	_	9	nmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+

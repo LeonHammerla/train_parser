@@ -1,0 +1,45 @@
+# sent_id = 179
+# text = Es gilt nur für die Hart, jenen klimatisch so sehr begünstigten schmalen Streifen am Ostabfall des Gebirges, wo in der sengenden Sonnenglut die Traube kocht und Edelkastanie und Mandelbaum ihre Früchte reifen, wo Siedelung sich an Siedelung drängt.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	gilt	_	VERB	VVFIN	_	0	--	_	_
+3	nur	_	ADV	ADV	_	4	MO	_	_
+4	für	_	ADP	APPR	_	2	MO	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hart	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	jenen	_	PRON	PDS	_	14	NK	_	_
+9	klimatisch	_	ADJ	ADJD	_	12	MO	_	_
+10	so	_	ADV	ADV	_	11	MO	_	_
+11	sehr	_	ADV	ADV	_	12	MO	_	_
+12	begünstigten	_	ADJ	ADJA	_	14	NK	_	_
+13	schmalen	_	ADJ	ADJA	_	14	NK	_	_
+14	Streifen	_	NOUN	NN	_	6	PAR	_	_
+15	am	_	ADP	APPRART	_	14	MNR	_	_
+16	Ostabfall	_	NOUN	NN	_	15	NK	_	_
+17	des	_	DET	ART	_	18	NK	_	_
+18	Gebirges	_	NOUN	NN	_	16	AG	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	wo	_	PRON	PWAV	_	27	MO	_	_
+21	in	_	ADP	APPR	_	27	MO	_	_
+22	der	_	DET	ART	_	24	NK	_	_
+23	sengenden	_	ADJ	ADJA	_	24	NK	_	_
+24	Sonnenglut	_	NOUN	NN	_	21	NK	_	_
+25	die	_	DET	ART	_	26	NK	_	_
+26	Traube	_	NOUN	NN	_	27	SB	_	_
+27	kocht	_	VERB	VVFIN	_	18	RC	_	_
+28	und	_	CONJ	KON	_	27	CD	_	_
+29	Edelkastanie	_	NOUN	NN	_	34	SB	_	_
+30	und	_	CONJ	KON	_	29	CD	_	_
+31	Mandelbaum	_	NOUN	NN	_	30	CJ	_	_
+32	ihre	_	PRON	PPOSAT	_	33	NK	_	_
+33	Früchte	_	NOUN	NN	_	34	OA	_	_
+34	reifen	_	VERB	VVINF	_	28	CJ	_	_
+35	,	_	PUNCT	$,	_	34	PUNCT	_	_
+36	wo	_	PRON	PWAV	_	41	MO	_	_
+37	Siedelung	_	NOUN	NN	_	41	SB	_	_
+38	sich	_	PRON	PRF	_	41	OA	_	_
+39	an	_	ADP	APPR	_	41	OP	_	_
+40	Siedelung	_	NOUN	NN	_	39	NK	_	_
+41	drängt	_	VERB	VVFIN	_	18	RC	_	_
+42	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

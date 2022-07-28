@@ -1,0 +1,34 @@
+# sent_id = 16
+# text = Ich melde mich nur zu Wort, um einige Mißverständnisse zurückzuweisen und um auch einiges für den Vorsitzenden des Ausschusses zu sagen, der selber heute nicht hier sein kann.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	melde	_	VERB	VVFIN	_	0	--	_	_
+3	mich	_	PRON	PPER	_	2	OA	_	_
+4	nur	_	ADV	ADV	_	5	MO	_	_
+5	zu	_	ADP	APPR	_	2	CVC	_	_
+6	Wort	_	NOUN	NN	_	5	NK	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	um	_	CONJ	KOUI	_	11	CP	_	_
+9	einige	_	PRON	PIAT	_	10	NK	_	_
+10	Mißverständnisse	_	NOUN	NN	_	11	OA	_	_
+11	zurückzuweisen	_	VERB	VVIZU	_	2	MO	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	um	_	CONJ	KOUI	_	22	CP	_	_
+14	auch	_	ADV	ADV	_	22	MO	_	_
+15	einiges	_	PRON	PIS	_	22	OA	_	_
+16	für	_	ADP	APPR	_	22	MO	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Vorsitzenden	_	NOUN	NN	_	16	NK	_	_
+19	des	_	DET	ART	_	20	NK	_	_
+20	Ausschusses	_	NOUN	NN	_	18	AG	_	_
+21	zu	_	X	PTKZU	_	22	PM	_	_
+22	sagen	_	VERB	VVINF	_	12	CJ	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	der	_	PRON	PRELS	_	30	SB	_	_
+25	selber	_	ADV	ADV	_	30	MO	_	_
+26	heute	_	ADV	ADV	_	30	MO	_	_
+27	nicht	_	X	PTKNEG	_	30	NG	_	_
+28	hier	_	ADV	ADV	_	29	PD	_	_
+29	sein	_	VERB	VAINF	_	30	OC	_	_
+30	kann	_	VERB	VMFIN	_	18	RC	_	_
+31	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

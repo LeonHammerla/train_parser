@@ -1,0 +1,19 @@
+# sent_id = 222
+# text = Auch Parkanlagen wurden trotz angebotener Nistkästen (innerhalb Axtenhilfsprogramm für die Dohle) nicht besetzt.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	Parkanlagen	_	NOUN	NN	_	3	SB	_	_
+3	wurden	_	VERB	VAFIN	_	0	--	_	_
+4	trotz	_	ADP	APPR	_	15	MO	_	_
+5	angebotener	_	ADJ	ADJA	_	6	NK	_	_
+6	Nistkästen	_	NOUN	NN	_	4	NK	_	_
+7	(	_	PUNCT	$(	_	9	PUNCT	_	_
+8	innerhalb	_	ADP	APPR	_	15	MO	_	_
+9	Axtenhilfsprogramm	_	NOUN	NN	_	8	NK	_	_
+10	für	_	ADP	APPR	_	9	MNR	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Dohle	_	NOUN	NN	_	10	NK	_	_
+13	)	_	PUNCT	$(	_	9	PUNCT	_	_
+14	nicht	_	X	PTKNEG	_	15	NG	_	_
+15	besetzt	_	VERB	VVPP	_	3	OC	_	_
+16	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

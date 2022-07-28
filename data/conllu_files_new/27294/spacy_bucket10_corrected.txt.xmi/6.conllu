@@ -1,0 +1,10 @@
+# sent_id = 120
+# text = das haben Sie ja schon gehört.
+1	das	_	PRON	PDS	_	6	OA	_	_
+2	haben	_	VERB	VAFIN	_	0	--	_	_
+3	Sie	_	PRON	PPER	_	2	SB	_	_
+4	ja	_	ADV	ADV	_	6	MO	_	_
+5	schon	_	ADV	ADV	_	6	MO	_	_
+6	gehört	_	VERB	VVPP	_	2	OC	_	_
+7	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

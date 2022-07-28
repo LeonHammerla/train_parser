@@ -1,0 +1,26 @@
+# sent_id = 8
+# text = In der Innenpolitik gewinnt die Gesundheitspolitik, insbesondere die gesundheitliche Vorsorge gegen die Gefahren der modernen Umwelt, immer mehr an Gewicht.
+1	In	_	ADP	APPR	_	4	MO	_	_
+2	der	_	DET	ART	_	3	NK	_	_
+3	Innenpolitik	_	NOUN	NN	_	1	NK	_	_
+4	gewinnt	_	VERB	VVFIN	_	0	--	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Gesundheitspolitik	_	NOUN	NN	_	4	SB	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	insbesondere	_	ADV	ADV	_	11	CD	_	_
+9	die	_	DET	ART	_	11	NK	_	_
+10	gesundheitliche	_	ADJ	ADJA	_	11	NK	_	_
+11	Vorsorge	_	NOUN	NN	_	6	CJ	_	_
+12	gegen	_	ADP	APPR	_	11	MNR	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Gefahren	_	NOUN	NN	_	12	NK	_	_
+15	der	_	DET	ART	_	17	NK	_	_
+16	modernen	_	ADJ	ADJA	_	17	NK	_	_
+17	Umwelt	_	NOUN	NN	_	14	AG	_	_
+18	,	_	PUNCT	$,	_	4	PUNCT	_	_
+19	immer	_	ADV	ADV	_	20	MO	_	_
+20	mehr	_	ADV	ADV	_	4	MO	_	_
+21	an	_	ADP	APPR	_	4	MO	_	_
+22	Gewicht	_	NOUN	NN	_	21	NK	_	_
+23	.	_	PUNCT	$.	_	4	PUNCT	_	_
+

@@ -1,0 +1,24 @@
+# sent_id = 25
+# text = Er wird die Bekassine so nahe haben, dass er über die Natur des Meckerns zur vollständigen Gewissheit gelangen kann.
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	wird	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	DET	ART	_	4	NK	_	_
+4	Bekassine	_	NOUN	NN	_	7	OA	_	_
+5	so	_	ADV	ADV	_	6	MO	_	_
+6	nahe	_	ADJ	ADJD	_	7	MO	_	_
+7	haben	_	VERB	VAINF	_	2	OC	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	dass	_	CONJ	KOUS	_	20	CP	_	_
+10	er	_	PRON	PPER	_	20	SB	_	_
+11	über	_	ADP	APPR	_	19	MO	_	_
+12	die	_	DET	ART	_	13	NK	_	_
+13	Natur	_	NOUN	NN	_	11	NK	_	_
+14	des	_	DET	ART	_	15	NK	_	_
+15	Meckerns	_	NOUN	NN	_	13	AG	_	_
+16	zur	_	ADP	APPRART	_	19	OP	_	_
+17	vollständigen	_	ADJ	ADJA	_	18	NK	_	_
+18	Gewissheit	_	NOUN	NN	_	16	NK	_	_
+19	gelangen	_	VERB	VVINF	_	20	OC	_	_
+20	kann	_	VERB	VMFIN	_	5	RE	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

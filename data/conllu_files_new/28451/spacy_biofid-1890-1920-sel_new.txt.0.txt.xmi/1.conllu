@@ -1,0 +1,28 @@
+# sent_id = 170
+# text = Jahrhunderts bemerkt, dass viele seltene Pflanzen, die er noch wenige Jahrzehnte vorher hier und anderwärts zahlreich antraf, damals schon bedenklich zurückgingen;
+1	Jahrhunderts	_	NOUN	NN	_	2	SB	_	_
+2	bemerkt	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	dass	_	CONJ	KOUS	_	24	CP	_	_
+5	viele	_	PRON	PIAT	_	7	NK	_	_
+6	seltene	_	ADJ	ADJA	_	7	NK	_	_
+7	Pflanzen	_	NOUN	NN	_	24	SB	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	die	_	PRON	PRELS	_	19	OA	_	_
+10	er	_	PRON	PPER	_	19	SB	_	_
+11	noch	_	ADV	ADV	_	19	MO	_	_
+12	wenige	_	PRON	PIAT	_	13	NK	_	_
+13	Jahrzehnte	_	NOUN	NN	_	19	MO	_	_
+14	vorher	_	ADV	ADV	_	19	MO	_	_
+15	hier	_	ADV	ADV	_	19	MO	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	anderwärts	_	ADV	ADV	_	16	CJ	_	_
+18	zahlreich	_	ADJ	ADJD	_	19	MO	_	_
+19	antraf	_	VERB	VVFIN	_	7	RC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	damals	_	ADV	ADV	_	24	MO	_	_
+22	schon	_	ADV	ADV	_	24	MO	_	_
+23	bedenklich	_	ADJ	ADJD	_	24	MO	_	_
+24	zurückgingen	_	VERB	VVINF	_	2	OC	_	_
+25	;	_	PUNCT	$.	_	2	PUNCT	_	_
+

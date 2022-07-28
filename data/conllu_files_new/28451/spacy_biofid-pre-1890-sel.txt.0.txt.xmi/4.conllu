@@ -1,0 +1,26 @@
+# sent_id = 19
+# text = In der nördlichen Hemisphäre sind alle Vögel diesem Einflüsse unterworfen und ziehen oder streichen in südlicher Bichtung, sobald der Sommer geschieden.
+1	In	_	ADP	APPR	_	5	MO	_	_
+2	der	_	DET	ART	_	4	NK	_	_
+3	nördlichen	_	ADJ	ADJA	_	4	NK	_	_
+4	Hemisphäre	_	NOUN	NN	_	1	NK	_	_
+5	sind	_	VERB	VAFIN	_	0	--	_	_
+6	alle	_	PRON	PIAT	_	7	NK	_	_
+7	Vögel	_	NOUN	NN	_	5	SB	_	_
+8	diesem	_	PRON	PDAT	_	9	NK	_	_
+9	Einflüsse	_	NOUN	NN	_	10	DA	_	_
+10	unterworfen	_	VERB	VVPP	_	5	PD	_	_
+11	und	_	CONJ	KON	_	5	CD	_	_
+12	ziehen	_	VERB	VVFIN	_	11	CJ	_	_
+13	oder	_	CONJ	KON	_	12	CD	_	_
+14	streichen	_	NOUN	NN	_	13	CJ	_	_
+15	in	_	ADP	APPR	_	14	MO	_	_
+16	südlicher	_	ADJ	ADJA	_	17	NK	_	_
+17	Bichtung	_	NOUN	NN	_	15	NK	_	_
+18	,	_	PUNCT	$,	_	5	PUNCT	_	_
+19	sobald	_	CONJ	KOUS	_	22	CP	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Sommer	_	NOUN	NN	_	22	SB	_	_
+22	geschieden	_	VERB	VVPP	_	12	MO	_	_
+23	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

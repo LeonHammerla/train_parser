@@ -1,0 +1,26 @@
+# sent_id = 10
+# text = Denn schließlich geht es auch um die Erhaltung des Finanzierungsspielraumes für die privaten Investitionen, und hier besteht ein enger innerer Zusammenhang.
+1	Denn	_	CONJ	KON	_	3	JU	_	_
+2	schließlich	_	ADV	ADV	_	3	MO	_	_
+3	geht	_	VERB	VVFIN	_	0	--	_	_
+4	es	_	PRON	PPER	_	3	EP	_	_
+5	auch	_	ADV	ADV	_	6	MO	_	_
+6	um	_	ADP	APPR	_	3	OP	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Erhaltung	_	NOUN	NN	_	6	NK	_	_
+9	des	_	DET	ART	_	10	NK	_	_
+10	Finanzierungsspielraumes	_	NOUN	NN	_	8	AG	_	_
+11	für	_	ADP	APPR	_	10	MNR	_	_
+12	die	_	DET	ART	_	14	NK	_	_
+13	privaten	_	ADJ	ADJA	_	14	NK	_	_
+14	Investitionen	_	NOUN	NN	_	11	NK	_	_
+15	,	_	PUNCT	$,	_	3	PUNCT	_	_
+16	und	_	CONJ	KON	_	3	CD	_	_
+17	hier	_	ADV	ADV	_	18	MO	_	_
+18	besteht	_	VERB	VVFIN	_	16	CJ	_	_
+19	ein	_	DET	ART	_	22	NK	_	_
+20	enger	_	ADJ	ADJD	_	21	MO	_	_
+21	innerer	_	ADJ	ADJA	_	22	NK	_	_
+22	Zusammenhang	_	NOUN	NN	_	18	SB	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,22 @@
+# sent_id = 23
+# text = Sie sehen daraus, wie notwendig es ist, auf die dadurch bedingten unterschiedlichen Verhältnisse Rücksicht zu nehmen.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	sehen	_	VERB	VVFIN	_	0	--	_	_
+3	daraus	_	ADV	PROAV	_	2	MO	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	wie	_	PRON	PWAV	_	6	MO	_	_
+6	notwendig	_	ADJ	ADJD	_	8	PD	_	_
+7	es	_	PRON	PPER	_	8	SB	_	_
+8	ist	_	VERB	VAFIN	_	2	OC	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	auf	_	ADP	APPR	_	18	MO	_	_
+11	die	_	PRON	PRELS	_	15	NK	_	_
+12	dadurch	_	ADV	PROAV	_	13	MO	_	_
+13	bedingten	_	ADJ	ADJA	_	15	NK	_	_
+14	unterschiedlichen	_	ADJ	ADJA	_	15	NK	_	_
+15	Verhältnisse	_	NOUN	NN	_	10	NK	_	_
+16	Rücksicht	_	NOUN	NN	_	18	OA	_	_
+17	zu	_	X	PTKZU	_	18	PM	_	_
+18	nehmen	_	VERB	VVINF	_	7	RE	_	_
+19	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

@@ -1,0 +1,21 @@
+# sent_id = 40
+# text = Der Rechnungshof soll sich zur Erfüllung dieser Aufgabe der Mitwirkung einer von ihm gewählten Treuhandgesellschaft bedienen können.
+1	Der	_	_	_	_	2	det	_	_
+2	Rechnungshof	_	_	_	_	16	nsubj	_	_
+3	soll	_	_	_	_	16	aux	_	_
+4	sich	_	_	_	_	16	obj	_	_
+5	zur	_	_	_	_	6	case	_	_
+6	Erfüllung	_	_	_	_	16	obl	_	_
+7	dieser	_	_	_	_	8	det	_	_
+8	Aufgabe	_	_	_	_	6	nmod	_	_
+9	der	_	_	_	_	10	det	_	_
+10	Mitwirkung	_	_	_	_	16	iobj	_	_
+11	einer	_	_	_	_	15	det	_	_
+12	von	_	_	_	_	13	case	_	_
+13	ihm	_	_	_	_	14	obl	_	_
+14	gewählten	_	_	_	_	15	amod	_	_
+15	Treuhandgesellschaft	_	_	_	_	10	nmod	_	_
+16	bedienen	_	_	_	_	0	root	_	_
+17	können	_	_	_	_	16	aux	_	_
+18	.	_	_	_	_	16	punct	_	_
+

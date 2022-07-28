@@ -1,0 +1,27 @@
+# sent_id = 31
+# text = Man wird weit laufen müssen, um den Versammlungsleiter zu finden, der mit den Problemen dieses Gesetzentwurfs in souveräner Sicherheit fertigzuwerden vermag.
+1	Man	_	PRON	PIS	_	2	SB	_	_
+2	wird	_	VERB	VAFIN	_	0	--	_	_
+3	weit	_	ADJ	ADJD	_	4	MO	_	_
+4	laufen	_	VERB	VVINF	_	5	OC	_	_
+5	müssen	_	VERB	VMINF	_	2	OC	_	_
+6	,	_	PUNCT	$,	_	5	PUNCT	_	_
+7	um	_	CONJ	KOUI	_	11	CP	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Versammlungsleiter	_	NOUN	NN	_	11	OA	_	_
+10	zu	_	X	PTKZU	_	11	PM	_	_
+11	finden	_	VERB	VVINF	_	5	MO	_	_
+12	,	_	PUNCT	$,	_	11	PUNCT	_	_
+13	der	_	PRON	PRELS	_	23	SB	_	_
+14	mit	_	ADP	APPR	_	22	OP	_	_
+15	den	_	DET	ART	_	16	NK	_	_
+16	Problemen	_	NOUN	NN	_	14	NK	_	_
+17	dieses	_	PRON	PDAT	_	18	NK	_	_
+18	Gesetzentwurfs	_	NOUN	NN	_	16	AG	_	_
+19	in	_	ADP	APPR	_	22	MO	_	_
+20	souveräner	_	ADJ	ADJA	_	21	NK	_	_
+21	Sicherheit	_	NOUN	NN	_	19	NK	_	_
+22	fertigzuwerden	_	VERB	VVINF	_	23	OC	_	_
+23	vermag	_	VERB	VVFIN	_	9	RC	_	_
+24	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

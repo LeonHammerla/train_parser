@@ -1,0 +1,14 @@
+# sent_id = 25
+# text = Zu diesem Abänderungsantrag hat der Geschäftsordnungsausschuß noch nicht Stellung genommen;
+1	Zu	_	ADP	APPR	_	10	OP	_	_
+2	diesem	_	PRON	PDAT	_	3	NK	_	_
+3	Abänderungsantrag	_	NOUN	NN	_	1	NK	_	_
+4	hat	_	VERB	VAFIN	_	0	--	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Geschäftsordnungsausschuß	_	NOUN	NN	_	4	SB	_	_
+7	noch	_	ADV	ADV	_	8	MO	_	_
+8	nicht	_	X	PTKNEG	_	10	NG	_	_
+9	Stellung	_	NOUN	NN	_	10	OA	_	_
+10	genommen	_	VERB	VVPP	_	4	OC	_	_
+11	;	_	PUNCT	$.	_	4	PUNCT	_	_
+

@@ -1,0 +1,31 @@
+# sent_id = 31
+# text = Stimmen Sie heute der Behandlung zu, dann ist dies auch eine Vorentscheidung für die Annahme des Generalvertrages der Geheimverhandlungen, die Dr. Adenauer geführt hat.
+1	Stimmen	_	_	_	_	13	advcl	_	_
+2	Sie	_	_	_	_	1	nsubj	_	_
+3	heute	_	_	_	_	1	advmod	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Behandlung	_	_	_	_	1	iobj	_	_
+6	zu	_	_	_	_	1	compound:prt	_	_
+7	,	_	_	_	_	1	punct	_	_
+8	dann	_	_	_	_	13	advmod	_	_
+9	ist	_	_	_	_	13	cop	_	_
+10	dies	_	_	_	_	13	nsubj	_	_
+11	auch	_	_	_	_	13	advmod	_	_
+12	eine	_	_	_	_	13	det	_	_
+13	Vorentscheidung	_	_	_	_	0	root	_	_
+14	für	_	_	_	_	16	case	_	_
+15	die	_	_	_	_	16	det	_	_
+16	Annahme	_	_	_	_	13	nmod	_	_
+17	des	_	_	_	_	18	det	_	_
+18	Generalvertrages	_	_	_	_	16	nmod	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Geheimverhandlungen	_	_	_	_	18	nmod	_	_
+21	,	_	_	_	_	26	punct	_	_
+22	die	_	_	_	_	26	obj	_	_
+23	Dr	_	_	_	_	25	compound	_	_
+24	.	_	_	_	_	23	punct	_	_
+25	Adenauer	_	_	_	_	26	nsubj	_	_
+26	geführt	_	_	_	_	20	acl	_	_
+27	hat	_	_	_	_	26	aux	_	_
+28	.	_	_	_	_	13	punct	_	_
+

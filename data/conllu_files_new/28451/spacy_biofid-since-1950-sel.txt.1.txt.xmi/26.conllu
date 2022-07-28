@@ -1,0 +1,21 @@
+# sent_id = 159
+# text = Im Kartierungszeitraum war dies vielleicht der Sumpfrohrsänger, da Kuckucke oft in brenn- nesselreichen Habitaten angetroffen wurden.
+1	Im	_	ADP	APPRART	_	3	MO	_	_
+2	Kartierungszeitraum	_	NOUN	NN	_	1	NK	_	_
+3	war	_	VERB	VAFIN	_	0	--	_	_
+4	dies	_	PRON	PDS	_	3	SB	_	_
+5	vielleicht	_	ADV	ADV	_	3	MO	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Sumpfrohrsänger	_	NOUN	NN	_	3	PD	_	_
+8	,	_	PUNCT	$,	_	3	PUNCT	_	_
+9	da	_	CONJ	KOUS	_	17	CP	_	_
+10	Kuckucke	_	NOUN	NN	_	17	SB	_	_
+11	oft	_	ADV	ADV	_	16	MO	_	_
+12	in	_	ADP	APPR	_	16	MO	_	_
+13	brenn-	_	X	TRUNC	_	15	NK	_	_
+14	nesselreichen	_	ADJ	ADJA	_	15	NK	_	_
+15	Habitaten	_	NOUN	NN	_	12	NK	_	_
+16	angetroffen	_	VERB	VVPP	_	17	OC	_	_
+17	wurden	_	VERB	VAFIN	_	3	MO	_	_
+18	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

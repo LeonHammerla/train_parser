@@ -1,0 +1,14 @@
+# sent_id = 111
+# text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
+1	Sie	_	_	_	_	2	nsubj	_	_
+2	sagen	_	_	_	_	0	root	_	_
+3	faktisch	_	_	_	_	2	advmod	_	_
+4	den	_	_	_	_	7	det	_	_
+5	baldigen	_	_	_	_	7	amod	_	_
+6	biologischen	_	_	_	_	7	amod	_	_
+7	Tod	_	_	_	_	2	obj	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Nordsee	_	_	_	_	7	nmod	_	_
+10	voraus	_	_	_	_	2	compound:prt	_	_
+11	.	_	_	_	_	2	punct	_	_
+

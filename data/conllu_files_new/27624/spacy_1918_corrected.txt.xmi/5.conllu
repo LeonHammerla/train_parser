@@ -1,0 +1,23 @@
+# sent_id = 78
+# text = Die Feststellung beschränkt sich auf die Ermittlung der Art und des Nennwerts der Wertpapiere sowie des Zeitpunkts ihres Verlustes.
+1	Die	_	_	_	_	2	det	_	_
+2	Feststellung	_	_	_	_	3	nsubj	_	_
+3	beschränkt	_	_	_	_	0	root	_	_
+4	sich	_	_	_	_	3	obj	_	_
+5	auf	_	_	_	_	7	case	_	_
+6	die	_	_	_	_	7	det	_	_
+7	Ermittlung	_	_	_	_	3	obl	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Art	_	_	_	_	7	nmod	_	_
+10	und	_	_	_	_	12	cc	_	_
+11	des	_	_	_	_	12	det	_	_
+12	Nennwerts	_	_	_	_	9	conj	_	_
+13	der	_	_	_	_	14	det	_	_
+14	Wertpapiere	_	_	_	_	12	nmod	_	_
+15	sowie	_	_	_	_	17	cc	_	_
+16	des	_	_	_	_	17	det	_	_
+17	Zeitpunkts	_	_	_	_	9	conj	_	_
+18	ihres	_	_	_	_	19	det:poss	_	_
+19	Verlustes	_	_	_	_	17	nmod	_	_
+20	.	_	_	_	_	3	punct	_	_
+

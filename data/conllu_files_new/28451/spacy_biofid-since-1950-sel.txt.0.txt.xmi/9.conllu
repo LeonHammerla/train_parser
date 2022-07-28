@@ -1,0 +1,7 @@
+# sent_id = 219
+# text = Verbreitung und Lebensraum:
+1	Verbreitung	_	NOUN	NN	_	0	--	_	_
+2	und	_	CONJ	KON	_	1	CD	_	_
+3	Lebensraum	_	NOUN	NN	_	2	CJ	_	_
+4	:	_	PUNCT	$.	_	1	PUNCT	_	_
+

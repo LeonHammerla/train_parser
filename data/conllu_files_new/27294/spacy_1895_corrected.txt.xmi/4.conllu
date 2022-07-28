@@ -1,0 +1,9 @@
+# sent_id = 151
+# text = Das ist die eine Wendung;
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	die	_	PRON	PDS	_	5	NK	_	_
+4	eine	_	DET	ART	_	5	NK	_	_
+5	Wendung	_	NOUN	NN	_	2	PD	_	_
+6	;	_	PUNCT	$.	_	2	PUNCT	_	_
+

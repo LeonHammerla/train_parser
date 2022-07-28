@@ -1,0 +1,17 @@
+# sent_id = 117
+# text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	lohnt	_	VERB	VVFIN	_	0	--	_	_
+3	sich	_	PRON	PRF	_	2	OA	_	_
+4	zweifellos	_	ADJ	ADJD	_	2	MO	_	_
+5	für	_	ADP	APPR	_	2	MO	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	paar	_	PRON	PIAT	_	8	NK	_	_
+8	Raumfahrtunternehmen	_	NOUN	NN	_	5	NK	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	die	_	PRON	PRELS	_	13	SB	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Millionen-Aufträge	_	NOUN	NN	_	13	OA	_	_
+13	bekommen	_	VERB	VVFIN	_	8	RC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

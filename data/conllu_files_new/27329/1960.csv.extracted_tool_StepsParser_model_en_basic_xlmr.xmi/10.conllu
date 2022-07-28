@@ -1,0 +1,12 @@
+# sent_id = 29
+# text = I think that I have been reasonably fair.
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	think	_	VERB	VBP	_	0	root	_	_
+3	that	_	ADP	IN	_	8	mark	_	_
+4	I	_	PRON	PRP	_	8	nsubj	_	_
+5	have	_	VERB	VBP	_	8	aux	_	_
+6	been	_	VERB	VBN	_	8	cop	_	_
+7	reasonably	_	ADV	RB	_	8	advmod	_	_
+8	fair	_	ADJ	JJ	_	2	ccomp	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+

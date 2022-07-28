@@ -1,0 +1,24 @@
+# sent_id = 79
+# text = Member for Heywood and Royton asked specifically about the improvement of the internal audit, which is an important matter.
+1	Member	_	PROPN	NNP	_	6	nsubj	_	_
+2	for	_	ADP	IN	_	3	case	_	_
+3	Heywood	_	PROPN	NNP	_	1	nmod	_	_
+4	and	_	CONJ	CC	_	5	cc	_	_
+5	Royton	_	PROPN	NNP	_	3	conj	_	_
+6	asked	_	VERB	VBD	_	0	root	_	_
+7	specifically	_	ADV	RB	_	6	advmod	_	_
+8	about	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	improvement	_	NOUN	NN	_	6	obl	_	_
+11	of	_	ADP	IN	_	14	case	_	_
+12	the	_	DET	DT	_	14	det	_	_
+13	internal	_	ADJ	JJ	_	14	amod	_	_
+14	audit	_	NOUN	NN	_	10	nmod	_	_
+15	,	_	PUNCT	,	_	14	punct	_	_
+16	which	_	DET	WDT	_	20	nsubj	_	_
+17	is	_	VERB	VBZ	_	20	cop	_	_
+18	an	_	DET	DT	_	20	det	_	_
+19	important	_	ADJ	JJ	_	20	amod	_	_
+20	matter	_	NOUN	NN	_	10	acl:relcl	_	_
+21	.	_	PUNCT	.	_	6	punct	_	_
+

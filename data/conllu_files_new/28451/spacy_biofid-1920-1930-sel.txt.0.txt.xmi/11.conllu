@@ -1,0 +1,20 @@
+# sent_id = 100
+# text = Carex canescens fehlt in der Flora von Heidelberg, trotzdem sie auf der Mausbachwiese gemein ist.
+1	Carex	_	PROPN	NE	_	2	PNC	_	_
+2	canescens	_	PROPN	NE	_	3	SB	_	_
+3	fehlt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	der	_	DET	ART	_	6	NK	_	_
+6	Flora	_	NOUN	NN	_	4	NK	_	_
+7	von	_	ADP	APPR	_	6	PG	_	_
+8	Heidelberg	_	PROPN	NE	_	7	NK	_	_
+9	,	_	PUNCT	$,	_	3	PUNCT	_	_
+10	trotzdem	_	CONJ	KOUS	_	16	CP	_	_
+11	sie	_	PRON	PPER	_	16	SB	_	_
+12	auf	_	ADP	APPR	_	16	MO	_	_
+13	der	_	DET	ART	_	14	NK	_	_
+14	Mausbachwiese	_	NOUN	NN	_	12	NK	_	_
+15	gemein	_	ADJ	ADJD	_	16	PD	_	_
+16	ist	_	VERB	VAFIN	_	3	MO	_	_
+17	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

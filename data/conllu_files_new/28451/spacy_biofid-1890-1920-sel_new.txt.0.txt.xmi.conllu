@@ -1,0 +1,1187 @@
+# sent_id = 169
+# text = Einzelne Arten, wie Gladiolus paluster scheinen bereits völlig wegkultiviert zu sein und für einige andere steht das Aussterben nahe bevor.
+1	Einzelne	_	ADJ	ADJA	_	2	NK	_	_
+2	Arten	_	NOUN	NN	_	7	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	wie	_	PRON	PWAV	_	5	CM	_	_
+5	Gladiolus	_	PROPN	NE	_	6	MO	_	_
+6	paluster	_	ADJ	ADJA	_	2	PAR	_	_
+7	scheinen	_	VERB	VVFIN	_	0	--	_	_
+8	bereits	_	ADV	ADV	_	10	MO	_	_
+9	völlig	_	ADJ	ADJD	_	10	MO	_	_
+10	wegkultiviert	_	VERB	VVPP	_	12	PD	_	_
+11	zu	_	X	PTKZU	_	12	PM	_	_
+12	sein	_	VERB	VAINF	_	7	OC	_	_
+13	und	_	CONJ	KON	_	12	CD	_	_
+14	für	_	ADP	APPR	_	17	MO	_	_
+15	einige	_	PRON	PIAT	_	16	NK	_	_
+16	andere	_	PRON	PIS	_	14	NK	_	_
+17	steht	_	VERB	VVFIN	_	13	CJ	_	_
+18	das	_	DET	ART	_	19	NK	_	_
+19	Aussterben	_	NOUN	NN	_	17	SB	_	_
+20	nahe	_	ADP	APPR	_	17	SVP	_	_
+21	bevor	_	VERB	PTKVZ	_	17	SVP	_	_
+22	.	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 170
+# text = Jahrhunderts bemerkt, dass viele seltene Pflanzen, die er noch wenige Jahrzehnte vorher hier und anderwärts zahlreich antraf, damals schon bedenklich zurückgingen;
+1	Jahrhunderts	_	NOUN	NN	_	2	SB	_	_
+2	bemerkt	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	dass	_	CONJ	KOUS	_	24	CP	_	_
+5	viele	_	PRON	PIAT	_	7	NK	_	_
+6	seltene	_	ADJ	ADJA	_	7	NK	_	_
+7	Pflanzen	_	NOUN	NN	_	24	SB	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	die	_	PRON	PRELS	_	19	OA	_	_
+10	er	_	PRON	PPER	_	19	SB	_	_
+11	noch	_	ADV	ADV	_	19	MO	_	_
+12	wenige	_	PRON	PIAT	_	13	NK	_	_
+13	Jahrzehnte	_	NOUN	NN	_	19	MO	_	_
+14	vorher	_	ADV	ADV	_	19	MO	_	_
+15	hier	_	ADV	ADV	_	19	MO	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	anderwärts	_	ADV	ADV	_	16	CJ	_	_
+18	zahlreich	_	ADJ	ADJD	_	19	MO	_	_
+19	antraf	_	VERB	VVFIN	_	7	RC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	damals	_	ADV	ADV	_	24	MO	_	_
+22	schon	_	ADV	ADV	_	24	MO	_	_
+23	bedenklich	_	ADJ	ADJD	_	24	MO	_	_
+24	zurückgingen	_	VERB	VVINF	_	2	OC	_	_
+25	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 171
+# text = Adonis vernalis, Rosa gallica bilden den Hauptschmuck dieser trockenen Hügel.
+1	Adonis	_	NOUN	NN	_	2	PNC	_	_
+2	vernalis	_	VERB	VVFIN	_	6	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	Rosa	_	PROPN	NE	_	5	PNC	_	_
+5	gallica	_	PROPN	NE	_	2	CJ	_	_
+6	bilden	_	VERB	VVFIN	_	6	ROOT	_	_
+7	den	_	DET	ART	_	8	NK	_	_
+8	Hauptschmuck	_	NOUN	NN	_	6	OA	_	_
+9	dieser	_	PRON	PDAT	_	11	NK	_	_
+10	trockenen	_	ADJ	ADJA	_	11	NK	_	_
+11	Hügel	_	NOUN	NN	_	8	AG	_	_
+12	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 172
+# text = Die Flora derselben ist sehr reich und völlig verschieden von derjenigen der umgebenden feuchten Wiesen:
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Flora	_	NOUN	NN	_	4	SB	_	_
+3	derselben	_	PRON	PDS	_	2	AG	_	_
+4	ist	_	VERB	VAFIN	_	0	--	_	_
+5	sehr	_	ADV	ADV	_	6	MO	_	_
+6	reich	_	ADJ	ADJD	_	4	PD	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	völlig	_	ADJ	ADJD	_	9	MO	_	_
+9	verschieden	_	VERB	VVPP	_	7	CJ	_	_
+10	von	_	ADP	APPR	_	9	OP	_	_
+11	derjenigen	_	PRON	PDS	_	10	NK	_	_
+12	der	_	DET	ART	_	15	NK	_	_
+13	umgebenden	_	ADJ	ADJA	_	15	NK	_	_
+14	feuchten	_	ADJ	ADJA	_	15	NK	_	_
+15	Wiesen	_	NOUN	NN	_	11	AG	_	_
+16	:	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 173
+# text = Auf den feuchten dünn berasten „Naturwiesen" (die früher eine viel grössere Ausdehnung hatten) kamen einst Pflanzen wie Gladiolus paluster, Gentiana utriculosa, Orchis laxiflora, Iris sibirica, Schoenus nigricans, auf etwas trockenen Stellen Anacamptis pyramidalis sowie verschiedene Ophrysarten in Menge vor.
+1	Auf	_	ADP	APPR	_	18	MO	_	_
+2	den	_	DET	ART	_	7	NK	_	_
+3	feuchten	_	ADJ	ADJA	_	7	NK	_	_
+4	dünn	_	ADJ	ADJD	_	5	MO	_	_
+5	berasten	_	ADJ	ADJA	_	3	CJ	_	_
+6	„	_	PUNCT	$(	_	7	PUNCT	_	_
+7	Naturwiesen	_	NOUN	NN	_	1	NK	_	_
+8	"	_	PUNCT	$(	_	7	PUNCT	_	_
+9	(	_	PUNCT	$(	_	16	PUNCT	_	_
+10	die	_	PRON	PRELS	_	16	SB	_	_
+11	früher	_	ADJ	ADJD	_	16	MO	_	_
+12	eine	_	DET	ART	_	15	NK	_	_
+13	viel	_	ADV	ADV	_	14	MO	_	_
+14	grössere	_	ADJ	ADJA	_	15	NK	_	_
+15	Ausdehnung	_	NOUN	NN	_	16	OA	_	_
+16	hatten	_	VERB	VAFIN	_	7	RC	_	_
+17	)	_	PUNCT	$(	_	16	PUNCT	_	_
+18	kamen	_	VERB	VVFIN	_	0	--	_	_
+19	einst	_	ADV	ADV	_	18	MO	_	_
+20	Pflanzen	_	NOUN	NN	_	18	SB	_	_
+21	wie	_	CONJ	KOKOM	_	23	CM	_	_
+22	Gladiolus	_	NOUN	NN	_	23	PNC	_	_
+23	paluster	_	ADJ	ADJA	_	20	CC	_	_
+24	,	_	PUNCT	$,	_	18	PUNCT	_	_
+25	Gentiana	_	PROPN	NE	_	26	PNC	_	_
+26	utriculosa	_	PROPN	NE	_	23	CJ	_	_
+27	,	_	PUNCT	$,	_	26	PUNCT	_	_
+28	Orchis	_	PROPN	NE	_	29	PNC	_	_
+29	laxiflora	_	ADJ	ADJD	_	26	CJ	_	_
+30	,	_	PUNCT	$,	_	26	PUNCT	_	_
+31	Iris	_	PROPN	NE	_	32	PNC	_	_
+32	sibirica	_	PROPN	NE	_	29	CJ	_	_
+33	,	_	PUNCT	$,	_	32	PUNCT	_	_
+34	Schoenus	_	PROPN	NE	_	35	PNC	_	_
+35	nigricans	_	PROPN	NE	_	32	CJ	_	_
+36	,	_	PUNCT	$,	_	18	PUNCT	_	_
+37	auf	_	ADP	APPR	_	18	MO	_	_
+38	etwas	_	ADV	ADV	_	39	MO	_	_
+39	trockenen	_	ADJ	ADJA	_	40	NK	_	_
+40	Stellen	_	NOUN	NN	_	37	NK	_	_
+41	Anacamptis	_	PROPN	NE	_	42	PNC	_	_
+42	pyramidalis	_	PROPN	NE	_	35	CJ	_	_
+43	sowie	_	CONJ	KON	_	42	CD	_	_
+44	verschiedene	_	ADJ	ADJA	_	45	NK	_	_
+45	Ophrysarten	_	NOUN	NN	_	43	CJ	_	_
+46	in	_	ADP	APPR	_	18	MO	_	_
+47	Menge	_	NOUN	NN	_	46	NK	_	_
+48	vor	_	VERB	PTKVZ	_	18	SVP	_	_
+49	.	_	PUNCT	$.	_	18	PUNCT	_	_
+
+# sent_id = 174
+# text = Auch die seltene Wahlenbergia hederacea wächst in der Nähe.
+1	Auch	_	ADV	ADV	_	4	MO	_	_
+2	die	_	DET	ART	_	4	NK	_	_
+3	seltene	_	ADJ	ADJA	_	4	NK	_	_
+4	Wahlenbergia	_	PROPN	NE	_	5	PNC	_	_
+5	hederacea	_	PROPN	NE	_	6	SB	_	_
+6	wächst	_	VERB	VVFIN	_	0	--	_	_
+7	in	_	ADP	APPR	_	6	MO	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Nähe	_	NOUN	NN	_	7	NK	_	_
+10	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 175
+# text = Ein Torfmoor des Pfälzerwaldes, wie z. B. jenes, welches sich oberhalb des Jagdhäusler Weihers (südlich von Kaiserslautern) ausdehnt, wo unter anderm Andromeda polifolia noch ziemlich häufig vorkommt.
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Torfmoor	_	NOUN	NN	_	0	--	_	_
+3	des	_	DET	ART	_	4	NK	_	_
+4	Pfälzerwaldes	_	NOUN	NN	_	2	AG	_	_
+5	,	_	PUNCT	$,	_	2	PUNCT	_	_
+6	wie	_	CONJ	KOKOM	_	9	CM	_	_
+7	z.	_	ADP	APPRART	_	9	MO	_	_
+8	B.	_	NOUN	NN	_	7	NK	_	_
+9	jenes	_	PRON	PDS	_	2	CC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	welches	_	PRON	PRELS	_	22	SB	_	_
+12	sich	_	PRON	PRF	_	22	OA	_	_
+13	oberhalb	_	ADP	APPR	_	22	MO	_	_
+14	des	_	DET	ART	_	16	NK	_	_
+15	Jagdhäusler	_	NOUN	NN	_	16	PNC	_	_
+16	Weihers	_	PROPN	NE	_	13	NK	_	_
+17	(	_	PUNCT	$(	_	18	PUNCT	_	_
+18	südlich	_	ADJ	ADJD	_	16	PAR	_	_
+19	von	_	ADP	APPR	_	18	PG	_	_
+20	Kaiserslautern	_	NOUN	NN	_	19	NK	_	_
+21	)	_	PUNCT	$(	_	18	PUNCT	_	_
+22	ausdehnt	_	VERB	VVPP	_	9	RC	_	_
+23	,	_	PUNCT	$,	_	22	PUNCT	_	_
+24	wo	_	PRON	PWAV	_	32	MO	_	_
+25	unter	_	ADP	APPR	_	32	MO	_	_
+26	anderm	_	PROPN	NE	_	25	NK	_	_
+27	Andromeda	_	NOUN	NN	_	28	PNC	_	_
+28	polifolia	_	PROPN	NE	_	32	SB	_	_
+29	noch	_	ADV	ADV	_	31	MO	_	_
+30	ziemlich	_	ADV	ADV	_	31	MO	_	_
+31	häufig	_	ADJ	ADJD	_	32	MO	_	_
+32	vorkommt	_	VERB	VVPP	_	16	RC	_	_
+33	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 176
+# text = Mit dem Wegbrechen dieser Felsen würden die letzten Standorte von Hutchinsia petraea, Arabis auriculata, Alsine Jacquini, Potentilla opaca, Trinia glauca, Globularia vulgaris, Sedum dasyphyllum, Stipa pennata etc. wohl für immer aus dem Gebiete unserer Flora verschwinden!
+1	Mit	_	ADP	APPR	_	6	MO	_	_
+2	dem	_	DET	ART	_	3	NK	_	_
+3	Wegbrechen	_	NOUN	NN	_	1	NK	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Felsen	_	NOUN	NN	_	3	AG	_	_
+6	würden	_	VERB	VAFIN	_	0	--	_	_
+7	die	_	DET	ART	_	9	NK	_	_
+8	letzten	_	ADJ	ADJA	_	9	NK	_	_
+9	Standorte	_	NOUN	NN	_	6	SB	_	_
+10	von	_	ADP	APPR	_	9	PG	_	_
+11	Hutchinsia	_	PROPN	NE	_	12	PNC	_	_
+12	petraea	_	NOUN	NN	_	10	NK	_	_
+13	,	_	PUNCT	$,	_	9	PUNCT	_	_
+14	Arabis	_	PROPN	NE	_	15	PNC	_	_
+15	auriculata	_	PROPN	NE	_	12	CJ	_	_
+16	,	_	PUNCT	$,	_	9	PUNCT	_	_
+17	Alsine	_	PROPN	NE	_	18	PNC	_	_
+18	Jacquini	_	PROPN	NE	_	15	CJ	_	_
+19	,	_	PUNCT	$,	_	9	PUNCT	_	_
+20	Potentilla	_	PROPN	NE	_	21	PNC	_	_
+21	opaca	_	VERB	VVPP	_	18	CJ	_	_
+22	,	_	PUNCT	$,	_	21	PUNCT	_	_
+23	Trinia	_	PROPN	NE	_	24	PNC	_	_
+24	glauca	_	PROPN	NE	_	21	CJ	_	_
+25	,	_	PUNCT	$,	_	21	PUNCT	_	_
+26	Globularia	_	PROPN	NE	_	27	PNC	_	_
+27	vulgaris	_	PROPN	NE	_	24	CJ	_	_
+28	,	_	PUNCT	$,	_	21	PUNCT	_	_
+29	Sedum	_	PROPN	NE	_	30	PNC	_	_
+30	dasyphyllum	_	PROPN	NE	_	27	CJ	_	_
+31	,	_	PUNCT	$,	_	6	PUNCT	_	_
+32	Stipa	_	PROPN	NE	_	33	PNC	_	_
+33	pennata	_	VERB	VVFIN	_	30	CJ	_	_
+34	etc.	_	ADV	ADV	_	33	CJ	_	_
+35	wohl	_	ADV	ADV	_	43	MO	_	_
+36	für	_	ADP	APPR	_	43	MO	_	_
+37	immer	_	ADV	ADV	_	36	NK	_	_
+38	aus	_	ADP	APPR	_	43	MO	_	_
+39	dem	_	DET	ART	_	40	NK	_	_
+40	Gebiete	_	NOUN	NN	_	38	NK	_	_
+41	unserer	_	PRON	PPOSAT	_	42	NK	_	_
+42	Flora	_	NOUN	NN	_	40	AG	_	_
+43	verschwinden	_	VERB	VVINF	_	6	OC	_	_
+44	!	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 177
+# text = Ein Stück des charakteristischen felsigen Bergwaldes am Donnersberg mit seinen Ahornen (Acer pseudoplatanus, A. platanoides, A. monspessulanum, der hier noch prächtige, starke Stämme bildet), Ulmen (Ulmus campestris, U. montana), Eschen (Fraxinus excelsior), Hainbuchen (Carpinus betulus), Linden (Tilia ulmifolia), dann mit Sorbus aria, S. aucuparia, S. torminalis, Amelanchier vulgaris, Cotoneaster integerrima
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Stück	_	NOUN	NN	_	0	--	_	_
+3	des	_	DET	ART	_	6	NK	_	_
+4	charakteristischen	_	ADJ	ADJA	_	6	NK	_	_
+5	felsigen	_	ADJ	ADJA	_	6	NK	_	_
+6	Bergwaldes	_	NOUN	NN	_	2	AG	_	_
+7	am	_	ADP	APPRART	_	6	MNR	_	_
+8	Donnersberg	_	PROPN	NE	_	7	NK	_	_
+9	mit	_	ADP	APPR	_	2	MNR	_	_
+10	seinen	_	PRON	PPOSAT	_	11	NK	_	_
+11	Ahornen	_	NOUN	NN	_	9	NK	_	_
+12	(	_	PUNCT	$(	_	13	PUNCT	_	_
+13	Acer	_	PROPN	NE	_	14	PNC	_	_
+14	pseudoplatanus	_	PROPN	NE	_	11	APP	_	_
+15	,	_	PUNCT	$,	_	13	PUNCT	_	_
+16	A.	_	PROPN	NE	_	17	PNC	_	_
+17	platanoides	_	PROPN	NE	_	13	CJ	_	_
+18	,	_	PUNCT	$,	_	13	PUNCT	_	_
+19	A.	_	PROPN	NE	_	20	PNC	_	_
+20	monspessulanum	_	PROPN	NE	_	17	CJ	_	_
+21	,	_	PUNCT	$,	_	13	PUNCT	_	_
+22	der	_	PRON	PRELS	_	29	SB	_	_
+23	hier	_	ADV	ADV	_	29	MO	_	_
+24	noch	_	ADV	ADV	_	28	MO	_	_
+25	prächtige	_	ADJ	ADJA	_	28	NK	_	_
+26	,	_	PUNCT	$,	_	25	PUNCT	_	_
+27	starke	_	ADJ	ADJA	_	25	CJ	_	_
+28	Stämme	_	NOUN	NN	_	29	OA	_	_
+29	bildet	_	VERB	VVFIN	_	20	RC	_	_
+30	)	_	PUNCT	$(	_	13	PUNCT	_	_
+31	,	_	PUNCT	$,	_	2	PUNCT	_	_
+32	Ulmen	_	NOUN	NN	_	11	CJ	_	_
+33	(	_	PUNCT	$(	_	34	PUNCT	_	_
+34	Ulmus	_	NOUN	NN	_	35	PNC	_	_
+35	campestris	_	PROPN	NE	_	32	APP	_	_
+36	,	_	PUNCT	$,	_	34	PUNCT	_	_
+37	U.	_	PROPN	NE	_	38	PNC	_	_
+38	montana	_	PROPN	NE	_	35	CJ	_	_
+39	)	_	PUNCT	$(	_	34	PUNCT	_	_
+40	,	_	PUNCT	$,	_	2	PUNCT	_	_
+41	Eschen	_	NOUN	NN	_	32	CJ	_	_
+42	(	_	PUNCT	$(	_	43	PUNCT	_	_
+43	Fraxinus	_	NOUN	NN	_	44	PNC	_	_
+44	excelsior	_	VERB	VVFIN	_	41	APP	_	_
+45	)	_	PUNCT	$(	_	44	PUNCT	_	_
+46	,	_	PUNCT	$,	_	2	PUNCT	_	_
+47	Hainbuchen	_	NOUN	NN	_	41	CJ	_	_
+48	(	_	PUNCT	$(	_	50	PUNCT	_	_
+49	Carpinus	_	PROPN	NE	_	50	PNC	_	_
+50	betulus	_	VERB	VVFIN	_	47	APP	_	_
+51	)	_	PUNCT	$(	_	50	PUNCT	_	_
+52	,	_	PUNCT	$,	_	2	PUNCT	_	_
+53	Linden	_	PROPN	NE	_	47	CJ	_	_
+54	(	_	PUNCT	$(	_	56	PUNCT	_	_
+55	Tilia	_	PROPN	NE	_	56	PNC	_	_
+56	ulmifolia	_	PROPN	NE	_	53	APP	_	_
+57	)	_	PUNCT	$(	_	56	PUNCT	_	_
+58	,	_	PUNCT	$,	_	2	PUNCT	_	_
+59	dann	_	ADV	ADV	_	60	CD	_	_
+60	mit	_	ADP	APPR	_	9	CJ	_	_
+61	Sorbus	_	NOUN	NN	_	62	PNC	_	_
+62	aria	_	VERB	VVPP	_	60	NK	_	_
+63	,	_	PUNCT	$,	_	62	PUNCT	_	_
+64	S.	_	NOUN	NN	_	65	PNC	_	_
+65	aucuparia	_	PROPN	NE	_	62	CJ	_	_
+66	,	_	PUNCT	$,	_	62	PUNCT	_	_
+67	S.	_	NOUN	NN	_	68	PNC	_	_
+68	torminalis	_	PROPN	NE	_	65	CJ	_	_
+69	,	_	PUNCT	$,	_	62	PUNCT	_	_
+70	Amelanchier	_	PROPN	NE	_	71	PNC	_	_
+71	vulgaris	_	PROPN	NE	_	68	CJ	_	_
+72	,	_	PUNCT	$,	_	62	PUNCT	_	_
+73	Cotoneaster	_	PROPN	NE	_	74	PNC	_	_
+74	integerrima	_	PROPN	NE	_	71	CJ	_	_
+
+# sent_id = 178
+# text = Feuchte quellenreiche Waldschluchten im Pfälzerwald, die Standorte unseres schönsten und stattlichsten Farnes Osmunda regalis.
+1	Feuchte	_	NOUN	NN	_	3	NK	_	_
+2	quellenreiche	_	ADJ	ADJA	_	3	NK	_	_
+3	Waldschluchten	_	NOUN	NN	_	3	ROOT	_	_
+4	im	_	ADP	APPRART	_	3	MNR	_	_
+5	Pfälzerwald	_	PROPN	NE	_	4	NK	_	_
+6	,	_	PUNCT	$,	_	1	PUNCT	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Standorte	_	NOUN	NN	_	3	APP	_	_
+9	unseres	_	PRON	PPOSAT	_	13	NK	_	_
+10	schönsten	_	ADJ	ADJA	_	13	NK	_	_
+11	und	_	CONJ	KON	_	10	CD	_	_
+12	stattlichsten	_	ADJ	ADJA	_	11	CJ	_	_
+13	Farnes	_	NOUN	NN	_	8	AG	_	_
+14	Osmunda	_	PROPN	NE	_	15	PNC	_	_
+15	regalis	_	PROPN	NE	_	13	APP	_	_
+16	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 179
+# text = Es gilt nur für die Hart, jenen klimatisch so sehr begünstigten schmalen Streifen am Ostabfall des Gebirges, wo in der sengenden Sonnenglut die Traube kocht und Edelkastanie und Mandelbaum ihre Früchte reifen, wo Siedelung sich an Siedelung drängt.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	gilt	_	VERB	VVFIN	_	0	--	_	_
+3	nur	_	ADV	ADV	_	4	MO	_	_
+4	für	_	ADP	APPR	_	2	MO	_	_
+5	die	_	DET	ART	_	6	NK	_	_
+6	Hart	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	jenen	_	PRON	PDS	_	14	NK	_	_
+9	klimatisch	_	ADJ	ADJD	_	12	MO	_	_
+10	so	_	ADV	ADV	_	11	MO	_	_
+11	sehr	_	ADV	ADV	_	12	MO	_	_
+12	begünstigten	_	ADJ	ADJA	_	14	NK	_	_
+13	schmalen	_	ADJ	ADJA	_	14	NK	_	_
+14	Streifen	_	NOUN	NN	_	6	PAR	_	_
+15	am	_	ADP	APPRART	_	14	MNR	_	_
+16	Ostabfall	_	NOUN	NN	_	15	NK	_	_
+17	des	_	DET	ART	_	18	NK	_	_
+18	Gebirges	_	NOUN	NN	_	16	AG	_	_
+19	,	_	PUNCT	$,	_	18	PUNCT	_	_
+20	wo	_	PRON	PWAV	_	27	MO	_	_
+21	in	_	ADP	APPR	_	27	MO	_	_
+22	der	_	DET	ART	_	24	NK	_	_
+23	sengenden	_	ADJ	ADJA	_	24	NK	_	_
+24	Sonnenglut	_	NOUN	NN	_	21	NK	_	_
+25	die	_	DET	ART	_	26	NK	_	_
+26	Traube	_	NOUN	NN	_	27	SB	_	_
+27	kocht	_	VERB	VVFIN	_	18	RC	_	_
+28	und	_	CONJ	KON	_	27	CD	_	_
+29	Edelkastanie	_	NOUN	NN	_	34	SB	_	_
+30	und	_	CONJ	KON	_	29	CD	_	_
+31	Mandelbaum	_	NOUN	NN	_	30	CJ	_	_
+32	ihre	_	PRON	PPOSAT	_	33	NK	_	_
+33	Früchte	_	NOUN	NN	_	34	OA	_	_
+34	reifen	_	VERB	VVINF	_	28	CJ	_	_
+35	,	_	PUNCT	$,	_	34	PUNCT	_	_
+36	wo	_	PRON	PWAV	_	41	MO	_	_
+37	Siedelung	_	NOUN	NN	_	41	SB	_	_
+38	sich	_	PRON	PRF	_	41	OA	_	_
+39	an	_	ADP	APPR	_	41	OP	_	_
+40	Siedelung	_	NOUN	NN	_	39	NK	_	_
+41	drängt	_	VERB	VVFIN	_	18	RC	_	_
+42	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 180
+# text = Buche (Fagus silvatica), Eiche (Quercus sessili- flora) und auf magerem fiachgründigem Boden die Kiefer (Pinus silvestris) bilden gegenwärtig den Hauptbestand dieses Waldes, seltener rein, meist mehr oder weniger gemischt.
+1	Buche	_	NOUN	NN	_	24	SB	_	_
+2	(	_	PUNCT	$(	_	3	PUNCT	_	_
+3	Fagus	_	PROPN	NE	_	4	PNC	_	_
+4	silvatica	_	PROPN	NE	_	1	APP	_	_
+5	)	_	PUNCT	$(	_	4	PUNCT	_	_
+6	,	_	PUNCT	$,	_	1	PUNCT	_	_
+7	Eiche	_	NOUN	NN	_	1	CJ	_	_
+8	(	_	PUNCT	$(	_	9	PUNCT	_	_
+9	Quercus	_	PROPN	NE	_	11	PNC	_	_
+10	sessili-	_	ADJ	ADJD	_	11	PNC	_	_
+11	flora	_	ADJ	ADJA	_	7	APP	_	_
+12	)	_	PUNCT	$(	_	11	PUNCT	_	_
+13	und	_	CONJ	KON	_	1	CD	_	_
+14	auf	_	ADP	APPR	_	24	MO	_	_
+15	magerem	_	ADJ	ADJA	_	17	NK	_	_
+16	fiachgründigem	_	ADJ	ADJA	_	17	NK	_	_
+17	Boden	_	NOUN	NN	_	14	NK	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Kiefer	_	NOUN	NN	_	13	CJ	_	_
+20	(	_	PUNCT	$(	_	21	PUNCT	_	_
+21	Pinus	_	NOUN	NN	_	22	PNC	_	_
+22	silvestris	_	PROPN	NE	_	19	APP	_	_
+23	)	_	PUNCT	$(	_	21	PUNCT	_	_
+24	bilden	_	VERB	VVFIN	_	0	--	_	_
+25	gegenwärtig	_	ADJ	ADJD	_	24	MO	_	_
+26	den	_	DET	ART	_	27	NK	_	_
+27	Hauptbestand	_	NOUN	NN	_	24	OA	_	_
+28	dieses	_	PRON	PDAT	_	29	NK	_	_
+29	Waldes	_	NOUN	NN	_	27	AG	_	_
+30	,	_	PUNCT	$,	_	27	PUNCT	_	_
+31	seltener	_	ADJ	ADJD	_	32	MO	_	_
+32	rein	_	ADJ	ADJD	_	24	MO	_	_
+33	,	_	PUNCT	$,	_	24	PUNCT	_	_
+34	meist	_	ADV	ADV	_	38	MO	_	_
+35	mehr	_	ADV	ADV	_	38	MO	_	_
+36	oder	_	CONJ	KON	_	35	CD	_	_
+37	weniger	_	ADV	ADV	_	36	CJ	_	_
+38	gemischt	_	VERB	VVPP	_	24	MO	_	_
+39	.	_	PUNCT	$.	_	24	PUNCT	_	_
+
+# sent_id = 181
+# text = Dasselbe gilt von der Lärche (Larix larix) und der Weisstanne (Abies alba).
+1	Dasselbe	_	PRON	PDS	_	2	SB	_	_
+2	gilt	_	VERB	VVFIN	_	0	--	_	_
+3	von	_	ADP	APPR	_	2	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Lärche	_	NOUN	NN	_	3	NK	_	_
+6	(	_	PUNCT	$(	_	8	PUNCT	_	_
+7	Larix	_	PROPN	NE	_	8	PNC	_	_
+8	larix	_	X	FM	_	5	APP	_	_
+9	)	_	PUNCT	$(	_	8	PUNCT	_	_
+10	und	_	CONJ	KON	_	5	CD	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Weisstanne	_	NOUN	NN	_	10	CJ	_	_
+13	(	_	PUNCT	$(	_	15	PUNCT	_	_
+14	Abies	_	PROPN	NE	_	15	PNC	_	_
+15	alba	_	PROPN	NE	_	12	APP	_	_
+16	)	_	PUNCT	$(	_	15	PUNCT	_	_
+17	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 182
+# text = Pollich erwähnt sie in seiner 1776—77 erschienenen Flora noch nicht.
+1	Pollich	_	PROPN	NE	_	2	SB	_	_
+2	erwähnt	_	VERB	VVFIN	_	0	--	_	_
+3	sie	_	PRON	PPER	_	2	OA	_	_
+4	in	_	ADP	APPR	_	2	MO	_	_
+5	seiner	_	PRON	PPOSAT	_	8	NK	_	_
+6	1776—77	_	NOUN	NN	_	7	MO	_	_
+7	erschienenen	_	ADJ	ADJA	_	8	NK	_	_
+8	Flora	_	NOUN	NN	_	4	NK	_	_
+9	noch	_	ADV	ADV	_	10	MO	_	_
+10	nicht	_	X	PTKNEG	_	2	NG	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 183
+# text = Unter ihnen hat vor allen Pinus Strobus, die Weymouthkiefer, bereits forstliche Bedeutung erlangt.
+1	Unter	_	ADP	APPR	_	15	MO	_	_
+2	ihnen	_	PRON	PPER	_	1	NK	_	_
+3	hat	_	VERB	VAFIN	_	0	--	_	_
+4	vor	_	ADP	APPR	_	15	MO	_	_
+5	allen	_	PRON	PIAT	_	4	NK	_	_
+6	Pinus	_	NOUN	NN	_	7	PNC	_	_
+7	Strobus	_	PROPN	NE	_	3	SB	_	_
+8	,	_	PUNCT	$,	_	6	PUNCT	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Weymouthkiefer	_	NOUN	NN	_	7	APP	_	_
+11	,	_	PUNCT	$,	_	10	PUNCT	_	_
+12	bereits	_	ADV	ADV	_	14	MO	_	_
+13	forstliche	_	ADJ	ADJA	_	14	NK	_	_
+14	Bedeutung	_	NOUN	NN	_	15	OA	_	_
+15	erlangt	_	VERB	VVPP	_	3	OC	_	_
+16	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 184
+# text = Auch Bürger fremder Florengebiete nehmen heute Teil an der Zusammensetzung des Pfälzerwaldes.
+1	Auch	_	ADV	ADV	_	2	MO	_	_
+2	Bürger	_	NOUN	NN	_	5	SB	_	_
+3	fremder	_	ADJ	ADJA	_	4	NK	_	_
+4	Florengebiete	_	NOUN	NN	_	2	AG	_	_
+5	nehmen	_	VERB	VVFIN	_	0	--	_	_
+6	heute	_	ADV	ADV	_	5	MO	_	_
+7	Teil	_	NOUN	NN	_	5	SVP	_	_
+8	an	_	ADP	APPR	_	5	OP	_	_
+9	der	_	DET	ART	_	10	NK	_	_
+10	Zusammensetzung	_	NOUN	NN	_	8	NK	_	_
+11	des	_	DET	ART	_	12	NK	_	_
+12	Pfälzerwaldes	_	NOUN	NN	_	10	AG	_	_
+13	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 185
+# text = Bereits vor mehr als 300 Jahren haben zwei der bedeutendsten Pflanzenkenner ihrer Zeit, welche den Ehrentitel „Väter der Botanik" mit vollem Recht verdienen, auch die Pfalz forschend und sammelnd durchstreift:
+1	Bereits	_	ADV	ADV	_	2	MO	_	_
+2	vor	_	ADP	APPR	_	34	MO	_	_
+3	mehr	_	PRON	PIAT	_	6	NK	_	_
+4	als	_	CONJ	KOKOM	_	5	CM	_	_
+5	300	_	NUM	CARD	_	3	CC	_	_
+6	Jahren	_	NOUN	NN	_	2	NK	_	_
+7	haben	_	VERB	VAFIN	_	0	--	_	_
+8	zwei	_	NUM	CARD	_	7	SB	_	_
+9	der	_	DET	ART	_	11	NK	_	_
+10	bedeutendsten	_	ADJ	ADJA	_	11	NK	_	_
+11	Pflanzenkenner	_	NOUN	NN	_	8	AG	_	_
+12	ihrer	_	PRON	PPOSAT	_	13	NK	_	_
+13	Zeit	_	NOUN	NN	_	11	AG	_	_
+14	,	_	PUNCT	$,	_	8	PUNCT	_	_
+15	welche	_	PRON	PRELS	_	26	SB	_	_
+16	den	_	DET	ART	_	17	NK	_	_
+17	Ehrentitel	_	NOUN	NN	_	26	OA	_	_
+18	„	_	PUNCT	$(	_	19	PUNCT	_	_
+19	Väter	_	NOUN	NN	_	17	NK	_	_
+20	der	_	DET	ART	_	21	NK	_	_
+21	Botanik	_	NOUN	NN	_	19	AG	_	_
+22	"	_	PUNCT	$(	_	19	PUNCT	_	_
+23	mit	_	ADP	APPR	_	26	MO	_	_
+24	vollem	_	ADJ	ADJA	_	25	NK	_	_
+25	Recht	_	NOUN	NN	_	23	NK	_	_
+26	verdienen	_	VERB	VVFIN	_	8	RC	_	_
+27	,	_	PUNCT	$,	_	7	PUNCT	_	_
+28	auch	_	ADV	ADV	_	30	MO	_	_
+29	die	_	DET	ART	_	30	NK	_	_
+30	Pfalz	_	PROPN	NE	_	34	OA	_	_
+31	forschend	_	ADJ	ADJD	_	34	MO	_	_
+32	und	_	CONJ	KON	_	31	CD	_	_
+33	sammelnd	_	ADJ	ADJD	_	32	CJ	_	_
+34	durchstreift	_	VERB	VVFIN	_	7	OC	_	_
+35	:	_	PUNCT	$.	_	7	PUNCT	_	_
+
+# sent_id = 186
+# text = So wertvoll die aufgeführten botanischen Werke auch zweifellos sind, wenn es gilt, die ehemalige und jetzige Verbreitung bestimmter einzelner Pflanzen zu vergleichen, so wenig leisten sie doch, wenn wir uns ein anschauliches Bild des früheren Vegetationscharakters einer bestimmten Pflanzenformation, in unserem Falle also derjenigen des Naturwaldes, verschaffen wollen.
+1	So	_	ADV	ADV	_	2	MO	_	_
+2	wertvoll	_	ADJ	ADJD	_	9	PD	_	_
+3	die	_	DET	ART	_	6	NK	_	_
+4	aufgeführten	_	ADJ	ADJA	_	6	NK	_	_
+5	botanischen	_	ADJ	ADJA	_	6	NK	_	_
+6	Werke	_	NOUN	NN	_	9	SB	_	_
+7	auch	_	ADV	ADV	_	8	MO	_	_
+8	zweifellos	_	ADJ	ADJD	_	9	MO	_	_
+9	sind	_	VERB	VAFIN	_	26	OC	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	wenn	_	CONJ	KOUS	_	13	CP	_	_
+12	es	_	PRON	PPER	_	13	SB	_	_
+13	gilt	_	VERB	VVFIN	_	9	MO	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	die	_	DET	ART	_	19	NK	_	_
+16	ehemalige	_	ADJ	ADJA	_	19	NK	_	_
+17	und	_	CONJ	KON	_	16	CD	_	_
+18	jetzige	_	ADJ	ADJA	_	17	CJ	_	_
+19	Verbreitung	_	NOUN	NN	_	24	OA	_	_
+20	bestimmter	_	ADJ	ADJA	_	22	NK	_	_
+21	einzelner	_	ADJ	ADJA	_	22	NK	_	_
+22	Pflanzen	_	NOUN	NN	_	19	AG	_	_
+23	zu	_	X	PTKZU	_	24	PM	_	_
+24	vergleichen	_	VERB	VVINF	_	12	RE	_	_
+25	,	_	PUNCT	$,	_	26	PUNCT	_	_
+26	so	_	ADV	ADV	_	27	MO	_	_
+27	wenig	_	PRON	PIS	_	28	MO	_	_
+28	leisten	_	VERB	VVFIN	_	0	--	_	_
+29	sie	_	PRON	PPER	_	28	SB	_	_
+30	doch	_	ADV	ADV	_	28	MO	_	_
+31	,	_	PUNCT	$,	_	28	PUNCT	_	_
+32	wenn	_	CONJ	KOUS	_	54	CP	_	_
+33	wir	_	PRON	PPER	_	54	SB	_	_
+34	uns	_	PRON	PRF	_	53	DA	_	_
+35	ein	_	DET	ART	_	37	NK	_	_
+36	anschauliches	_	ADJ	ADJA	_	37	NK	_	_
+37	Bild	_	NOUN	NN	_	53	OA	_	_
+38	des	_	DET	ART	_	40	NK	_	_
+39	früheren	_	ADJ	ADJA	_	40	NK	_	_
+40	Vegetationscharakters	_	NOUN	NN	_	37	AG	_	_
+41	einer	_	DET	ART	_	43	NK	_	_
+42	bestimmten	_	ADJ	ADJA	_	43	NK	_	_
+43	Pflanzenformation	_	NOUN	NN	_	40	AG	_	_
+44	,	_	PUNCT	$,	_	37	PUNCT	_	_
+45	in	_	ADP	APPR	_	49	MO	_	_
+46	unserem	_	PRON	PPOSAT	_	47	NK	_	_
+47	Falle	_	NOUN	NN	_	45	NK	_	_
+48	also	_	ADV	ADV	_	49	MO	_	_
+49	derjenigen	_	PRON	PDS	_	43	APP	_	_
+50	des	_	DET	ART	_	51	NK	_	_
+51	Naturwaldes	_	NOUN	NN	_	49	AG	_	_
+52	,	_	PUNCT	$,	_	53	PUNCT	_	_
+53	verschaffen	_	VERB	VVINF	_	54	OC	_	_
+54	wollen	_	VERB	VMFIN	_	28	MO	_	_
+55	.	_	PUNCT	$.	_	28	PUNCT	_	_
+
+# sent_id = 187
+# text = Ich erwähne hier vorzüglich nur dieser beiden Berge, weil sie wahrhaft bas Bild der Vorzeit und des deutschen Urwaldes gaben, und an jene Zeiten erinnerten, wo nach Tacitus Ausdruck Germania silvis horrida noch war.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	erwähne	_	VERB	VVFIN	_	0	--	_	_
+3	hier	_	ADV	ADV	_	2	MO	_	_
+4	vorzüglich	_	ADJ	ADJD	_	2	MO	_	_
+5	nur	_	ADV	ADV	_	8	MO	_	_
+6	dieser	_	PRON	PDAT	_	8	NK	_	_
+7	beiden	_	PRON	PIAT	_	8	NK	_	_
+8	Berge	_	NOUN	NN	_	2	OA	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	weil	_	CONJ	KOUS	_	21	CP	_	_
+11	sie	_	PRON	PPER	_	21	SB	_	_
+12	wahrhaft	_	ADV	ADV	_	21	MO	_	_
+13	bas	_	ADP	APPR	_	14	NK	_	_
+14	Bild	_	NOUN	NN	_	21	OA	_	_
+15	der	_	DET	ART	_	16	NK	_	_
+16	Vorzeit	_	NOUN	NN	_	14	AG	_	_
+17	und	_	CONJ	KON	_	16	CD	_	_
+18	des	_	DET	ART	_	20	NK	_	_
+19	deutschen	_	ADJ	ADJA	_	20	NK	_	_
+20	Urwaldes	_	NOUN	NN	_	17	CJ	_	_
+21	gaben	_	VERB	VVFIN	_	2	MO	_	_
+22	,	_	PUNCT	$,	_	2	PUNCT	_	_
+23	und	_	CONJ	KON	_	2	CD	_	_
+24	an	_	ADP	APPR	_	27	OP	_	_
+25	jene	_	PRON	PDAT	_	26	NK	_	_
+26	Zeiten	_	NOUN	NN	_	24	NK	_	_
+27	erinnerten	_	VERB	VVFIN	_	23	CJ	_	_
+28	,	_	PUNCT	$,	_	27	PUNCT	_	_
+29	wo	_	PRON	PWAV	_	37	MO	_	_
+30	nach	_	ADP	APPR	_	37	MO	_	_
+31	Tacitus	_	PROPN	NE	_	32	AG	_	_
+32	Ausdruck	_	NOUN	NN	_	30	NK	_	_
+33	Germania	_	PROPN	NE	_	37	SB	_	_
+34	silvis	_	VERB	VVFIN	_	37	PD	_	_
+35	horrida	_	PROPN	NE	_	34	MO	_	_
+36	noch	_	ADV	ADV	_	37	MO	_	_
+37	war	_	VERB	VAFIN	_	26	RC	_	_
+38	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 188
+# text = Wenn man diefe Bergerde genau durchsuchte, so fand man erst eine Laubdecke von mehreren Schuhen, dann Tangeln oder Nadeln von Kiefern, tiefer eine 4 bis 10 Zoll dicke vegetabiliche, sehr fette Dammerde, Holzerde, ganz und halb verfaultes Eichenholz und oft noch gleichsam versteinerte Holzfasern von Eichen und Hainbuchen, mitunter auch kenntliche Hefte von der Fichte (Pinus picea), welche letztere doch jetzt in jenen Gegenden auf 30 bis 40 Stunben nicht anders mehr, als neu angesäet, zu finden ist.
+1	Wenn	_	CONJ	KOUS	_	6	CP	_	_
+2	man	_	PRON	PIS	_	6	SB	_	_
+3	diefe	_	ADJ	ADJA	_	4	NK	_	_
+4	Bergerde	_	NOUN	NN	_	6	OA	_	_
+5	genau	_	ADJ	ADJD	_	6	MO	_	_
+6	durchsuchte	_	VERB	VVFIN	_	8	OC	_	_
+7	,	_	PUNCT	$,	_	8	PUNCT	_	_
+8	so	_	ADV	ADV	_	9	MO	_	_
+9	fand	_	VERB	VVFIN	_	0	--	_	_
+10	man	_	PRON	PIS	_	9	SB	_	_
+11	erst	_	ADV	ADV	_	9	MO	_	_
+12	eine	_	DET	ART	_	13	NK	_	_
+13	Laubdecke	_	NOUN	NN	_	9	OA	_	_
+14	von	_	ADP	APPR	_	13	MNR	_	_
+15	mehreren	_	PRON	PIAT	_	16	NK	_	_
+16	Schuhen	_	NOUN	NN	_	14	NK	_	_
+17	,	_	PUNCT	$,	_	9	PUNCT	_	_
+18	dann	_	ADV	ADV	_	13	CD	_	_
+19	Tangeln	_	NOUN	NN	_	18	CJ	_	_
+20	oder	_	CONJ	KON	_	19	CD	_	_
+21	Nadeln	_	NOUN	NN	_	20	CJ	_	_
+22	von	_	ADP	APPR	_	21	PG	_	_
+23	Kiefern	_	NOUN	NN	_	22	NK	_	_
+24	,	_	PUNCT	$,	_	19	PUNCT	_	_
+25	tiefer	_	ADJ	ADJD	_	9	MO	_	_
+26	eine	_	DET	ART	_	30	NK	_	_
+27	4	_	NUM	CARD	_	30	NK	_	_
+28	bis	_	CONJ	KON	_	27	CD	_	_
+29	10	_	NUM	CARD	_	28	CJ	_	_
+30	Zoll	_	NOUN	NN	_	31	AMS	_	_
+31	dicke	_	ADJ	ADJA	_	36	NK	_	_
+32	vegetabiliche	_	ADJ	ADJA	_	36	NK	_	_
+33	,	_	PUNCT	$,	_	32	PUNCT	_	_
+34	sehr	_	ADV	ADV	_	35	MO	_	_
+35	fette	_	ADJ	ADJA	_	32	CJ	_	_
+36	Dammerde	_	NOUN	NN	_	19	CJ	_	_
+37	,	_	PUNCT	$,	_	36	PUNCT	_	_
+38	Holzerde	_	NOUN	NN	_	36	CJ	_	_
+39	,	_	PUNCT	$,	_	19	PUNCT	_	_
+40	ganz	_	ADV	ADV	_	43	MO	_	_
+41	und	_	CONJ	KON	_	40	CD	_	_
+42	halb	_	ADJ	ADJD	_	41	CJ	_	_
+43	verfaultes	_	ADJ	ADJA	_	44	NK	_	_
+44	Eichenholz	_	NOUN	NN	_	38	CJ	_	_
+45	und	_	CONJ	KON	_	44	CD	_	_
+46	oft	_	ADV	ADV	_	9	MO	_	_
+47	noch	_	ADV	ADV	_	48	MO	_	_
+48	gleichsam	_	ADJ	ADJD	_	49	MO	_	_
+49	versteinerte	_	ADJ	ADJA	_	50	NK	_	_
+50	Holzfasern	_	NOUN	NN	_	45	CJ	_	_
+51	von	_	ADP	APPR	_	50	PG	_	_
+52	Eichen	_	NOUN	NN	_	51	NK	_	_
+53	und	_	CONJ	KON	_	52	CD	_	_
+54	Hainbuchen	_	NOUN	NN	_	53	CJ	_	_
+55	,	_	PUNCT	$,	_	19	PUNCT	_	_
+56	mitunter	_	ADV	ADV	_	59	MO	_	_
+57	auch	_	ADV	ADV	_	59	MO	_	_
+58	kenntliche	_	ADJ	ADJA	_	59	NK	_	_
+59	Hefte	_	NOUN	NN	_	50	CJ	_	_
+60	von	_	ADP	APPR	_	59	PG	_	_
+61	der	_	DET	ART	_	62	NK	_	_
+62	Fichte	_	NOUN	NN	_	60	NK	_	_
+63	(	_	PUNCT	$(	_	64	PUNCT	_	_
+64	Pinus	_	NOUN	NN	_	65	PNC	_	_
+65	picea	_	PROPN	NE	_	62	APP	_	_
+66	)	_	PUNCT	$(	_	65	PUNCT	_	_
+67	,	_	PUNCT	$,	_	19	PUNCT	_	_
+68	welche	_	PRON	PWAT	_	90	SB	_	_
+69	letztere	_	PRON	PIS	_	68	NK	_	_
+70	doch	_	ADV	ADV	_	89	MO	_	_
+71	jetzt	_	ADV	ADV	_	70	MO	_	_
+72	in	_	ADP	APPR	_	89	MO	_	_
+73	jenen	_	PRON	PDAT	_	74	NK	_	_
+74	Gegenden	_	NOUN	NN	_	72	NK	_	_
+75	auf	_	ADP	APPR	_	89	MO	_	_
+76	30	_	NUM	CARD	_	79	NK	_	_
+77	bis	_	CONJ	KON	_	76	CD	_	_
+78	40	_	NUM	CARD	_	77	CJ	_	_
+79	Stunben	_	NOUN	NN	_	75	NK	_	_
+80	nicht	_	X	PTKNEG	_	81	NG	_	_
+81	anders	_	ADV	ADV	_	82	MO	_	_
+82	mehr	_	ADV	ADV	_	89	MO	_	_
+83	,	_	PUNCT	$,	_	82	PUNCT	_	_
+84	als	_	CONJ	KOKOM	_	86	CM	_	_
+85	neu	_	ADJ	ADJD	_	86	MO	_	_
+86	angesäet	_	VERB	VVFIN	_	82	CC	_	_
+87	,	_	PUNCT	$,	_	89	PUNCT	_	_
+88	zu	_	X	PTKZU	_	89	PM	_	_
+89	finden	_	VERB	VVINF	_	90	OC	_	_
+90	ist	_	VERB	VAFIN	_	62	RC	_	_
+91	.	_	PUNCT	$.	_	9	PUNCT	_	_
+
+# sent_id = 189
+# text = Der Hauptbestand war Fichten- und Tannenbildung (Pinus picea unb Pinus abies).
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Hauptbestand	_	NOUN	NN	_	3	SB	_	_
+3	war	_	VERB	VAFIN	_	0	--	_	_
+4	Fichten-	_	X	TRUNC	_	5	CJ	_	_
+5	und	_	CONJ	KON	_	6	CD	_	_
+6	Tannenbildung	_	NOUN	NN	_	3	PD	_	_
+7	(	_	PUNCT	$(	_	8	PUNCT	_	_
+8	Pinus	_	PROPN	NE	_	9	PNC	_	_
+9	picea	_	PROPN	NE	_	6	APP	_	_
+10	unb	_	PROPN	NE	_	9	CD	_	_
+11	Pinus	_	PROPN	NE	_	12	PNC	_	_
+12	abies	_	VERB	VVFIN	_	10	CJ	_	_
+13	)	_	PUNCT	$(	_	12	PUNCT	_	_
+14	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 190
+# text = Ich wiederhole es, daß man noch im Jahr 1793 die qanze schauerliche Pracht einer Urwaldbildung erblicken konnte.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	wiederhole	_	VERB	VVFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	OA	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	daß	_	CONJ	KOUS	_	18	CP	_	_
+6	man	_	PRON	PIS	_	18	SB	_	_
+7	noch	_	ADV	ADV	_	8	MO	_	_
+8	im	_	ADP	APPRART	_	18	MO	_	_
+9	Jahr	_	NOUN	NN	_	8	NK	_	_
+10	1793	_	NUM	CARD	_	9	NK	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	qanze	_	ADJ	ADJA	_	14	NK	_	_
+13	schauerliche	_	ADJ	ADJA	_	14	NK	_	_
+14	Pracht	_	NOUN	NN	_	17	OA	_	_
+15	einer	_	DET	ART	_	16	NK	_	_
+16	Urwaldbildung	_	NOUN	NN	_	14	AG	_	_
+17	erblicken	_	VERB	VVINF	_	18	OC	_	_
+18	konnte	_	VERB	VMFIN	_	3	RE	_	_
+19	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 191
+# text = Die Eiche scheint in älteren Zeiten vollkommen prädominirend gewesen zu seyn.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Eiche	_	NOUN	NN	_	3	SB	_	_
+3	scheint	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	9	MO	_	_
+5	älteren	_	ADJ	ADJA	_	6	NK	_	_
+6	Zeiten	_	NOUN	NN	_	4	NK	_	_
+7	vollkommen	_	ADJ	ADJD	_	8	MO	_	_
+8	prädominirend	_	ADJ	ADJD	_	9	PD	_	_
+9	gewesen	_	VERB	VAPP	_	11	PD	_	_
+10	zu	_	ADP	APPR	_	11	PM	_	_
+11	seyn	_	ADJ	ADJD	_	3	OC	_	_
+12	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 192
+# text = Den Lerchenbaum fand man auch hie und da.
+1	Den	_	DET	ART	_	2	NK	_	_
+2	Lerchenbaum	_	NOUN	NN	_	3	OA	_	_
+3	fand	_	VERB	VVFIN	_	0	--	_	_
+4	man	_	PRON	PIS	_	3	SB	_	_
+5	auch	_	ADV	ADV	_	3	MO	_	_
+6	hie	_	ADV	ADV	_	3	MO	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	da	_	ADV	ADV	_	7	CJ	_	_
+9	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 193
+# text = Einige Gegenden hingegen waren ganz unzugänglich, wie z. B. der große Hengst, die Fischbach und die Glashüttenwände u.s.w. Ungeheueres Lagerholz, ganz und halb verfaulte Stämme, Wind- und Schneebrüche, stellenweise undurchdringliche Dickichte, von Fichten und Tannen sumpfigte und ganz ersäufte Stellen, 50 bis 60 Morgen groß, große von den Sommer und Winterstürmen, gleichsam kunstmäßig, angelegte Verhaue, durch welche Anflug und Auffschlag mühsam sich durchgewinden hatten, veranlassten die Forstbeamten, jene Gegenden, welche die zerstörende, aber auch unermüdet reproduzirende Natur in ihrer höchsten Pracht darstellten, völlig unangerührt zu lassen, weil Hauungen und Aufräumungen oder eine regelmäßige Forstbewirtschaftung die großen Auslagen, trotz des Holzverkaufs, nie vergütet haben würden.
+1	Einige	_	PRON	PIAT	_	2	NK	_	_
+2	Gegenden	_	NOUN	NN	_	4	SB	_	_
+3	hingegen	_	ADV	ADV	_	2	MO	_	_
+4	waren	_	VERB	VAFIN	_	77	CJ	_	_
+5	ganz	_	ADV	ADV	_	6	MO	_	_
+6	unzugänglich	_	ADJ	ADJD	_	4	PD	_	_
+7	,	_	PUNCT	$,	_	4	PUNCT	_	_
+8	wie	_	CONJ	KOKOM	_	2	CD	_	_
+9	z.	_	ADP	APPRART	_	13	MO	_	_
+10	B.	_	NOUN	NN	_	9	NK	_	_
+11	der	_	DET	ART	_	13	NK	_	_
+12	große	_	ADJ	ADJA	_	13	NK	_	_
+13	Hengst	_	NOUN	NN	_	8	CJ	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	die	_	DET	ART	_	16	NK	_	_
+16	Fischbach	_	PROPN	NE	_	13	CJ	_	_
+17	und	_	CONJ	KON	_	16	CD	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Glashüttenwände	_	NOUN	NN	_	17	CJ	_	_
+20	u.s.w.	_	PROPN	NE	_	19	CD	_	_
+21	Ungeheueres	_	PROPN	NE	_	22	NK	_	_
+22	Lagerholz	_	NOUN	NN	_	77	SB	_	_
+23	,	_	PUNCT	$,	_	19	PUNCT	_	_
+24	ganz	_	ADV	ADV	_	27	MO	_	_
+25	und	_	CONJ	KON	_	24	CD	_	_
+26	halb	_	ADJ	ADJD	_	25	CJ	_	_
+27	verfaulte	_	ADJ	ADJA	_	28	NK	_	_
+28	Stämme	_	NOUN	NN	_	22	CJ	_	_
+29	,	_	PUNCT	$,	_	28	PUNCT	_	_
+30	Wind-	_	X	TRUNC	_	31	CJ	_	_
+31	und	_	CONJ	KON	_	32	CD	_	_
+32	Schneebrüche	_	NOUN	NN	_	28	CJ	_	_
+33	,	_	PUNCT	$,	_	28	PUNCT	_	_
+34	stellenweise	_	ADV	ADV	_	36	MO	_	_
+35	undurchdringliche	_	ADJ	ADJA	_	36	NK	_	_
+36	Dickichte	_	NOUN	NN	_	32	CJ	_	_
+37	,	_	PUNCT	$,	_	28	PUNCT	_	_
+38	von	_	ADP	APPR	_	42	MO	_	_
+39	Fichten	_	NOUN	NN	_	38	NK	_	_
+40	und	_	CONJ	KON	_	39	CD	_	_
+41	Tannen	_	NOUN	NN	_	40	CJ	_	_
+42	sumpfigte	_	VERB	VVFIN	_	46	NK	_	_
+43	und	_	CONJ	KON	_	42	CD	_	_
+44	ganz	_	ADV	ADV	_	45	MO	_	_
+45	ersäufte	_	ADJ	ADJA	_	43	CJ	_	_
+46	Stellen	_	NOUN	NN	_	36	CJ	_	_
+47	,	_	PUNCT	$,	_	46	PUNCT	_	_
+48	50	_	NUM	CARD	_	51	NK	_	_
+49	bis	_	CONJ	KON	_	48	CD	_	_
+50	60	_	NUM	CARD	_	49	CJ	_	_
+51	Morgen	_	NOUN	NN	_	52	AMS	_	_
+52	groß	_	ADJ	ADJD	_	46	MO	_	_
+53	,	_	PUNCT	$,	_	52	PUNCT	_	_
+54	große	_	ADJ	ADJA	_	65	NK	_	_
+55	von	_	ADP	APPR	_	64	SBP	_	_
+56	den	_	DET	ART	_	57	NK	_	_
+57	Sommer	_	NOUN	NN	_	55	NK	_	_
+58	und	_	CONJ	KON	_	57	CD	_	_
+59	Winterstürmen	_	NOUN	NN	_	58	CJ	_	_
+60	,	_	PUNCT	$,	_	54	PUNCT	_	_
+61	gleichsam	_	ADJ	ADJD	_	62	MO	_	_
+62	kunstmäßig	_	ADJ	ADJD	_	64	MO	_	_
+63	,	_	PUNCT	$,	_	64	PUNCT	_	_
+64	angelegte	_	ADJ	ADJA	_	54	CJ	_	_
+65	Verhaue	_	NOUN	NN	_	46	CJ	_	_
+66	,	_	PUNCT	$,	_	65	PUNCT	_	_
+67	durch	_	ADP	APPR	_	74	MO	_	_
+68	welche	_	PRON	PWAT	_	67	NK	_	_
+69	Anflug	_	NOUN	NN	_	75	SB	_	_
+70	und	_	CONJ	KON	_	69	CD	_	_
+71	Auffschlag	_	NOUN	NN	_	70	CJ	_	_
+72	mühsam	_	ADJ	ADJD	_	74	MO	_	_
+73	sich	_	PRON	PRF	_	74	OA	_	_
+74	durchgewinden	_	VERB	VVINF	_	75	OC	_	_
+75	hatten	_	VERB	VAFIN	_	65	RC	_	_
+76	,	_	PUNCT	$,	_	77	PUNCT	_	_
+77	veranlassten	_	VERB	VVFIN	_	0	--	_	_
+78	die	_	DET	ART	_	79	NK	_	_
+79	Forstbeamten	_	NOUN	NN	_	77	OA	_	_
+80	,	_	PUNCT	$,	_	77	PUNCT	_	_
+81	jene	_	PRON	PDAT	_	82	NK	_	_
+82	Gegenden	_	NOUN	NN	_	102	OA	_	_
+83	,	_	PUNCT	$,	_	82	PUNCT	_	_
+84	welche	_	PRON	PRELS	_	97	SB	_	_
+85	die	_	DET	ART	_	92	NK	_	_
+86	zerstörende	_	ADJ	ADJA	_	92	NK	_	_
+87	,	_	PUNCT	$,	_	86	PUNCT	_	_
+88	aber	_	CONJ	KON	_	86	CD	_	_
+89	auch	_	ADV	ADV	_	90	MO	_	_
+90	unermüdet	_	ADJ	ADJD	_	91	MO	_	_
+91	reproduzirende	_	ADJ	ADJA	_	88	CJ	_	_
+92	Natur	_	NOUN	NN	_	97	OA	_	_
+93	in	_	ADP	APPR	_	97	MO	_	_
+94	ihrer	_	PRON	PPOSAT	_	96	NK	_	_
+95	höchsten	_	ADJ	ADJA	_	96	NK	_	_
+96	Pracht	_	NOUN	NN	_	93	NK	_	_
+97	darstellten	_	VERB	VVFIN	_	82	RC	_	_
+98	,	_	PUNCT	$,	_	102	PUNCT	_	_
+99	völlig	_	ADJ	ADJD	_	100	MO	_	_
+100	unangerührt	_	VERB	VVPP	_	102	OC	_	_
+101	zu	_	X	PTKZU	_	102	PM	_	_
+102	lassen	_	VERB	VVINF	_	77	OC	_	_
+103	,	_	PUNCT	$,	_	102	PUNCT	_	_
+104	weil	_	CONJ	KOUS	_	123	CP	_	_
+105	Hauungen	_	NOUN	NN	_	123	SB	_	_
+106	und	_	CONJ	KON	_	105	CD	_	_
+107	Aufräumungen	_	NOUN	NN	_	106	CJ	_	_
+108	oder	_	CONJ	KON	_	105	CD	_	_
+109	eine	_	DET	ART	_	111	NK	_	_
+110	regelmäßige	_	ADJ	ADJA	_	111	NK	_	_
+111	Forstbewirtschaftung	_	NOUN	NN	_	108	CJ	_	_
+112	die	_	DET	ART	_	114	NK	_	_
+113	großen	_	ADJ	ADJA	_	114	NK	_	_
+114	Auslagen	_	NOUN	NN	_	121	OA	_	_
+115	,	_	PUNCT	$,	_	114	PUNCT	_	_
+116	trotz	_	ADP	APPR	_	121	MO	_	_
+117	des	_	DET	ART	_	118	NK	_	_
+118	Holzverkaufs	_	NOUN	NN	_	116	NK	_	_
+119	,	_	PUNCT	$,	_	123	PUNCT	_	_
+120	nie	_	ADV	ADV	_	121	MO	_	_
+121	vergütet	_	VERB	VVPP	_	122	OC	_	_
+122	haben	_	VERB	VAINF	_	123	OC	_	_
+123	würden	_	VERB	VAFIN	_	102	MO	_	_
+124	.	_	PUNCT	$.	_	77	PUNCT	_	_
+
+# sent_id = 194
+# text = Pfrimmen—Besenginster (Sarothamnus scoparius).
+1	Pfrimmen—Besenginster	_	NOUN	NN	_	0	--	_	_
+2	(	_	PUNCT	$(	_	3	PUNCT	_	_
+3	Sarothamnus	_	NOUN	NN	_	4	PNC	_	_
+4	scoparius	_	PROPN	NE	_	1	APP	_	_
+5	)	_	PUNCT	$(	_	3	PUNCT	_	_
+6	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 195
+# text = Am 22. Mai 1901 beobachtete ich auf dem Altrhein bei Neuhofen längere Zeit vier dieser prächtigen Vögel.
+1	Am	_	ADP	APPRART	_	5	MO	_	_
+2	22.	_	ADJ	ADJA	_	3	NK	_	_
+3	Mai	_	NOUN	NN	_	1	NK	_	_
+4	1901	_	NUM	CARD	_	3	NK	_	_
+5	beobachtete	_	VERB	VVFIN	_	0	--	_	_
+6	ich	_	PRON	PPER	_	5	SB	_	_
+7	auf	_	ADP	APPR	_	5	MO	_	_
+8	dem	_	DET	ART	_	9	NK	_	_
+9	Altrhein	_	NOUN	NN	_	7	NK	_	_
+10	bei	_	ADP	APPR	_	9	MNR	_	_
+11	Neuhofen	_	NOUN	NN	_	10	NK	_	_
+12	längere	_	ADJ	ADJA	_	5	MO	_	_
+13	Zeit	_	NOUN	NN	_	12	NK	_	_
+14	vier	_	NUM	CARD	_	5	OA	_	_
+15	dieser	_	PRON	PDAT	_	17	NK	_	_
+16	prächtigen	_	ADJ	ADJA	_	17	NK	_	_
+17	Vögel	_	NOUN	NN	_	14	AG	_	_
+18	.	_	PUNCT	$.	_	5	PUNCT	_	_
+
+# sent_id = 196
+# text = In folgendem möchte ich nur kurz das Vorkommen von vier seltenen Vögeln feststellen, welche von den Gebrüder Heussler nicht erwähnt werden.
+1	In	_	ADP	APPR	_	3	MO	_	_
+2	folgendem	_	ADV	ADV	_	1	NK	_	_
+3	möchte	_	VERB	VMFIN	_	0	--	_	_
+4	ich	_	PRON	PPER	_	3	SB	_	_
+5	nur	_	ADV	ADV	_	6	MO	_	_
+6	kurz	_	ADJ	ADJD	_	3	MO	_	_
+7	das	_	DET	ART	_	8	NK	_	_
+8	Vorkommen	_	NOUN	NN	_	13	OA	_	_
+9	von	_	ADP	APPR	_	8	PG	_	_
+10	vier	_	NUM	CARD	_	12	NK	_	_
+11	seltenen	_	ADJ	ADJA	_	12	NK	_	_
+12	Vögeln	_	NOUN	NN	_	9	NK	_	_
+13	feststellen	_	VERB	VVINF	_	3	OC	_	_
+14	,	_	PUNCT	$,	_	13	PUNCT	_	_
+15	welche	_	PRON	PRELS	_	22	SB	_	_
+16	von	_	ADP	APPR	_	21	SBP	_	_
+17	den	_	DET	ART	_	18	NK	_	_
+18	Gebrüder	_	NOUN	NN	_	16	NK	_	_
+19	Heussler	_	PROPN	NE	_	18	NK	_	_
+20	nicht	_	X	PTKNEG	_	21	NG	_	_
+21	erwähnt	_	VERB	VVPP	_	22	OC	_	_
+22	werden	_	VERB	VAINF	_	12	RC	_	_
+23	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 197
+# text = Einen jungen Vogel dieser Art schoss am 17. September 1902 in meinem Beisein Herr Fabrikdirektor J. Schiffer in Grünstadt auf dem "Grünstadter Berg", einem noch reich mit Ödungen und Kalkfelsen bedeckten trockenen Hügel unmittelbar bei der genannten Stadt.
+1	Einen	_	DET	ART	_	3	NK	_	_
+2	jungen	_	ADJ	ADJA	_	3	NK	_	_
+3	Vogel	_	NOUN	NN	_	6	OA	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Art	_	NOUN	NN	_	3	AG	_	_
+6	schoss	_	ADJ	ADJD	_	6	ROOT	_	_
+7	am	_	ADP	APPRART	_	6	MO	_	_
+8	17.	_	ADJ	ADJA	_	9	NK	_	_
+9	September	_	NOUN	NN	_	7	NK	_	_
+10	1902	_	NUM	CARD	_	9	NK	_	_
+11	in	_	ADP	APPR	_	6	MO	_	_
+12	meinem	_	PRON	PPOSAT	_	13	NK	_	_
+13	Beisein	_	NOUN	NN	_	11	NK	_	_
+14	Herr	_	NOUN	NN	_	6	SB	_	_
+15	Fabrikdirektor	_	NOUN	NN	_	14	NK	_	_
+16	J.	_	PROPN	NE	_	17	PNC	_	_
+17	Schiffer	_	PROPN	NE	_	14	NK	_	_
+18	in	_	ADP	APPR	_	6	MO	_	_
+19	Grünstadt	_	PROPN	NE	_	18	NK	_	_
+20	auf	_	ADP	APPR	_	19	MNR	_	_
+21	dem	_	DET	ART	_	23	NK	_	_
+22	"	_	PUNCT	$(	_	23	PUNCT	_	_
+23	Grünstadter	_	NOUN	NN	_	20	NK	_	_
+24	Berg	_	PROPN	NE	_	23	NK	_	_
+25	"	_	PUNCT	$(	_	23	PUNCT	_	_
+26	,	_	PUNCT	$,	_	23	PUNCT	_	_
+27	einem	_	DET	ART	_	36	NK	_	_
+28	noch	_	ADV	ADV	_	29	MO	_	_
+29	reich	_	ADJ	ADJD	_	34	MO	_	_
+30	mit	_	ADP	APPR	_	34	MO	_	_
+31	Ödungen	_	NOUN	NN	_	30	NK	_	_
+32	und	_	CONJ	KON	_	31	CD	_	_
+33	Kalkfelsen	_	NOUN	NN	_	32	CJ	_	_
+34	bedeckten	_	ADJ	ADJA	_	36	NK	_	_
+35	trockenen	_	ADJ	ADJA	_	36	NK	_	_
+36	Hügel	_	NOUN	NN	_	23	PAR	_	_
+37	unmittelbar	_	ADJ	ADJD	_	38	MO	_	_
+38	bei	_	ADP	APPR	_	36	MNR	_	_
+39	der	_	DET	ART	_	41	NK	_	_
+40	genannten	_	ADJ	ADJA	_	41	NK	_	_
+41	Stadt	_	NOUN	NN	_	38	NK	_	_
+42	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 198
+# text = Wir sahen nur dies eine Exemplar, welches mir von dem Schützen zum Geschenke gemacht wurde.
+1	Wir	_	PRON	PPER	_	2	SB	_	_
+2	sahen	_	VERB	VVFIN	_	0	--	_	_
+3	nur	_	ADV	ADV	_	4	MO	_	_
+4	dies	_	PRON	PDS	_	6	NK	_	_
+5	eine	_	DET	ART	_	6	NK	_	_
+6	Exemplar	_	NOUN	NN	_	2	OA	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	welches	_	PRON	PRELS	_	16	SB	_	_
+9	mir	_	PRON	PPER	_	15	DA	_	_
+10	von	_	ADP	APPR	_	15	SBP	_	_
+11	dem	_	DET	ART	_	12	NK	_	_
+12	Schützen	_	NOUN	NN	_	10	NK	_	_
+13	zum	_	ADP	APPRART	_	15	MO	_	_
+14	Geschenke	_	NOUN	NN	_	13	NK	_	_
+15	gemacht	_	VERB	VVPP	_	16	OC	_	_
+16	wurde	_	VERB	VAFIN	_	6	RC	_	_
+17	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 199
+# text = Wurde im Januar 1901 bei Johanniskreuz im Pfälzerwald durch Herrn Forstassistenten Jäger erlegt.
+1	Wurde	_	VERB	VAFIN	_	0	--	_	_
+2	im	_	ADP	APPRART	_	13	MO	_	_
+3	Januar	_	NOUN	NN	_	2	NK	_	_
+4	1901	_	NUM	CARD	_	3	NK	_	_
+5	bei	_	ADP	APPR	_	13	MO	_	_
+6	Johanniskreuz	_	PROPN	NE	_	5	NK	_	_
+7	im	_	ADP	APPRART	_	6	MNR	_	_
+8	Pfälzerwald	_	PROPN	NE	_	7	NK	_	_
+9	durch	_	ADP	APPR	_	13	SBP	_	_
+10	Herrn	_	NOUN	NN	_	9	NK	_	_
+11	Forstassistenten	_	ADJ	ADJA	_	10	NK	_	_
+12	Jäger	_	NOUN	NN	_	10	NK	_	_
+13	erlegt	_	VERB	VVFIN	_	1	OC	_	_
+14	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 200
+# text = Vögel.
+1	Vögel	_	NOUN	NN	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 201
+# text = Pelecanus onocrotalus L. —
+1	Pelecanus	_	PROPN	NE	_	2	PNC	_	_
+2	onocrotalus	_	PROPN	NE	_	2	ROOT	_	_
+3	L.	_	PROPN	NE	_	2	PNC	_	_
+4	—	_	PUNCT	$(	_	2	PUNCT	_	_
+
+# sent_id = 202
+# text = Pelikan.
+1	Pelikan	_	PROPN	NE	_	0	--	_	_
+2	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 203
+# text = Sehr gemein auf den Hügeln des Tertiärkalkes, besonders zwischen Dürkheim und Grünstadt, meist in Gesellschaft von Xerophila ericetorum O. F. M.
+1	Sehr	_	ADV	ADV	_	2	MO	_	_
+2	gemein	_	ADJ	ADJD	_	0	--	_	_
+3	auf	_	ADP	APPR	_	2	MO	_	_
+4	den	_	DET	ART	_	5	NK	_	_
+5	Hügeln	_	NOUN	NN	_	3	NK	_	_
+6	des	_	DET	ART	_	7	NK	_	_
+7	Tertiärkalkes	_	NOUN	NN	_	5	AG	_	_
+8	,	_	PUNCT	$,	_	3	PUNCT	_	_
+9	besonders	_	ADV	ADV	_	10	MO	_	_
+10	zwischen	_	ADP	APPR	_	2	MO	_	_
+11	Dürkheim	_	PROPN	NE	_	10	NK	_	_
+12	und	_	CONJ	KON	_	11	CD	_	_
+13	Grünstadt	_	PROPN	NE	_	12	CJ	_	_
+14	,	_	PUNCT	$,	_	10	PUNCT	_	_
+15	meist	_	ADV	ADV	_	16	MO	_	_
+16	in	_	ADP	APPR	_	10	CJ	_	_
+17	Gesellschaft	_	NOUN	NN	_	16	NK	_	_
+18	von	_	ADP	APPR	_	17	PG	_	_
+19	Xerophila	_	PROPN	NE	_	20	PNC	_	_
+20	ericetorum	_	PROPN	NE	_	18	NK	_	_
+21	O.	_	PROPN	NE	_	23	PNC	_	_
+22	F.	_	PROPN	NE	_	23	PNC	_	_
+23	M.	_	PROPN	NE	_	20	PNC	_	_
+
+# sent_id = 204
+# text = Bezüglich des Wohnortes dieser sehr zarten und durchsichtigen Art sagt Clessin*)
+1	Bezüglich	_	NOUN	NN	_	10	MO	_	_
+2	des	_	DET	ART	_	3	NK	_	_
+3	Wohnortes	_	NOUN	NN	_	1	OG	_	_
+4	dieser	_	PRON	PDAT	_	9	NK	_	_
+5	sehr	_	ADV	ADV	_	6	MO	_	_
+6	zarten	_	ADJ	ADJA	_	9	NK	_	_
+7	und	_	CONJ	KON	_	6	CD	_	_
+8	durchsichtigen	_	ADJ	ADJA	_	7	CJ	_	_
+9	Art	_	NOUN	NN	_	3	AG	_	_
+10	sagt	_	VERB	VVFIN	_	0	--	_	_
+11	Clessin	_	PROPN	NE	_	10	SB	_	_
+12	*	_	X	XY	_	10	PUNCT	_	_
+13	)	_	PUNCT	$(	_	10	PUNCT	_	_
+
+# sent_id = 205
+# text = Sehr verborgen im lehmigen Boden (an den Wurzeln von Pflanzen?)
+1	Sehr	_	ADV	ADV	_	2	MO	_	_
+2	verborgen	_	VERB	VVPP	_	0	--	_	_
+3	im	_	ADP	APPRART	_	2	MO	_	_
+4	lehmigen	_	ADJ	ADJA	_	5	NK	_	_
+5	Boden	_	NOUN	NN	_	3	NK	_	_
+6	(	_	PUNCT	$(	_	9	PUNCT	_	_
+7	an	_	ADP	APPR	_	2	PAR	_	_
+8	den	_	DET	ART	_	9	NK	_	_
+9	Wurzeln	_	NOUN	NN	_	7	NK	_	_
+10	von	_	ADP	APPR	_	9	PG	_	_
+11	Pflanzen	_	NOUN	NN	_	10	NK	_	_
+12	?	_	PUNCT	$.	_	2	PUNCT	_	_
+13	)	_	PUNCT	$(	_	2	PUNCT	_	_
+
+# sent_id = 206
+# text = von Juni bis in den November hinein meist an den Rasen der Characeen in 1—3 m Tiefe, weniger an Blättern und Stengeln von Nymphaea und Nuphar;
+1	von	_	ADP	APPR	_	1	ROOT	_	_
+2	Juni	_	NOUN	NN	_	1	NK	_	_
+3	bis	_	ADP	APPR	_	1	CD	_	_
+4	in	_	ADP	APPR	_	3	CJ	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	November	_	NOUN	NN	_	4	NK	_	_
+7	hinein	_	ADP	APZR	_	6	NK	_	_
+8	meist	_	ADV	ADV	_	9	MO	_	_
+9	an	_	ADP	APPR	_	1	MO	_	_
+10	den	_	DET	ART	_	11	NK	_	_
+11	Rasen	_	NOUN	NN	_	9	NK	_	_
+12	der	_	DET	ART	_	13	NK	_	_
+13	Characeen	_	NOUN	NN	_	11	AG	_	_
+14	in	_	ADP	APPR	_	11	MNR	_	_
+15	1—3	_	NOUN	NN	_	16	NMC	_	_
+16	m	_	PROPN	NE	_	17	NK	_	_
+17	Tiefe	_	PROPN	NE	_	14	NK	_	_
+18	,	_	PUNCT	$,	_	9	PUNCT	_	_
+19	weniger	_	ADV	ADV	_	20	MO	_	_
+20	an	_	ADP	APPR	_	9	CJ	_	_
+21	Blättern	_	NOUN	NN	_	20	NK	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	Stengeln	_	NOUN	NN	_	22	CJ	_	_
+24	von	_	ADP	APPR	_	23	PG	_	_
+25	Nymphaea	_	PROPN	NE	_	24	NK	_	_
+26	und	_	CONJ	KON	_	25	CD	_	_
+27	Nuphar	_	PROPN	NE	_	26	CJ	_	_
+28	;	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 207
+# text = Bei Maudach in dichten Klumpen an Schilf;
+1	Bei	_	ADP	APPR	_	0	--	_	_
+2	Maudach	_	PROPN	NE	_	1	NK	_	_
+3	in	_	ADP	APPR	_	2	MNR	_	_
+4	dichten	_	ADJ	ADJA	_	5	NK	_	_
+5	Klumpen	_	NOUN	NN	_	3	NK	_	_
+6	an	_	ADP	APPR	_	2	MNR	_	_
+7	Schilf	_	NOUN	NN	_	6	NK	_	_
+8	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 208
+# text = Von ähnlicher Verbreitung wie Cristatella, doch nicht so häufig.
+1	Von	_	ADP	APPR	_	0	--	_	_
+2	ähnlicher	_	ADJ	ADJA	_	3	NK	_	_
+3	Verbreitung	_	NOUN	NN	_	1	NK	_	_
+4	wie	_	CONJ	KOKOM	_	5	CM	_	_
+5	Cristatella	_	PROPN	NE	_	3	CC	_	_
+6	,	_	PUNCT	$,	_	1	PUNCT	_	_
+7	doch	_	CONJ	KON	_	1	CD	_	_
+8	nicht	_	X	PTKNEG	_	10	NG	_	_
+9	so	_	ADV	ADV	_	10	MO	_	_
+10	häufig	_	ADJ	ADJD	_	7	CJ	_	_
+11	.	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 209
+# text = Alcyonella fungosa Pallas.
+1	Alcyonella	_	PROPN	NE	_	3	PNC	_	_
+2	fungosa	_	ADJ	ADJA	_	3	PNC	_	_
+3	Pallas	_	NOUN	NN	_	0	--	_	_
+4	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

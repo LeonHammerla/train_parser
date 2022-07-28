@@ -27,7 +27,7 @@ def create_conllu_files_for_data(save_corpus: bool = True,
                                  save_document: bool = False,
                                  save_sent: bool = False):
     """
-    Main Function for creating a conllu files for every subfolder in data that is listed
+    Main Function for creating conllu files for every subfolder in data that is listed
     in dirs-variable.
     :return:
     """
@@ -250,7 +250,56 @@ def extract_cas_information(corpus_id: str,
 
 
 
+def create_conllu_files_for_data_new():
+    """
+    Main Function for creating conllu files for every subfolder in data that is listed
+    in dirs-variable.
+    :return:
+    """
+    # --> Creating Log-file:
+    logfile_dir = os.path.join(ROOT_DIR, "data", "conllu_files_new")
+    pathlib.Path(logfile_dir).mkdir(parents=True, exist_ok=True)
+    logfile = os.path.join(logfile_dir, "log.txt")
+    with open(logfile, "w") as f:
+        f.write("This is a automatically created log-file:\n\n")
+    # --> Getting Typesystem:
+    typesystem = load_typesystem_from_path(os.path.join(ROOT_DIR, "data/TypeSystem.xml"))
+    # --> Different directories:
+    dirs = ["27294", "27329", "27624", "28451"]
+    ids = ["tiger", "ud", "ud", "tiger"]
+    # --> Finding all Paths:
+    paths_for_corpora = find_all_caspaths_per_corpus(dirs)
+    # --> pbars:
+    tot = sum([len(subl) for subl in paths_for_corpora])
+
+    main_bar = tqdm(total=tot, desc="Converting Corpora", leave=True, position=0)
+
+    # --> Main-Loop for all corpora extracting and saving:
+    for corpus_idx in range(0, len(paths_for_corpora)):
+        sent_id = 0
+
+        # --> Collecting all Lists of Tokenlists for each xmi-path:
+        for file_path in paths_for_corpora[corpus_idx]:
+            res, sent_id = extract_cas_information(ids[corpus_idx], file_path, typesystem, logfile, sent_id)
+            document_name = file_path.split("/")[-1]
+            pathlib.Path(os.path.join(ROOT_DIR, f"data/conllu_files_new/{dirs[corpus_idx]}/{document_name}")).mkdir(parents=True,
+                                                                                                       exist_ok=True)
+            # Document-Based:
+            with open(os.path.join(ROOT_DIR, f"data/conllu_files_new/{dirs[corpus_idx]}/{document_name}.conllu"), "w") as f:
+                for compiled_sentence in res:
+                    f.write(compiled_sentence.serialize())
+
+            # Sent-Based:
+            for c, compiled_sentence in enumerate(res):
+                with open(os.path.join(ROOT_DIR, f"data/conllu_files_new/{dirs[corpus_idx]}/{document_name}/{c}.conllu"), "w") as f:
+                    f.write(compiled_sentence.serialize())
+
+            main_bar.update(1)
+
+
+
+
+
+
 if __name__ == '__main__':
-    create_conllu_files_for_data(save_corpus=True,
-                                 save_sent=True,
-                                 save_document=True)
+    create_conllu_files_for_data_new()

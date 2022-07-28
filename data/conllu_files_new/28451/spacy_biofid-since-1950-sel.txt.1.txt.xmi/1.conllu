@@ -1,0 +1,21 @@
+# sent_id = 134
+# text = Sie lebt dort in den Randbereichen der Wälder, an Lichtungsrändern und in Stangenhölzern mit aufgelockerter Gehölzstruktur.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	lebt	_	VERB	VVFIN	_	0	--	_	_
+3	dort	_	ADV	ADV	_	2	MO	_	_
+4	in	_	ADP	APPR	_	2	MO	_	_
+5	den	_	DET	ART	_	6	NK	_	_
+6	Randbereichen	_	NOUN	NN	_	4	NK	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Wälder	_	NOUN	NN	_	6	AG	_	_
+9	,	_	PUNCT	$,	_	2	PUNCT	_	_
+10	an	_	ADP	APPR	_	4	CJ	_	_
+11	Lichtungsrändern	_	NOUN	NN	_	10	NK	_	_
+12	und	_	CONJ	KON	_	10	CD	_	_
+13	in	_	ADP	APPR	_	12	CJ	_	_
+14	Stangenhölzern	_	PROPN	NE	_	13	NK	_	_
+15	mit	_	ADP	APPR	_	14	MNR	_	_
+16	aufgelockerter	_	ADJ	ADJA	_	17	NK	_	_
+17	Gehölzstruktur	_	NOUN	NN	_	15	NK	_	_
+18	.	_	PUNCT	$.	_	2	PUNCT	_	_
+

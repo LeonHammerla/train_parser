@@ -1,0 +1,506 @@
+# sent_id = 55
+# text = Auch um Frieden zu sichern, brauchen wir völlig neue Instrumente.
+1	Auch	_	_	_	_	5	advmod	_	_
+2	um	_	_	_	_	5	mark	_	_
+3	Frieden	_	_	_	_	5	obj	_	_
+4	zu	_	_	_	_	5	mark	_	_
+5	sichern	_	_	_	_	7	advcl	_	_
+6	,	_	_	_	_	5	punct	_	_
+7	brauchen	_	_	_	_	0	root	_	_
+8	wir	_	_	_	_	7	nsubj	_	_
+9	völlig	_	_	_	_	10	advmod	_	_
+10	neue	_	_	_	_	11	amod	_	_
+11	Instrumente	_	_	_	_	7	obj	_	_
+12	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 56
+# text = Jetzt will ich Ihnen einfach mathematisch klarmachen, was das für den Bundeshaushalt bedeutet.
+1	Jetzt	_	_	_	_	7	advmod	_	_
+2	will	_	_	_	_	7	aux	_	_
+3	ich	_	_	_	_	7	nsubj	_	_
+4	Ihnen	_	_	_	_	7	iobj	_	_
+5	einfach	_	_	_	_	6	advmod	_	_
+6	mathematisch	_	_	_	_	7	advmod	_	_
+7	klarmachen	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	14	punct	_	_
+9	was	_	_	_	_	14	obj	_	_
+10	das	_	_	_	_	14	nsubj	_	_
+11	für	_	_	_	_	13	case	_	_
+12	den	_	_	_	_	13	det	_	_
+13	Bundeshaushalt	_	_	_	_	14	obl	_	_
+14	bedeutet	_	_	_	_	7	ccomp	_	_
+15	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 57
+# text = Auch langzeitarbeitslose Menschen müssen natürlich das Recht haben, sich selbstbestimmt und frei einen Arbeitsplatz auszusuchen.
+1	Auch	_	_	_	_	3	advmod	_	_
+2	langzeitarbeitslose	_	_	_	_	3	amod	_	_
+3	Menschen	_	_	_	_	8	nsubj	_	_
+4	müssen	_	_	_	_	8	aux	_	_
+5	natürlich	_	_	_	_	8	advmod	_	_
+6	das	_	_	_	_	7	det	_	_
+7	Recht	_	_	_	_	8	obj	_	_
+8	haben	_	_	_	_	0	root	_	_
+9	,	_	_	_	_	16	punct	_	_
+10	sich	_	_	_	_	16	iobj	_	_
+11	selbstbestimmt	_	_	_	_	16	advmod	_	_
+12	und	_	_	_	_	13	cc	_	_
+13	frei	_	_	_	_	11	conj	_	_
+14	einen	_	_	_	_	15	det	_	_
+15	Arbeitsplatz	_	_	_	_	16	obj	_	_
+16	auszusuchen	_	_	_	_	7	acl	_	_
+17	.	_	_	_	_	8	punct	_	_
+
+# sent_id = 58
+# text = Wir können Ihnen die Projekte gerne auflisten, damit Sie sehen, wie vielfältig dieses Programm ausgestaltet ist.
+1	Wir	_	_	_	_	7	nsubj	_	_
+2	können	_	_	_	_	7	aux	_	_
+3	Ihnen	_	_	_	_	7	iobj	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Projekte	_	_	_	_	7	obj	_	_
+6	gerne	_	_	_	_	7	advmod	_	_
+7	auflisten	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	11	punct	_	_
+9	damit	_	_	_	_	11	mark	_	_
+10	Sie	_	_	_	_	11	nsubj	_	_
+11	sehen	_	_	_	_	7	advcl	_	_
+12	,	_	_	_	_	17	punct	_	_
+13	wie	_	_	_	_	14	advmod	_	_
+14	vielfältig	_	_	_	_	17	advmod	_	_
+15	dieses	_	_	_	_	16	det	_	_
+16	Programm	_	_	_	_	17	nsubj:pass	_	_
+17	ausgestaltet	_	_	_	_	11	ccomp	_	_
+18	ist	_	_	_	_	17	aux:pass	_	_
+19	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 59
+# text = Wir sollten in der Tat einen Beitrag dazu leisten, dass der Iran beides nicht tut.
+1	Wir	_	_	_	_	9	nsubj	_	_
+2	sollten	_	_	_	_	9	aux	_	_
+3	in	_	_	_	_	5	case	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Tat	_	_	_	_	9	obl	_	_
+6	einen	_	_	_	_	7	det	_	_
+7	Beitrag	_	_	_	_	9	obj	_	_
+8	dazu	_	_	_	_	9	obl	_	_
+9	leisten	_	_	_	_	0	root	_	_
+10	,	_	_	_	_	16	punct	_	_
+11	dass	_	_	_	_	16	mark	_	_
+12	der	_	_	_	_	13	det	_	_
+13	Iran	_	_	_	_	16	nsubj	_	_
+14	beides	_	_	_	_	16	obj	_	_
+15	nicht	_	_	_	_	16	advmod	_	_
+16	tut	_	_	_	_	8	advcl	_	_
+17	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 60
+# text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
+1	Wenn	_	_	_	_	8	mark	_	_
+2	es	_	_	_	_	8	expl	_	_
+3	um	_	_	_	_	5	case	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Zukunftsfragen	_	_	_	_	8	obl	_	_
+6	unseres	_	_	_	_	7	det:poss	_	_
+7	Landes	_	_	_	_	5	nmod	_	_
+8	geht	_	_	_	_	11	advcl	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	dann	_	_	_	_	11	advmod	_	_
+11	führt	_	_	_	_	0	root	_	_
+12	kein	_	_	_	_	13	nmod	_	_
+13	Weg	_	_	_	_	11	nsubj	_	_
+14	am	_	_	_	_	15	case	_	_
+15	Handwerk	_	_	_	_	11	obl	_	_
+16	vorbei	_	_	_	_	11	compound:prt	_	_
+17	.	_	_	_	_	11	punct	_	_
+
+# sent_id = 61
+# text = Umso schöner finde ich, dass sich Special Olympics Deutschland im Sommer um die Austragung der World Games beworben hat.
+1	Umso	_	_	_	_	3	advmod	_	_
+2	schöner	_	_	_	_	3	xcomp	_	_
+3	finde	_	_	_	_	0	root	_	_
+4	ich	_	_	_	_	3	nsubj	_	_
+5	,	_	_	_	_	19	punct	_	_
+6	dass	_	_	_	_	19	mark	_	_
+7	sich	_	_	_	_	19	obj	_	_
+8	Special	_	_	_	_	19	nsubj	_	_
+9	Olympics	_	_	_	_	8	flat	_	_
+10	Deutschland	_	_	_	_	8	flat	_	_
+11	im	_	_	_	_	12	case	_	_
+12	Sommer	_	_	_	_	19	obl	_	_
+13	um	_	_	_	_	15	case	_	_
+14	die	_	_	_	_	15	det	_	_
+15	Austragung	_	_	_	_	19	obl	_	_
+16	der	_	_	_	_	17	det	_	_
+17	World	_	_	_	_	15	nmod	_	_
+18	Games	_	_	_	_	17	flat	_	_
+19	beworben	_	_	_	_	3	ccomp	_	_
+20	hat	_	_	_	_	19	aux	_	_
+21	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 62
+# text = Der Staat und die Politik setzen die Rahmenbedingungen dafür, dass die Gewerkschaften und die Arbeitgeberverbände diese Aufgabe auch umsetzen können.
+1	Der	_	_	_	_	2	det	_	_
+2	Staat	_	_	_	_	6	nsubj	_	_
+3	und	_	_	_	_	5	cc	_	_
+4	die	_	_	_	_	5	det	_	_
+5	Politik	_	_	_	_	2	conj	_	_
+6	setzen	_	_	_	_	0	root	_	_
+7	die	_	_	_	_	8	det	_	_
+8	Rahmenbedingungen	_	_	_	_	6	obj	_	_
+9	dafür	_	_	_	_	6	obl	_	_
+10	,	_	_	_	_	20	punct	_	_
+11	dass	_	_	_	_	20	mark	_	_
+12	die	_	_	_	_	13	det	_	_
+13	Gewerkschaften	_	_	_	_	20	nsubj	_	_
+14	und	_	_	_	_	16	cc	_	_
+15	die	_	_	_	_	16	det	_	_
+16	Arbeitgeberverbände	_	_	_	_	13	conj	_	_
+17	diese	_	_	_	_	18	det	_	_
+18	Aufgabe	_	_	_	_	20	obj	_	_
+19	auch	_	_	_	_	20	advmod	_	_
+20	umsetzen	_	_	_	_	9	advcl	_	_
+21	können	_	_	_	_	20	aux	_	_
+22	.	_	_	_	_	6	punct	_	_
+
+# sent_id = 63
+# text = Dieser Haushalt drückt das ganze Elend und die Beliebigkeit der Merkel-Ära aus, der wohl dunkelsten Kanzlerschaft, die Deutschland erlebt hat.
+1	Dieser	_	_	_	_	2	det	_	_
+2	Haushalt	_	_	_	_	3	nsubj	_	_
+3	drückt	_	_	_	_	0	root	_	_
+4	das	_	_	_	_	6	det	_	_
+5	ganze	_	_	_	_	6	amod	_	_
+6	Elend	_	_	_	_	3	obj	_	_
+7	und	_	_	_	_	9	cc	_	_
+8	die	_	_	_	_	9	det	_	_
+9	Beliebigkeit	_	_	_	_	6	conj	_	_
+10	der	_	_	_	_	11	det	_	_
+11	Merkel-Ära	_	_	_	_	6	nmod	_	_
+12	aus	_	_	_	_	3	compound:prt	_	_
+13	,	_	_	_	_	17	punct	_	_
+14	der	_	_	_	_	17	det	_	_
+15	wohl	_	_	_	_	16	advmod	_	_
+16	dunkelsten	_	_	_	_	17	amod	_	_
+17	Kanzlerschaft	_	_	_	_	11	appos	_	_
+18	,	_	_	_	_	21	punct	_	_
+19	die	_	_	_	_	21	obj	_	_
+20	Deutschland	_	_	_	_	21	nsubj	_	_
+21	erlebt	_	_	_	_	17	acl	_	_
+22	hat	_	_	_	_	21	aux	_	_
+23	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 64
+# text = Der entscheidende Punkt muss doch sein, dass die Personen, die jahrzehntelang Versicherungsansprüche aufgebaut haben, aus der Grundsicherung herauskommen.
+1	Der	_	_	_	_	3	det	_	_
+2	entscheidende	_	_	_	_	3	amod	_	_
+3	Punkt	_	_	_	_	0	root	_	_
+4	muss	_	_	_	_	3	aux	_	_
+5	doch	_	_	_	_	3	advmod	_	_
+6	sein	_	_	_	_	3	cop	_	_
+7	,	_	_	_	_	21	punct	_	_
+8	dass	_	_	_	_	21	mark	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Personen	_	_	_	_	21	nsubj	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	die	_	_	_	_	15	nsubj	_	_
+13	jahrzehntelang	_	_	_	_	15	advmod	_	_
+14	Versicherungsansprüche	_	_	_	_	15	obj	_	_
+15	aufgebaut	_	_	_	_	10	acl	_	_
+16	haben	_	_	_	_	15	aux	_	_
+17	,	_	_	_	_	10	punct	_	_
+18	aus	_	_	_	_	20	case	_	_
+19	der	_	_	_	_	20	det	_	_
+20	Grundsicherung	_	_	_	_	21	obl	_	_
+21	herauskommen	_	_	_	_	3	csubj	_	_
+22	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 65
+# text = Es sieht weiter vor, dass eine Zollgrenze entlang der Irischen See, also in ihrem eigenen Land, errichtet wird, wenn Großbritannien den Binnenmarkt verlässt.
+1	Es	_	_	_	_	2	nsubj	_	_
+2	sieht	_	_	_	_	0	root	_	_
+3	weiter	_	_	_	_	2	advmod	_	_
+4	vor	_	_	_	_	2	compound:prt	_	_
+5	,	_	_	_	_	20	punct	_	_
+6	dass	_	_	_	_	20	mark	_	_
+7	eine	_	_	_	_	8	det	_	_
+8	Zollgrenze	_	_	_	_	20	nsubj:pass	_	_
+9	entlang	_	_	_	_	12	case	_	_
+10	der	_	_	_	_	12	det	_	_
+11	Irischen	_	_	_	_	12	amod	_	_
+12	See	_	_	_	_	8	nmod	_	_
+13	,	_	_	_	_	18	punct	_	_
+14	also	_	_	_	_	18	advmod	_	_
+15	in	_	_	_	_	18	case	_	_
+16	ihrem	_	_	_	_	18	det:poss	_	_
+17	eigenen	_	_	_	_	18	amod	_	_
+18	Land	_	_	_	_	12	conj	_	_
+19	,	_	_	_	_	18	punct	_	_
+20	errichtet	_	_	_	_	2	ccomp	_	_
+21	wird	_	_	_	_	20	aux:pass	_	_
+22	,	_	_	_	_	27	punct	_	_
+23	wenn	_	_	_	_	27	mark	_	_
+24	Großbritannien	_	_	_	_	27	nsubj	_	_
+25	den	_	_	_	_	26	det	_	_
+26	Binnenmarkt	_	_	_	_	27	obj	_	_
+27	verlässt	_	_	_	_	20	advcl	_	_
+28	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 66
+# text = Aber jetzt kommt der Unterschied zwischen der freien Marktwirtschaft und der sozialen Marktwirtschaft, so wie wir sie in der Union seit Ludwig Erhard verankert sehen.
+1	Aber	_	_	_	_	3	cc	_	_
+2	jetzt	_	_	_	_	3	advmod	_	_
+3	kommt	_	_	_	_	0	root	_	_
+4	der	_	_	_	_	5	det	_	_
+5	Unterschied	_	_	_	_	3	nsubj	_	_
+6	zwischen	_	_	_	_	9	case	_	_
+7	der	_	_	_	_	9	det	_	_
+8	freien	_	_	_	_	9	amod	_	_
+9	Marktwirtschaft	_	_	_	_	5	nmod	_	_
+10	und	_	_	_	_	13	cc	_	_
+11	der	_	_	_	_	13	det	_	_
+12	sozialen	_	_	_	_	13	amod	_	_
+13	Marktwirtschaft	_	_	_	_	9	conj	_	_
+14	,	_	_	_	_	26	punct	_	_
+15	so	_	_	_	_	26	advmod	_	_
+16	wie	_	_	_	_	26	mark	_	_
+17	wir	_	_	_	_	26	nsubj	_	_
+18	sie	_	_	_	_	25	obj	_	_
+19	in	_	_	_	_	21	case	_	_
+20	der	_	_	_	_	21	det	_	_
+21	Union	_	_	_	_	25	obl	_	_
+22	seit	_	_	_	_	23	case	_	_
+23	Ludwig	_	_	_	_	25	obl	_	_
+24	Erhard	_	_	_	_	23	flat	_	_
+25	verankert	_	_	_	_	26	xcomp	_	_
+26	sehen	_	_	_	_	13	acl	_	_
+27	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 67
+# text = Ich möchte sagen, dass links von mir, also rechts von Ihnen, da vielleicht noch ein bisschen mehr Nachholbedarf besteht als auf dieser Seite des Hauses.
+1	Ich	_	_	_	_	3	nsubj	_	_
+2	möchte	_	_	_	_	3	aux	_	_
+3	sagen	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	6	punct	_	_
+5	dass	_	_	_	_	22	mark	_	_
+6	links	_	_	_	_	22	advmod	_	_
+7	von	_	_	_	_	8	case	_	_
+8	mir	_	_	_	_	6	obl	_	_
+9	,	_	_	_	_	11	punct	_	_
+10	also	_	_	_	_	11	advmod	_	_
+11	rechts	_	_	_	_	6	appos	_	_
+12	von	_	_	_	_	13	case	_	_
+13	Ihnen	_	_	_	_	11	obl	_	_
+14	,	_	_	_	_	22	punct	_	_
+15	da	_	_	_	_	22	obl	_	_
+16	vielleicht	_	_	_	_	22	advmod	_	_
+17	noch	_	_	_	_	20	advmod	_	_
+18	ein	_	_	_	_	19	det	_	_
+19	bisschen	_	_	_	_	20	advmod	_	_
+20	mehr	_	_	_	_	21	det	_	_
+21	Nachholbedarf	_	_	_	_	22	nsubj	_	_
+22	besteht	_	_	_	_	3	ccomp	_	_
+23	als	_	_	_	_	26	case	_	_
+24	auf	_	_	_	_	26	case	_	_
+25	dieser	_	_	_	_	26	det	_	_
+26	Seite	_	_	_	_	22	obl	_	_
+27	des	_	_	_	_	28	det	_	_
+28	Hauses	_	_	_	_	26	nmod	_	_
+29	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 68
+# text = Wir werden, wie gesagt, dieses Thema in den nächsten wenigen Wochen intensiv beraten, im Übrigen nicht nur in den Fachausschüssen, sondern auch hier im Plenum.
+1	Wir	_	_	_	_	15	nsubj	_	_
+2	werden	_	_	_	_	15	aux	_	_
+3	,	_	_	_	_	1	punct	_	_
+4	wie	_	_	_	_	5	mark	_	_
+5	gesagt	_	_	_	_	15	parataxis	_	_
+6	,	_	_	_	_	5	punct	_	_
+7	dieses	_	_	_	_	8	det	_	_
+8	Thema	_	_	_	_	15	obj	_	_
+9	in	_	_	_	_	13	case	_	_
+10	den	_	_	_	_	13	det	_	_
+11	nächsten	_	_	_	_	13	amod	_	_
+12	wenigen	_	_	_	_	13	amod	_	_
+13	Wochen	_	_	_	_	15	obl	_	_
+14	intensiv	_	_	_	_	15	advmod	_	_
+15	beraten	_	_	_	_	0	root	_	_
+16	,	_	_	_	_	18	punct	_	_
+17	im	_	_	_	_	18	case	_	_
+18	Übrigen	_	_	_	_	23	nmod	_	_
+19	nicht	_	_	_	_	23	advmod	_	_
+20	nur	_	_	_	_	23	advmod	_	_
+21	in	_	_	_	_	23	case	_	_
+22	den	_	_	_	_	23	det	_	_
+23	Fachausschüssen	_	_	_	_	15	obl	_	_
+24	,	_	_	_	_	29	punct	_	_
+25	sondern	_	_	_	_	29	cc	_	_
+26	auch	_	_	_	_	29	advmod	_	_
+27	hier	_	_	_	_	29	advmod	_	_
+28	im	_	_	_	_	29	case	_	_
+29	Plenum	_	_	_	_	23	conj	_	_
+30	.	_	_	_	_	15	punct	_	_
+
+# sent_id = 69
+# text = Ein Strafgericht prüft nicht, ob der Angeklagte die Möglichkeit zur Teilnahme am Kommunikationsprozess zwischen Volk und Staatsorganen hat, wenn es die Schuldunfähigkeit des Angeklagten feststellt und seine Unterbringung in einem psychiatrischen Krankenhaus anordnet, weshalb auch eine solche Anordnung nicht den Entzug des Wahlrechts mit sich bringen kann.
+1	Ein	_	_	_	_	2	det	_	_
+2	Strafgericht	_	_	_	_	3	nsubj	_	_
+3	prüft	_	_	_	_	0	root	_	_
+4	nicht	_	_	_	_	3	advmod	_	_
+5	,	_	_	_	_	19	punct	_	_
+6	ob	_	_	_	_	19	mark	_	_
+7	der	_	_	_	_	8	det	_	_
+8	Angeklagte	_	_	_	_	19	nsubj	_	_
+9	die	_	_	_	_	10	det	_	_
+10	Möglichkeit	_	_	_	_	19	obj	_	_
+11	zur	_	_	_	_	12	case	_	_
+12	Teilnahme	_	_	_	_	10	nmod	_	_
+13	am	_	_	_	_	14	case	_	_
+14	Kommunikationsprozess	_	_	_	_	12	nmod	_	_
+15	zwischen	_	_	_	_	16	case	_	_
+16	Volk	_	_	_	_	14	nmod	_	_
+17	und	_	_	_	_	18	cc	_	_
+18	Staatsorganen	_	_	_	_	16	conj	_	_
+19	hat	_	_	_	_	3	ccomp	_	_
+20	,	_	_	_	_	27	punct	_	_
+21	wenn	_	_	_	_	27	mark	_	_
+22	es	_	_	_	_	27	nsubj	_	_
+23	die	_	_	_	_	24	det	_	_
+24	Schuldunfähigkeit	_	_	_	_	27	obj	_	_
+25	des	_	_	_	_	26	det	_	_
+26	Angeklagten	_	_	_	_	24	nmod	_	_
+27	feststellt	_	_	_	_	3	advcl	_	_
+28	und	_	_	_	_	35	cc	_	_
+29	seine	_	_	_	_	30	det:poss	_	_
+30	Unterbringung	_	_	_	_	35	obj	_	_
+31	in	_	_	_	_	34	case	_	_
+32	einem	_	_	_	_	34	det	_	_
+33	psychiatrischen	_	_	_	_	34	amod	_	_
+34	Krankenhaus	_	_	_	_	30	nmod	_	_
+35	anordnet	_	_	_	_	27	conj	_	_
+36	,	_	_	_	_	49	punct	_	_
+37	weshalb	_	_	_	_	49	mark	_	_
+38	auch	_	_	_	_	41	advmod	_	_
+39	eine	_	_	_	_	41	det	_	_
+40	solche	_	_	_	_	41	amod	_	_
+41	Anordnung	_	_	_	_	49	nsubj	_	_
+42	nicht	_	_	_	_	49	advmod	_	_
+43	den	_	_	_	_	44	det	_	_
+44	Entzug	_	_	_	_	49	obj	_	_
+45	des	_	_	_	_	46	det	_	_
+46	Wahlrechts	_	_	_	_	44	nmod	_	_
+47	mit	_	_	_	_	48	case	_	_
+48	sich	_	_	_	_	49	obl	_	_
+49	bringen	_	_	_	_	3	advcl	_	_
+50	kann	_	_	_	_	49	aux	_	_
+51	.	_	_	_	_	3	punct	_	_
+
+# sent_id = 70
+# text = Ein Gutachten, das für unsere Fraktion erstellt wurde, kam zu dem Schluss, dass der Minister quasi gezockt hat, so wie man auf Schwarz oder Rot im Casino setzt.
+1	Ein	_	_	_	_	2	det	_	_
+2	Gutachten	_	_	_	_	11	nsubj	_	_
+3	,	_	_	_	_	8	punct	_	_
+4	das	_	_	_	_	8	nsubj:pass	_	_
+5	für	_	_	_	_	7	case	_	_
+6	unsere	_	_	_	_	7	det:poss	_	_
+7	Fraktion	_	_	_	_	8	obl	_	_
+8	erstellt	_	_	_	_	2	acl	_	_
+9	wurde	_	_	_	_	8	aux:pass	_	_
+10	,	_	_	_	_	2	punct	_	_
+11	kam	_	_	_	_	0	root	_	_
+12	zu	_	_	_	_	14	case	_	_
+13	dem	_	_	_	_	14	det	_	_
+14	Schluss	_	_	_	_	11	obl	_	_
+15	,	_	_	_	_	20	punct	_	_
+16	dass	_	_	_	_	20	mark	_	_
+17	der	_	_	_	_	18	det	_	_
+18	Minister	_	_	_	_	20	nsubj	_	_
+19	quasi	_	_	_	_	20	advmod	_	_
+20	gezockt	_	_	_	_	14	acl	_	_
+21	hat	_	_	_	_	20	aux	_	_
+22	,	_	_	_	_	32	punct	_	_
+23	so	_	_	_	_	32	advmod	_	_
+24	wie	_	_	_	_	32	mark	_	_
+25	man	_	_	_	_	32	nsubj	_	_
+26	auf	_	_	_	_	27	case	_	_
+27	Schwarz	_	_	_	_	32	obl	_	_
+28	oder	_	_	_	_	29	cc	_	_
+29	Rot	_	_	_	_	27	conj	_	_
+30	im	_	_	_	_	31	case	_	_
+31	Casino	_	_	_	_	32	obl	_	_
+32	setzt	_	_	_	_	20	advcl	_	_
+33	.	_	_	_	_	11	punct	_	_
+
+# sent_id = 71
+# text = Ein Ehepaar mit dem gleichen Einkommen kommt auf eine Entlastung von 2013 Euro pro Monat, und eine Familie mit zwei Kindern und diesem Einkommen entlasten wir um 3931 Euro im Monat.
+1	Ein	_	_	_	_	2	det	_	_
+2	Ehepaar	_	_	_	_	7	nsubj	_	_
+3	mit	_	_	_	_	6	case	_	_
+4	dem	_	_	_	_	6	det	_	_
+5	gleichen	_	_	_	_	6	amod	_	_
+6	Einkommen	_	_	_	_	2	nmod	_	_
+7	kommt	_	_	_	_	0	root	_	_
+8	auf	_	_	_	_	10	case	_	_
+9	eine	_	_	_	_	10	det	_	_
+10	Entlastung	_	_	_	_	7	obl	_	_
+11	von	_	_	_	_	13	case	_	_
+12	2013	_	_	_	_	13	nummod	_	_
+13	Euro	_	_	_	_	10	nmod	_	_
+14	pro	_	_	_	_	15	case	_	_
+15	Monat	_	_	_	_	13	nmod	_	_
+16	,	_	_	_	_	26	punct	_	_
+17	und	_	_	_	_	26	cc	_	_
+18	eine	_	_	_	_	19	det	_	_
+19	Familie	_	_	_	_	26	obj	_	_
+20	mit	_	_	_	_	22	case	_	_
+21	zwei	_	_	_	_	22	nummod	_	_
+22	Kindern	_	_	_	_	19	nmod	_	_
+23	und	_	_	_	_	25	cc	_	_
+24	diesem	_	_	_	_	25	det	_	_
+25	Einkommen	_	_	_	_	22	conj	_	_
+26	entlasten	_	_	_	_	7	conj	_	_
+27	wir	_	_	_	_	26	nsubj	_	_
+28	um	_	_	_	_	30	case	_	_
+29	3931	_	_	_	_	30	nummod	_	_
+30	Euro	_	_	_	_	26	obl	_	_
+31	im	_	_	_	_	32	case	_	_
+32	Monat	_	_	_	_	30	nmod	_	_
+33	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 72
+# text = Der jetzige Haushaltsentwurf für 2019 mit der Finanzplanung bis 2020 und 2021 ist ein dreifacher Bruch des Koalitionsvertrages, weil wir die finanziellen Spielräume nicht prioritär für Entwicklung nutzen; denn wir bekämen demnachäußerst wenig.
+1	Der	_	_	_	_	3	det	_	_
+2	jetzige	_	_	_	_	3	amod	_	_
+3	Haushaltsentwurf	_	_	_	_	16	nsubj	_	_
+4	für	_	_	_	_	5	case	_	_
+5	2019	_	_	_	_	3	nmod	_	_
+6	mit	_	_	_	_	8	case	_	_
+7	der	_	_	_	_	8	det	_	_
+8	Finanzplanung	_	_	_	_	3	nmod	_	_
+9	bis	_	_	_	_	10	case	_	_
+10	2020	_	_	_	_	8	nmod	_	_
+11	und	_	_	_	_	12	cc	_	_
+12	2021	_	_	_	_	10	conj	_	_
+13	ist	_	_	_	_	16	cop	_	_
+14	ein	_	_	_	_	16	det	_	_
+15	dreifacher	_	_	_	_	16	amod	_	_
+16	Bruch	_	_	_	_	0	root	_	_
+17	des	_	_	_	_	18	det	_	_
+18	Koalitionsvertrages	_	_	_	_	16	nmod	_	_
+19	,	_	_	_	_	29	punct	_	_
+20	weil	_	_	_	_	29	mark	_	_
+21	wir	_	_	_	_	29	nsubj	_	_
+22	die	_	_	_	_	24	det	_	_
+23	finanziellen	_	_	_	_	24	amod	_	_
+24	Spielräume	_	_	_	_	29	obj	_	_
+25	nicht	_	_	_	_	29	advmod	_	_
+26	prioritär	_	_	_	_	29	advmod	_	_
+27	für	_	_	_	_	28	case	_	_
+28	Entwicklung	_	_	_	_	29	obl	_	_
+29	nutzen	_	_	_	_	16	advcl	_	_
+30	;	_	_	_	_	33	punct	_	_
+31	denn	_	_	_	_	33	mark	_	_
+32	wir	_	_	_	_	33	nsubj	_	_
+33	bekämen	_	_	_	_	29	advcl	_	_
+34	demnachäußerst	_	_	_	_	33	advmod	_	_
+35	wenig	_	_	_	_	33	obj	_	_
+36	.	_	_	_	_	16	punct	_	_
+

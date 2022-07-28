@@ -1,0 +1,25 @@
+# sent_id = 29
+# text = Wer für die Annahme des § 19 a in der Ausschußfassung ist, den bitte ich, die Hand zu erheben.
+1	Wer	_	_	_	_	12	nsubj	_	_
+2	für	_	_	_	_	4	case	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Annahme	_	_	_	_	12	obl	_	_
+5	des	_	_	_	_	6	det	_	_
+6	§	_	_	_	_	4	nmod	_	_
+7	19	_	_	_	_	6	flat	_	_
+8	a	_	_	_	_	6	flat	_	_
+9	in	_	_	_	_	11	case	_	_
+10	der	_	_	_	_	11	det	_	_
+11	Ausschußfassung	_	_	_	_	4	nmod	_	_
+12	ist	_	_	_	_	14	acl	_	_
+13	,	_	_	_	_	12	punct	_	_
+14	den	_	_	_	_	15	obj	_	_
+15	bitte	_	_	_	_	0	root	_	_
+16	ich	_	_	_	_	15	nsubj	_	_
+17	,	_	_	_	_	21	punct	_	_
+18	die	_	_	_	_	19	det	_	_
+19	Hand	_	_	_	_	21	obj	_	_
+20	zu	_	_	_	_	21	mark	_	_
+21	erheben	_	_	_	_	15	xcomp	_	_
+22	.	_	_	_	_	15	punct	_	_
+

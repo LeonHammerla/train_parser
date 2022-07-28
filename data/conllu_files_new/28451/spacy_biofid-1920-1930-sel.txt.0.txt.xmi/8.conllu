@@ -1,0 +1,36 @@
+# sent_id = 97
+# text = Die Familie der Gramineen weist dagegen eine sehr stattliche Anzahl von fremden Arten auf, welche mit Getreide- und Kräutersamen aus allen großen Getreidebauländern der alten und neuen Welt zu uns gelangen.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Familie	_	NOUN	NN	_	5	SB	_	_
+3	der	_	DET	ART	_	4	NK	_	_
+4	Gramineen	_	NOUN	NN	_	2	AG	_	_
+5	weist	_	VERB	VVFIN	_	0	--	_	_
+6	dagegen	_	ADV	PROAV	_	5	MO	_	_
+7	eine	_	DET	ART	_	10	NK	_	_
+8	sehr	_	ADV	ADV	_	9	MO	_	_
+9	stattliche	_	ADJ	ADJA	_	10	NK	_	_
+10	Anzahl	_	NOUN	NN	_	5	OA	_	_
+11	von	_	ADP	APPR	_	10	PG	_	_
+12	fremden	_	ADJ	ADJA	_	13	NK	_	_
+13	Arten	_	NOUN	NN	_	11	NK	_	_
+14	auf	_	VERB	PTKVZ	_	5	SVP	_	_
+15	,	_	PUNCT	$,	_	5	PUNCT	_	_
+16	welche	_	PRON	PRELS	_	32	SB	_	_
+17	mit	_	ADP	APPR	_	32	MO	_	_
+18	Getreide-	_	X	TRUNC	_	19	CJ	_	_
+19	und	_	CONJ	KON	_	20	CD	_	_
+20	Kräutersamen	_	NOUN	NN	_	17	NK	_	_
+21	aus	_	ADP	APPR	_	20	MNR	_	_
+22	allen	_	PRON	PIAT	_	24	NK	_	_
+23	großen	_	ADJ	ADJA	_	24	NK	_	_
+24	Getreidebauländern	_	NOUN	NN	_	21	NK	_	_
+25	der	_	DET	ART	_	29	NK	_	_
+26	alten	_	ADJ	ADJA	_	29	NK	_	_
+27	und	_	CONJ	KON	_	26	CD	_	_
+28	neuen	_	ADJ	ADJA	_	27	CJ	_	_
+29	Welt	_	NOUN	NN	_	24	AG	_	_
+30	zu	_	ADP	APPR	_	32	MO	_	_
+31	uns	_	PRON	PPER	_	30	NK	_	_
+32	gelangen	_	VERB	VVINF	_	13	RC	_	_
+33	.	_	PUNCT	$.	_	5	PUNCT	_	_
+

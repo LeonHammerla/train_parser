@@ -1,0 +1,19 @@
+# sent_id = 42
+# text = Ich bitte die Damen und Herren, die das beschließen wollen, sich zu erheben.
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bitte	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Damen	_	_	_	_	2	obj	_	_
+5	und	_	_	_	_	6	cc	_	_
+6	Herren	_	_	_	_	4	conj	_	_
+7	,	_	_	_	_	10	punct	_	_
+8	die	_	_	_	_	10	nsubj	_	_
+9	das	_	_	_	_	10	obj	_	_
+10	beschließen	_	_	_	_	4	acl	_	_
+11	wollen	_	_	_	_	10	aux	_	_
+12	,	_	_	_	_	10	punct	_	_
+13	sich	_	_	_	_	15	obj	_	_
+14	zu	_	_	_	_	15	mark	_	_
+15	erheben	_	_	_	_	2	xcomp	_	_
+16	.	_	_	_	_	2	punct	_	_
+

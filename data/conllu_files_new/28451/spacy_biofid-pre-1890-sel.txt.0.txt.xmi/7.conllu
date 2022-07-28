@@ -1,0 +1,24 @@
+# sent_id = 22
+# text = Charles Smith, im Jahre 1750, ist augenscheinlich der Erste, der sie unter die Vögel von County-Cork aufnimmt.
+1	Charles	_	PROPN	NE	_	2	PNC	_	_
+2	Smith	_	PROPN	NE	_	8	SB	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	im	_	ADP	APPRART	_	2	PAR	_	_
+5	Jahre	_	NOUN	NN	_	4	NK	_	_
+6	1750	_	NUM	CARD	_	5	NK	_	_
+7	,	_	PUNCT	$,	_	8	PUNCT	_	_
+8	ist	_	VERB	VAFIN	_	0	--	_	_
+9	augenscheinlich	_	ADJ	ADJD	_	8	MO	_	_
+10	der	_	DET	ART	_	11	NK	_	_
+11	Erste	_	NOUN	NN	_	8	PD	_	_
+12	,	_	PUNCT	$,	_	11	PUNCT	_	_
+13	der	_	PRON	PRELS	_	20	SB	_	_
+14	sie	_	PRON	PPER	_	20	OA	_	_
+15	unter	_	ADP	APPR	_	20	MO	_	_
+16	die	_	DET	ART	_	17	NK	_	_
+17	Vögel	_	NOUN	NN	_	15	NK	_	_
+18	von	_	ADP	APPR	_	17	PG	_	_
+19	County-Cork	_	PROPN	NE	_	18	NK	_	_
+20	aufnimmt	_	VERB	VVFIN	_	11	RC	_	_
+21	.	_	PUNCT	$.	_	8	PUNCT	_	_
+

@@ -1,0 +1,44 @@
+# sent_id = 52
+# text = Soweit die hiernach in Kraft getretenen Vorschriften nach Entscheidung des Reichsverwaltungsgerichts oder des Schiedsgerichts nicht zulässig sind, sind die Länder, Gemeinden und sonstigen öffentlichen Körperschaften verpflichtet, die Vorschriften mit rückwirkender Kraft nach Maßgabe der Entscheidung zu ändern.
+1	Soweit	_	_	_	_	16	mark	_	_
+2	die	_	_	_	_	7	det	_	_
+3	hiernach	_	_	_	_	6	advmod	_	_
+4	in	_	_	_	_	5	case	_	_
+5	Kraft	_	_	_	_	6	obl	_	_
+6	getretenen	_	_	_	_	7	amod	_	_
+7	Vorschriften	_	_	_	_	16	nsubj	_	_
+8	nach	_	_	_	_	9	case	_	_
+9	Entscheidung	_	_	_	_	16	nmod	_	_
+10	des	_	_	_	_	11	det	_	_
+11	Reichsverwaltungsgerichts	_	_	_	_	9	nmod	_	_
+12	oder	_	_	_	_	14	cc	_	_
+13	des	_	_	_	_	14	det	_	_
+14	Schiedsgerichts	_	_	_	_	11	conj	_	_
+15	nicht	_	_	_	_	16	advmod	_	_
+16	zulässig	_	_	_	_	28	advcl	_	_
+17	sind	_	_	_	_	16	cop	_	_
+18	,	_	_	_	_	16	punct	_	_
+19	sind	_	_	_	_	28	cop	_	_
+20	die	_	_	_	_	21	det	_	_
+21	Länder	_	_	_	_	28	nsubj	_	_
+22	,	_	_	_	_	23	punct	_	_
+23	Gemeinden	_	_	_	_	21	conj	_	_
+24	und	_	_	_	_	27	cc	_	_
+25	sonstigen	_	_	_	_	27	amod	_	_
+26	öffentlichen	_	_	_	_	27	amod	_	_
+27	Körperschaften	_	_	_	_	21	conj	_	_
+28	verpflichtet	_	_	_	_	0	root	_	_
+29	,	_	_	_	_	40	punct	_	_
+30	die	_	_	_	_	31	det	_	_
+31	Vorschriften	_	_	_	_	40	obj	_	_
+32	mit	_	_	_	_	34	case	_	_
+33	rückwirkender	_	_	_	_	34	amod	_	_
+34	Kraft	_	_	_	_	40	obl	_	_
+35	nach	_	_	_	_	36	case	_	_
+36	Maßgabe	_	_	_	_	40	obl	_	_
+37	der	_	_	_	_	38	det	_	_
+38	Entscheidung	_	_	_	_	36	nmod	_	_
+39	zu	_	_	_	_	40	mark	_	_
+40	ändern	_	_	_	_	28	xcomp	_	_
+41	.	_	_	_	_	28	punct	_	_
+

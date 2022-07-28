@@ -1,0 +1,426 @@
+# sent_id = 114
+# text = Ein Beispiel macht deutlich, wie der Minister Wahrheiten verschleiert.
+1	Ein	_	DET	ART	_	2	NK	_	_
+2	Beispiel	_	NOUN	NN	_	3	SB	_	_
+3	macht	_	VERB	VVFIN	_	0	--	_	_
+4	deutlich	_	ADJ	ADJD	_	3	MO	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	wie	_	PRON	PWAV	_	10	MO	_	_
+7	der	_	DET	ART	_	8	NK	_	_
+8	Minister	_	NOUN	NN	_	10	SB	_	_
+9	Wahrheiten	_	NOUN	NN	_	10	OA	_	_
+10	verschleiert	_	VERB	VVPP	_	3	OC	_	_
+11	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 115
+# text = Sie sagen faktisch den baldigen biologischen Tod der Nordsee voraus.
+1	Sie	_	PRON	PPER	_	2	SB	_	_
+2	sagen	_	VERB	VVFIN	_	0	--	_	_
+3	faktisch	_	ADJ	ADJD	_	2	MO	_	_
+4	den	_	DET	ART	_	7	NK	_	_
+5	baldigen	_	ADJ	ADJA	_	7	NK	_	_
+6	biologischen	_	ADJ	ADJA	_	7	NK	_	_
+7	Tod	_	NOUN	NN	_	2	OA	_	_
+8	der	_	DET	ART	_	9	NK	_	_
+9	Nordsee	_	PROPN	NE	_	7	AG	_	_
+10	voraus	_	VERB	PTKVZ	_	2	SVP	_	_
+11	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 116
+# text = Dem Auftreten der Europäischen Gemeinschaft kommt unserer Ansicht nach große Bedeutung zu.
+1	Dem	_	DET	ART	_	2	NK	_	_
+2	Auftreten	_	NOUN	NN	_	6	DA	_	_
+3	der	_	DET	ART	_	5	NK	_	_
+4	Europäischen	_	ADJ	ADJA	_	5	NK	_	_
+5	Gemeinschaft	_	NOUN	NN	_	2	AG	_	_
+6	kommt	_	VERB	VVFIN	_	0	--	_	_
+7	unserer	_	PRON	PPOSAT	_	8	NK	_	_
+8	Ansicht	_	NOUN	NN	_	9	NK	_	_
+9	nach	_	ADP	APPR	_	6	MO	_	_
+10	große	_	ADJ	ADJA	_	11	NK	_	_
+11	Bedeutung	_	NOUN	NN	_	6	OA	_	_
+12	zu	_	VERB	PTKVZ	_	6	SVP	_	_
+13	.	_	PUNCT	$.	_	6	PUNCT	_	_
+
+# sent_id = 117
+# text = Es lohnt sich zweifellos für die paar Raumfahrtunternehmen, die die Millionen-Aufträge bekommen.
+1	Es	_	PRON	PPER	_	2	SB	_	_
+2	lohnt	_	VERB	VVFIN	_	0	--	_	_
+3	sich	_	PRON	PRF	_	2	OA	_	_
+4	zweifellos	_	ADJ	ADJD	_	2	MO	_	_
+5	für	_	ADP	APPR	_	2	MO	_	_
+6	die	_	DET	ART	_	7	NK	_	_
+7	paar	_	PRON	PIAT	_	8	NK	_	_
+8	Raumfahrtunternehmen	_	NOUN	NN	_	5	NK	_	_
+9	,	_	PUNCT	$,	_	8	PUNCT	_	_
+10	die	_	PRON	PRELS	_	13	SB	_	_
+11	die	_	DET	ART	_	12	NK	_	_
+12	Millionen-Aufträge	_	NOUN	NN	_	13	OA	_	_
+13	bekommen	_	VERB	VVFIN	_	8	RC	_	_
+14	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 118
+# text = Würden Sie mir zugeben, daß die Kilowattstunde aus dem Atomkraftwerk Mülheim-Kärlich über 20 Pf kostet?
+1	Würden	_	VERB	VAFIN	_	0	--	_	_
+2	Sie	_	PRON	PPER	_	1	SB	_	_
+3	mir	_	PRON	PPER	_	4	DA	_	_
+4	zugeben	_	VERB	VVINF	_	1	OC	_	_
+5	,	_	PUNCT	$,	_	4	PUNCT	_	_
+6	daß	_	CONJ	KOUS	_	16	CP	_	_
+7	die	_	DET	ART	_	8	NK	_	_
+8	Kilowattstunde	_	NOUN	NN	_	16	SB	_	_
+9	aus	_	ADP	APPR	_	8	MNR	_	_
+10	dem	_	DET	ART	_	11	NK	_	_
+11	Atomkraftwerk	_	NOUN	NN	_	9	NK	_	_
+12	Mülheim-Kärlich	_	PROPN	NE	_	11	NK	_	_
+13	über	_	ADP	APPR	_	16	MO	_	_
+14	20	_	NUM	CARD	_	15	NK	_	_
+15	Pf	_	NOUN	NN	_	13	NK	_	_
+16	kostet	_	VERB	VVFIN	_	4	OC	_	_
+17	?	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 119
+# text = Nur ist bei dieser Anfrage der Schuß für Sie nach hinten losgegangen;
+1	Nur	_	ADV	ADV	_	2	MO	_	_
+2	ist	_	VERB	VAFIN	_	0	--	_	_
+3	bei	_	ADP	APPR	_	2	MO	_	_
+4	dieser	_	PRON	PDAT	_	5	NK	_	_
+5	Anfrage	_	NOUN	NN	_	3	NK	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Schuß	_	NOUN	NN	_	2	SB	_	_
+8	für	_	ADP	APPR	_	12	MO	_	_
+9	Sie	_	PRON	PPER	_	8	NK	_	_
+10	nach	_	ADP	APPR	_	12	MO	_	_
+11	hinten	_	ADV	ADV	_	10	MO	_	_
+12	losgegangen	_	VERB	VVPP	_	2	OC	_	_
+13	;	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 120
+# text = das haben Sie ja schon gehört.
+1	das	_	PRON	PDS	_	6	OA	_	_
+2	haben	_	VERB	VAFIN	_	0	--	_	_
+3	Sie	_	PRON	PPER	_	2	SB	_	_
+4	ja	_	ADV	ADV	_	6	MO	_	_
+5	schon	_	ADV	ADV	_	6	MO	_	_
+6	gehört	_	VERB	VVPP	_	2	OC	_	_
+7	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 121
+# text = Das scheint, wenn es um solche Prinzipien geht, überhaupt keine Rolle zu spielen.
+1	Das	_	PRON	PDS	_	2	SB	_	_
+2	scheint	_	VERB	VVFIN	_	0	--	_	_
+3	,	_	PUNCT	$,	_	2	PUNCT	_	_
+4	wenn	_	CONJ	KOUS	_	9	CP	_	_
+5	es	_	PRON	PPER	_	9	EP	_	_
+6	um	_	ADP	APPR	_	9	OP	_	_
+7	solche	_	PRON	PIAT	_	8	NK	_	_
+8	Prinzipien	_	NOUN	NN	_	6	NK	_	_
+9	geht	_	VERB	VVFIN	_	2	MO	_	_
+10	,	_	PUNCT	$,	_	2	PUNCT	_	_
+11	überhaupt	_	ADV	ADV	_	13	MO	_	_
+12	keine	_	PRON	PIAT	_	13	NK	_	_
+13	Rolle	_	NOUN	NN	_	15	OA	_	_
+14	zu	_	X	PTKZU	_	15	PM	_	_
+15	spielen	_	VERB	VVINF	_	2	OC	_	_
+16	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 122
+# text = Ich begrüße es deshalb ganz ausdrücklich, daß die Bundesregierung durch Zuschüsse die Reisemöglichkeit in die DDR fördert.
+1	Ich	_	PRON	PPER	_	2	SB	_	_
+2	begrüße	_	VERB	VVFIN	_	0	--	_	_
+3	es	_	PRON	PPER	_	2	OA	_	_
+4	deshalb	_	ADV	PROAV	_	2	MO	_	_
+5	ganz	_	ADV	ADV	_	6	MO	_	_
+6	ausdrücklich	_	ADJ	ADJD	_	2	MO	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	18	CP	_	_
+9	die	_	DET	ART	_	10	NK	_	_
+10	Bundesregierung	_	NOUN	NN	_	18	SB	_	_
+11	durch	_	ADP	APPR	_	18	MO	_	_
+12	Zuschüsse	_	NOUN	NN	_	11	NK	_	_
+13	die	_	DET	ART	_	14	NK	_	_
+14	Reisemöglichkeit	_	NOUN	NN	_	18	OA	_	_
+15	in	_	ADP	APPR	_	14	MNR	_	_
+16	die	_	DET	ART	_	17	NK	_	_
+17	DDR	_	PROPN	NE	_	15	NK	_	_
+18	fördert	_	VERB	VVFIN	_	3	RE	_	_
+19	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 123
+# text = Nun kommen Sie mit einem Argument, das man in der Öffentlichkeit immer wieder hört und das mich eigentlich verwundert.
+1	Nun	_	ADV	ADV	_	2	MO	_	_
+2	kommen	_	VERB	VVFIN	_	0	--	_	_
+3	Sie	_	PRON	PPER	_	2	SB	_	_
+4	mit	_	ADP	APPR	_	2	MO	_	_
+5	einem	_	DET	ART	_	6	NK	_	_
+6	Argument	_	NOUN	NN	_	4	NK	_	_
+7	,	_	PUNCT	$,	_	6	PUNCT	_	_
+8	das	_	PRON	PRELS	_	15	OA	_	_
+9	man	_	PRON	PIS	_	15	SB	_	_
+10	in	_	ADP	APPR	_	15	MO	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Öffentlichkeit	_	NOUN	NN	_	10	NK	_	_
+13	immer	_	ADV	ADV	_	14	MO	_	_
+14	wieder	_	ADV	ADV	_	15	MO	_	_
+15	hört	_	VERB	VVPP	_	6	RC	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	das	_	PRON	PRELS	_	20	SB	_	_
+18	mich	_	PRON	PPER	_	20	OA	_	_
+19	eigentlich	_	ADV	ADV	_	20	MO	_	_
+20	verwundert	_	VERB	VVFIN	_	16	CJ	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 124
+# text = Er fährt dann sehr sorgsam fort, daß eben von der Rechtsprechung nur eine einschränkende Auslegung dieses Tatbestandsmerkmals vorgenommen wird.
+1	Er	_	PRON	PPER	_	2	SB	_	_
+2	fährt	_	VERB	VVFIN	_	0	--	_	_
+3	dann	_	ADV	ADV	_	2	MO	_	_
+4	sehr	_	ADV	ADV	_	5	MO	_	_
+5	sorgsam	_	ADJ	ADJD	_	2	MO	_	_
+6	fort	_	VERB	PTKVZ	_	2	SVP	_	_
+7	,	_	PUNCT	$,	_	2	PUNCT	_	_
+8	daß	_	CONJ	KOUS	_	20	CP	_	_
+9	eben	_	ADV	ADV	_	10	MO	_	_
+10	von	_	ADP	APPR	_	19	SBP	_	_
+11	der	_	DET	ART	_	12	NK	_	_
+12	Rechtsprechung	_	NOUN	NN	_	10	NK	_	_
+13	nur	_	ADV	ADV	_	16	MO	_	_
+14	eine	_	DET	ART	_	16	NK	_	_
+15	einschränkende	_	ADJ	ADJA	_	16	NK	_	_
+16	Auslegung	_	NOUN	NN	_	19	OA	_	_
+17	dieses	_	PRON	PDAT	_	18	NK	_	_
+18	Tatbestandsmerkmals	_	NOUN	NN	_	16	AG	_	_
+19	vorgenommen	_	VERB	VVPP	_	20	OC	_	_
+20	wird	_	VERB	VAFIN	_	2	OC	_	_
+21	.	_	PUNCT	$.	_	2	PUNCT	_	_
+
+# sent_id = 125
+# text = Im übrigen kann seit geraumer Zeit vom sogenannten Restdrittel-Erlaß Gebrauch gemacht werden, nämlich dann, wenn sich einer bei der Strafverbüßung wohlverhält.
+1	Im	_	ADP	APPRART	_	3	MO	_	_
+2	übrigen	_	ADJ	ADJA	_	1	NK	_	_
+3	kann	_	VERB	VMFIN	_	0	--	_	_
+4	seit	_	ADP	APPR	_	3	MO	_	_
+5	geraumer	_	ADJ	ADJA	_	6	NK	_	_
+6	Zeit	_	NOUN	NN	_	4	NK	_	_
+7	vom	_	ADP	APPRART	_	11	MO	_	_
+8	sogenannten	_	ADJ	ADJA	_	9	NK	_	_
+9	Restdrittel-Erlaß	_	NOUN	NN	_	7	NK	_	_
+10	Gebrauch	_	NOUN	NN	_	11	CVC	_	_
+11	gemacht	_	VERB	VVPP	_	12	OC	_	_
+12	werden	_	VERB	VAINF	_	3	OC	_	_
+13	,	_	PUNCT	$,	_	3	PUNCT	_	_
+14	nämlich	_	ADV	ADV	_	15	MO	_	_
+15	dann	_	ADV	ADV	_	3	MO	_	_
+16	,	_	PUNCT	$,	_	15	PUNCT	_	_
+17	wenn	_	CONJ	KOUS	_	23	CP	_	_
+18	sich	_	PRON	PRF	_	23	OA	_	_
+19	einer	_	DET	ART	_	23	SB	_	_
+20	bei	_	ADP	APPR	_	23	MO	_	_
+21	der	_	DET	ART	_	22	NK	_	_
+22	Strafverbüßung	_	NOUN	NN	_	20	NK	_	_
+23	wohlverhält	_	VERB	VVFIN	_	15	RE	_	_
+24	.	_	PUNCT	$.	_	3	PUNCT	_	_
+
+# sent_id = 126
+# text = Wenn es mit der Konjunktur wieder aufwärts geht - Gott sei Dank ist das bei unserer Regierung wieder der Fall -, steigen auch die Anforderungen.
+1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
+2	es	_	PRON	PPER	_	8	EP	_	_
+3	mit	_	ADP	APPR	_	8	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Konjunktur	_	NOUN	NN	_	3	NK	_	_
+6	wieder	_	ADV	ADV	_	8	MO	_	_
+7	aufwärts	_	ADV	ADV	_	8	MO	_	_
+8	geht	_	VERB	VVFIN	_	23	MO	_	_
+9	-	_	PUNCT	$(	_	8	PUNCT	_	_
+10	Gott	_	NOUN	NN	_	11	DA	_	_
+11	sei	_	VERB	VAFIN	_	13	MO	_	_
+12	Dank	_	NOUN	NN	_	11	OA	_	_
+13	ist	_	VERB	VAFIN	_	8	PAR	_	_
+14	das	_	DET	ART	_	13	SB	_	_
+15	bei	_	ADP	APPR	_	13	MO	_	_
+16	unserer	_	PRON	PPOSAT	_	17	NK	_	_
+17	Regierung	_	NOUN	NN	_	15	NK	_	_
+18	wieder	_	ADV	ADV	_	13	MO	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Fall	_	NOUN	NN	_	13	PD	_	_
+21	-	_	PUNCT	$(	_	23	PUNCT	_	_
+22	,	_	PUNCT	$,	_	23	PUNCT	_	_
+23	steigen	_	VERB	VVFIN	_	0	--	_	_
+24	auch	_	ADV	ADV	_	26	MO	_	_
+25	die	_	DET	ART	_	26	NK	_	_
+26	Anforderungen	_	NOUN	NN	_	23	SB	_	_
+27	.	_	PUNCT	$.	_	23	PUNCT	_	_
+
+# sent_id = 127
+# text = Mit den Überwachungsgesetzen, auch Sicherheitsgesetze genannt, insbesondere der geplanten Änderung des Straßenverkehrsgesetzes, will die Kohl-Regierung nun die rechtswidrigen Online-Verbindungen von Polizei- und Sicherheitsbehörden legalisieren.
+1	Mit	_	ADP	APPR	_	16	MO	_	_
+2	den	_	DET	ART	_	3	NK	_	_
+3	Überwachungsgesetzen	_	NOUN	NN	_	1	NK	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	auch	_	ADV	ADV	_	6	MO	_	_
+6	Sicherheitsgesetze	_	NOUN	NN	_	3	APP	_	_
+7	genannt	_	VERB	VVPP	_	6	MNR	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	insbesondere	_	ADV	ADV	_	12	MO	_	_
+10	der	_	DET	ART	_	12	NK	_	_
+11	geplanten	_	ADJ	ADJA	_	12	NK	_	_
+12	Änderung	_	NOUN	NN	_	3	APP	_	_
+13	des	_	DET	ART	_	14	NK	_	_
+14	Straßenverkehrsgesetzes	_	NOUN	NN	_	12	AG	_	_
+15	,	_	PUNCT	$,	_	16	PUNCT	_	_
+16	will	_	VERB	VMFIN	_	0	--	_	_
+17	die	_	DET	ART	_	18	NK	_	_
+18	Kohl-Regierung	_	NOUN	NN	_	16	SB	_	_
+19	nun	_	ADV	ADV	_	16	MO	_	_
+20	die	_	DET	ART	_	22	NK	_	_
+21	rechtswidrigen	_	ADJ	ADJA	_	22	NK	_	_
+22	Online-Verbindungen	_	NOUN	NN	_	27	OA	_	_
+23	von	_	ADP	APPR	_	22	PG	_	_
+24	Polizei-	_	X	TRUNC	_	25	CJ	_	_
+25	und	_	CONJ	KON	_	26	CD	_	_
+26	Sicherheitsbehörden	_	NOUN	NN	_	23	NK	_	_
+27	legalisieren	_	VERB	VVINF	_	16	OC	_	_
+28	.	_	PUNCT	$.	_	16	PUNCT	_	_
+
+# sent_id = 128
+# text = Sind Sie mit mir nicht der Meinung, daß ich genau dort ausgeführt habe, daß ich diejenigen meine, die bisher nicht ausgebildet haben?
+1	Sind	_	VERB	VAFIN	_	0	--	_	_
+2	Sie	_	PRON	PPER	_	1	SB	_	_
+3	mit	_	ADP	APPR	_	1	MO	_	_
+4	mir	_	PRON	PPER	_	3	NK	_	_
+5	nicht	_	X	PTKNEG	_	1	NG	_	_
+6	der	_	DET	ART	_	7	NK	_	_
+7	Meinung	_	NOUN	NN	_	1	PD	_	_
+8	,	_	PUNCT	$,	_	7	PUNCT	_	_
+9	daß	_	CONJ	KOUS	_	14	CP	_	_
+10	ich	_	PRON	PPER	_	14	SB	_	_
+11	genau	_	ADJ	ADJD	_	12	MO	_	_
+12	dort	_	ADV	ADV	_	13	MO	_	_
+13	ausgeführt	_	VERB	VVPP	_	14	OC	_	_
+14	habe	_	VERB	VAFIN	_	7	OC	_	_
+15	,	_	PUNCT	$,	_	14	PUNCT	_	_
+16	daß	_	CONJ	KOUS	_	19	CP	_	_
+17	ich	_	PRON	PPER	_	19	SB	_	_
+18	diejenigen	_	PRON	PDS	_	19	OA	_	_
+19	meine	_	PRON	PIS	_	13	OC	_	_
+20	,	_	PUNCT	$,	_	19	PUNCT	_	_
+21	die	_	PRON	PRELS	_	25	SB	_	_
+22	bisher	_	ADV	ADV	_	24	MO	_	_
+23	nicht	_	X	PTKNEG	_	24	NG	_	_
+24	ausgebildet	_	VERB	VVPP	_	25	OC	_	_
+25	haben	_	VERB	VAINF	_	18	RC	_	_
+26	?	_	PUNCT	$.	_	1	PUNCT	_	_
+
+# sent_id = 129
+# text = Wer bessere Beziehungen zur DDR will, braucht eine klare Konzeption, braucht langen Atem, braucht nüchterne Erkenntnis des Möglichen und des Unmöglichen, um Schritt für Schritt voranzukommen.
+1	Wer	_	PRON	PWS	_	6	SB	_	_
+2	bessere	_	ADJ	ADJA	_	3	NK	_	_
+3	Beziehungen	_	NOUN	NN	_	6	OA	_	_
+4	zur	_	ADP	APPRART	_	3	MNR	_	_
+5	DDR	_	PROPN	NE	_	4	NK	_	_
+6	will	_	VERB	VMFIN	_	8	SB	_	_
+7	,	_	PUNCT	$,	_	8	PUNCT	_	_
+8	braucht	_	VERB	VVFIN	_	0	--	_	_
+9	eine	_	DET	ART	_	11	NK	_	_
+10	klare	_	ADJ	ADJA	_	11	NK	_	_
+11	Konzeption	_	NOUN	NN	_	8	OA	_	_
+12	,	_	PUNCT	$,	_	13	PUNCT	_	_
+13	braucht	_	VERB	VVFIN	_	8	CJ	_	_
+14	langen	_	ADJ	ADJA	_	15	NK	_	_
+15	Atem	_	NOUN	NN	_	13	OA	_	_
+16	,	_	PUNCT	$,	_	17	PUNCT	_	_
+17	braucht	_	VERB	VVFIN	_	13	CJ	_	_
+18	nüchterne	_	ADJ	ADJA	_	19	NK	_	_
+19	Erkenntnis	_	NOUN	NN	_	17	OA	_	_
+20	des	_	DET	ART	_	21	NK	_	_
+21	Möglichen	_	NOUN	NN	_	19	AG	_	_
+22	und	_	CONJ	KON	_	21	CD	_	_
+23	des	_	DET	ART	_	24	NK	_	_
+24	Unmöglichen	_	NOUN	NN	_	22	CJ	_	_
+25	,	_	PUNCT	$,	_	17	PUNCT	_	_
+26	um	_	CONJ	KOUI	_	30	CP	_	_
+27	Schritt	_	NOUN	NN	_	30	MO	_	_
+28	für	_	ADP	APPR	_	27	MNR	_	_
+29	Schritt	_	NOUN	NN	_	28	NK	_	_
+30	voranzukommen	_	VERB	VVIZU	_	17	MO	_	_
+31	.	_	PUNCT	$.	_	8	PUNCT	_	_
+
+# sent_id = 130
+# text = Nach dieser Nahrungsmittelstrategie müssen wir gemeinsam mit allen betroffenen Staaten eine international getragene Entwicklungshilfestrategie entwickeln und in die Wege leiten, damit auf Dauer gesehen unsere Hilfe dort zur wirklichen Selbsthilfe wird.
+1	Nach	_	ADP	APPR	_	4	MO	_	_
+2	dieser	_	PRON	PDAT	_	3	NK	_	_
+3	Nahrungsmittelstrategie	_	NOUN	NN	_	1	NK	_	_
+4	müssen	_	VERB	VMFIN	_	0	--	_	_
+5	wir	_	PRON	PPER	_	4	SB	_	_
+6	gemeinsam	_	ADJ	ADJD	_	7	MO	_	_
+7	mit	_	ADP	APPR	_	5	MO	_	_
+8	allen	_	PRON	PIAT	_	10	NK	_	_
+9	betroffenen	_	ADJ	ADJA	_	10	NK	_	_
+10	Staaten	_	NOUN	NN	_	7	NK	_	_
+11	eine	_	DET	ART	_	14	NK	_	_
+12	international	_	ADJ	ADJD	_	13	MO	_	_
+13	getragene	_	ADJ	ADJA	_	14	NK	_	_
+14	Entwicklungshilfestrategie	_	NOUN	NN	_	15	OA	_	_
+15	entwickeln	_	VERB	VVINF	_	4	OC	_	_
+16	und	_	CONJ	KON	_	15	CD	_	_
+17	in	_	ADP	APPR	_	20	CVC	_	_
+18	die	_	DET	ART	_	19	NK	_	_
+19	Wege	_	NOUN	NN	_	17	NK	_	_
+20	leiten	_	VERB	VVINF	_	16	CJ	_	_
+21	,	_	PUNCT	$,	_	20	PUNCT	_	_
+22	damit	_	CONJ	KOUS	_	25	MO	_	_
+23	auf	_	ADP	APPR	_	25	MO	_	_
+24	Dauer	_	NOUN	NN	_	23	NK	_	_
+25	gesehen	_	VERB	VVFIN	_	32	MO	_	_
+26	unsere	_	PRON	PPOSAT	_	27	NK	_	_
+27	Hilfe	_	NOUN	NN	_	32	SB	_	_
+28	dort	_	ADV	ADV	_	32	MO	_	_
+29	zur	_	ADP	APPRART	_	32	MO	_	_
+30	wirklichen	_	ADJ	ADJA	_	31	NK	_	_
+31	Selbsthilfe	_	NOUN	NN	_	29	NK	_	_
+32	wird	_	VERB	VAFIN	_	20	MO	_	_
+33	.	_	PUNCT	$.	_	4	PUNCT	_	_
+
+# sent_id = 131
+# text = Aber selbst die inzwischen schon zum Ritual erhobene Behauptung, man habe einen entscheidenden Schritt - "Durchbruch" heißt es - in der Luftreinhaltung durch die Einführung des schadstoffarmen Autos getan, macht die bedrückende Wirklichkeit nicht besser.
+1	Aber	_	ADV	ADV	_	9	MO	_	_
+2	selbst	_	ADV	ADV	_	9	MO	_	_
+3	die	_	DET	ART	_	9	NK	_	_
+4	inzwischen	_	ADV	ADV	_	8	MO	_	_
+5	schon	_	ADV	ADV	_	8	MO	_	_
+6	zum	_	ADP	APPRART	_	8	MO	_	_
+7	Ritual	_	NOUN	NN	_	6	NK	_	_
+8	erhobene	_	ADJ	ADJA	_	9	NK	_	_
+9	Behauptung	_	NOUN	NN	_	34	SB	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	man	_	PRON	PIS	_	12	SB	_	_
+12	habe	_	VERB	VAFIN	_	9	OC	_	_
+13	einen	_	DET	ART	_	15	NK	_	_
+14	entscheidenden	_	ADJ	ADJA	_	15	NK	_	_
+15	Schritt	_	NOUN	NN	_	32	OA	_	_
+16	-	_	PUNCT	$(	_	15	PUNCT	_	_
+17	"	_	PUNCT	$(	_	18	PUNCT	_	_
+18	Durchbruch	_	NOUN	NN	_	20	MO	_	_
+19	"	_	PUNCT	$(	_	18	PUNCT	_	_
+20	heißt	_	VERB	VVFIN	_	15	PAR	_	_
+21	es	_	PRON	PPER	_	20	SB	_	_
+22	-	_	PUNCT	$(	_	20	PUNCT	_	_
+23	in	_	ADP	APPR	_	32	MO	_	_
+24	der	_	DET	ART	_	25	NK	_	_
+25	Luftreinhaltung	_	NOUN	NN	_	23	NK	_	_
+26	durch	_	ADP	APPR	_	32	MO	_	_
+27	die	_	DET	ART	_	28	NK	_	_
+28	Einführung	_	NOUN	NN	_	26	NK	_	_
+29	des	_	DET	ART	_	31	NK	_	_
+30	schadstoffarmen	_	ADJ	ADJA	_	31	NK	_	_
+31	Autos	_	NOUN	NN	_	28	AG	_	_
+32	getan	_	VERB	VVPP	_	12	OC	_	_
+33	,	_	PUNCT	$,	_	34	PUNCT	_	_
+34	macht	_	VERB	VVFIN	_	0	--	_	_
+35	die	_	DET	ART	_	37	NK	_	_
+36	bedrückende	_	ADJ	ADJA	_	37	NK	_	_
+37	Wirklichkeit	_	NOUN	NN	_	34	OA	_	_
+38	nicht	_	X	PTKNEG	_	34	NG	_	_
+39	besser	_	ADJ	ADJD	_	34	MO	_	_
+40	.	_	PUNCT	$.	_	34	PUNCT	_	_
+

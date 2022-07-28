@@ -1,0 +1,10 @@
+# sent_id = 27
+# text = Friends have referred to their size.
+1	Friends	_	NOUN	NNS	_	3	nsubj	_	_
+2	have	_	VERB	VBP	_	3	aux	_	_
+3	referred	_	VERB	VBN	_	0	root	_	_
+4	to	_	ADP	IN	_	6	case	_	_
+5	their	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	size	_	NOUN	NN	_	3	obl	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,22 @@
+# sent_id = 6
+# text = Die Bundesregierung hofft, daß bald nach Eingang der russischen Antwortnote Gespräche zwischen den beiderseitigen Luftfahrtbehörden beginnen können.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Bundesregierung	_	NOUN	NN	_	3	SB	_	_
+3	hofft	_	VERB	VVFIN	_	0	--	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	daß	_	CONJ	KOUS	_	18	CP	_	_
+6	bald	_	ADV	ADV	_	17	MO	_	_
+7	nach	_	ADP	APPR	_	18	MO	_	_
+8	Eingang	_	NOUN	NN	_	7	NK	_	_
+9	der	_	DET	ART	_	11	NK	_	_
+10	russischen	_	ADJ	ADJA	_	11	NK	_	_
+11	Antwortnote	_	NOUN	NN	_	8	AG	_	_
+12	Gespräche	_	NOUN	NN	_	18	SB	_	_
+13	zwischen	_	ADP	APPR	_	12	MNR	_	_
+14	den	_	DET	ART	_	16	NK	_	_
+15	beiderseitigen	_	ADJ	ADJA	_	16	NK	_	_
+16	Luftfahrtbehörden	_	NOUN	NN	_	13	NK	_	_
+17	beginnen	_	VERB	VVINF	_	18	OC	_	_
+18	können	_	VERB	VMFIN	_	3	OC	_	_
+19	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

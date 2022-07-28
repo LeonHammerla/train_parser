@@ -1,0 +1,24 @@
+# sent_id = 123
+# text = Eine ungarische Art, Cynosurus echinatus L., war im Sommer 1902 im Hafengebiet von Mannheim schön entwickelt zu sehen;
+1	Eine	_	DET	ART	_	3	NK	_	_
+2	ungarische	_	ADJ	ADJA	_	3	NK	_	_
+3	Art	_	NOUN	NN	_	9	SB	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	Cynosurus	_	PROPN	NE	_	7	PNC	_	_
+6	echinatus	_	PROPN	NE	_	7	PNC	_	_
+7	L.	_	PROPN	NE	_	3	APP	_	_
+8	,	_	PUNCT	$,	_	9	PUNCT	_	_
+9	war	_	VERB	VAFIN	_	0	--	_	_
+10	im	_	ADP	APPRART	_	20	MO	_	_
+11	Sommer	_	NOUN	NN	_	10	NK	_	_
+12	1902	_	NUM	CARD	_	11	NK	_	_
+13	im	_	ADP	APPRART	_	20	MO	_	_
+14	Hafengebiet	_	NOUN	NN	_	13	NK	_	_
+15	von	_	ADP	APPR	_	14	PG	_	_
+16	Mannheim	_	PROPN	NE	_	15	NK	_	_
+17	schön	_	ADJ	ADJD	_	18	MO	_	_
+18	entwickelt	_	VERB	VVPP	_	20	MO	_	_
+19	zu	_	X	PTKZU	_	20	PM	_	_
+20	sehen	_	VERB	VVINF	_	9	OC	_	_
+21	;	_	PUNCT	$.	_	9	PUNCT	_	_
+

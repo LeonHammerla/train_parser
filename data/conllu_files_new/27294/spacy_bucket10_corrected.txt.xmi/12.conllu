@@ -1,0 +1,30 @@
+# sent_id = 126
+# text = Wenn es mit der Konjunktur wieder aufwärts geht - Gott sei Dank ist das bei unserer Regierung wieder der Fall -, steigen auch die Anforderungen.
+1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
+2	es	_	PRON	PPER	_	8	EP	_	_
+3	mit	_	ADP	APPR	_	8	MO	_	_
+4	der	_	DET	ART	_	5	NK	_	_
+5	Konjunktur	_	NOUN	NN	_	3	NK	_	_
+6	wieder	_	ADV	ADV	_	8	MO	_	_
+7	aufwärts	_	ADV	ADV	_	8	MO	_	_
+8	geht	_	VERB	VVFIN	_	23	MO	_	_
+9	-	_	PUNCT	$(	_	8	PUNCT	_	_
+10	Gott	_	NOUN	NN	_	11	DA	_	_
+11	sei	_	VERB	VAFIN	_	13	MO	_	_
+12	Dank	_	NOUN	NN	_	11	OA	_	_
+13	ist	_	VERB	VAFIN	_	8	PAR	_	_
+14	das	_	DET	ART	_	13	SB	_	_
+15	bei	_	ADP	APPR	_	13	MO	_	_
+16	unserer	_	PRON	PPOSAT	_	17	NK	_	_
+17	Regierung	_	NOUN	NN	_	15	NK	_	_
+18	wieder	_	ADV	ADV	_	13	MO	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Fall	_	NOUN	NN	_	13	PD	_	_
+21	-	_	PUNCT	$(	_	23	PUNCT	_	_
+22	,	_	PUNCT	$,	_	23	PUNCT	_	_
+23	steigen	_	VERB	VVFIN	_	0	--	_	_
+24	auch	_	ADV	ADV	_	26	MO	_	_
+25	die	_	DET	ART	_	26	NK	_	_
+26	Anforderungen	_	NOUN	NN	_	23	SB	_	_
+27	.	_	PUNCT	$.	_	23	PUNCT	_	_
+

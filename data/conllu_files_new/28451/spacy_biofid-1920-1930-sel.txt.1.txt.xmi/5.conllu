@@ -1,0 +1,43 @@
+# sent_id = 251
+# text = Polygonum cuspidatum Sieb, et Zucc, der japanische Riesenknöterich, hat sich an manchen Orten fest angesiedelt und scheint sich in unserem Klima sehr wohl zu befinden und dehnt seine Kolonien von Jahr zu Jahr immer weiter aus.
+1	Polygonum	_	PROPN	NE	_	3	PNC	_	_
+2	cuspidatum	_	PROPN	NE	_	3	NK	_	_
+3	Sieb	_	NOUN	NN	_	12	SB	_	_
+4	,	_	PUNCT	$,	_	3	PUNCT	_	_
+5	et	_	PROPN	NE	_	6	PNC	_	_
+6	Zucc	_	PROPN	NE	_	3	APP	_	_
+7	,	_	PUNCT	$,	_	3	PUNCT	_	_
+8	der	_	DET	ART	_	10	NK	_	_
+9	japanische	_	ADJ	ADJA	_	10	NK	_	_
+10	Riesenknöterich	_	NOUN	NN	_	3	APP	_	_
+11	,	_	PUNCT	$,	_	12	PUNCT	_	_
+12	hat	_	VERB	VAFIN	_	0	--	_	_
+13	sich	_	PRON	PRF	_	18	OA	_	_
+14	an	_	ADP	APPR	_	18	MO	_	_
+15	manchen	_	PRON	PIAT	_	16	NK	_	_
+16	Orten	_	NOUN	NN	_	14	NK	_	_
+17	fest	_	ADJ	ADJD	_	18	MO	_	_
+18	angesiedelt	_	VERB	VVPP	_	12	OC	_	_
+19	und	_	CONJ	KON	_	12	CD	_	_
+20	scheint	_	VERB	VVFIN	_	19	CJ	_	_
+21	sich	_	PRON	PRF	_	28	OA	_	_
+22	in	_	ADP	APPR	_	28	MO	_	_
+23	unserem	_	PRON	PPOSAT	_	24	NK	_	_
+24	Klima	_	NOUN	NN	_	22	NK	_	_
+25	sehr	_	ADV	ADV	_	26	MO	_	_
+26	wohl	_	ADV	ADV	_	28	MO	_	_
+27	zu	_	X	PTKZU	_	28	PM	_	_
+28	befinden	_	VERB	VVINF	_	20	OC	_	_
+29	und	_	CONJ	KON	_	20	CD	_	_
+30	dehnt	_	VERB	VVFIN	_	29	CJ	_	_
+31	seine	_	PRON	PPOSAT	_	32	NK	_	_
+32	Kolonien	_	NOUN	NN	_	30	OA	_	_
+33	von	_	ADP	APPR	_	30	MO	_	_
+34	Jahr	_	NOUN	NN	_	33	NK	_	_
+35	zu	_	ADP	APPR	_	34	MNR	_	_
+36	Jahr	_	NOUN	NN	_	35	NK	_	_
+37	immer	_	ADV	ADV	_	38	MO	_	_
+38	weiter	_	ADV	ADV	_	30	MO	_	_
+39	aus	_	VERB	PTKVZ	_	30	SVP	_	_
+40	.	_	PUNCT	$.	_	12	PUNCT	_	_
+

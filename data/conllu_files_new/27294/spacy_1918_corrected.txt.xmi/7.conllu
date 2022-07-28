@@ -1,0 +1,24 @@
+# sent_id = 83
+# text = Die Reichs-Gewerbeordnung ermögliche dies, da sie keinerlei Befähigungsnachweis,  nicht einmal Erlaubnis der Behörde vor Ausübung des Berufs verlange.
+1	Die	_	DET	ART	_	2	NK	_	_
+2	Reichs-Gewerbeordnung	_	NOUN	NN	_	3	SB	_	_
+3	ermögliche	_	VERB	VVFIN	_	0	--	_	_
+4	dies	_	PRON	PDS	_	3	OA	_	_
+5	,	_	PUNCT	$,	_	3	PUNCT	_	_
+6	da	_	CONJ	KOUS	_	20	CP	_	_
+7	sie	_	PRON	PPER	_	20	SB	_	_
+8	keinerlei	_	PRON	PIAT	_	9	NK	_	_
+9	Befähigungsnachweis	_	NOUN	NN	_	20	OA	_	_
+10	,	_	PUNCT	$,	_	9	PUNCT	_	_
+11	nicht	_	X	PTKNEG	_	13	NG	_	_
+12	einmal	_	ADV	ADV	_	11	MO	_	_
+13	Erlaubnis	_	NOUN	NN	_	20	OA	_	_
+14	der	_	DET	ART	_	15	NK	_	_
+15	Behörde	_	NOUN	NN	_	13	AG	_	_
+16	vor	_	ADP	APPR	_	20	MO	_	_
+17	Ausübung	_	NOUN	NN	_	16	NK	_	_
+18	des	_	DET	ART	_	19	NK	_	_
+19	Berufs	_	NOUN	NN	_	17	AG	_	_
+20	verlange	_	VERB	VVFIN	_	3	MO	_	_
+21	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

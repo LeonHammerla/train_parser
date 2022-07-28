@@ -1,0 +1,28 @@
+# sent_id = 108
+# text = Professor Stiefelhagen fand Coleanthus vor einigen Jahren im großen Teich bei Groß-Hartmannsdorf, 495 Meter s. m. in der Nähe von Freiberg in Schlesien.
+1	Professor	_	NOUN	NN	_	3	SB	_	_
+2	Stiefelhagen	_	NOUN	NN	_	1	NK	_	_
+3	fand	_	VERB	VVFIN	_	0	--	_	_
+4	Coleanthus	_	PROPN	NE	_	3	OA	_	_
+5	vor	_	ADP	APPR	_	3	MO	_	_
+6	einigen	_	PRON	PIAT	_	7	NK	_	_
+7	Jahren	_	NOUN	NN	_	5	NK	_	_
+8	im	_	ADP	APPRART	_	3	MO	_	_
+9	großen	_	ADJ	ADJA	_	10	NK	_	_
+10	Teich	_	NOUN	NN	_	8	NK	_	_
+11	bei	_	ADP	APPR	_	10	MNR	_	_
+12	Groß-Hartmannsdorf	_	PROPN	NE	_	11	NK	_	_
+13	,	_	PUNCT	$,	_	3	PUNCT	_	_
+14	495	_	NUM	CARD	_	15	NK	_	_
+15	Meter	_	NOUN	NN	_	16	NK	_	_
+16	s.	_	NOUN	NN	_	18	MO	_	_
+17	m.	_	PROPN	NE	_	16	NK	_	_
+18	in	_	ADP	APPR	_	3	MO	_	_
+19	der	_	DET	ART	_	20	NK	_	_
+20	Nähe	_	NOUN	NN	_	18	NK	_	_
+21	von	_	ADP	APPR	_	20	PG	_	_
+22	Freiberg	_	PROPN	NE	_	21	NK	_	_
+23	in	_	ADP	APPR	_	20	MNR	_	_
+24	Schlesien	_	PROPN	NE	_	23	NK	_	_
+25	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

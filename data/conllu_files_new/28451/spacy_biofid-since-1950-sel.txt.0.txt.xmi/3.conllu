@@ -1,0 +1,23 @@
+# sent_id = 213
+# text = Der Flussregenpfeifer nutzt in Chemnitz nahezu ausschließlich Sekundärhabitate als Brutstätten und ist somit stark von der menschlichen Bautätigkeit abhängig.
+1	Der	_	DET	ART	_	2	NK	_	_
+2	Flussregenpfeifer	_	NOUN	NN	_	3	SB	_	_
+3	nutzt	_	VERB	VVFIN	_	0	--	_	_
+4	in	_	ADP	APPR	_	3	MO	_	_
+5	Chemnitz	_	PROPN	NE	_	4	NK	_	_
+6	nahezu	_	ADV	ADV	_	7	MO	_	_
+7	ausschließlich	_	ADV	ADV	_	3	MO	_	_
+8	Sekundärhabitate	_	NOUN	NN	_	3	OA	_	_
+9	als	_	ADP	APPR	_	3	MO	_	_
+10	Brutstätten	_	NOUN	NN	_	9	NK	_	_
+11	und	_	CONJ	KON	_	3	CD	_	_
+12	ist	_	VERB	VAFIN	_	11	CJ	_	_
+13	somit	_	ADV	ADV	_	19	MO	_	_
+14	stark	_	ADJ	ADJD	_	19	MO	_	_
+15	von	_	ADP	APPR	_	19	OP	_	_
+16	der	_	DET	ART	_	18	NK	_	_
+17	menschlichen	_	ADJ	ADJA	_	18	NK	_	_
+18	Bautätigkeit	_	NOUN	NN	_	15	NK	_	_
+19	abhängig	_	ADJ	ADJD	_	12	PD	_	_
+20	.	_	PUNCT	$.	_	3	PUNCT	_	_
+

@@ -1,0 +1,20 @@
+# sent_id = 5
+# text = The first was that the Bill does not give law enforcement the powers that it needs.
+1	The	_	DET	DT	_	2	det	_	_
+2	first	_	ADJ	JJ	_	3	nsubj	_	_
+3	was	_	VERB	VBD	_	0	root	_	_
+4	that	_	ADP	IN	_	9	mark	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	Bill	_	PROPN	NNP	_	9	nsubj	_	_
+7	does	_	VERB	VBZ	_	9	aux	_	_
+8	not	_	ADV	RB	_	9	advmod	_	_
+9	give	_	VERB	VB	_	3	ccomp	_	_
+10	law	_	NOUN	NN	_	11	compound	_	_
+11	enforcement	_	NOUN	NN	_	9	iobj	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	powers	_	NOUN	NNS	_	9	obj	_	_
+14	that	_	DET	WDT	_	16	obj	_	_
+15	it	_	PRON	PRP	_	16	nsubj	_	_
+16	needs	_	VERB	VBZ	_	13	acl:relcl	_	_
+17	.	_	PUNCT	.	_	3	punct	_	_
+

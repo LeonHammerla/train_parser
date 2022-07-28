@@ -1,0 +1,20 @@
+# sent_id = 64
+# text = Wenn es um die Zukunftsfragen unseres Landes geht, dann führt kein Weg am Handwerk vorbei.
+1	Wenn	_	CONJ	KOUS	_	8	CP	_	_
+2	es	_	PRON	PPER	_	8	EP	_	_
+3	um	_	ADP	APPR	_	8	OP	_	_
+4	die	_	DET	ART	_	5	NK	_	_
+5	Zukunftsfragen	_	NOUN	NN	_	3	NK	_	_
+6	unseres	_	PRON	PPOSAT	_	7	NK	_	_
+7	Landes	_	NOUN	NN	_	5	AG	_	_
+8	geht	_	VERB	VVFIN	_	10	RE	_	_
+9	,	_	PUNCT	$,	_	10	PUNCT	_	_
+10	dann	_	ADV	ADV	_	11	MO	_	_
+11	führt	_	VERB	VVFIN	_	0	--	_	_
+12	kein	_	PRON	PIAT	_	13	NK	_	_
+13	Weg	_	NOUN	NN	_	11	SB	_	_
+14	am	_	ADP	APPRART	_	11	OP	_	_
+15	Handwerk	_	NOUN	NN	_	14	NK	_	_
+16	vorbei	_	VERB	PTKVZ	_	11	SVP	_	_
+17	.	_	PUNCT	$.	_	11	PUNCT	_	_
+
