@@ -1,1 +1,9 @@
+
+/utility/convert_embeddings.py
+/utility/make_ini_file.py
+/utility/make_universal_dataset.py
+/utility/merge_conllu.py
+/utility/to_conll.py
+/utility/to_sdp.py
+/utility/convert.sh
 /.idea/
