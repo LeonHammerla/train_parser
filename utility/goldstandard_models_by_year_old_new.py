@@ -128,7 +128,12 @@ def dir_wise_stats(dir_id: str) -> Dict[str, Dict[str, Dict[str, Dict[str, float
     return file_wise_results
 
 
-def new_stats():
+def new_stats(pretty_print: bool = True):
+    """
+    stats function...
+    :param pretty_print:
+    :return:
+    """
     new_stat = dict()
     dirs = ["27294", "27329", "27624", "28451"]
 
@@ -180,17 +185,18 @@ def new_stats():
 
     dir_stats["total"] = total
 
-    for di in dir_stats:
-        print("-" * 300)
-        print(f"Corpus: {di}")
-        print("-" * 300)
-        for age in dir_stats[di]:
-            print(f"{age} : ")
-            for base in dir_stats[di][age]:
-                print(f"\t{base} : ")
-                for parsername in dir_stats[di][age][base]:
-                    print(f"\t\t{parsername} : ")
-                    print(f"\t\t\t{dir_stats[di][age][base][parsername]}")
+    if pretty_print:
+        for di in dir_stats:
+            print("-" * 300)
+            print(f"Corpus: {di}")
+            print("-" * 300)
+            for age in dir_stats[di]:
+                print(f"{age} : ")
+                for base in dir_stats[di][age]:
+                    print(f"\t{base} : ")
+                    for parsername in dir_stats[di][age][base]:
+                        print(f"\t\t{parsername} : ")
+                        print(f"\t\t\t{dir_stats[di][age][base][parsername]}")
 
 
 
