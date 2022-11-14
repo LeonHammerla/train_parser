@@ -1,5 +1,6 @@
+import copy
 import os
-from typing import Dict, Tuple
+from typing import Dict, Tuple, List
 
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 PARTITIONING = {"27294": {"spacy_1895_corrected.txt.xmi": "old",
@@ -62,6 +63,24 @@ def load_dict_from_string(dict_str: str) -> Dict[str, float]:
     return res_dict
 
 
+def combine_dict_list(dict_list: List[Dict[str, float]]) -> Dict[str, float]:
+    """
+    Combining dicts of form {'UCM': 0, 'LCM': 0, 'UAS': 0, 'LAS': 0}.
+    :param dict_list:
+    :return:
+    """
+    final_dict = {'UCM': 0, 'LCM': 0, 'UAS': 0, 'LAS': 0}
+    length = len(dict_list)
+    for dic in dict_list:
+        for measure in dic:
+            final_dict[measure] += dic[measure]
+
+    for measure in final_dict:
+        final_dict[measure] = final_dict[measure] / length
+
+    return final_dict
+
+
 def file_wise_stats(file_res: str) -> Tuple[str, Dict[str, Dict[str, Dict[str, float]]]]:
     """
     Function for returning results.
@@ -87,7 +106,16 @@ def file_wise_stats(file_res: str) -> Tuple[str, Dict[str, Dict[str, Dict[str, f
     return file_name, results
 
 
-def dir_wise_stats(dir_id: str):
+def dir_wise_stats(dir_id: str) -> Dict[str, Dict[str, Dict[str, Dict[str, float]]]]:
+    """
+    Function for getting dir_wise stats from txt files.
+    Result is a dict with filename as keys and value is another dict with doc/sent-base as key and another dict
+    as value with parser type as key and another dict as
+    value with the stats.
+    BSP: {'spacy_bucket5_corrected.txt.xmi': {'doc-base': {'biaffine_dep_de_tiger': {'UCM': 26.32, 'LCM': 21.05, 'UAS': 91.54, 'LAS': 89.05}, ...
+    :param dir_id:
+    :return:
+    """
     file_wise_results = dict()
     with open(os.path.join(ROOT_DIR, "data", "eval_results_new", f"{dir_id}_results.txt"), "r") as f:
         content = "".join(f.readlines()[2:])
@@ -99,10 +127,66 @@ def dir_wise_stats(dir_id: str):
             file_wise_results[file_name] = results
     return file_wise_results
 
-def
-if __name__ == "__main__":
+
+def new_stats():
+    new_stat = dict()
     dirs = ["27294", "27329", "27624", "28451"]
-    x = dir_wise_stats(dirs[0])
-    print(x)
+
+    # loading stats:
+    for d in dirs:
+        new_stat[d] = dir_wise_stats(d)
+
+    # dir-wise-stats:
+    dir_stats = {"27294": {"old": {"doc-base": dict(), "sent-base": dict()},
+                           "new": {"doc-base": dict(), "sent-base": dict()},
+                           "unknown": {"doc-base": dict(), "sent-base": dict()}},
+                 "27329": {"old": {"doc-base": dict(), "sent-base": dict()},
+                           "new": {"doc-base": dict(), "sent-base": dict()},
+                           "unknown": {"doc-base": dict(), "sent-base": dict()}},
+                 "27624": {"old": {"doc-base": dict(), "sent-base": dict()},
+                           "new": {"doc-base": dict(), "sent-base": dict()},
+                           "unknown": {"doc-base": dict(), "sent-base": dict()}},
+                 "28451": {"old": {"doc-base": dict(), "sent-base": dict()},
+                           "new": {"doc-base": dict(), "sent-base": dict()},
+                           "unknown": {"doc-base": dict(), "sent-base": dict()}}
+                 }
+    for d in dirs:
+        for filename in new_stat[d]:
+            for base in new_stat[d][filename]:
+                for parsername in new_stat[d][filename][base]:
+                    if parsername not in dir_stats[d][PARTITIONING[d][filename]][base]:
+                        dir_stats[d][PARTITIONING[d][filename]][base][parsername] = [ new_stat[d][filename][base][parsername] ]
+                    else:
+                        dir_stats[d][PARTITIONING[d][filename]][base][parsername].append(new_stat[d][filename][base][parsername])
+
+    total = {"old": {"doc-base": dict(), "sent-base": dict()},
+             "new": {"doc-base": dict(), "sent-base": dict()},
+             "unknown": {"doc-base": dict(), "sent-base": dict()}}
+
+    for d in dirs:
+        for age in dir_stats[d]:
+            for base in dir_stats[d][age]:
+                for parsername in dir_stats[d][age][base]:
+                    dir_stats[d][age][base][parsername] = combine_dict_list(dir_stats[d][age][base][parsername])
+                    if parsername not in total[age][base]:
+                        total[age][base][parsername] = [ copy.copy(dir_stats[d][age][base][parsername]) ]
+                    else:
+                        total[age][base][parsername].append(copy.copy(dir_stats[d][age][base][parsername]))
+
+    for age in total:
+        for base in total[age]:
+            for parsername in total[age][base]:
+                total[age][base][parsername] = combine_dict_list(total[age][base][parsername])
+
+    dir_stats["total"] = total
+
+    for di in dir_stats:
+        print(dir, dir_stats[di])
+
+
+
+
+if __name__ == "__main__":
+    new_stats()
 
 
