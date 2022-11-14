@@ -181,7 +181,16 @@ def new_stats():
     dir_stats["total"] = total
 
     for di in dir_stats:
-        print(dir, dir_stats[di])
+        print("-" * 300)
+        print(f"Corpus: {di}")
+        print("-" * 300)
+        for age in dir_stats[di]:
+            print(f"{age} : ")
+            for base in dir_stats[di][age]:
+                print(f"\t{base} : ")
+                for parsername in dir_stats[di][age][base]:
+                    print(f"\t\t{parsername} : ")
+                    print(f"\t\t\t{dir_stats[di][age][base][parsername]}")
 
 
 
