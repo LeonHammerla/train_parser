@@ -1,0 +1,337 @@
+====================================================================================================
+DIR: 27329
+====================================================================================================
+
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1803.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 10.00% LCM:  0.00% UAS: 85.41% LAS: 82.38%
+
+Sentence-Based: 
+UCM: 10.00% LCM:  0.00% UAS: 84.17% LAS: 81.71%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1820.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 40.00% LCM: 30.00% UAS: 91.92% LAS: 89.56%
+
+Sentence-Based: 
+UCM: 40.00% LCM: 30.00% UAS: 93.75% LAS: 91.91%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1840.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 25.00% LCM: 25.00% UAS: 92.31% LAS: 91.09%
+
+Sentence-Based: 
+UCM: 25.00% LCM: 25.00% UAS: 93.42% LAS: 91.73%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1860.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 22.22% LCM: 22.22% UAS: 85.34% LAS: 81.23%
+
+Sentence-Based: 
+UCM: 22.22% LCM: 22.22% UAS: 87.55% LAS: 83.93%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1880.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM:  0.00% LCM:  0.00% UAS: 90.78% LAS: 88.27%
+
+Sentence-Based: 
+UCM:  0.00% LCM:  0.00% UAS: 91.23% LAS: 88.27%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1900.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 30.00% LCM: 30.00% UAS: 90.12% LAS: 87.50%
+
+Sentence-Based: 
+UCM: 30.00% LCM: 30.00% UAS: 91.30% LAS: 89.39%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1920.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 10.00% LCM: 10.00% UAS: 88.10% LAS: 84.99%
+
+Sentence-Based: 
+UCM: 10.00% LCM: 10.00% UAS: 88.17% LAS: 84.98%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1940.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 30.00% LCM: 20.00% UAS: 95.52% LAS: 93.53%
+
+Sentence-Based: 
+UCM: 30.00% LCM: 20.00% UAS: 95.45% LAS: 93.47%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1960.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 54.55% LCM: 36.36% UAS: 92.03% LAS: 88.41%
+
+Sentence-Based: 
+UCM: 54.55% LCM: 36.36% UAS: 95.46% LAS: 91.29%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/1980.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 50.00% LCM: 25.00% UAS: 95.17% LAS: 91.30%
+
+Sentence-Based: 
+UCM: 50.00% LCM: 25.00% UAS: 97.12% LAS: 93.37%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27329/2000.csv.extracted_tool_StepsParser_model_en_basic_xlmr.xmi.conllu
+
+Document-Based: 
+UCM: 11.11% LCM: 11.11% UAS: 80.10% LAS: 76.12%
+
+Sentence-Based: 
+UCM: 11.11% LCM: 11.11% UAS: 82.35% LAS: 78.58%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: old
+
+Document-Based: 
+UCM: 19.60% LCM: 16.75% UAS: 89.14% LAS: 86.43%
+
+Sentence-Based: 
+UCM: 19.60% LCM: 16.75% UAS: 89.94% LAS: 87.42%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: new
+
+Document-Based: 
+UCM: 36.41% LCM: 23.12% UAS: 90.71% LAS: 87.34%
+
+Sentence-Based: 
+UCM: 36.41% LCM: 23.12% UAS: 92.60% LAS: 89.18%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: unknown
+
+Document-Based: 
+UCM:  0.00% LCM:  0.00% UAS:  0.00% LAS:  0.00%
+
+Sentence-Based: 
+UCM:  0.00% LCM:  0.00% UAS:  0.00% LAS:  0.00%
+--------------------------------------------------
+
+
+====================================================================================================
+DIR: 27624
+====================================================================================================
+
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_1895_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 17.65% LCM:  5.88% UAS: 90.57% LAS: 83.99%
+
+Sentence-Based: 
+UCM: 17.65% LCM:  5.88% UAS: 89.76% LAS: 83.62%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_1918_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 47.06% LCM: 23.53% UAS: 91.24% LAS: 85.26%
+
+Sentence-Based: 
+UCM: 47.06% LCM: 23.53% UAS: 93.51% LAS: 87.49%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_1933_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 35.29% LCM: 11.76% UAS: 91.90% LAS: 87.73%
+
+Sentence-Based: 
+UCM: 35.29% LCM: 11.76% UAS: 92.08% LAS: 87.74%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_1942_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 26.67% LCM: 13.33% UAS: 89.29% LAS: 84.05%
+
+Sentence-Based: 
+UCM: 26.67% LCM: 13.33% UAS: 92.24% LAS: 87.29%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_bucket1_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 36.84% LCM: 10.53% UAS: 92.14% LAS: 86.09%
+
+Sentence-Based: 
+UCM: 36.84% LCM: 10.53% UAS: 93.05% LAS: 87.11%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_bucket5_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 47.37% LCM: 10.53% UAS: 91.21% LAS: 85.93%
+
+Sentence-Based: 
+UCM: 47.37% LCM: 10.53% UAS: 92.25% LAS: 86.71%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_bucket10_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 35.29% LCM: 23.53% UAS: 89.78% LAS: 84.41%
+
+Sentence-Based: 
+UCM: 35.29% LCM: 23.53% UAS: 92.01% LAS: 87.12%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_bucket15_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 20.00% LCM: 10.00% UAS: 89.55% LAS: 84.22%
+
+Sentence-Based: 
+UCM: 20.00% LCM: 10.00% UAS: 90.56% LAS: 85.71%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Filename: /home/leon/work/train_parser/data/conllu_files_new/27624/spacy_bucket19_corrected.txt.xmi.conllu
+
+Document-Based: 
+UCM: 33.33% LCM: 11.11% UAS: 92.70% LAS: 86.28%
+
+Sentence-Based: 
+UCM: 33.33% LCM: 11.11% UAS: 93.27% LAS: 87.24%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: old
+
+Document-Based: 
+UCM: 32.36% LCM: 14.71% UAS: 90.90% LAS: 84.62%
+
+Sentence-Based: 
+UCM: 32.36% LCM: 14.71% UAS: 91.63% LAS: 85.56%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: new
+
+Document-Based: 
+UCM: 30.98% LCM: 12.55% UAS: 90.60% LAS: 85.89%
+
+Sentence-Based: 
+UCM: 30.98% LCM: 12.55% UAS: 92.16% LAS: 87.51%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: unknown
+
+Document-Based: 
+UCM: 34.57% LCM: 13.14% UAS: 91.08% LAS: 85.39%
+
+Sentence-Based: 
+UCM: 34.57% LCM: 13.14% UAS: 92.23% LAS: 86.78%
+--------------------------------------------------
+
+
+====================================================================================================
+TOTAL:
+====================================================================================================
+
+
+
+--------------------------------------------------
+AGE: old
+
+Document-Based: 
+UCM: 22.44% LCM: 16.29% UAS: 89.53% LAS: 86.03%
+
+Sentence-Based: 
+UCM: 22.44% LCM: 16.29% UAS: 90.32% LAS: 87.00%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: new
+
+Document-Based: 
+UCM: 34.60% LCM: 19.59% UAS: 90.67% LAS: 86.86%
+
+Sentence-Based: 
+UCM: 34.60% LCM: 19.59% UAS: 92.45% LAS: 88.62%
+--------------------------------------------------
+
+
+--------------------------------------------------
+AGE: unknown
+
+Document-Based: 
+UCM: 34.57% LCM: 13.14% UAS: 91.08% LAS: 85.39%
+
+Sentence-Based: 
+UCM: 34.57% LCM: 13.14% UAS: 92.23% LAS: 86.78%
+--------------------------------------------------
+
+

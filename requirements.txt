@@ -1,5 +1,5 @@
 semstr
-
+pandas
 bs4
 requests
 urllib3
@@ -8,7 +8,7 @@ tqdm
 textract
 xmi-reader
 dkpro-cassis
-
+stanfordnlp
 certifi==2021.10.8
 pdf2image==1.16.0
 Pillow==8.4.0
@@ -18,3 +18,4 @@ torch
 spacy
 psutil
 gputil
+conllu

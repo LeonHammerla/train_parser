@@ -48,8 +48,7 @@
 14	.	_	_	_	_	3	punct	_	_
 
 # sent_id = 130
-# text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str.
-Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;  Hamburg,  Moltkestr.
+# text = Hauptschriftleiter des "Völkischer Beobachter", Leiter des Reichsverbandes Berg,  Kufsteiner Str. Petersen,  Arnold;  Kreisleiter,  Malermeister,  Präsident der Gewerbekammer Hamburg;  Hamburg,  Moltkestr.
 1	Hauptschriftleiter	_	_	_	_	0	root	_	_
 2	des	_	_	_	_	5	det	_	_
 3	"	_	_	_	_	5	punct	_	_

@@ -199,8 +199,6 @@ def new_stats(pretty_print: bool = True):
                         print(f"\t\t\t{dir_stats[di][age][base][parsername]}")
 
 
-
-
 if __name__ == "__main__":
     new_stats()
 
