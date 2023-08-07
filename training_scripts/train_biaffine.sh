@@ -14,4 +14,3 @@
 /path/to/python3 -m supar.cmds.biaffine_dep train --train /path/to/en_gum-ud-train.conllu --dev /path/to/en_gum-ud-dev.conllu --test /path/to/en_gum-ud-test.conllu --embed /path/to/embeddings/glove.6B.100d.txt --n-embed 100 -b -d 0 -p /path/to/models/biaffine_dep_de_gum -f char -c /path/to/configs/ptb.biaffine.dep.lstm.char.ini
 
 
-/path/to/
